@@ -1,0 +1,16 @@
+200 OK
+Content-Type: text/html
+X-Xss-Protection: 1;mode=block
+X-Cache: CONFIG_NOCACHE
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: DENY
+X-Azure-Ref: 0URrtZQAAAACJ+6LdMg1IRZok3lGqOERJU0pDMjExMDUxMjAyMDIxADgxYTQ4ZmNjLWYwNzItNDU2Yi04MDY0LTQ4ZTBmZWVhOWZiYw==
+Retry-Count: 0
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+Date: Sun, 10 Mar 2024 02:26:25 GMT
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=www.orkid.com.tr ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.orkid.com.tr
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Wed, 06 Mar 2024 13:31:14 GMT
+Etag: "07d5a8fca6fda1:0"
+Vary: Accept-Encoding

@@ -1,0 +1,32 @@
+200 OK
+X-Request-Id: a6aa27cf-f0a0-4c07-8e98-3f4cdc61c29c-1710037537
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=7889238
+Powered-By: Shopify
+X-Permitted-Cross-Domain-Policies: none
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pIb%2B2lhWepn9ox3tGc%2BLGRS8smNAL3QfMq6GhcVNSRL6tw%2Few7HutbSmYXxiOqH5kX8KVUuqDrY3Q%2FZTxL5oZhcpUinnh%2FNZoXfzt0dAVZSCyv3%2FXJ%2B5bPFD72RaXCJeh025J8pGInv9cFlP3ygL"}],"group":"cf-nel","max_age":604800}
+Etag: "cacheable:e2f3a386f0ddf6b99ff2c219d01d4ddd"
+Set-Cookie: secure_customer_sig=; path=/; expires=Mon, 10 Mar 2025 02:25:38 GMT; secure; HttpOnly; SameSite=Lax localization=US; path=/; expires=Mon, 10 Mar 2025 02:25:38 GMT _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=nativecos.com; path=/; expires=Mon, 11 Mar 2024 02:25:38 GMT; SameSite=Lax _tracking_consent=%7B%22reg%22%3A%22CCPA%22%2C%22v%22%3A%222.1%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22region%22%3A%22USCA%22%7D; Expires=Mon, 10-Mar-25 02:25:38 GMT; Domain=nativecos.com; Path=/; SameSite=Lax _shopify_y=20947e85-f378-44e9-81d2-338691a6ebe5; Expires=Mon, 10-Mar-25 02:25:38 GMT; Domain=nativecos.com; Path=/; SameSite=Lax _shopify_s=a3c5302b-cf0e-4dbb-b3c2-dffc02f19bf0; Expires=Sun, 10-Mar-24 02:55:38 GMT; Domain=nativecos.com; Path=/; SameSite=Lax _orig_referrer=http%3A%2F%2Fnativecos.com; Expires=Sun, 24-Mar-24 02:25:38 GMT; Domain=nativecos.com; Path=/; HttpOnly; SameSite=Lax _landing_page=%2F; Expires=Sun, 24-Mar-24 02:25:38 GMT; Domain=nativecos.com; Path=/; HttpOnly; SameSite=Lax
+X-Shardid: 173
+Server-Timing: processing;dur=24;desc="gc:1", db;dur=12, asn;desc="14061", edge;desc="SJC", country;desc="US", theme;desc="134715703470", pageType;desc="index", servedBy;desc="p9tj", requestID;desc="a6aa27cf-f0a0-4c07-8e98-3f4cdc61c29c-1710037537" cfRequestDuration;dur=113.000154 ipv6
+X-Shopify-Stage: production
+X-Content-Type-Options: nosniff
+X-Sorting-Hat-Podid: 173
+X-Sorting-Hat-Shopid: 13619483
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Dc: gcp-us-west2,gcp-us-central1,gcp-us-central1
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Cf-Ray: 861fdaf478d7645e-SJC
+Alt-Svc: h3=":443"; ma=86400
+Date: Sun, 10 Mar 2024 02:25:38 GMT
+X-Shopid: 13619483
+Content-Language: en
+X-Download-Options: noopen
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+X-Cache: hit, server
+X-Frame-Options: DENY
+X-Storefront-Renderer-Rendered: 1
+X-Xss-Protection: 1; mode=block

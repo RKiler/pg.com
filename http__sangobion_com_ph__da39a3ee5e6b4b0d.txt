@@ -1,0 +1,19 @@
+200 OK
+Last-Modified: Tue, 05 Mar 2024 15:13:38 GMT
+Accept-Ranges: bytes
+X-Frame-Options: DENY
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html
+Retry-Count: 0
+Permissions-Policy: accelerometer=(), camera=(self), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+X-Azure-Ref: 0jBrtZQAAAAAEDUUj0/mPQYrUGEJJz9cSU0pDMjExMDUxMjAyMDE3ADNjMjFlYjVhLWFmMTAtNGI5MS1hYTA2LWI4NDE3NmRlZDI2NA==
+Date: Sun, 10 Mar 2024 02:27:24 GMT
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=352c79ea8996277dc997f6581834cb9cbe7478570edb7a7a3951f136602193a6;Path=/;HttpOnly;Secure;Domain=sangobion.com.ph ARRAffinitySameSite=352c79ea8996277dc997f6581834cb9cbe7478570edb7a7a3951f136602193a6;Path=/;HttpOnly;SameSite=None;Secure;Domain=sangobion.com.ph
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Xss-Protection: 1;mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: www.googletagmanager.com cdn.cookielaw.org www.google-analytics.com pghub.io feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; font-src 'self' data: feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' feed.pghub.io consumersupport.pg.com pgamaanemiameter.jebbit.com pandg.tapad.com ; img-src 'self' data: images.ctfassets.net cdn.cookielaw.org pixel.tapad.com www.google-analytics.com feed.pghub.io pandg.tapad.com ; connect-src 'self' cdn.cookielaw.org *.google-analytics.com www.google-analytics.com *.algolia.net *.algolianet.com feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+X-Cache: CONFIG_NOCACHE

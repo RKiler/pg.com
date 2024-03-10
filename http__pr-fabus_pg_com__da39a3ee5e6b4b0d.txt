@@ -1,0 +1,23 @@
+200 OK
+Etag: W/"4b0-18905ab1b18"
+Last-Modified: Thu, 29 Jun 2023 05:40:47 GMT
+X-Dns-Prefetch-Control: off
+Surrogate-Control: no-store
+Date: Sun, 10 Mar 2024 02:27:19 GMT
+Content-Length: 1200
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+Expect-Ct: max-age=0
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Expires: 0
+Set-Cookie: ARRAffinity=ca16f7bb90309b4c0a0a51e74f0cf105f63d61762db437c26d3696c6f9fa42c7;Path=/;HttpOnly;Secure;Domain=pr-fabus.pg.com ARRAffinitySameSite=ca16f7bb90309b4c0a0a51e74f0cf105f63d61762db437c26d3696c6f9fa42c7;Path=/;HttpOnly;SameSite=None;Secure;Domain=pr-fabus.pg.com
+Vary: Origin
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Xss-Protection: 0
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: no-referrer
+Retry-Count: 0

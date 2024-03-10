@@ -1,0 +1,13 @@
+200 OK
+Powered-By: Shopify, Oxygen, Hydrogen
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+X-Request-Id: o2-b250b3f2-4610-4cc0-bb36-15ad3a045d6a.861fd82d7cbbce44
+Vary: Accept-Encoding
+Cf-Ray: 861fd82d7cbbce44-SJC
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:23:44 GMT
+Content-Type: text/html
+Set-Cookie: session=e30%3D.HFZt6dLbrnC4vJrheOdOL4lG2loo6bPy7F8RAOW1Kvs; Path=/; HttpOnly; SameSite=Lax __cf_bm=e1bsiXP7c6prialYDmEdSMs2oAH5aL20JG0tFQ8fqsA-1710037424-1.0.1.1-7opEouu5FztwvIwldwi5NCPzczdL6MxWLRjDf.NGC.t3uf60XsTk1Hk.F3mfl9eOlm7RTUDLNiB808vGnye9rw; path=/; expires=Sun, 10-Mar-24 02:53:44 GMT; domain=.www.tula.com; HttpOnly; Secure; SameSite=None
+X-Shopid: 17369637
+Oxygen-Full-Page-Cache: uncacheable

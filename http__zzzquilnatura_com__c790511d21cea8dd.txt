@@ -1,0 +1,19 @@
+200 OK
+Strict-Transport-Security: max-age=15724800; includeSubdomains
+X-Xss-Protection: 1;mode=block
+X-Permitted-Cross-Domain-Policies: none
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cdn.cookielaw.org www.google-analytics.com www.google-analytics.com pghub.io feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; font-src 'self' data: fonts.gstatic.com feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' feed.pghub.io consumersupport.pg.com pandg.tapad.com ; img-src 'self' data: images.ctfassets.net pixel.tapad.com cdn.cookielaw.org feed.pghub.io pandg.tapad.com ; connect-src 'self' cdn.cookielaw.org *.google-analytics.com *.contentful.com privacytermsprod.azureedge.net feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 02xntZQAAAAD7TcUgSF9JQK/PWAYYDJwxU0pDMjExMDUxMjAxMDQ5ADJmZWYzODViLWNlZjQtNDBmMy1hMTJiLWY1MDEwMGEyZmQ2ZA==
+Cache-Control: public, max-age=31536000
+Last-Modified: Mon, 04 Mar 2024 07:52:04 GMT
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Referrer-Policy: strict-origin-when-cross-origin
+Pragma: no-cache
+Retry-Count: 0
+Vary: Accept-Encoding
+Date: Sun, 10 Mar 2024 02:24:27 GMT
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+X-Frame-Options: DENY

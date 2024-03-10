@@ -1,0 +1,22 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:28:21 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Frame-Options: deny
+Bc-Ray: 1
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2e1NO0j1VoRqWzInJ7ULTFeoeD1BhYYzb5cyih1k0q6m9stc31aShBl%2FouPb6lGtKaoLJyRnx8XVvDvgQOn3lwM54bWQu6ktdDXSyIpVbs0mDJc4fJEdmV614fYB"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: fornax_anonymousId=ed8535f1-fb8c-4af2-801d-80d731ae680f; Expires=Tue, 10 Mar 2026 02:28:20 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=6039a440-749d-49b8-b92e-b33c520df1ef:1710037700; Expires=Sun, 10 Mar 2024 02:58:20 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=87CA54B480240F9E9448EFCF0A957598E880274F-1710642501235-x%7B%22cur%22%3A%22HKD%22%7D; Expires=Sun, 17 Mar 2024 02:28:21 GMT; Path=/; HttpOnly XSRF-TOKEN=53f7355beabd7e675dac515479f2b869ac7ed7711a783f817203821190e1ad94; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=ae0c8fcc-ac2c-45b6-856c-e25b5e36c823; Expires=Sun, 17 Mar 2024 02:28:21 GMT; Path=/; Secure; HttpOnly; SameSite=None
+X-Request-Id: 14fdd3b2c3b7b3e050cc55ee11466164
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fdee90ea8f9f5-SJC
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=0
+Link: <https://cdn11.bigcommerce.com/s-f8et57gva1>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-f8et57gva1/stencil/2205c2b0-b1c4-013c-302b-0e53b288a7e8/e/8c843e20-7f9e-013c-e928-36ea3ae6b30b/dist/theme-bundle.head_async.js>; rel=preload; as=script, <https://fonts.googleapis.com/css?family=Montserrat:700,500%7CMicrosoft%20JhengHei:400&display=block>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-f8et57gva1/stencil/2205c2b0-b1c4-013c-302b-0e53b288a7e8/e/8c843e20-7f9e-013c-e928-36ea3ae6b30b/dist/theme-bundle.font.js>; rel=preload; as=script, <https://cdn11.bigcommerce.com/s-f8et57gva1/stencil/2205c2b0-b1c4-013c-302b-0e53b288a7e8/e/8c843e20-7f9e-013c-e928-36ea3ae6b30b/css/theme-da0b6160-b6a5-013c-0e59-5e0d088f8eef.css>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-f8et57gva1/stencil/2205c2b0-b1c4-013c-302b-0e53b288a7e8/e/8c843e20-7f9e-013c-e928-36ea3ae6b30b/dist/theme-bundle.main.js>; rel=preload; as=script
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Alt-Svc: h3=":443"; ma=86400

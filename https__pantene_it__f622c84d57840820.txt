@@ -1,0 +1,15 @@
+200 OK
+Retry-Count: 0
+Last-Modified: Thu, 07 Mar 2024 08:24:28 GMT
+Set-Cookie: ARRAffinity=0ff46fa6d58b00f2d44b7073721903c0eace480139d8ecfc38f61130af5e1587;Path=/;HttpOnly;Secure;Domain=pantene.it ARRAffinitySameSite=0ff46fa6d58b00f2d44b7073721903c0eace480139d8ecfc38f61130af5e1587;Path=/;HttpOnly;SameSite=None;Secure;Domain=pantene.it
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: base-uri 'self' feed.pghub.io pandg.tapad.com ; font-src 'self' https: data: feed.pghub.io pandg.tapad.com ; frame-src 'self' https://feed.pghub.io https://www.youtube.com https://www.youtube-nocookie.com https://consumersupport.pg.com https://*.google.com www.google-analytics.com https://*.pricespider.com feed.pghub.io pandg.tapad.com ; img-src 'self' data: https://cdn.cookielaw.org https://*.mapbox.com https://*.bazaarvoice.com https://www.google.com images.ctfassets.net pixel.tapad.com www.googletagmanager.com www.google-analytics.com https://*.pricespider.com https://www.mapbox.com feed.pghub.io pandg.tapad.com ; object-src 'none' feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' https://*.pricespider.com https://*.mapbox.com feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://*.bazaarvoice.com https://*.segment.com https://*.mapbox.com https://*.pricespider.com https://*.thcdn.com https://*.thehut.net https://rum-static.pingdom.net https://*.liveperson.net https://*.lpsnmedia.net https://*.doubleclick.net https://static.cdn-apple.com https://*.liveperson.com https://geolocation.onetrust.com https://cdn.cookielaw.org https://code.jquery.com https://www.googletagmanager.com https://cdnjs.cloudflare.com https://www.youtube.com https://www.google-analytics.com https://*.google.com https://connect.facebook.net https://bat.bing.com https://widget.trustpilot.com https://s.ytimg.com https://www.googletagservices.com https://*.googleapis.com https://ssl.trustpilot.com https://www.facebook.com https://www.googleadservices.com https://www.gstatic.com https://www.dwin1.com https://cdn.trackjs.com https://seal.digicert.com https://remote.captcha.com https://*.recaptcha.net https://*.criteo.com https://static.criteo.net https://*.sciencebehindecommerce.com https://*.akamaihd.net https://*.microsofttranslator.com https://google.com https://*.trustpilot.com https://*.translate.naver.net https://*.pinimg.com https://ct.pinterest.com https://*.google-analytics.com https://sc-static.net https://*.google.co.uk https://google.co.uk https://js.adsrvr.org https://d.impactradius-event.com https://static.ads-twitter.com https://analytics.twitter.com https://pghub.io https://analytics.tiktok.com https://*.ibytedtos.com https://*.contentsquare.net https://app.contentsquare.com feed.pghub.io pandg.tapad.com ; upgrade-insecure-requests  ; worker-src 'self' blob: feed.pghub.io pandg.tapad.com ;
+Date: Sun, 10 Mar 2024 02:28:47 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Etag: "086efde6870da1:0"
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+Content-Type: text/html
+Accept-Ranges: bytes
+X-Frame-Options: DENY

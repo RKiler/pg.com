@@ -1,0 +1,23 @@
+200 OK
+Link: <https://cdn11.bigcommerce.com/s-3jnc7mz2z7>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/css?family=Montserrat:700,500,400%7CKarla:400&display=swap>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-3jnc7mz2z7/stencil/aa6d7ac0-bdf0-013c-a91b-166b72aebcd1/e/3a3ecb40-32c5-013c-d7b2-1a88d6114516/css/theme-4aad6fa0-bfc3-013c-9989-3640b0302ea3.css>; rel=preload; as=style
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Security-Policy: script-src frame-src image-src connect-src *.abtasty.com cdn.jsdelivr.net www.chablivoy.com www.pirolane.com api.ipify.org *.yotpo.com *.maze.co pghub.io ct.pinterest.com s.pinimg.com *.ordergroove.com *.tiktok.com unpkg.com js.braintreegateway.com www.googleadservices.com lightboxapi.azurewebsites.net *.lightboxcdn.com *.adsrvr.org *.ubembed.com s.ytimg.com www.youtube.com platform-api.sharethis.com *.cookielaw.org code.jquery.com *.onetrust.com optanon.blob.core.windows.net *.paypalobjects.com *.gstatic.com *.paypal.com *.bazaarvoice.com *.iesnare.com *.ajax.googleapis.com *.google-analytics.com *.googletagmanager.com *.google.com *.bigcommerce.com *.facebook.net *.entrust.net *.getshogun.com *.agkn.com *.addthis.com *.addthisedge.com *.jquery.com *.ravenjs.com *.online-metrix.net *.amazonaws.com *.cloudflare.com *.growsumo.com *.newrelic.com *.nr-data.net *.crazyegg.com *.moatads.com *.cloudfront.net sc-static.net googleads.g.doubleclick.net *.googleapis.com *.tapad.app cdn.segment.com ec30casp-web-dev-ec30f.azurewebsites.net 'self' 'unsafe-eval' 'unsafe-inline'; worker-src blob:
+X-Frame-Options: sameorigin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=koK9CLoo4LP5Dhz9%2FP1BdMsHCIB%2B9y%2BcwuJYA7oWlkwYfYP7mu8feUzbZD7s0BlW31zcbTvwISjkLP13p9C2C9a4S2gU86xkRiUBPDmybTtcTCWovW4u2oqJa4Ygcy8%3D"}],"group":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:18:10 GMT
+Vary: Accept-Encoding
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: fornax_anonymousId=f43a48ca-0779-4639-be82-89fc2a00c975; Expires=Tue, 10 Mar 2026 02:18:10 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=0028ec95-5063-4c04-b5c6-51086751cf04:1710037090; Expires=Sun, 10 Mar 2024 02:48:10 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=D4FADA99FBFF4E3BEBA8E5FFEF0A42751F343D22-1710641890569-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:18:10 GMT; Path=/; HttpOnly XSRF-TOKEN=b97d7c231d2b6a1d853629a6e9c6f6fe4e02184120624e5b70019a467a7ce148; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=09f72eec-adc7-4f40-9079-45c14eb92a9e; Expires=Sun, 17 Mar 2024 02:18:10 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fd005fa79251c-SJC
+Alt-Svc: h3=":443"; ma=86400
+X-Content-Type-Options: nosniff
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Request-Id: 831a708f5524a5d328503bf095997a7f
+Pragma: no-cache
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}

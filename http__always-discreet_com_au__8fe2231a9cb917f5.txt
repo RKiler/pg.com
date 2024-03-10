@@ -1,0 +1,17 @@
+200 OK
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=74c9eb10b2e9067ce984448fed302dfef7eda81898745ce711a9ae356802811a;Path=/;HttpOnly;Secure;Domain=www.always-discreet.com.au
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref-Originshield: 0RRjtZQAAAABQm4m9bZSgRpQUSmJskQDEU0pDMjExMDUxMjA4MDM5AGNlNzAzNTM2LWQ0OWYtNGM1MC05NDllLTAxYzRlNDhjYzc2Mg==
+Cache-Control: max-age=0
+Retry-Count: 0
+Last-Modified: Fri, 01 Mar 2024 08:21:04 GMT
+Date: Sun, 10 Mar 2024 02:17:41 GMT
+X-Cache: TCP_MISS
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: DENY
+Content-Type: text/html
+Accept-Ranges: bytes
+Etag: "018dd66b16bda1:0"
+X-Content-Type-Options: nosniff
+X-Azure-Ref: 0RRjtZQAAAADgdsuYyW94RJOSmLlU5S8+U0pDMjExMDUxMjAxMDI1AGNlNzAzNTM2LWQ0OWYtNGM1MC05NDllLTAxYzRlNDhjYzc2Mg==

@@ -1,0 +1,17 @@
+200 OK
+Etag: "0daf26d165da1:0"
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 0CRjtZQAAAACKpx7ghMaWToVwv5QAoXHIU0pDMjExMDUxMjAxMDExAGM1ODdmMWZmLTA5MTYtNDVkNi1hMWYzLTBmZjdlOTRiY2ZmNw==
+Content-Type: text/html
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+Retry-Count: 0
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=32038e760ed2f4083e96408a7fb62d220ca5814b691edc376aedf8466a5bdfca;Path=/;HttpOnly;Secure;Domain=www.metamucil.com ARRAffinitySameSite=32038e760ed2f4083e96408a7fb62d220ca5814b691edc376aedf8466a5bdfca;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.metamucil.com
+X-Frame-Options: DENY
+Date: Sun, 10 Mar 2024 02:16:41 GMT
+Last-Modified: Thu, 22 Feb 2024 20:52:20 GMT
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+X-Cache: CONFIG_NOCACHE
+Cache-Control: no-cache, no-store, must-revalidate

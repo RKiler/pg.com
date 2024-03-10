@@ -1,0 +1,13 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:26:11 GMT
+Vary: Accept-Encoding
+Etag: "xh1osh11lxteh4"
+Set-Cookie: TiPMix=26.433787416804467; path=/; HttpOnly; Domain=www.theartofshaving.com; Max-Age=3600; Secure; SameSite=None x-ms-routing-name=self; path=/; HttpOnly; Domain=www.theartofshaving.com; Max-Age=3600; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000
+X-Nextjs-Cache: HIT
+X-Powered-By: Next.js ASP.NET
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+Cache-Control: s-maxage=60, stale-while-revalidate
+Request-Context: appId=cid-v1:b7de4de5-7a65-4e96-b8f3-1497ffbc0da1

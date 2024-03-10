@@ -1,0 +1,21 @@
+200 OK
+Set-Cookie: ARRAffinity=cf34161d1134f92611bf8d0dc2cbe0e72047765b2c8bc4391be0020dc8948870;Path=/;HttpOnly;Secure;Domain=px-pampers-parenting-diapering-zh-hk.azurewebsites.net ARRAffinitySameSite=cf34161d1134f92611bf8d0dc2cbe0e72047765b2c8bc4391be0020dc8948870;Path=/;HttpOnly;SameSite=None;Secure;Domain=px-pampers-parenting-diapering-zh-hk.azurewebsites.net ARRAffinity=cf34161d1134f92611bf8d0dc2cbe0e72047765b2c8bc4391be0020dc8948870;Path=/;HttpOnly;Secure;Domain=www.pampers.com.hk ARRAffinitySameSite=cf34161d1134f92611bf8d0dc2cbe0e72047765b2c8bc4391be0020dc8948870;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.pampers.com.hk
+X-Ua-Compatible: IE=Edge IE=Edge
+Date: Sun, 10 Mar 2024 02:24:00 GMT
+Cache-Control: max-age=31536000
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: frame-ancestors 'self' https://pge.segmanta.com https://www.babylist.com shop.pampers.com frame-ancestors 'self' https://pge.segmanta.com https://www.babylist.com shop.pampers.com
+Last-Modified: Tue, 27 Feb 2024 07:08:54 GMT
+Accept-Ranges: bytes
+Vary: Accept-Encoding,Accept-Encoding,Accept-Encoding
+X-Cache: CONFIG_NOCACHE
+X-Frame-Options: SAMEORIGIN SAMEORIGIN
+Access-Control-Allow-Methods: GET, POST, OPTIONS GET, POST, OPTIONS
+Retry-Count: 0
+Etag: "047bed24b69da1:0"
+X-Content-Type-Options: nosniff nosniff
+X-Xss-Protection: 1 1
+Access-Control-Allow-Origin: * *
+X-Powered-By: ARR/3.0
+Content-Type: text/html
+X-Azure-Ref: 0wBntZQAAAABIRSiAjqmITZoPXXyH0JDSU0pDMjExMDUxMjAyMDE5ADA4ZjA5YjRlLWVmNTEtNDdiZS1iZDVhLWIwYmZmMjEyNGQyZQ==

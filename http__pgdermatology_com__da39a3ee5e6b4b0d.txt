@@ -1,0 +1,25 @@
+200 OK
+X-Dns-Prefetch-Control: off
+Content-Length: 35756
+Retry-Count: 0
+Vary: Accept-Encoding
+Cross-Origin-Embedder-Policy: credentialless
+Cross-Origin-Opener-Policy: same-origin
+Permissions-Policy: camera=(), display-capture=(), fullscreen=(), geolocation=(), microphone=()
+Referrer-Policy: no-referrer
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Access-Control-Allow-Origin: null
+Origin-Agent-Cluster: ?1
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+Server: Google Frontend
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: nonce=NzA1MzVmZGItZjZlZC00ZGJmLWJiZDUtNGRkOTdjMjVhNjBh; Path=/; Secure; SameSite=Strict
+Date: Sun, 10 Mar 2024 02:21:50 GMT
+Content-Security-Policy: base-uri 'self'; font-src 'self' https: data:; form-action 'self'; frame-ancestors 'self'; img-src 'self' data: storage.googleapis.com/topbox-static/ storage.googleapis.com/topbox-static-dev/ *.googletagmanager.com *.google-analytics.com pixel.tapad.com *.akamaihd.net px.moatads.com cdn.cookielaw.org; object-src 'none'; style-src 'self' https: 'unsafe-inline'; script-src-attr 'none'; upgrade-insecure-requests
+Cross-Origin-Resource-Policy: same-origin
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=utf-8
+X-Cloud-Trace-Context: 47e6e35a1ff42d4ad0d83bf87eee9d34;o=1

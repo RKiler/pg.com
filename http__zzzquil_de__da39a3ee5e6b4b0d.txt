@@ -1,0 +1,19 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' *.pricespider.com *.mapbox.com feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com *.cookielaw.org *.pricespider.com pghub.io *.cloudflare.com *.mapbox.com *.bazaarvoice.com feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; media-src 'self' *.ctfassets.net feed.pghub.io pandg.tapad.com ; font-src 'self' *.ctfassets.net *.gstatic.com data: feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' *.pghub.io consumersupport.pg.com *.pricespider.com *.jebbit.com pandg.tapad.com ; img-src 'self' data: *.ctfassets.net *.tapad.com *.cookielaw.org *.pricespider.com *.bazaarvoice.com feed.pghub.io ; connect-src 'self' *.cookielaw.org *.google-analytics.com *.pricespider.com *.bazaarvoice.com *.mapbox.com *.contentful.com privacytermsprod.azureedge.net feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ; worker-src 'self' blob: feed.pghub.io pandg.tapad.com ;
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0SxntZQAAAACUvDUBh8qfSZLOOYIvGS9MU0pDMjExMDUxMjAxMDI3ADJmZWYzODViLWNlZjQtNDBmMy1hMTJiLWY1MDEwMGEyZmQ2ZA==
+Date: Sun, 10 Mar 2024 02:22:03 GMT
+Last-Modified: Mon, 04 Mar 2024 08:20:18 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Retry-Count: 0
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;Secure;Domain=zzzquil.de ARRAffinitySameSite=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;SameSite=None;Secure;Domain=zzzquil.de
+Referrer-Policy: strict-origin-when-cross-origin

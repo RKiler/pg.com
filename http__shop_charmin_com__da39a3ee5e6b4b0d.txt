@@ -1,0 +1,22 @@
+200 OK
+Retry-Count: 0
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Date: Sun, 10 Mar 2024 02:17:58 GMT
+X-Permitted-Cross-Domain-Policies: none
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Cf-Ray: 861fcfb96bfbf953-SJC
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Cf-Cache-Status: DYNAMIC
+Alt-Svc: h3=":443"; ma=86400
+X-Frame-Options: sameorigin
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=h4AuioVXoMcHuQ5bpSV668xavmObwPXpw5p1BYIV5smdvNVX6Tcz%2FmymOwtNQgYbcMFJQc0LJUFDy5%2F9viFxL0Ph7kEIzDaCjd34YF%2FBXWGZJOdsy4FRChCNFU%2F6Rla8H84%3D"}],"group":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Set-Cookie: fornax_anonymousId=60b4d1df-db3c-4522-a6f9-cda49bc66b38; Expires=Tue, 10 Mar 2026 02:17:58 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=ac198fb0-75f9-41e7-9cec-a631b8fc0644:1710037078; Expires=Sun, 10 Mar 2024 02:47:58 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=DEB2EAFD572D6303204D209F1A06D5BD7A61FA62-1710641878329-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:17:58 GMT; Path=/; HttpOnly XSRF-TOKEN=02b851caa09012b7ca0ec8a34b492a7a26206039aeebba265ebb6dce4cb3a073; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=03673c19-1ef2-495b-8d28-30c4bcfb919a; Expires=Sun, 17 Mar 2024 02:17:58 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Link: <https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js>; rel=preload; as=script <https://cdn11.bigcommerce.com/s-qkxtundogd>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-qkxtundogd/stencil/cd511c90-02be-013c-25af-4a391f5e2fdf/e/8739ead0-b3c3-013c-8e6a-0262f6a3925f/css/theme-82eba440-beeb-013c-4cc9-160d449ab7ae.css>; rel=preload; as=style
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Request-Id: 0c94af8547a3395bd29fc414bce590a6
+Server: cloudflare

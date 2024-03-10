@@ -1,0 +1,14 @@
+200 OK
+Server: cloudflare
+Cf-Ray: 861fd819db49fa56-SJC
+Date: Sun, 10 Mar 2024 02:23:41 GMT
+X-Unbounce-Visitorid: 111b290e-be9c-4dff-a177-64cf145fa933
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: ubvs=111b290e-be9c-4dff-a177-64cf145fa933; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C111b290e-be9c-4dff-a177-64cf145fa933%7C7cb3e845-1d27-4421-937f-582b7e49d377%3Al%3Aweighted; Max-Age=259200; Domain=pampers.cl; Path=/; SameSite=Lax ubpv=l%2C7cb3e845-1d27-4421-937f-582b7e49d377; Max-Age=15897600; Path=/tipsdormir/; SameSite=Lax
+Content-Location: https://descubre.pampers.cl/tipsdormir/
+Etag: "l:111b290ebe9c4dffa17764cf145fa933"
+X-Unbounce-Pageid: 7cb3e845-1d27-4421-937f-582b7e49d377
+Content-Type: text/html; charset=utf-8
+Link: <https://descubre.pampers.cl/tipsdormir/>; rel="canonical"
+X-Unbounce-Variant: l
+Retry-Count: 0

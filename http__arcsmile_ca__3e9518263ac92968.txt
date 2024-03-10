@@ -1,0 +1,15 @@
+200 OK
+Etag: "0b09183df2d91:0"
+Strict-Transport-Security: max-age=31536000
+X-Powered-By: ASP.NET
+X-Fd-Int-Roxy-Purgeid: 66877321
+X-Cache: TCP_HIT
+Date: Sun, 10 Mar 2024 02:22:55 GMT
+Last-Modified: Thu, 28 Sep 2023 13:13:04 GMT
+Accept-Ranges: bytes
+Retry-Count: 0
+Content-Type: text/html
+Content-Length: 57428
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+Cache-Control: public, max-age=31536000
+X-Azure-Ref: 20240310T022255Z-qk0egg70250bp7t9yfknwtcbpc00000009cg0000000004ut

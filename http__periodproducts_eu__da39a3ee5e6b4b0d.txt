@@ -1,0 +1,13 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:20:47 GMT
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+Etag: "05d76e5470da1:0"
+Last-Modified: Thu, 07 Mar 2024 05:58:10 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Set-Cookie: ARRAffinity=ff04e7b726e3bc169c12efae9011c9b5cc9663f22dd8a0aa2616e384b3349d41;Path=/;HttpOnly;Secure;Domain=www.periodproducts.eu ARRAffinitySameSite=ff04e7b726e3bc169c12efae9011c9b5cc9663f22dd8a0aa2616e384b3349d41;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.periodproducts.eu
+Content-Type: text/html
+X-Xss-Protection: 1;mode=block
+Retry-Count: 0

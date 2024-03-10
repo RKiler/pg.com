@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang=en><head><meta charset=utf-8><script>function initializeLanguage() {
+      const subdomain = window.location.hostname.split('.')[0];
+      if (subdomain === 'es') {
+        return 'es-ES';
+      } else if (subdomain === 'de') {
+        return 'de-DE';
+      }
+      return 'en-US'; 
+    }
+
+    let siteLocale = initializeLanguage();
+    let siteLanguage = siteLocale.split('-')[0].toUpperCase(); 
+    let siteCountry = siteLanguage === 'ES' ? 'ES' : 'DE';
+    let sitePlatform = window.location.hostname; 
+
+    var PGdataLayer = {
+      'GTM':{
+        'SiteLocale': siteLocale,
+        'SiteCountry': siteCountry,
+        'SiteBrand': 'Apovoice',
+        'SiteLanguage': siteLanguage,
+        'SitePlatform': sitePlatform,
+        'SiteEnvironment': 'Prod',
+      }
+    };</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-N94XXFB');</script><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=icon href=/assets/favicon/favicon.ico><link rel=apple-touch-icon-precomposed sizes=57x57 href=/assets/favicon/apple-touch-icon-57x57.png><link rel=apple-touch-icon-precomposed sizes=60x60 href=/assets/favicon/apple-touch-icon-60x60.png><link rel=apple-touch-icon-precomposed sizes=72x72 href=/assets/favicon/apple-touch-icon-72x72.png><link rel=apple-touch-icon-precomposed sizes=76x76 href=/assets/favicon/apple-touch-icon-76x76.png><link rel=apple-touch-icon-precomposed sizes=114x114 href=/assets/favicon/apple-touch-icon-114x114.png><link rel=apple-touch-icon-precomposed sizes=120x120 href=/assets/favicon/apple-touch-icon-120x120.png><link rel=apple-touch-icon-precomposed sizes=152x152 href=/assets/favicon/apple-touch-icon-152x152.png><link rel=icon type=image/png href=/assets/favicon/favicon-16x16.png sizes=16x16><link rel=icon type=image/png href=/assets/favicon/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/assets/favicon/favicon-96x96.png sizes=96x96><link rel=icon type=image/png href=/assets/favicon/favicon-128.png sizes=128x128><link rel=icon type=image/png href=/assets/favicon/favicon-196x196.png sizes=196x196><script src=ViewerJS/languageHandler.js></script><meta name=msapplication-TileColor content=#FFFFFF><meta name=msapplication-square70x70logo content=/assets/favicon/mstile-70x70.png><meta name=msapplication-TileImage content=/assets/favicon/mstile-144x144.png><meta name=msapplication-square150x150logo content=/assets/favicon/mstile-150x150.png><meta name=msapplication-wide310x150logo content=/assets/favicon/mstile-310x150.png><meta name=msapplication-square310x310logo content=/assets/favicon/mstile-310x310.png><script src=https://code.jquery.com/jquery-3.6.0.min.js integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin=anonymous></script><title>apovoice</title><link href=/css/app.ae6ba9c6.css rel=preload as=style><link href=/css/chunk-vendors.63d3e41d.css rel=preload as=style><link href=/js/app.c5f690fd.js rel=preload as=script><link href=/js/chunk-vendors.07fd0e5e.js rel=preload as=script><link href=/css/chunk-vendors.63d3e41d.css rel=stylesheet><link href=/css/app.ae6ba9c6.css rel=stylesheet></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N94XXFB" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript><noscript><strong>We're sorry but apovoice-frontend doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=/js/chunk-vendors.07fd0e5e.js></script><script src=/js/app.c5f690fd.js></script></body></html>

@@ -1,0 +1,25 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+X-Dns-Prefetch-Control: on
+Vary: Accept-Encoding
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: cross-origin
+Permissions-Policy: camera=(), microphone=(), geolocation=()
+X-Azure-Ref: 0jBrtZQAAAAAPUWNXIFJmSILYNeKCRP0YU0pDMjExMDUxMjAyMDM3ADIyYzgyNGI5LWQ5ZDctNDIwNC1iYTYwLTkzOTI1YmE2YmY0MQ==
+Accept-Ranges: bytes
+Etag: "0e92baec54da1:0"
+Last-Modified: Thu, 01 Feb 2024 08:57:48 GMT
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src-elem 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com https://csapi-nonprod.pg.com https://cdn.cookielaw.org https://www.youtube.com *.bazaarvoice.com *.iesnare.com *.jebbit.com *.algolianet.com *.algolia.net *.onetrust.com feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://tagmanager.google.com https://*.googletagmanager.com https://csapi-nonprod.pg.com https://cdn.cookielaw.org https://www.youtube.com *.bazaarvoice.com *.iesnare.com *.jebbit.com *.algolianet.com *.algolia.net *.onetrust.com feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' https://tagmanager.google.com https://fonts.googleapis.com https://cdn.fonts.net https://cdn.cookielaw.org https://fast.fonts.net *.bazaarvoice.com *.iesnare.com *.onetrust.com feed.pghub.io pandg.tapad.com ; font-src 'self' https://fonts.gstatic.com https://assets.ctfassets.net https://cdn.cookielaw.org *.onetrust.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' https://www.googletagmanager.com https://ssl.gstatic.com https://cdn.cookielaw.org https://images.ctfassets.net https://assets.ctfassets.net https://csapi-nonprod.pg.com https://m.media-amazon.com *.bazaarvoice.com https://www.google-analytics.com https://*.google-analytics.com https://*.googletagmanager.com https://pixel.tapad.com/ https://cdn11.bigcommerce.com/ *.iesnare.com *.algolianet.com *.algolia.net *.onetrust.com data: feed.pghub.io pandg.tapad.com ; frame-src https://www.googletagmanager.com https://csapi-nonprod.pg.com https://cdn.cookielaw.org *.bazaarvoice.com https://www.youtube.com youtu.be https://consumersupport.pg.com https://pgconsumersupport.secure.force.com https://pg-lex.my.salesforce-sites.com *.iesnare.com *.jebbit.com *.algolianet.com *.algolia.net *.onetrust.com feed.pghub.io pandg.tapad.com ; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://cdn.cookielaw.org https://cdn.contentful.com https://csapi-nonprod.pg.com *.bazaarvoice.com *.iesnare.com *.algolianet.com *.algolia.net *.onetrust.com feed.pghub.io pandg.tapad.com ;
+Cross-Origin-Embedder-Policy: unsafe-none
+Referrer-Policy: no-referrer
+X-Permitted-Cross-Domain-Policies: all
+X-Azure-Ref-Originshield: 0L13qZQAAAACRE9v74hCLT4WMOHdcvyrpU0pDMjExMDUxMjA4MDI1ADIyYzgyNGI5LWQ5ZDctNDIwNC1iYTYwLTkzOTI1YmE2YmY0MQ==
+Cache-Control: max-age=31536000
+Date: Sun, 10 Mar 2024 02:27:23 GMT
+X-Cache: TCP_HIT
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Retry-Count: 0
+Pragma: no-cache
+Content-Type: text/html

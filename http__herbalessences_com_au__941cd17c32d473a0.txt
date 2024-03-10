@@ -1,0 +1,15 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=herbalessences.com.au ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=herbalessences.com.au
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-Xss-Protection: 1;mode=block
+Retry-Count: 0
+Content-Type: text/html
+Accept-Ranges: bytes
+Etag: "0c69bd6116bda1:0"
+Last-Modified: Thu, 29 Feb 2024 13:18:52 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Date: Sun, 10 Mar 2024 02:19:09 GMT

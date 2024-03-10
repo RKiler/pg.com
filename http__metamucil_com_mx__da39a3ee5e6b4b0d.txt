@@ -1,0 +1,21 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:22:50 GMT
+Content-Length: 2339126
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+Content-Security-Policy: worker-src 'self' blob: feed.pghub.io pandg.tapad.com ;                     upgrade-insecure-requests  ;                     style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com *.bazaarvoice.com ;                     script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com connect.facebook.net *.cookielaw.org *.doubleclick.net *.bazaarvoice.com feed.pghub.io pandg.tapad.com *.iesnare.com;                     manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ;                     font-src 'self' data: feed.pghub.io pandg.tapad.com ;                     frame-ancestors 'none' feed.pghub.io pandg.tapad.com ;                     frame-src 'self' *.doubleclick.net consumersupport.pg.com feed.pghub.io pandg.tapad.com www.facebook.com *.bazaarvoice.com;                     img-src 'self' data: *.ctfassets.net *.cookielaw.org *.tapad.com www.google.cz www.google.com www.google-analytics.com www.googletagmanager.com feed.pghub.io *.bazaarvoice.com www.facebook.com *.doubleclick.net;                     default-src 'none' feed.pghub.io pandg.tapad.com ;                     connect-src 'self' *.algolia.net *.googlesyndication.com *.cookielaw.org *.doubleclick.net *.bazaarvoice.com *.google-analytics.com feed.pghub.io pandg.tapad.com *.analytics.google.com;                      base-uri 'none' feed.pghub.io pandg.tapad.com ;
+X-Cache: PRIVATE_NOSTORE
+X-Xss-Protection: 1;mode=block
+X-Permitted-Cross-Domain-Policies: none
+X-Fd-Int-Roxy-Purgeid: 66844049
+Etag: "0d5211e7170da1:0"
+Last-Modified: Thu, 07 Mar 2024 09:23:30 GMT
+Strict-Transport-Security: max-age=15724800; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Accept-Ranges: bytes
+Retry-Count: 0
+Content-Type: text/html
+Cache-Control: no-cache, no-store, must-revalidate
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+X-Azure-Ref: 20240310T022250Z-10997fbnzx7yp6rzwcn4zzsxf400000009fg000000002kfn

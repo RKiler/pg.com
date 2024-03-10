@@ -1,0 +1,14 @@
+200 OK
+Server: InfoTip-Server
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:21:48 GMT
+Content-Length: 27821
+Content: 
+Computer: Web03
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=utf-8
+Cache-Control: nostore,max-age: 0,must-revalidate
+Set-Cookie: RtsSessionCookie=; secure
+X-Dns-Prefetch-Control: off

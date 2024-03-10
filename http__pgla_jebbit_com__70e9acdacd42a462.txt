@@ -1,0 +1,20 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Download-Options: noopen
+Pragma: no-cache
+X-Frame-Options: ALLOWALL
+Etag: W/"5b3e7-A9b+QFKZFa4MWt8fK3ce3ZO2hNE"
+X-Amz-Cf-Id: 33OCHzjSZ0s0w6TwD5ueh2pP_Wak0icnKm53u0Zhg7l5GphSZvG-zg==
+Date: Sun, 10 Mar 2024 02:28:33 GMT
+X-Dns-Prefetch-Control: off
+Surrogate-Control: no-store
+Vary: Accept-Encoding
+Via: 1.1 a7344d90b7d239a5cade41d3c7a65914.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO53-P5
+Expires: 0
+X-Cache: Miss from cloudfront
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Retry-Count: 0

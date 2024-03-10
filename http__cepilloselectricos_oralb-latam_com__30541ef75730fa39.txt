@@ -1,0 +1,14 @@
+200 OK
+Server: cloudflare
+Cf-Ray: 861fdc04295296f3-SJC
+Cf-Cache-Status: DYNAMIC
+Content-Type: text/html; charset=utf-8
+Content-Location: https://cepilloselectricos.oralb-latam.com/vitkidsportafolio-cl/
+Link: <https://cepilloselectricos.oralb-latam.com/vitkidsportafolio-cl/>; rel="canonical"
+X-Unbounce-Pageid: d1498664-0cd6-4c32-bbd7-5eebe445d8d9
+X-Unbounce-Variant: aa
+Date: Sun, 10 Mar 2024 02:26:21 GMT
+Set-Cookie: ubvs=02477745-2239-4528-82d2-2bd1c7b8a589; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C02477745-2239-4528-82d2-2bd1c7b8a589%7Cd1498664-0cd6-4c32-bbd7-5eebe445d8d9%3Aaa%3Asingle; Max-Age=259200; Domain=oralb-latam.com; Path=/; SameSite=Lax ubpv=aa%2Cd1498664-0cd6-4c32-bbd7-5eebe445d8d9; Max-Age=15897600; Path=/vitkidsportafolio-cl/; SameSite=Lax
+Etag: "aa:024777452239452882d22bd1c7b8a589"
+X-Unbounce-Visitorid: 02477745-2239-4528-82d2-2bd1c7b8a589
+Retry-Count: 0

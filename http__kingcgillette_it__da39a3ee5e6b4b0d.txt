@@ -1,0 +1,18 @@
+200 OK
+X-Content-Type-Options: nosniff
+X-Azure-Ref: 0mxrtZQAAAADXdodsulvwQp28+QkbGeE9U0pDMjExMDUxMjAxMDI1ADFkMmE3ODllLWJhODQtNGJmZi1hNjM0LTc4ZmNjNDQ0Y2IyNw==
+Vary: Accept-Encoding
+X-Cache: TCP_MISS
+Strict-Transport-Security: max-age=8995000; includeSubDomains; preload
+Content-Type: text/html
+Etag: "06cc8c8d217da1:0"
+Date: Sun, 10 Mar 2024 02:27:39 GMT
+Content-Security-Policy: default-src 'self' https://videos.ctfassets.net/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src * 'self' data: https: blob: ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Retry-Count: 0
+Cache-Control: public, max-age=0, must-revalidate
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+Accept-Ranges: bytes
+Set-Cookie: ARRAffinity=c02bd95f6de966f537132af58810d7960a1880e2261379fc4d49dd59e700e546;Path=/;HttpOnly;Secure;Domain=www.kingcgillette.it ARRAffinitySameSite=c02bd95f6de966f537132af58810d7960a1880e2261379fc4d49dd59e700e546;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.kingcgillette.it
+X-Azure-Ref-Originshield: 0mxrtZQAAAACXfLAmFcOLS7y+rx+SuQzUU0pDMjExMDUxMjA4MDQ5ADFkMmE3ODllLWJhODQtNGJmZi1hNjM0LTc4ZmNjNDQ0Y2IyNw==
+Last-Modified: Wed, 15 Nov 2023 14:48:24 GMT

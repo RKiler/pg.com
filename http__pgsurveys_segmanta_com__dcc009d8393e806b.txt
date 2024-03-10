@@ -1,0 +1,11 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:27:28 GMT
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+Cf-Ray: 861fdda2cee8aab5-SJC
+X-Powered-By: Express
+Set-Cookie: pgrs2467=354185699; path=/; expires=Sun, 08 Sep 2024 02:27:27 GMT; domain=.pgsurveys.segmanta.com; samesite=none; secure pgrs2467.sig=5w6PKKDMqgaucFDSsEaf1BXevW4; path=/; expires=Sun, 08 Sep 2024 02:27:27 GMT; domain=.pgsurveys.segmanta.com; samesite=none; secure
+Etag: W/"132da-dAvsqW5SapZn/Q3j+KMSnwatF0c"

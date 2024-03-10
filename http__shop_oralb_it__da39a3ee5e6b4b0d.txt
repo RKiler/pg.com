@@ -1,0 +1,20 @@
+200 OK
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000
+X-Amz-Cf-Id: a0DLN5g1l7-4CcrqlLsozvOb33udeopTLDxt1vQCEhm3el2dCobcww==
+Content-Type: text/html
+Date: Sun, 10 Mar 2024 02:21:40 GMT
+Cache-Control: max-age=5, s-maxage=100
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: SFO53-C1
+Alt-Svc: h3=":443"; ma=86400
+Last-Modified: Sat, 09 Mar 2024 21:45:39 GMT
+Server: AmazonS3
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Etag: W/"5f17c033d0eede44b060dd68e894211a"
+X-Amz-Server-Side-Encryption: AES256
+Via: 1.1 8eabaca8b591c36a72bf060174c30de0.cloudfront.net (CloudFront)

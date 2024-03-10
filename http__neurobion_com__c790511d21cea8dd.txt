@@ -1,0 +1,20 @@
+200 OK
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+Cache-Control: no-cache, no-store, must-revalidate
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+X-Azure-Ref: 20240310T021835Z-2e3e5gns2d40bdzhtfcau80f70000000097g00000000475g
+Accept-Ranges: bytes
+Date: Sun, 10 Mar 2024 02:18:35 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: worker-src 'self' blob: feed.pghub.io pandg.tapad.com ; upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cdn.cookielaw.org pghub.io *.google-analytics.com feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; font-src 'self' data: feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' consumersupport.pg.com *.pghub.io pandg.tapad.com ; img-src 'self' data: *.ctfassets.net *.tapad.com *.google-analytics.com *.cookielaw.org feed.pghub.io ; default-src 'none' feed.pghub.io pandg.tapad.com ; connect-src 'self' *.google-analytics.com *.algolia.net cdn.cookielaw.org feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ;
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Fd-Int-Roxy-Purgeid: 66844049
+X-Cache: PRIVATE_NOSTORE
+Content-Type: text/html
+Content-Length: 113511
+Last-Modified: Thu, 07 Mar 2024 15:01:34 GMT
+Retry-Count: 0

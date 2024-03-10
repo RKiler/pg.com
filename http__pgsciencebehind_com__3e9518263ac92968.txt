@@ -1,0 +1,19 @@
+200 OK
+Content-Type: text/html
+X-Cache: TCP_HIT
+Access-Control-Expose-Headers: Request-Context
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src * 'self' data: https://*.cookielaw.org/ https://*.onetrust.com/ blob: ; media-src * 'self' https: ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Retry-Count: 0
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+Request-Context: appId=cid-v1:359e217c-0596-480f-8f98-4e1b91f118e3
+Cache-Control: public
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref-Originshield: 0Al/qZQAAAABZvl8v9oQjT4dVs2jlZm1RU0pDMjExMDUxMjA4MDUxADNjMjFlYjVhLWFmMTAtNGI5MS1hYTA2LWI4NDE3NmRlZDI2NA==
+Accept-Ranges: bytes
+Etag: "0a5fbc9fd4cda1:0"
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Azure-Ref: 03BrtZQAAAADN2Ipk7uO0Q52sP3tCXfw2U0pDMjExMDUxMjAyMDIxADNjMjFlYjVhLWFmMTAtNGI5MS1hYTA2LWI4NDE3NmRlZDI2NA==
+Date: Sun, 10 Mar 2024 02:28:44 GMT
+Last-Modified: Mon, 22 Jan 2024 06:39:46 GMT

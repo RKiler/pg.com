@@ -1,0 +1,14 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:18:27 GMT
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjROSjdHalpCUjJQMmdmWTVLcnRzZnc9PSIsInZhbHVlIjoiazR6bGhybXZpYTc3SVV4S0dOakFyRHN1em1LT0xjNENPcWRBOFBnUDAxMGMvTHlCYi9DK211Zmc3dEJkT0oxOUNOT2FUTEVsaFgxMndVVGlBL0JWa0xYV05jOTM3WWZUTkZXQmFwT3BjbDZ2ZG9MaTBCbC9nUjF2aTNxUVBrQnAiLCJtYWMiOiIzNGE0ZGJmZGQ1NjJlNjQzMDk1NWZmMjE1YjllZjk5ZTdlOTU1YmVmNjljYmU2NjJjYzBkMTVkYTc5MTlmMmM0In0%3D; expires=Sun, 10-Mar-2024 03:18:27 GMT; Max-Age=3600; path=/; secure sessid=eyJpdiI6IjJVOVUrZ01Gdm0xZjNwOUw4NVNvWXc9PSIsInZhbHVlIjoiZ25ybE1xc2plaGJWcTVsRDl3YWkxaVVZNU1iV2tBUlAxbk0veTIrUjZHblR2NEw4MHQvWWsvaUw5RnFwN09RTVE2WVcxZ21sVG9Wd1Jrc05jeEh1T2NUYTg3M0xRaDV2eFJQdGVqcCtOaDk4RmpkM3VhbGo2Yk92VHVtTmpLMDgiLCJtYWMiOiIwMDA0NmI4M2Q3MjA2ODFlZjM4Njg4YTg0NGMwYWRlMDVkNTA1MmZkY2FlOTExZmEwNzg1OTk4ODRiNjdmN2ViIn0%3D; path=/; secure; httponly
+X-Content-Type-Options: nosniff
+Server: nginx
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache, private
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://pghub.io/ https://code.jquery.com/ https://geolocation.onetrust.com/ https://cdn.cookielaw.org/ https://www.googletagmanager.com/ https://www.google-analytics.com/; img-src 'self' data: https://pixel.tapad.com/ https://www.google-analytics.com/ https://*.pg-tradenet.de/ https://cdn.cookielaw.org/; style-src 'self' 'unsafe-inline' https://cdn.cookielaw.org/ https://fonts.googleapis.com/; font-src 'self' data: https://fonts.gstatic.com/; frame-src 'self' https://pandg.tapad.com/; frame-ancestors 'self' https://*.pg-tradenet.de;connect-src 'self' https://*.onetrust.io/ https://cdn.cookielaw.org/ https://*.pg-tradenet.de/ https://stats.g.doubleclick.net/ https://www.google-analytics.com/; object-src 'none'
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *

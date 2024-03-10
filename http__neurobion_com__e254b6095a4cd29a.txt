@@ -1,0 +1,21 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+X-Xss-Protection: 1;mode=block
+Content-Type: text/html
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+X-Content-Type-Options: nosniff
+Content-Security-Policy: worker-src 'self' blob: feed.pghub.io pandg.tapad.com ; upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.youtube.com www.googletagmanager.com cdn.cookielaw.org www.google-analytics.com pghub.io feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; font-src 'self' data: feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' feed.pghub.io consumersupport.pg.com pgamaphc.jebbit.com *.youtube-nocookie.com pandg.tapad.com ; img-src 'self' data: *.ctfassets.net pixel.tapad.com www.google-analytics.com cdn.cookielaw.org *.ytimg.com feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ; connect-src 'self' cdn.cookielaw.org *.algolia.net *.google-analytics.com feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ;
+X-Cache: PRIVATE_NOSTORE
+Date: Sun, 10 Mar 2024 02:25:27 GMT
+Content-Length: 88479
+Last-Modified: Fri, 08 Mar 2024 15:21:18 GMT
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+X-Azure-Ref: 20240310T022527Z-2e3e5gns2d40bdzhtfcau80f70000000091g000000004f7t
+Accept-Ranges: bytes
+Retry-Count: 0
+Etag: "06b78446c71da1:0"
+Pragma: no-cache
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: DENY
+X-Fd-Int-Roxy-Purgeid: 66844049

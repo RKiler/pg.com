@@ -1,0 +1,14 @@
+200 OK
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Etag: "0341d26f70da1:0"
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:22:38 GMT
+Cache-Control: no-cache, no-store,must-revalidate
+Last-Modified: Thu, 07 Mar 2024 09:08:24 GMT
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1;mode=block
+Set-Cookie: ARRAffinity=33f3ca51b54c877ea1260644cd07f20078b4adf1e8620d07188244cb6da2f26f;Path=/;HttpOnly;Secure;Domain=sk-ii.com.tw ARRAffinitySameSite=33f3ca51b54c877ea1260644cd07f20078b4adf1e8620d07188244cb6da2f26f;Path=/;HttpOnly;SameSite=None;Secure;Domain=sk-ii.com.tw
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+Content-Type: text/html
+Vary: Accept-Encoding

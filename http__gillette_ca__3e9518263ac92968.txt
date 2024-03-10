@@ -1,0 +1,21 @@
+200 OK
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Date: Sun, 10 Mar 2024 02:21:08 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Set-Cookie: fornax_anonymousId=8f1317dc-f9de-4ea6-bc76-9a14df0a2a1e; Expires=Tue, 10 Mar 2026 02:21:07 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=171dddbe-5583-4c66-b506-a3b8aa90f531:1710037267; Expires=Sun, 10 Mar 2024 02:51:07 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=70BF50BB003B0C7116B02410466AA1D06252FA55-1710642068270-x%7B%22cur%22%3A%22CAD%22%7D; Expires=Sun, 17 Mar 2024 02:21:08 GMT; Path=/; HttpOnly XSRF-TOKEN=619f0c2db376456781544e3cabab78f9d53d04831fa0cf1ab2f8883f5d74b686; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=f0f5d231-90a4-4be4-8eec-23a3b2355ff0; Expires=Sun, 17 Mar 2024 02:21:08 GMT; Path=/; Secure; HttpOnly; SameSite=None
+X-Request-Id: a752a8f5e58c1f66bfb920d5dfd0b874
+Link: <https://cdn11.bigcommerce.com/s-i2wp9fnqpg>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/css?family=Montserrat:700,500,400%7CLato:400&display=swap>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-i2wp9fnqpg/stencil/22604fc0-b85a-013c-277b-02284b5dbffa/e/79f5f440-9ff8-013b-95fd-2e5f2ae1c98a/css/theme-33f0ceb0-b85f-013c-4cc9-160d449ab7ae.css>; rel=preload; as=style
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Bc-Ray: 1
+Retry-Count: 0
+Alt-Svc: h3=":443"; ma=86400
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=kflv4p3DAc6RE6y9N5%2Fru6IKrcpA4RfqlYPsewEO3euRThwpkyyqmWplyTeZHrCMLbCbNh1Za1bbGxBqUv9Zuc0C07Fzq1rJLvG4DMaiNaci8D7e0L284BF%2FWAW0"}],"group":"cf-nel","max_age":604800}
+Cf-Ray: 861fd45c7a3b689a-SJC
+X-Permitted-Cross-Domain-Policies: none
+Strict-Transport-Security: max-age=31536000; includeSubDomains

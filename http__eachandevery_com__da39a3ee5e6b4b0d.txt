@@ -1,0 +1,32 @@
+200 OK
+Strict-Transport-Security: max-age=7889238
+X-Shardid: 51
+Content-Language: en
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8Co8%2FdiZavsD6xIMLurzvfvtcxervJlzh2bwHs73l5hUGRPs%2FQS4VIlDrb6wZ3CuJ0CO02URvXz3gGMp44lJFUuO8CV%2FIF%2F2Gs72xc0Tf0%2F%2Bha3etDgiHpQemkaUD11d%2BcU%3D"}],"group":"cf-nel","max_age":604800}
+Date: Sun, 10 Mar 2024 02:28:28 GMT
+Set-Cookie: secure_customer_sig=; path=/; expires=Mon, 10 Mar 2025 02:28:28 GMT; secure; HttpOnly; SameSite=Lax localization=US; path=/; expires=Mon, 10 Mar 2025 02:28:28 GMT; SameSite=Lax cart_currency=USD; path=/; expires=Sun, 24 Mar 2024 02:28:28 GMT; SameSite=Lax _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=eachandevery.com; path=/; expires=Mon, 11 Mar 2024 02:28:28 GMT; SameSite=Lax _tracking_consent=%7B%22reg%22%3A%22CCPA%22%2C%22region%22%3A%22USCA%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D; Expires=Mon, 10-Mar-25 02:28:28 GMT; Domain=eachandevery.com; Path=/; SameSite=Lax _shopify_y=ad781326-e33b-4fc4-919c-2b6b687a2155; Expires=Mon, 10-Mar-25 02:28:28 GMT; Domain=eachandevery.com; Path=/; SameSite=Lax _shopify_s=982eccef-5150-4e5f-b847-d1e451cc85d6; Expires=Sun, 10-Mar-24 02:58:28 GMT; Domain=eachandevery.com; Path=/; SameSite=Lax _orig_referrer=http%3A%2F%2Feachandevery.com; Expires=Sun, 24-Mar-24 02:28:28 GMT; Domain=eachandevery.com; Path=/; HttpOnly; SameSite=Lax _landing_page=%2F; Expires=Sun, 24-Mar-24 02:28:28 GMT; Domain=eachandevery.com; Path=/; HttpOnly; SameSite=Lax
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Content-Type: text/html; charset=utf-8
+Cf-Cache-Status: DYNAMIC
+Alt-Svc: h3=":443"; ma=86400
+X-Storefront-Renderer-Rendered: 1
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+Powered-By: Shopify
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Server: cloudflare
+Etag: "cacheable:0fc6776fa2dd21628a7cba56388e1ac7"
+X-Shopid: 1085636660
+Cf-Ray: 861fdf1dbc7d6444-SJC
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Cache: miss
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Server-Timing: processing;dur=201, db;dur=90, parse;dur=8, render;dur=68, wasm, asn;desc="14061", edge;desc="SJC", country;desc="US", theme;desc="129321730100", pageType;desc="index", servedBy;desc="fx2r", requestID;desc="65d1742e-c961-4527-86ab-575419bb9a0c-1710037708" cfRequestDuration;dur=276.999950
+X-Shopify-Stage: production
+X-Dc: gcp-us-west2,gcp-us-central1,gcp-us-central1
+Retry-Count: 0
+X-Sorting-Hat-Podid: 51
+X-Sorting-Hat-Shopid: 1085636660
+X-Request-Id: 65d1742e-c961-4527-86ab-575419bb9a0c-1710037708

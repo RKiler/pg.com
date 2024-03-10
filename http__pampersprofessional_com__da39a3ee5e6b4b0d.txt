@@ -1,0 +1,25 @@
+200 OK
+Cache-Control: no-cache,max-age=31536000
+Cross-Origin-Embedder-Policy: unsafe-none
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; mode=block 1; mode=block
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:17:30 GMT
+Etag: "js93qhp9oi2kmq"
+X-Content-Type-Options: nosniff nosniff
+Cross-Origin-Resource-Policy: cross-origin
+Vary: Accept-Encoding
+Cross-Origin-Opener-Policy: same-origin
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET
+X-Powered-By: Express
+Permissions-Policy: geolocation=(self),camera=(self) camera=(), microphone=(), geolocation=()
+X-Permitted-Cross-Domain-Policies: all
+Pragma: no-cache,no-cache
+Content-Security-Policy: default-src 'self' https://* 'unsafe-inline' 'unsafe-eval';script-src 'self'  https://* http://www.googleadservices.com http://widget-cdn.rpxnow.com https://*.cookielaw.org https://*.onetrust.com http://cdn.rpxnow.com http://d29usylhdk1xyu.cloudfront.net 'unsafe-inline' 'unsafe-eval';img-src 'self' https://* https://images.ctfassets.net http://cdn.rpxnow.com blob: data: * data: ;style-src 'self'  http://cdn.rpxnow.com  https://* 'unsafe-inline';font-src 'self' https://assets.ctfassets.net blob: data: * data:  'unsafe-inline' 'unsafe-eval'; frame-src 'self' *.youtube.com https://www.google.com/; default-src 'self'; script-src-elem 'self' 'unsafe-inline' https://* https://www.googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com; script-src 'self' 'unsafe-eval' https://* https://tagmanager.google.com https://*.googletagmanager.com; style-src 'self' 'unsafe-inline' https://* https://tagmanager.google.com https://fonts.googleapis.com; font-src 'self' https://* https://fonts.gstatic.com https://assets.ctfassets.net data:; img-src 'self' https://* https://www.googletagmanager.com https://ssl.gstatic.com https://images.ctfassets.net https://www.google-analytics.com https://*.google-analytics.com https://*.googletagmanager.com https://pixel.tapad.com/ data:; frame-src https://* https://www.googletagmanager.com; connect-src 'self' https://* https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com;
+X-Frame-Options: DENY SAMEORIGIN
+Referrer-Policy: origin-when-cross-origin no-referrer
+X-Dns-Prefetch-Control: on
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: https://pampersprofessional.com
+X-Download-Options: noopen

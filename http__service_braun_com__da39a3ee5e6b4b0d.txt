@@ -1,0 +1,16 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+X-Frame-Options: DENY
+Date: Sun, 10 Mar 2024 02:20:26 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Nextjs-Cache: HIT
+X-Powered-By: Next.js ASP.NET
+Content-Security-Policy: style-src 'self' blob: 'unsafe-inline' *.google.com *.googleapis.com *.googletagmanager.com *.google-analytics.com *.googleoptimize.com *.googleanalytics.com *.pg.com *.bazaarvoice.com *.force.com *.pricespider.com *.lytics.io *.mapbox.com *.akamaihd.net feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.googleoptimize.com *.googleanalytics.com *.crwdcntrl.net *.googleadservices.com *.pg.com *.salesforce.com *.my.salesforce.com *.criteo.com *.adform.net *.outbrain.com *.pypestream.com *.serving-sys.com *.tiktok.com *.youtube.com *.braun.com *.googletagmanager.com *.dynatrace.com dynatrace.com *.ads-twitter.com *.salesforceliveagent.com google.com gstatic.com *.gstatic.com *.google.com *.pypestream.eu *.force.com *.salesfoce.com *.cookielaw.org *.google-analytics.com *.facebook.net *.pricespider.com *.segment.com *.lytics.io *.jebbit.com pghub.io *.doubleclick.net *.crazyegg.com *.googleapis.com *.zeotap.com *.adsrvr.org *.iesnare.com *.ipify.org *.bazaarvoice.com *.moatads.com *.mapbox.com *.akamaihd.net feed.pghub.io pandg.tapad.com ; font-src 'self' *.gstatic.com *.pg.com *.windows.net fonts.gstatic.com maxcdn.bootstrapcdn.com res.cloudinary.com data: feed.pghub.io pandg.tapad.com ; img-src * 'self' data: https: blob: *.google.com *.pricespider.com *.ctfassets.net ; default-src 'self' data: wss: *.sor-braun.fr *.google.com *.crwdcntrl.net *.youtube-nocookie.com youtube-nocookie.com *.analytics.google.com *.braun-concours-jenifer.fr *.concours-braun.fr *.offre-promotionnelle.fr *.pg.com *.criteo.com *.serving-sys.com *.serving-sys.com *.tiktok.com *.cashback-braun.fr *.cashbackipls2.fr *.cashbackshaverss2.fr *.satisfaitourembourse-braun.fr *.digital-promo.de *.dynatrace.com *.azure-api.net *.braun-ics.com *.braun.com *.braun.de *.youtube.com *.force.com *.doubleclick.net *.cookielaw.org *.googletagmanager.com *.google-analytics.com *.adsrvr.org *.tapad.com *.segment.io *.segment.com *.lytics.io *.crazyegg.com *.googleapis.com *.zeotap.com *.facebook.com *.doubleclick.net *.jebbit.com *.windows.net geolocation-db.com *.onetrust.com *.iesnare.com *.bazaarvoice.com *.moatads.com *.mapbox.com *.pricespider.com *.akamaihd.net *.pg.com *.algolia.net *.contentful.com *.ctfassets.net feed.pghub.io ;
+Etag: "3o6mkam0fggrp"
+Vary: Accept-Encoding
+Server: 
+Cache-Control: s-maxage=31536000, stale-while-revalidate
+Set-Cookie: Strict
+Request-Context: appId=cid-v1:7ec3839f-5248-4abc-a16b-f4616d335c9e

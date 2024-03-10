@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+X-Unbounce-Pageid: 700a4aec-fbfa-406c-bf39-6382b892bd5c
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fddb3ca02fb30-SJC
+X-Unbounce-Variant: a
+Date: Sun, 10 Mar 2024 02:27:30 GMT
+Set-Cookie: ubvs=53bed473-5b3b-422b-932f-7448134f06cb; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C53bed473-5b3b-422b-932f-7448134f06cb%7C700a4aec-fbfa-406c-bf39-6382b892bd5c%3Aa%3Asingle; Max-Age=259200; Domain=retometamucil.com.co; Path=/; SameSite=Lax ubpv=a%2C700a4aec-fbfa-406c-bf39-6382b892bd5c; Max-Age=15897600; Path=/; SameSite=Lax __cf_bm=P7JTis8W7TwzMOcaRTqI_afWEBViyb9MCeQYmX2NnaU-1710037650-1.0.1.1-iqeUUrGpVZsDT2GMQ7rIbpUONTz8ouKPEk8RPDjSRHKeDQOZKtDF4myewiKUlYqLjxgKoMeYxXo.zUDuaZIOoQ; path=/; expires=Sun, 10-Mar-24 02:57:30 GMT; domain=.www.retometamucil.com.co; HttpOnly; Secure; SameSite=None
+Content-Location: https://www.retometamucil.com.co/
+X-Unbounce-Visitorid: 53bed473-5b3b-422b-932f-7448134f06cb
+Server: cloudflare
+Retry-Count: 0
+Etag: "a:53bed4735b3b422b932f7448134f06cb"
+Link: <https://www.retometamucil.com.co/>; rel="canonical"

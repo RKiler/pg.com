@@ -1,0 +1,22 @@
+200 OK
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=qoHCw9pxwyeD%2FhXDUrPqb%2BnPOpMuo1DOy0yM6cMuBC%2BQkGtnOeP8ttcAxacmO2RGF4xkxlC%2BRfeX1xg07AKybjwWyJQAl1MVCZ8o6M57saofnMgLVG7afZWAr53bONqeh6d30BtW6D6QxA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Alt-Svc: h3=":443"; ma=86400
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Date: Sun, 10 Mar 2024 02:27:37 GMT
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Set-Cookie: fornax_anonymousId=729a06fa-1ded-43b2-8876-215003b1b1f5; Expires=Tue, 10 Mar 2026 02:27:36 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=4e13d91e-182b-4e29-9e61-ffdf70fa4b17:1710037656; Expires=Sun, 10 Mar 2024 02:57:36 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=C3075BC92F3440E821A7D5248D05E53E205309C8-1710642457183-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:27:37 GMT; Path=/; HttpOnly XSRF-TOKEN=79a0fbb049eb9947a0c622a286a4d14a47f431c1e359fc730600629a9f3aaf69; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=c2834fcc-eebd-47d4-b0f0-195f275ba9e1; Expires=Sun, 17 Mar 2024 02:27:37 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+X-Request-Id: 89f7285064577e06f33f38e00a7bf79c
+Content-Type: text/html; charset=UTF-8
+Pragma: no-cache
+Link: <https://cdn11.bigcommerce.com/s-qlp1ops70d>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-qlp1ops70d/stencil/f8b5e320-5723-013c-9339-5a949be1b654/e/f97f2900-bee1-013c-e5b5-76945f462152/css/theme-f9aa3d10-5723-013c-9339-5a949be1b654.css>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-qlp1ops70d/stencil/f8b5e320-5723-013c-9339-5a949be1b654/e/f97f2900-bee1-013c-e5b5-76945f462152/css/landing-pages-f9aa3d10-5723-013c-9339-5a949be1b654.css>; rel=preload; as=style
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 861fdddb3ba29444-SJC
+X-Permitted-Cross-Domain-Policies: none
+Cache-Control: no-store, no-cache, must-revalidate
+X-Frame-Options: deny
+Retry-Count: 0

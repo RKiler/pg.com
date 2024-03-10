@@ -1,0 +1,22 @@
+200 OK
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding,Accept-Encoding
+X-Content-Type-Options: nosniff nosniff
+Access-Control-Allow-Methods: GET, POST, OPTIONS GET, POST, OPTIONS
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Azure-Ref: 20240310T021954Z-10997fbnzx7yp6rzwcn4zzsxf400000009d0000000002c5e
+X-Xss-Protection: 1 1
+Accept-Ranges: bytes
+Etag: "018c27e2c71da1:0"
+Last-Modified: Fri, 08 Mar 2024 07:44:48 GMT
+Content-Security-Policy: frame-ancestors 'self' https://pge.segmanta.com https://www.babylist.com shop.pampers.com frame-ancestors 'self' https://pge.segmanta.com https://www.babylist.com shop.pampers.com
+X-Ua-Compatible: IE=Edge IE=Edge
+X-Cache: TCP_HIT
+Content-Type: text/html
+X-Powered-By: ARR/3.0
+X-Fd-Int-Roxy-Purgeid: 66842566
+Access-Control-Allow-Origin: * *
+Cache-Control: max-age=31536000
+Date: Sun, 10 Mar 2024 02:19:54 GMT
+Content-Length: 594681
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN SAMEORIGIN

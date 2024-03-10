@@ -1,0 +1,20 @@
+200 OK
+Retry-Count: 0
+Last-Modified: Thu, 07 Mar 2024 12:18:52 GMT
+Etag: "09ebb9d8970da1:0"
+Vary: Accept-Encoding
+Referrer-Policy: strict-origin-when-cross-origin
+X-Cache: PRIVATE_NOSTORE
+X-Azure-Ref: 0ihjtZQAAAABzbmCeeUe3QoM0CAIhkgJgU0pDMjExMDUxMjAyMDExADkyYjZhMDMzLWZjMTMtNDFhZS1hMDQ2LWUxMWM2MmQ4OTNlNg==
+Pragma: no-cache
+Content-Type: text/html
+Accept-Ranges: bytes
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' *.pricespider.com *.mapbox.com feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.googletagmanager.com *.cookielaw.org *.google-analytics.com *.facebook.net *.pricespider.com *.segment.com pghub.io *.doubleclick.net *.crazyegg.com *.googleapis.com *.zeotap.com *.adsrvr.org *.mapbox.com *.youtube.com feed.pghub.io pandg.tapad.com ; font-src 'self' data: feed.pghub.io pandg.tapad.com ; frame-src 'self' *.pghub.io *.adsrvr.org *.facebook.com *.tapad.com *.doubleclick.net *.youtube.com *.pg.com pgconsumersupport.secure.force.com *.salesforce-sites.com ; img-src 'self' data: images.ctfassets.net *.tapad.com *.google-analytics.com *.google.com *.google.cz *.facebook.com *.cookielaw.org *.googleapis.com *.pricespider.com *.googletagmanager.com feed.pghub.io ; connect-src 'self' *.cookielaw.org *.google-analytics.com *.adsrvr.org *.segment.io *.segment.com *.crazyegg.com *.googleapis.com *.zeotap.com *.facebook.com *.doubleclick.net *.mapbox.com *.algolia.net *.algolianet.com assets.ctfassets.net preview.contentful.com cdn.contentful.com feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+X-Frame-Options: DENY
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+X-Xss-Protection: 1;mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Azure-Ref-Originshield: 0ihjtZQAAAAAWqZDdMWAtR68VHIRRWcEXU0pDMjExMDUxMjA4MDI1ADkyYjZhMDMzLWZjMTMtNDFhZS1hMDQ2LWUxMWM2MmQ4OTNlNg==
+Date: Sun, 10 Mar 2024 02:18:49 GMT
+Cache-Control: no-store

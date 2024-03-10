@@ -1,0 +1,16 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding,Cookie
+Link: <https://faq.pgwebtools.com/wp-json/>; rel="https://api.w.org/" <https://faq.pgwebtools.com/wp-json/wp/v2/pages/84>; rel="alternate"; type="application/json" <https://faq.pgwebtools.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: SHORT
+Cf-Cache-Status: DYNAMIC
+Alt-Svc: h3=":443"; ma=86400
+X-Cache-Group: normal
+Server: cloudflare
+Cf-Ray: 861fdb1bcb9a5c22-SJC
+Date: Sun, 10 Mar 2024 02:25:44 GMT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 3

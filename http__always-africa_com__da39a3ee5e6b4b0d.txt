@@ -1,0 +1,17 @@
+200 OK
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src https://* 'self' data: https: blob: feed.pghub.io pandg.tapad.com ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ; frame-ancestors * 'self' data: https: blob: ;
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0whjtZQAAAAB4ifGJHjXmTIAJUpMtRpc8U0pDMjExMDUxMjAxMDI1AGU2OWU0MGEwLTUwOWUtNDExNy04Y2JmLTUwMWZjZjBmODIyOA==
+Last-Modified: Fri, 08 Mar 2024 10:21:08 GMT
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload;
+Set-Cookie: ARRAffinity=619f09957c32de59b5088c218078151258f6aee0cd5c7a86d05f1702ff4dba85;Path=/;HttpOnly;Secure;Domain=always-africa.com ARRAffinitySameSite=619f09957c32de59b5088c218078151258f6aee0cd5c7a86d05f1702ff4dba85;Path=/;HttpOnly;SameSite=None;Secure;Domain=always-africa.com
+Cache-Control: max-age=0
+Vary: Accept-Encoding
+Date: Sun, 10 Mar 2024 02:19:46 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+Content-Type: text/html
+Retry-Count: 0
+Etag: "082ac554271da1:0"

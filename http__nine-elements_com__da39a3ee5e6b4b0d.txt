@@ -1,0 +1,22 @@
+200 OK
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Content-Type: text/html; charset=UTF-8
+Pragma: no-cache
+Link: <https://cdn11.bigcommerce.com/s-zbg1952eth/stencil/4e520560-bf76-013c-54cc-22b7a8332f09/e/a7f64490-bf82-013c-70f9-7acb0084422a/css/theme-619a5130-bf76-013c-310c-3e0a8a4bad74.css>; rel=preload; as=style
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4kbRlguLGj7q3cLPSucntWq8aQRCU1uqz999sIaY7NA%2BRwWbcjGORYv7mzYWVVkz%2FmIWyKRau1mWlSVc7NCPTxRYMxkTT%2FPoW0kiRHjsIH5U%2BysXTS6XA%2FTOr2bvCo8lYL6C"}],"group":"cf-nel","max_age":604800}
+Server: cloudflare
+Date: Sun, 10 Mar 2024 02:24:43 GMT
+Vary: Accept-Encoding
+X-Request-Id: bd6f9a51c418eec84d4c552b9667e122
+X-Content-Type-Options: nosniff
+Set-Cookie: fornax_anonymousId=a6e53ec8-6302-4da7-a5e1-7d38bfee616d; Expires=Tue, 10 Mar 2026 02:24:43 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=028313a2-9c41-4179-83a3-51d67020acde:1710037483; Expires=Sun, 10 Mar 2024 02:54:43 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=D58F06EC1257ED72812983D141BCC99A6CC2FA4D-1710642283694-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:24:43 GMT; Path=/; HttpOnly XSRF-TOKEN=ea66552583a7642d05731039b7100e0c637054c9446039ae8221a412542c93b5; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=e25dacb8-9534-47ba-95b6-f5c27c3e4264; Expires=Sun, 17 Mar 2024 02:24:43 GMT; Path=/; Secure; HttpOnly; SameSite=None
+X-Frame-Options: deny
+Alt-Svc: h3=":443"; ma=86400
+Cf-Ray: 861fd99e390196cb-SJC
+Retry-Count: 0
+X-Permitted-Cross-Domain-Policies: none
+Cache-Control: no-store, no-cache, must-revalidate
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload

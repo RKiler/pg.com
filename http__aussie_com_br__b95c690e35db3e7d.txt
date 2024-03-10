@@ -1,0 +1,17 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:26:53 GMT
+Content-Length: 116471
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=aussie.com.br
+X-Azure-Ref: 20240310T022653Z-mb2nzfcd952hpah81kc3cp1ta800000009bg000000002vcv
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+X-Fd-Int-Roxy-Purgeid: 66876918
+Accept-Ranges: bytes
+Cache-Control: no-cache, no-store, must-revalidate
+Etag: "091cbed9a34da1:0"
+Last-Modified: Fri, 22 Dec 2023 05:51:38 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: DENY
+Retry-Count: 0
+X-Cache: PRIVATE_NOSTORE

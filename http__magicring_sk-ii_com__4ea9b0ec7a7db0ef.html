@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <base href="/">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <title>SK-II</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="./build/build.css">
+    <link rel="stylesheet" type="text/css" href="./public/fonts/fontawesome/css/font-awesome.min.css">
+    <script src="./lib/jquery/jquery-1.12.4.min.js"></script>
+    <script src="./lib/angular/angular.min.js"></script>
+    <script src="./lib/angular/angular-ui-bootstrap/ui-bootstrap-tpls-2.5.0.min.js"></script>
+    <script src="./lib/angular/angular-translate/angular-translate.min.js"></script>
+    <script src="./lib/angular/angular-translate/angular-translate-loader-static-files.min.js"></script>
+    <script src="./build/vendor.js"></script>
+    <script src="./build/build.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Serif:100,100i,200,200i,300,300i,400,400i,500|Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap');
+    </style>
+</head>
+
+<body id="body">
+    <div ui-view="layout"></div>
+    <div id="popup-layer"></div>
+    <!-- Loading Box -->
+    <div id="loading">
+        <div class="loading-box">
+            <i class="fa fa-spinner fa-pulse"></i>
+        </div>
+    </div>
+    <!-- Auto Tips -->
+    <div id="autoTips" class="popup-layer">
+        <div class="tips-box">
+            <p class="tips-text"></p>
+        </div>
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+200 OK
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: img-src 'self' data: images.ctfassets.net *.lightboxcdn.com *.google-analytics.com *.tapad.com *.googletagmanager.com *.fls.doubleclick.net *.facebook.com *.lytics.io *.akamaihd.net *.amazon-adsystem.com *.moatads.com *.cookielaw.org *.bazaarvoice.com *.amazonaws.com *.youtube.com *.haircode.com *.google.com *.google.ca click2cart.co *.agkn.com *.snapchat.com *.agkn.com *.pricespider.com consumersupport.pg.com *.mapbox.com cdn.pricespider.com embeddedcloud.pricespider.com omni.pricespider.com wtbng.pricespider.com wtbstream.pricespider.com tr.snapchat.com *.onetrust.com feed.pghub.io ; font-src 'self' data: *.haircode.com fonts.gstatic.com maxcdn.bootstrapcdn.com *.agkn.com *.pricespider.com feed.pghub.io pandg.tapad.com ; media-src 'self' *.cloudinary.com *.ctfassets.net *.onetrust.com feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.lightboxcdn.com *.lytics.io *.bazaarvoice.com *.amazonaws.com *.haircode.com *.googleapis.com maxcdn.bootstrapcdn.com *.pricespider.com *.mapbox.com cdn.pricespider.com embeddedcloud.pricespider.com omni.pricespider.com wtbng.pricespider.com wtbstream.pricespider.com tr.snapchat.com *.onetrust.com feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: waves.retentionscience.com lightboxapi.azurewebsites.net *.googleapis.com *.lightboxcdn.com *.cloudfront.net *.cloudflare.com *.google.com *.google-analytics.com *.googletagmanager.com *.moatads.com *.cookielaw.org *.crazyegg.com pghub.io *.facebook.net *.segment.com *.lytics.io *.bazaarvoice.com *.amazonaws.com *.haircode.com click2cart.co *.iesnare.com *.pricespider.com consumersupport.pg.com sc-static.net *.mapbox.com *.onetrust.io cdn.pricespider.com embeddedcloud.pricespider.com omni.pricespider.com wtbng.pricespider.com wtbstream.pricespider.com tr.snapchat.com *.onetrust.com feed.pghub.io pandg.tapad.com ; connect-src 'self' https://privacytermsprod.azureedge.net kardia-nonprod.azure-api.net kardia.azure-api.net *.crazyegg.com *.google-analytics.com *.doubleclick.net *.cookielaw.org api.segment.io *.adsrvr.org *.pg.com *.bazaarvoice.com *.smartcommerce.co click2cart.co *.haircode.com *.snapchat.com *.pricespider.com wss://wtbstream.pricespider.com consumersupport.pg.com *.mapbox.com *.onetrust.io cdn.pricespider.com embeddedcloud.pricespider.com omni.pricespider.com wtbng.pricespider.com wtbstream.pricespider.com tr.snapchat.com *.onetrust.com feed.pghub.io pandg.tapad.com ; default-src 'self' *.googletagmanager.com *.fls.doubleclick.net *.tapad.com *.facebook.com *.bazaarvoice.com click2cart.co pgconsumersupport.secure.force.com *.youtube.com *.snapchat.com pg-lex.my.salesforce-sites.com consumersupport.pg.com cdn.pricespider.com embeddedcloud.pricespider.com omni.pricespider.com wtbng.pricespider.com wtbstream.pricespider.com tr.snapchat.com *.onetrust.com feed.pghub.io ;
+Retry-Count: 0
+Cache-Control: max-age=31536000,max-age=31536000
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+X-Cache: TCP_HIT
+X-Azure-Ref-Originshield: 08NXrZQAAAADQAlk7Q79qSoFUxTE7L9r5U0pDMjExMDUxMjA3MDE5ADRhNTJkMjA3LTJiOTgtNDQxNi1iOGZlLTljYjFmOWZkMjZmNA==
+Date: Sun, 10 Mar 2024 02:26:21 GMT
+Etag: "04fefc11563da1:0"
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+X-Azure-Ref: 0TRrtZQAAAAB/VoiDcJ/YTYUqwvlSlh/eU0pDMjExMDUxMjAyMDI5ADRhNTJkMjA3LTJiOTgtNDQxNi1iOGZlLTljYjFmOWZkMjZmNA==
+Last-Modified: Mon, 19 Feb 2024 09:26:46 GMT

@@ -1,0 +1,19 @@
+404 Not Found
+Content-Security-Policy: frame-ancestors 'self' https://pge.segmanta.com https://www.babylist.com shop.pampers.com frame-ancestors 'self' https://pge.segmanta.com https://www.babylist.com shop.pampers.com
+X-Content-Type-Options: nosniff nosniff
+X-Frame-Options: SAMEORIGIN SAMEORIGIN
+Date: Sun, 10 Mar 2024 02:22:32 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Azure-Ref: 0aBntZQAAAAAAwM3ytbdwQ4L1KB4DFSNXU0pDMjExMDUxMjAyMDM1ADZmZDM5MzEzLTk4ZWYtNGEwYy1hZmYxLTI1MmE2M2UyMTM2Mg==
+Content-Type: text/html
+Vary: Accept-Encoding,Accept-Encoding
+X-Cache: TCP_MISS
+X-Ua-Compatible: IE=Edge IE=Edge
+Set-Cookie: ARRAffinity=11de9c2fe80005bcccdc60ee3dfc1423e414e884cb54eb33cc816c63fbb52f4b;Path=/;HttpOnly;Secure;Domain=px-pampers-parenting-diapering-en-us.azurewebsites.net ARRAffinitySameSite=11de9c2fe80005bcccdc60ee3dfc1423e414e884cb54eb33cc816c63fbb52f4b;Path=/;HttpOnly;SameSite=None;Secure;Domain=px-pampers-parenting-diapering-en-us.azurewebsites.net ARRAffinity=f04ce7b74591427d17bde4b2ad51aeaf113e2d2c817a22f831e18009cfbbbb5b;Path=/;HttpOnly;Secure;Domain=www.pampers.com ARRAffinitySameSite=f04ce7b74591427d17bde4b2ad51aeaf113e2d2c817a22f831e18009cfbbbb5b;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.pampers.com
+X-Powered-By: ARR/3.0
+Retry-Count: 0
+X-Xss-Protection: 1 1
+Content-Length: 273464
+X-Azure-Ref-Originshield: 0aBntZQAAAADRUmk7JJrJR43X1QqJU6HzU0pDMjExMDUxMjA3MDUzADZmZDM5MzEzLTk4ZWYtNGEwYy1hZmYxLTI1MmE2M2UyMTM2Mg==
+Access-Control-Allow-Methods: GET, POST, OPTIONS GET, POST, OPTIONS
+Access-Control-Allow-Origin: * *

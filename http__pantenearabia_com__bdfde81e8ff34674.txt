@@ -1,0 +1,17 @@
+200 OK
+Last-Modified: Tue, 27 Feb 2024 05:21:18 GMT
+X-Frame-Options: DENY
+X-Cache: TCP_MISS
+Date: Sun, 10 Mar 2024 02:28:40 GMT
+X-Xss-Protection: 1;mode=block
+X-Content-Type-Options: nosniff
+Cache-Control: max-age=0
+Retry-Count: 0
+Content-Type: text/html
+Accept-Ranges: bytes
+Etag: "0dbaaca3c69da1:0"
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Azure-Ref-Originshield: 02BrtZQAAAAAq0bWD7oZhTLJYKSYQ5WXKU0pDMjExMDUxMjA4MDI3AGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+X-Azure-Ref: 02BrtZQAAAAD3c35YpTewQYiFn0UIaVuXU0pDMjExMDUxMjAxMDQ1AGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+Set-Cookie: ARRAffinity=512afb7a1dd1c378071d877771ba7d356391865088e5977389354ae04c7b9c58;Path=/;HttpOnly;Secure;Domain=pantenearabia.com ARRAffinitySameSite=512afb7a1dd1c378071d877771ba7d356391865088e5977389354ae04c7b9c58;Path=/;HttpOnly;SameSite=None;Secure;Domain=pantenearabia.com

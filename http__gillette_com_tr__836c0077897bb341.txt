@@ -1,0 +1,18 @@
+200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Strict-Transport-Security: max-age=8995000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+Retry-Count: 0
+Last-Modified: Fri, 23 Feb 2024 13:59:14 GMT
+X-Cache: TCP_MISS
+X-Azure-Ref-Originshield: 04RjtZQAAAACfwFcvSjrAQqUmQY6CjujiU0pDMjExMDUxMjA3MDI1AGU2OWU0MGEwLTUwOWUtNDExNy04Y2JmLTUwMWZjZjBmODIyOA==
+X-Azure-Ref: 04RjtZQAAAAA9LiVZv8YHRJrQ0dTBeYA+U0pDMjExMDUxMjAyMDUzAGU2OWU0MGEwLTUwOWUtNDExNy04Y2JmLTUwMWZjZjBmODIyOA==
+Date: Sun, 10 Mar 2024 02:20:17 GMT
+Content-Type: text/html
+Etag: "025c17b6066da1:0"
+Vary: Accept-Encoding
+Content-Security-Policy: default-src 'self' https://videos.ctfassets.net/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src * 'self' data: https: blob: ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Accept-Ranges: bytes
+Set-Cookie: ARRAffinity=f3fa9d65bbfa688d29a1a91ccdec91ae26ed93dc3155948db01783a752e0543f;Path=/;HttpOnly;Secure;Domain=gillette.com.tr ARRAffinitySameSite=f3fa9d65bbfa688d29a1a91ccdec91ae26ed93dc3155948db01783a752e0543f;Path=/;HttpOnly;SameSite=None;Secure;Domain=gillette.com.tr
+X-Frame-Options: DENY

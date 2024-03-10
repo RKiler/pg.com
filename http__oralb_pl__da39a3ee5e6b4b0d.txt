@@ -1,0 +1,14 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Etag: "0a6a269a670da1:0"
+Vary: Accept-Encoding
+Date: Sun, 10 Mar 2024 02:17:03 GMT
+Content-Security-Policy: default-src 'self'; child-src blob:; media-src * 'self' data: https: blob:; style-src 'self' 'unsafe-inline' *.pricespider.com *; img-src * 'self' data: https: blob: *.pricespider.com; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; font-src * data: https:; frame-src *;
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 0HxjtZQAAAADrAXMDZHgUSrs8Q33IJuOUU0pDMjExMDUxMjAyMDQ3AGI3M2NkNDQzLThjMWItNDI1Ni1iNzI1LTJhNTNlYmUzMzMxYw==
+Content-Type: text/html; charset=utf-8
+Last-Modified: Thu, 07 Mar 2024 15:45:00 GMT
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+Accept-Ranges: bytes
+X-Cache: CONFIG_NOCACHE
+Retry-Count: 0

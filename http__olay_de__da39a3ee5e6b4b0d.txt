@@ -1,0 +1,22 @@
+200 OK
+Etag: W/"9922fa2c-9c1c-4bca-a265-f100ea4ff9fb-93416"
+X-Gfv-Cd: 3475966|c1-eu-prd-01-cd6
+X-Azure-Ref: 0NxjtZQAAAADJNYK8bXLOQoevIdLnNQHOU0pDMjExMDUxMjAxMDM1ADkyYzdiZDk1LTdkZjAtNDdlOC05YzEzLWIwYmFmMWM5N2RkOQ==
+X-Cache: CONFIG_NOCACHE
+Permissions-Policy: accelerometer=(), camera=*, geolocation=*, gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Set-Cookie: ASP.NET_SessionId=h2d0wis1mqgvcxgsjwyhpzfl; path=/; secure; HttpOnly; SameSite=Lax formeonline#lang=de-DE; path=/; secure SC_ANALYTICS_GLOBAL_COOKIE=a8ad4e6bbe554f838a26e3cb79c225c3|False; expires=Wed, 08-Mar-2034 02:17:27 GMT; path=/; secure; HttpOnly
+X-Gfv-Ssr: 3475966|prd-api-formeonline.pgsitecore.com
+Content-Security-Policy: default-src https: data: blob: 'unsafe-inline' 'unsafe-eval'
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: no-store, no-cache
+Expires: -1
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Date: Sun, 10 Mar 2024 02:17:28 GMT
+Pragma: no-cache
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=31536001
+Request-Context: appId=cid-v1:885099bf-b2a6-436c-a31e-2a27acf8b20f

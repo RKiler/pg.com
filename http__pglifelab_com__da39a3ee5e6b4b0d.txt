@@ -1,0 +1,21 @@
+200 OK
+X-Amz-Cf-Pop: SFO5-P2
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Id: gltWK2RshI2jaL4pjxWWQPcwHi16OIbZyiGbUnmtQzPjcVJM55n-AA==
+Retry-Count: 0
+Date: Sat, 09 Mar 2024 09:35:20 GMT
+Server: AmazonS3
+X-Content-Type-Options: nosniff
+Etag: W/"2fcec13e50dfe585c1c8c631c958ad56"
+X-Amz-Server-Side-Encryption: AES256
+Strict-Transport-Security: max-age=63072000
+X-Frame-Options: DENY
+Content-Type: text/html
+X-Amz-Id-2: tOcltepsQ2JNkic8gvfNTDlra6IbSEcR7v5XRb3XtjVol5gCkDDcQ0A7U2/edRutsaQOwY5i2FZIVMRnMo6Z9A==
+X-Amz-Request-Id: RXPSR3FKKRKE9K42
+Last-Modified: Mon, 05 Feb 2024 16:00:22 GMT
+X-Xss-Protection: 1; mode=block
+Via: 1.1 b637bd7696854d7acbf96132dcf53200.cloudfront.net (CloudFront)
+X-Amz-Version-Id: tpUkJUwNMxqKBQq5nnEr_J2kl3oFACzv
+Vary: Accept-Encoding
+Age: 60190

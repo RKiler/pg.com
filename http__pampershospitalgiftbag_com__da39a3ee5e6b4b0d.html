@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login - Pampers Hospital Giftbag</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/lib/easyautocomplete/easy-autocomplete.css" rel="stylesheet" />
+    <link href="/lib/easyautocomplete/easy-autocomplete.themes.min.css" rel="stylesheet" />
+    <link href="/datatables/css/dataTables.bootstrap4.css" rel="stylesheet" />    
+    <link href="/lib/toaster/toastr.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/css/min/main.min.css" />
+    <link href="/lib/printjs/print.min.css" rel="stylesheet" />
+
+    <script type="text/javascript">
+        var PGdataLayer =
+            {
+                'GTM': {
+                    'SiteLocale': 'en-us',
+                    'SiteTouchpoint': ' 44871',
+                    'SiteCountry': 'US',
+                    'SiteBrand': 'pampers',
+                    'SiteLanguage': 'EN',
+                    'SiteEnvironment': 'Prod',
+                    'SiteHost': 'azure',
+                    'SiteTechnicalAgency': 'pep',
+                    'SiteStatus': 'Live',
+                    'GoogleAnalyticsGA4MeasurementID':'G-E1MX8YHKV9',
+                    'ConsentOverlay': 'OneTrust',
+                    'ConsentOverlayID': '4cd20472-8663-4e9a-b952-f3a09387f0e9',
+                    'SitePrivacyProtection': 'CCPA',
+                    'GoogleReCaptcha': 'True'
+                }
+            }
+    </script>
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-N94XXFB');</script>
+    <!-- End Google Tag Manager -->
+
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N94XXFB"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!--End Google Tag Manager (noscript) -->
+    <header class="header__main">
+        <div class="member__bar">
+            <img src="/images/logo-pampers.svg" alt="Pampers logo" class="header__logo" />
+            <img src="/images/logo-pediatrician.png" alt="Pampers #1 pediatrician recommended brand" class="pediatrician__logo" />
+        </div>
+</header>
+    <main id="content" role="main" class="">
+        
+<div class="alert">
+    <div class="alert__message">
+        Welcome to the new site! If you are seeing this interface for the first time, we are <strong>requesting that all of our users please update their passwords</strong>. Please click the forgot password button and follow the necessary steps to reset your password. Thank you!
+    </div>
+</div>
+
+<h1 class="h4 text-center">Login</h1>
+
+<div class="form__container">
+    <form method="post">
+        <div class="form__fields">
+            <label for="Email" class="sr-only">Email</label>
+            <input type="email" class="form-control" data-val="true" data-val-required="The Email field is required." id="Email" name="Email" placeholder="Email" value="">
+            <span class="text-danger field-validation-valid" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+            <label for="Password" class="sr-only">Password</label>
+            <input type="password" class="form-control" autocomplete="new-password" data-val="true" data-val-required="The Password field is required." id="Password" name="Password" placeholder="Password">
+            <span class="text-danger field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+            <div class="text-right"><a href="/Member/ForgotPassword"><u>Forgot Password?</u></a></div>
+        </div>
+        <button type="submit" class="btn btn-primary">Login</button>
+    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8HfiRBdbjFJLirgQrKmQWTJZlDDg1fvDqxvCVZe3uNTiQ3ZgNtxlC0zHeU99-zk8Q4QGjoEk3RhlWjKUD37s6Dj8MQr3FFogDjn1zd6_cdqDdNp33MRujRIwmw-hjpTVumO0pdHdMnpcCEI728oBSuM" /></form>
+    <hr />
+    <div class="text-center">
+        <span>New Hospital?</span>
+        <a class="btn btn-outline" href="/Member/Signup">Sign Up</a>
+    </div>
+</div>
+
+
+
+
+    </main>
+
+
+
+
+        <footer class="border-top footer">
+    <div class="container">
+
+        <div class="footer__nav">
+            <p class="doNotSellOptOut">
+                <button id="doNotSellOptOutLink" class="textBtn">Do Not Sell or Share My Personal Information / Opt-Out of Targeted Advertising</button>
+            </p>
+            <ul>
+                <li><a href="https://www.pg.com/en_US/terms_conditions/index.shtml" target="_blank">Terms and Conditions</a></li>
+                <li><a href="https://privacypolicy.pg.com/en/#statePrivacyNotice" target="_blank">Privacy</a></li>
+                <li><a href="https://www.pg.com/privacy/english/privacy_statement.shtml#cookies" target="_blank">About Cookies</a></li>
+                <li><a href="https://preferencecenter.pg.com/en-us/" target="_blank">Your Privacy Choices <img src="/images/privacyoptions.svg" alt="CCPA Icon" /></a></li>
+                <li><a href="mailto:pamperspro.im@pg.com" target="_blank">Contact Us</a></li>                
+            </ul>
+        </div>
+        <div class="footer__copyright">Trust is a cornerstone of our corporate mission, and the success of our business depends on it. P&G is committed to maintaining your trust by protecting personal information we collect about you, our consumers. Click Here for the full details of our Privacy Statement.</div>
+
+    </div>
+</footer>
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="/datatables/js/jquery.dataTables.js"></script>
+    <script src="/datatables/js/dataTables.bootstrap4.js"></script>
+    <script src="/datatables/js/dataTables.dataTables.js"></script>
+    <script src="/lib/easyautocomplete/jquery.easy-autocomplete.js"></script>    
+    <script src="/lib/toaster/toastr.min.js"></script>
+    <script src="/js/site.js?v=XYfKXYLuCnN8Of-obZO_Ye3YXLjY6KFMHUvNW4wc2Bc"></script>
+    
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<script src="/lib/jquery-validation-unobtrusive/jquery.validate.overrides.js"></script>
+<script src="/lib/inputmask/jquery.inputmask.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js" integrity="sha512-dTu0vJs5ndrd3kPwnYixvOCsvef5SGYW/zSSK4bcjRBcZHzqThq7pt7PmCv55yb8iBvni0TSeIDV8RYKjZL36A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+        $(function () {
+            if ('' != '') {
+
+            swal({
+            icon: '',
+            title: '',
+            text: ''
+            });
+            }
+
+            function preventBack() { window.history.forward(); }
+            setTimeout("preventBack()", 0);
+            window.onunload = function () { null };
+
+        });
+
+
+    </script>
+    
+
+    <script src="/sweetalert/sweetalert.min.js"></script>
+    <script src="/lib/printjs/print.min.js"></script>
+</body>
+</html>

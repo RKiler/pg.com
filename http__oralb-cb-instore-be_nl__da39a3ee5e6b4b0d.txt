@@ -1,0 +1,17 @@
+200 OK
+Accept-Ranges: bytes
+Retry-Count: 0
+Etag: "4fd-5ff17e35001b3-gzip"
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+Date: Sun, 10 Mar 2024 02:24:21 GMT
+Server: Apache
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1;mode=block
+Public-Key-Pins: pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="; pin-sha256="Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys="; pin-sha256="8Rw90Ej3Ttt8RRkrg+WYDS9n7IS03bk5bjP/UXPtaY8="; max-age=3600; includeSubDomains
+Content-Security-Policy: default-src 'self' data: promolife.matomo.cloud actionapi.highco.be *.fontawesome.com *.fpapi.io eu.api.fpjs.io *.cookiefirst.com *.highco.be maps.googleapis.com ssl.google-analytics.com www.googletagmanager.com www.google-analytics.com stats.g.doubleclick.net cdn.cookielaw.org; script-src 'self' 'unsafe-eval' 'unsafe-inline' pghub.io actionapi.highco.be maps.googleapis.com cdn.matomo.cloud *.fontawesome.com cdnjs.cloudflare.com *.fpapi.io eu.api.fpjs.io ssl.google-analytics.com connect.facebook.net platform.twitter.com www.googletagmanager.com www.google-analytics.com *.addthis.com static.addtoany.com consent.cookiefirst.com *.gstatic.com *.google.com *.highco.be stats.g.doubleclick.net cdn.cookielaw.org; style-src 'self' 'unsafe-eval' 'unsafe-inline' *.fontawesome.com *.cookiefirst.com cdnjs.cloudflare.com fonts.googleapis.com cdn2.hubspot.net; img-src 'self' blob: data: promolife.matomo.cloud pixel.tapad.com *.fontawesome.com maps.gstatic.com ssl.google-analytics.com www.googletagmanager.com www.google-analytics.com stats.g.doubleclick.net cdn.cookielaw.org; font-src 'self' data: *.fontawesome.com eu.api.fpjs.io fonts.gstatic.com fonts.googleapis.com; frame-src 'self' feed.pghub.io
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+Upgrade: h2,h2c
+Last-Modified: Tue, 27 Jun 2023 08:02:26 GMT

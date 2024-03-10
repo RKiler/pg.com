@@ -1,0 +1,25 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:25:15 GMT
+Retry-Count: 0
+Vary: Accept-Encoding
+X-Permitted-Cross-Domain-Policies: all
+X-Dns-Prefetch-Control: on
+X-Xss-Protection: 1; mode=block
+Cache-Control: max-age=31536000
+Etag: "091e0922860da1:0"
+Cross-Origin-Resource-Policy: cross-origin
+Cross-Origin-Embedder-Policy: unsafe-none
+Cross-Origin-Opener-Policy: same-origin
+Referrer-Policy: no-referrer
+X-Frame-Options: SAMEORIGIN
+Pragma: no-cache
+Accept-Ranges: bytes
+X-Cache: TCP_MISS
+X-Azure-Ref: 0ChrtZQAAAAAzS/AU3DbuQrEwqsA3wz59U0pDMjExMDUxMjAxMDI1AGI3ZDcwN2ZhLWE0MGUtNDBlOS1iZjdmLTYyOGNmNTAzNGVjMg==
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src-elem 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://www.gstatic.com https://googleads.g.doubleclick.net https://www.googleadservices.com https://ssl.google-analytics.com https://www.youtube.com https://*.bazaarvoice.com https://connect.facebook.net https://stats.g.doubleclick.net https://match.adsrvr.org https://api.segment.io *.pinimg.com *.google.com *.segment.com *.jebbit.com *.crazyegg.com *.pricespider.com *.cloudflare.com *.mapbox.com youtu.be *.cookielaw.org *.onetrust.com blob: feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-eval' https://tagmanager.google.com https://*.googletagmanager.com https://www.youtube.com https://*.bazaarvoice.com https://connect.facebook.net https://stats.g.doubleclick.net https://match.adsrvr.org https://api.segment.io *.pinimg.com *.google.com *.segment.com *.jebbit.com *.crazyegg.com *.pricespider.com *.cloudflare.com *.mapbox.com youtu.be *.cookielaw.org *.onetrust.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' https://tagmanager.google.com https://fonts.googleapis.com https://cdn.fonts.net https://*.bazaarvoice.com https://connect.facebook.net https://stats.g.doubleclick.net https://match.adsrvr.org https://api.segment.io *.pinimg.com *.google.com *.segment.com *.jebbit.com *.crazyegg.com *.pricespider.com *.cloudflare.com *.mapbox.com *.cookielaw.org *.onetrust.com blob: feed.pghub.io pandg.tapad.com ; font-src 'self' https://fonts.gstatic.com https://assets.ctfassets.net https://*.bazaarvoice.com https://connect.facebook.net https://stats.g.doubleclick.net https://match.adsrvr.org https://api.segment.io *.pinimg.com *.google.com *.segment.com *.crazyegg.com *.jebbit.com *.pricespider.com *.cloudflare.com *.mapbox.com *.cookielaw.org *.onetrust.com data: blob: feed.pghub.io pandg.tapad.com ; img-src 'self' https://www.googletagmanager.com https://ssl.gstatic.com https://www.google.co.in https://ad.doubleclick.net https://images.ctfassets.net https://www.google-analytics.com https://stats.g.doubleclick.net https://match.adsrvr.org- https://api.segment.io *.pinimg.com *.google.com *.segment.com *.jebbit.com https://*.google-analytics.com https://*.googletagmanager.com https://pixel.tapad.com/ https://*.bazaarvoice.com https://connect.facebook.net *.crazyegg.com *.pricespider.com *.cloudflare.com *.mapbox.com *.cookielaw.org *.onetrust.com data: blob: feed.pghub.io pandg.tapad.com ; frame-src https://www.googletagmanager.com https://videos.ctfassets.net *.doubleclick.net https://12432519.fls.doubleclick.net https://www.youtube.com https://www.youtube-nocookie.com https://consumersupport.pg.com https://connect.facebook.net https://stats.g.doubleclick.net https://match.adsrvr.org https://api.segment.io *.pinimg.com *.google.com *.segment.com *.jebbit.com *.crazyegg.com *.pricespider.com *.cloudflare.com *.mapbox.com *.cookielaw.org *.onetrust.com youtu.be blob: feed.pghub.io pandg.tapad.com ; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://cdn.contentful.com https://ggogkho1ct-dsn.algolia.net *.contentful.com *.algolianet.com *.jebbit.com *.azure-api.net *.crazyegg.com *.pricespider.com *.cloudflare.com *.mapbox.com *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ;
+X-Content-Type-Options: nosniff
+Permissions-Policy: camera=(), microphone=(), geolocation=()
+X-Azure-Ref-Originshield: 0ChrtZQAAAAD8oqJg+L/4QYt+erwoB2nhU0pDMjExMDUxMjA4MDMxAGI3ZDcwN2ZhLWE0MGUtNDBlOS1iZjdmLTYyOGNmNTAzNGVjMg==
+Content-Type: text/html
+Last-Modified: Thu, 15 Feb 2024 16:03:54 GMT
+Strict-Transport-Security: max-age=31536000

@@ -1,0 +1,16 @@
+200 OK
+X-Cache: CONFIG_NOCACHE
+X-Frame-Options: DENY
+Content-Type: text/html
+Last-Modified: Thu, 29 Feb 2024 05:20:52 GMT
+Etag: "012fffcf6ada1:0"
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 02RrtZQAAAAAz4XfXWt5QT5PR0yq+njqRU0pDMjExMDUxMjAxMDI3AGI3M2NkNDQzLThjMWItNDI1Ni1iNzI1LTJhNTNlYmUzMzMxYw==
+Cache-Control: no-cache, no-store, must-revalidate
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src https://* 'self' data: https: blob: feed.pghub.io pandg.tapad.com ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ; frame-ancestors * 'self' data: https: blob: ;
+Date: Sun, 10 Mar 2024 02:28:41 GMT
+Accept-Ranges: bytes
+Retry-Count: 0

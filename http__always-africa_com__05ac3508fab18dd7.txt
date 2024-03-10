@@ -1,0 +1,18 @@
+200 OK
+Last-Modified: Fri, 08 Mar 2024 10:21:08 GMT
+Accept-Ranges: bytes
+X-Xss-Protection: 1;mode=block
+Cache-Control: max-age=0
+Content-Type: text/html
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=619f09957c32de59b5088c218078151258f6aee0cd5c7a86d05f1702ff4dba85;Path=/;HttpOnly;Secure;Domain=always-africa.com ARRAffinitySameSite=619f09957c32de59b5088c218078151258f6aee0cd5c7a86d05f1702ff4dba85;Path=/;HttpOnly;SameSite=None;Secure;Domain=always-africa.com
+X-Azure-Ref: 0rxntZQAAAAAeZF0QwmNVT4unjd9yEtXrU0pDMjExMDUxMjAxMDI5AGU2OWU0MGEwLTUwOWUtNDExNy04Y2JmLTUwMWZjZjBmODIyOA==
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload;
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src https://* 'self' data: https: blob: feed.pghub.io pandg.tapad.com ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ; frame-ancestors * 'self' data: https: blob: ;
+X-Azure-Ref-Originshield: 0rxntZQAAAABA0oZnafXUT7KkOZRzTDxwU0pDMjExMDUxMjA4MDQ3AGU2OWU0MGEwLTUwOWUtNDExNy04Y2JmLTUwMWZjZjBmODIyOA==
+Etag: "082ac554271da1:0"
+X-Cache: TCP_MISS
+X-Content-Type-Options: nosniff
+Date: Sun, 10 Mar 2024 02:23:42 GMT

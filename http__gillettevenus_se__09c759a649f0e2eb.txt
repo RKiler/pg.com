@@ -1,0 +1,17 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Etag: "09f9fa5d96ada1:0"
+Set-Cookie: ARRAffinity=ff04e7b726e3bc169c12efae9011c9b5cc9663f22dd8a0aa2616e384b3349d41;Path=/;HttpOnly;Secure;Domain=www.gillettevenus.se
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Cache: CONFIG_NOCACHE
+Date: Sun, 10 Mar 2024 02:24:56 GMT
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://tr.snapchat.com https://sc-static.net https://analytics.tiktok.com https://pghub.io cdn.cookielaw.org *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' https://tr.snapchat.com https://cdn.cookielaw.org images.ctfassets.net pixel.tapad.com *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' fonts.gstatic.com feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' https://tr.snapchat.com https://pandg.tapad.com *.adsrvr.org *.doubleclick.net *.jebbit.com consumersupport.pg.com servedby.flashtalking.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com feed.pghub.io pandg.tapad.com ; manifest-src * ;
+X-Azure-Ref: 0+RntZQAAAAA/eyG1GddaSp00bEqhlxJ9U0pDMjExMDUxMjAyMDI5AGNjM2MzODhlLTBkMTQtNDk2Yi04ZTdhLWJjZGZlNGYxY2JmOQ==
+Content-Type: text/html
+Last-Modified: Thu, 29 Feb 2024 06:36:38 GMT
+X-Frame-Options: DENY

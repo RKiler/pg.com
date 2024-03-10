@@ -1,0 +1,17 @@
+200 OK
+Content-Type: text/html
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=d72333b0aafa520ce46b00bba3180554765c2a73662caf9d0bc9235aa10907a3;Path=/;HttpOnly;Secure;Domain=rejoice.co.id
+Last-Modified: Wed, 06 Mar 2024 07:01:54 GMT
+X-Cache: TCP_MISS
+X-Azure-Ref: 0CRrtZQAAAABwI51iybbLSoIxFvjv8L7wU0pDMjExMDUxMjAyMDUxAGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref-Originshield: 0CRrtZQAAAACQYwVXZ8+DTLuu3A071fWYU0pDMjExMDUxMjA3MDM1AGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Date: Sun, 10 Mar 2024 02:25:13 GMT
+Cache-Control: public, max-age=0, must-revalidate
+Etag: "05db52b946fda1:0"
+Strict-Transport-Security: max-age=31536000; includeSubdomains

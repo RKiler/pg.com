@@ -1,0 +1,15 @@
+200 OK
+Content-Security-Policy: default-src 'self'; child-src blob:; media-src * 'self' data: https: blob:; style-src 'self' 'unsafe-inline' *.pricespider.com *; img-src * 'self' data: https: blob: *.pricespider.com; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; font-src * data: https:; frame-src *;
+X-Azure-Ref: 0ThjtZQAAAAAGVs+in8T4RLoG4szNyi7gU0pDMjExMDUxMjAyMDQ5AGI3M2NkNDQzLThjMWItNDI1Ni1iNzI1LTJhNTNlYmUzMzMxYw==
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Wed, 06 Mar 2024 13:09:46 GMT
+Accept-Ranges: bytes
+Etag: "049a58fc76fda1:0"
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+Content-Length: 185669
+X-Xss-Protection: 1;mode=block
+X-Cache: CONFIG_NOCACHE
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:17:50 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: ARRAffinity=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;Secure;Domain=www.oralb.com.br ARRAffinitySameSite=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.oralb.com.br

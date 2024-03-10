@@ -1,0 +1,17 @@
+200 OK
+Etag: "slc74uec8fysm"
+Vary: Accept-Encoding
+X-Nextjs-Cache: HIT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+Set-Cookie: ARRAffinity=bdff23e9759473cda409525ea09367c84a4d64764bf028e6528bc01d22483604;Path=/;HttpOnly;Secure;Domain=preferencecenter.pg.com ARRAffinitySameSite=bdff23e9759473cda409525ea09367c84a4d64764bf028e6528bc01d22483604;Path=/;HttpOnly;SameSite=None;Secure;Domain=preferencecenter.pg.com
+Request-Context: appId=cid-v1:a5d2fbdc-1a1c-41e3-adf9-f51d399b4454
+X-Permitted-Cross-Domain-Policies: master-only
+X-Xss-Protection: 1;mode=block
+Date: Sun, 10 Mar 2024 02:24:15 GMT
+X-Powered-By: Next.js
+Content-Security-Policy: default-src 'self';             style-src 'self' 'unsafe-inline' *;             img-src * 'self' data: https: blob:;             script-src-elem 'self' 'unsafe-inline' 'unsafe-eval' https://pghub.io https://pixel.tapad.com https://pghub.io/js/pandg-sdk.js https://www.googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com https://www.youtube.com https://connect.facebook.net *.cookielaw.org *.onetrust.com *.segment.com https://www.google.com/recaptcha/api.js https://www.gstatic.com blob:;             script-src 'self' 'unsafe-inline' 'unsafe-eval' https://pghub.io https://pixel.tapad.com https://pghub.io/js/pandg-sdk.js https://tagmanager.google.com https://*.googletagmanager.com https://www.youtube.com https://connect.facebook.net *.cookielaw.org *.onetrust.com *.segment.com https://www.google.com/recaptcha/api.js https://www.gstatic.com blob:;             connect-src * data: blob: 'unsafe-inline';             font-src * data: blob: 'unsafe-inline';             frame-src *;             object-src 'self';             frame-ancestors * 'self' data: https: blob:
+Cache-Control: s-maxage=31536000, stale-while-revalidate,must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains

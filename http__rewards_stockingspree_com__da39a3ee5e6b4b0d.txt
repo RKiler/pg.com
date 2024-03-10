@@ -1,0 +1,11 @@
+200 OK
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Cache-Control: no-cache, no-store, must-revalidate, private
+Pragma: no-cache
+Retry-Count: 0
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 10 Mar 2024 02:23:50 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubdomains;
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff

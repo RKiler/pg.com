@@ -1,0 +1,22 @@
+200 OK
+Last-Modified: Wed, 15 Nov 2023 06:41:35 GMT
+Vary: Accept-Encoding
+X-Ms-Request-Id: 6ac6e6a2-501e-0059-1a94-6f6f73000000
+X-Xss-Protection: 1
+Referrer-Policy: no-referrer
+Accept-Ranges: bytes
+Age: 329160
+Cache-Control: no-cache, no-store
+Etag: "0x8DBE5A5E9AAE98B"
+X-Ms-Error-Code: ConditionNotMet
+X-Ms-Version: 2018-03-28
+X-Frame-Options: DENY
+Content-Type: text/html
+Content-Md5: D/pyAJYqRHrZ/wB1fK82nw==
+Pragma: no-cache
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Content-Type-Options: nosniff
+Date: Sun, 10 Mar 2024 02:26:41 GMT
+Content-Security-Policy: default-src https://api.segment.io/ https://static.klaviyo.com https://haircodeprod.azureedge.net/ https://haircodestorageprod.z20.web.core.windows.net/ https://tagmanager.google.com https://www.facebook.com https://fonts.googleapis.com  'unsafe-inline' 'self'; img-src https://youradchoices.com/ https://images.ctfassets.net https://haircodelaassetsprod.azureedge.net/ https://pixel.tapad.com/ https://www.google.co.in/ https://www.google.com.ar/ https://pixel.mathtag.com/ https://www.googletagmanager.com/ https://cdn.cookielaw.org/ https://haircodeimages.azureedge.net/ https://t.co/ https://googleads.g.doubleclick.net https://www.google.com https://scontent-ort2-2.cdninstagram.com https://c.evidon.com https://instagram.fluk1-1.fna.fbcdn.net/ https://scontent-ort2-1.cdninstagram.com https://scontent-iad3-1.cdninstagram.com https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com https://a.klaviyo.com/api/track https://a.klaviyo.com/api/identify https://stats.g.doubleclick.net/r/collect https://instagram.fluk1-1.fna.fbcdn.net/ https://user-event-tracker.crazyegg.com/ https://haircodeprod.azureedge.net/ https://haircodeassetsprod.azureedge.net/ https://haircodelaassetsprod.azureedge.net/ https://haircode.azurewebsites.net/ https://haircodestorageprod.z20.web.core.windows.net/  https://www.google-analytics.com https://c.betrad.com https://l.betrad.com https://www.facebook.com https://ssl.gstatic.com https://www.gstatic.com 'self' data:; script-src 'unsafe-inline' 'unsafe-eval'  https://cdn.segment.com/ https://pixel.mathtag.com/ https://analytics.twitter.com/ https://cdn.cookielaw.org/ https://static.ads-twitter.com/uwt.js https://www.google.com/pagead/conversion_async.js https://www.google.com/pagead/ https://www.googleadservices.com https://static.klaviyo.com https://fast.a.klaviyo.com/ https://static.klaviyo.com/onsite/js/klaviyo.js https://s3.amazonaws.com/ https://script.crazyegg.com/ https://haircodeprod.azureedge.net/ https://connect.facebook.net https://tagmanager.google.com https://www.googletagmanager.com https://c.betrad.com https://optout.betrad.com https://www.google-analytics.com/ https://ajax.googleapis.com/ http://js.agkn.com https://haircodestorageprod.z20.web.core.windows.net/ https://haircode.azurewebsites.net/ https://pghub.io/ 'self'; connect-src https://api.segment.io/ https://cdn.cookielaw.org/ https://instore-latam.haircode.com/ https://graphql.contentful.com/ https://www.facebook.com/ https://sentry.io/ https://a.klaviyo.com/ https://www.google.com https://latamhaircodeprod.azurewebsites.net https://scontent-ort2-2.cdninstagram.com/ https://instagram.fluk1-1.fna.fbcdn.net/ https://scontent-ort2-1.cdninstagram.com https://scontent-iad3-1.cdninstagram.com https://stats.g.doubleclick.net/j/collect https://telemetrics.klaviyo.com/v1/metric https://static.klaviyo.com/onsite/js/klaviyo.js https://fast.a.klaviyo.com/ https://gsp.target.com/gsp/authorizations/v1/client_tokens https://carts.target.com/order-api/cart/v5/cartitems https://gsp.target.com/gsp/authorizations/v1/client_tokens https://haircodeprod.azureedge.net/ https://haircode-functions-prod.azurewebsites.net https://haircodestorageprod.z20.web.core.windows.net/ https://www.google-analytics.com/ https://haircode.azurewebsites.net/ https://haircode.azurewebsites.net/api 'self'; frame-src https://www.facebook.com/ https://info.evidon.com/ http://d.agkn.com/  https://pandg.tapad.com/; font-src https://haircodeprod.azureedge.net/ https://assets.ctfassets.net/ https://haircodestorageprod.z20.web.core.windows.net/ https://fonts.gstatic.com/ 'self' data:; media-src https://haircodeassetsprod.azureedge.net/ https://haircodelaassetsprod.azureedge.net/ 'self';
+Retry-Count: 0
+X-Cache: HIT

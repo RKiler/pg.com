@@ -1,0 +1,15 @@
+200 OK
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Xss-Protection: 1;mode=block
+Etag: "07c10a0e6bda1:0"
+Last-Modified: Thu, 29 Feb 2024 12:55:52 GMT
+X-Content-Type-Options: nosniff
+Set-Cookie: ARRAffinity=5c32a82780eb33368b11ff2eb5b33637afebfb7ec1725af20f8f001b6551e7a9;Path=/;HttpOnly;Secure;Domain=nextof.us ARRAffinitySameSite=5c32a82780eb33368b11ff2eb5b33637afebfb7ec1725af20f8f001b6551e7a9;Path=/;HttpOnly;SameSite=None;Secure;Domain=nextof.us
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: privacytermsprod.azureedge.net *.ctfassets.net *.googletagmanager.com *.google-analytics.com  *.googletagmanager.com api.ipify.org *.cookielaw.org *.onetrust.com *.moatads.com *.mimecast.com *.adsrvr.org *.pghub.io *.tapad.com *.akamaihd.net consumersupport.pg.com *.bootstrapcdn.com *.force.com *.dynatrace.com *.doubleclick.net *.bazaarvoice.com *.pricespider.com;
+Date: Sun, 10 Mar 2024 02:19:17 GMT
+Accept-Ranges: bytes
+Retry-Count: 0
+Cache-Control: max-age=31536000,max-age=31536000
+Strict-Transport-Security: max-age=8995000; includeSubdomains

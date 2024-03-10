@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+X-Unbounce-Pageid: 7eb7d188-ae9f-4f14-b305-d1bcc13eab2d
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: ubvs=70615205-b752-4602-9eb9-bbd825e3f2ff; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C70615205-b752-4602-9eb9-bbd825e3f2ff%7C7eb7d188-ae9f-4f14-b305-d1bcc13eab2d%3Aac%3Aweighted; Max-Age=259200; Domain=oralb-latam.com; Path=/; SameSite=Lax ubpv=ac%2C7eb7d188-ae9f-4f14-b305-d1bcc13eab2d; Max-Age=15897600; Path=/portafolio_pe/; SameSite=Lax
+Cf-Ray: 861fcf87fa60f9e4-SJC
+Date: Sun, 10 Mar 2024 02:17:50 GMT
+Retry-Count: 0
+Content-Location: https://cepilloselectricos.oralb-latam.com/portafolio_pe/
+Link: <https://cepilloselectricos.oralb-latam.com/portafolio_pe/>; rel="canonical"
+X-Unbounce-Variant: ac
+X-Unbounce-Visitorid: 70615205-b752-4602-9eb9-bbd825e3f2ff
+Server: cloudflare
+Etag: "ac:70615205b75246029eb9bbd825e3f2ff"

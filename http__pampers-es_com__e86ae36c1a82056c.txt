@@ -1,0 +1,21 @@
+200 OK
+Last-Modified: Thu, 07 Mar 2024 08:44:18 GMT
+Access-Control-Allow-Methods: GET, POST, OPTIONS GET, POST, OPTIONS
+X-Frame-Options: SAMEORIGIN SAMEORIGIN
+X-Ua-Compatible: IE=Edge IE=Edge
+X-Powered-By: ARR/3.0
+X-Azure-Ref-Originshield: 0TxzqZQAAAACqWYg/TfQATJzwnGo+xBs0U0pDMjExMDUxMjA4MDM3ADZmZDM5MzEzLTk4ZWYtNGEwYy1hZmYxLTI1MmE2M2UyMTM2Mg==
+Content-Type: text/html
+Vary: Accept-Encoding,Accept-Encoding,Accept-Encoding
+Cache-Control: max-age=31536000
+X-Xss-Protection: 1 1
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff nosniff
+X-Azure-Ref: 0rhrtZQAAAAD3NaTz9jdATa2hy7yeYQvGU0pDMjExMDUxMjAxMDQ5ADZmZDM5MzEzLTk4ZWYtNGEwYy1hZmYxLTI1MmE2M2UyMTM2Mg==
+Date: Sun, 10 Mar 2024 02:27:57 GMT
+X-Cache: TCP_HIT
+Retry-Count: 0
+Etag: "01d3ba46b70da1:0"
+Access-Control-Allow-Origin: * *
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: frame-ancestors 'self' https://pge.segmanta.com https://www.babylist.com shop.pampers.com frame-ancestors 'self' https://pge.segmanta.com https://www.babylist.com shop.pampers.com

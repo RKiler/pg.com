@@ -1,0 +1,18 @@
+200 OK
+Etag: "01c604c75eda1:0"
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Retry-Count: 0
+Content-Length: 87919
+Last-Modified: Mon, 12 Feb 2024 23:00:40 GMT
+X-Azure-Ref: 20240310T022109Z-m817g9ppa91hx5wy6xcdyppn4800000000ag00000000518d
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+Cache-Control: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Fd-Int-Roxy-Purgeid: 66773962
+X-Cache: TCP_MISS
+Accept-Ranges: bytes
+Date: Sun, 10 Mar 2024 02:21:10 GMT
+Content-Type: text/html
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: default-src 'self' *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;

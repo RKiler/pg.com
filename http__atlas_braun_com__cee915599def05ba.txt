@@ -1,0 +1,24 @@
+200 OK
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Accept-Ranges: bytes
+Last-Modified: Mon, 04 Mar 2024 14:47:28 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy: default-src 'self' https://pandg.tapad.com/ https://z.moatads.com https://feed.pghub.io https://cdn.cookielaw.org https://www.braun.de https://uk.braun.com;base-uri 'self';block-all-mixed-content;font-src 'self' https: data:;frame-ancestors 'self';img-src 'self' data: blob: https://atlas.braun.com https://cdn.cookielaw.org https://*.google-analytics.com https://pixel.tapad.com https://40n23zgkic3y-a.akamaihd.net https://px.moatads.com;object-src 'self';script-src blob: https://atlas.braun.com 'self' 'unsafe-inline' api.ipify.org 'unsafe-eval' https://cdn.cookielaw.org https://www.googletagmanager.com https://*.google-analytics.com https://pghub.io https://z.moatads.com;script-src-attr 'unsafe-inline';worker-src blob: https://atlas.braun.com 'self';script-src-elem blob: https://atlas.braun.com 'self' *.zscalertwo.net 'unsafe-inline' api.ipify.org https://*.moatads.com https://cdn.cookielaw.org https://www.googletagmanager.com https://*.google-analytics.com https://pghub.io;style-src 'self' https: 'unsafe-inline' https://www.googletagmanager.com https://fonts.googleapis.com;upgrade-insecure-requests;media-src blob: https://atlas.braun.com 'self' data:;connect-src 'self' wss://localhost:8081 https://localhost:8080 https://localhost:8081 https://z.moatads.com cognito-idp.eu-central-1.amazonaws.com https://braunatlas.auth.eu-central-1.amazoncognito.com/oauth2/token https://cookies-data.onetrust.io/bannersdk/v1/domaingroupcheck blob: https://atlas.braun.com https://cdn.cookielaw.org https://*.google-analytics.com https://analytics.google.com https://*.onetrust.com https://api.ipify.org;form-action 'self'
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Surrogate-Control: no-store
+Vary: Accept-Encoding
+Origin-Agent-Cluster: ?1
+Referrer-Policy: no-referrer
+X-Xss-Protection: 0
+Etag: W/"7a9-18e09ef1b83"
+Date: Sun, 10 Mar 2024 02:17:36 GMT
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+X-Dns-Prefetch-Control: off
+Retry-Count: 0
+Expires: 0
+Expect-Ct: max-age=0
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none

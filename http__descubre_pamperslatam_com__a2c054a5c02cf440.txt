@@ -1,0 +1,14 @@
+200 OK
+X-Unbounce-Visitorid: e539fbac-ce8f-4030-a833-d45559bcf628
+Retry-Count: 0
+X-Unbounce-Pageid: 93cc5162-e107-47d3-91b2-b2636dcefbf5
+X-Unbounce-Variant: z
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fcf9d59df16a8-SJC
+Content-Type: text/html; charset=utf-8
+Content-Location: https://descubre.pamperslatam.com/seleccion/
+Etag: "z:e539fbacce8f4030a833d45559bcf628"
+Link: <https://descubre.pamperslatam.com/seleccion/>; rel="canonical"
+Server: cloudflare
+Date: Sun, 10 Mar 2024 02:17:53 GMT
+Set-Cookie: ubvs=e539fbac-ce8f-4030-a833-d45559bcf628; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7Ce539fbac-ce8f-4030-a833-d45559bcf628%7C93cc5162-e107-47d3-91b2-b2636dcefbf5%3Az%3Asingle; Max-Age=259200; Domain=pamperslatam.com; Path=/; SameSite=Lax ubpv=z%2C93cc5162-e107-47d3-91b2-b2636dcefbf5; Max-Age=15897600; Path=/seleccion/; SameSite=Lax

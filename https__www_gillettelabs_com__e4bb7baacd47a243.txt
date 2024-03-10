@@ -1,0 +1,17 @@
+200 OK
+Cache-Control: max-age=31536000
+X-Azure-Ref: 20240310T022116Z-r74ehxe0f13vm678k1wgkrszx80000000960000000004nv4
+X-Cache: CONFIG_NOCACHE
+Date: Sun, 10 Mar 2024 02:21:16 GMT
+Last-Modified: Tue, 23 Jan 2024 13:59:00 GMT
+Set-Cookie: ARRAffinity=619f09957c32de59b5088c218078151258f6aee0cd5c7a86d05f1702ff4dba85;Path=/;HttpOnly;Secure;Domain=www.gillettelabs.com ARRAffinitySameSite=619f09957c32de59b5088c218078151258f6aee0cd5c7a86d05f1702ff4dba85;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.gillettelabs.com
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: default-src 'self' https://videos.ctfassets.net/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src * 'self' data: https: blob: ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Accept-Ranges: bytes
+Retry-Count: 0
+Content-Type: text/html
+Etag: "0aa9a5044eda1:0"
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff

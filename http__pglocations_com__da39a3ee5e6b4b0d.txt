@@ -1,0 +1,16 @@
+200 OK
+Cf-Cache-Status: DYNAMIC
+Link: <https://www.pglocations.com/wp-json/>; rel="https://api.w.org/" <https://www.pglocations.com/wp-json/wp/v2/pages/433>; rel="alternate"; type="application/json" <https://www.pglocations.com/>; rel=shortlink
+X-Cacheable: SHORT
+X-Cache: HIT: 1
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Ray: 861fd700dab824ee-SJC
+Alt-Svc: h3=":443"; ma=86400
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding,Cookie
+Server: cloudflare
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:22:56 GMT
+X-Powered-By: WP Engine
+Cache-Control: max-age=600, must-revalidate
+X-Cache-Group: normal
+Content-Type: text/html; charset=UTF-8

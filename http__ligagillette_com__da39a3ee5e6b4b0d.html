@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Super Liga Gillette</title>
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon_pwa/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon_pwa/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon_pwa/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon_pwa/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon_pwa/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon_pwa/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon_pwa/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon_pwa/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon_pwa/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/images/favicon_pwa/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_pwa/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon_pwa/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_pwa/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.webmanifest">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/images/favicon_pwa/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+	<link rel="stylesheet" href="https://cdn.roda.inf.br/lib/Bootstrap/Bootstrap_5.1.3/css/bootstrap.css">
+	<link rel="stylesheet" href="https://cdn.roda.inf.br/lib/SweetAlert/SweetAlert_11.4.6/sweetalert2.min.css">
+	<link rel="stylesheet" href="https://cdn.roda.inf.br/fonts/FontAwesome/FontAwesome_Free_6.1.1/css/all.min.css">
+	<link href="/css/Login/Index.min.css?v=uAXXObryiOPuGxdu4k1yG1d0HY6DBuEB5kh4f5aLh-I" rel="stylesheet" />
+
+</head>
+<body>
+	<div style="display: none">
+		<img src="/images/Login/Login_fundo1.jpg" alt="" />
+		<img src="/images/Login/Login_fundo_Sobre1.png" alt="" />
+		<img src="/images/Login/Login_fundo2.jpg" alt="" />
+		<img src="/images/Login/Login_fundo_Sobre2.png" alt="" />
+		<img src="/images/Login/Login_fundo3.jpg" alt="" />
+		<img src="/images/Login/Login_fundo_Sobre3.png" alt="" />
+	</div>
+
+	<div id="Login" class="Login">
+
+
+		<div class="secao-destaque">
+			<div class="container-badge-superliga">
+				<div class="badge-superliga" id="BadgeLogin"></div>
+			</div>
+		</div>
+		<div class="secao-login">
+			<div class="quadro-login" id="QuadroLogin">
+				<div class="container-login">
+					<div class="logo"><img src="/images/Login/Logo_Login_Super_Liga.png" alt="Imagem Logo Super liga" /></div>
+					<div class="secao-titulo">
+						<h1 class="titulo">Bem-vindo!</h1>
+						<div class="subtitulo">Já se cadastrou e vestiu a camisa?</div>
+					</div>
+					<form method="post" action="" class="formularioLogin" id="formularioLogin">
+						
+
+						<div class="item">
+							<label for="txtLogin" hidden>Login</label>
+							<input type="text" id="txtLogin" name="txtLogin" inputmode="email" placeholder="Digite seu e-mail..." />
+						</div>
+						<div class="item">
+							<label for="txtSenha" hidden>Senha</label>
+							<div class="container-senha">
+								<input type="password" id="txtSenha" name="txtSenha" placeholder="Digite sua senha..." />
+								<button type="button" id="btnExibirSenha" aria-label="Exibir Senha"><i class="fa-regular fa-eye-slash"></i></button>
+								<button type="button" id="btnOcultarSenha" aria-label="Ocultar Senha" style="display: none;"><i class="fa-regular fa-eye"></i></button>
+							</div>
+						</div>
+						<div class="item" id="recapcthav2"></div>
+						<div class="secao-btn">
+							<button type="submit" id="btnEntrar">Entrar em campo</button>
+						</div>
+						<div class="secao-texto-esqueci-senha">
+							<button id="btnEsqueciMinhaSenha">Esqueceu a senha?</button>
+						</div>
+					<input name="__RequestVerificationToken" type="hidden" value="CfDJ8AqH_uBzYUhMlU2v7lFUrh_fU3nl67kDLKd2tvHh13IVlPYRYgcoRR6mF2jkNmbUWxVVR8UI12O-CPIJU3rltJRLXGGCPTewXUVv-mOmrBZ8290i6coXKKtt27UBLZbyG_G-QdhzAUv-_giddHTXhkg" /></form>
+					<form method="post" action="" class="form-cadastro-login" id="formularioCadastro">
+						
+
+						<label class="info-cadastro">
+							<p>Ainda não se cadastrou?</p>
+							<p>Cadastre-se e fique pronto pro jogo.</p>
+						</label>
+						<div class="item">
+							<label for="txtLoginCadastro" hidden>Email</label>
+							<input type="text" id="txtLoginCadastro" name="txtLoginCadastro" inputmode="email" placeholder="Digite seu e-mail..." />
+						</div>
+						<div class="secao-btn">
+							<button id="btnCadastrar">Vestir a camisa</button>
+						</div>
+					<input name="__RequestVerificationToken" type="hidden" value="CfDJ8AqH_uBzYUhMlU2v7lFUrh_fU3nl67kDLKd2tvHh13IVlPYRYgcoRR6mF2jkNmbUWxVVR8UI12O-CPIJU3rltJRLXGGCPTewXUVv-mOmrBZ8290i6coXKKtt27UBLZbyG_G-QdhzAUv-_giddHTXhkg" /></form>
+					<div class="info-desenvolvimento-site">
+						<p>Site desenvolvido por Roda em parceria com Gillette. Direito de Propriedade intelectual P&G operado pelo parceiro Roda.</p>
+						<div class="item">
+							<a href="/PrivacidadeTermos">Privacidade e Termos de Uso Roda</a>
+						</div>
+					</div>
+					<div class="lsecao-login-spy">
+						<a id="linkLoginAdm" href="/LoginAdm">Área Restrita</a>
+					</div>
+					<nav>
+						<ul>
+							<li><a href="/FaleConoscoDeslogado">Fale Conosco</a></li>
+							<li><a href="https://privacypolicy.pg.com/pt-br/" target="_blank" rel="noopener" tabindex="23">Privacidade</a></li>
+							<li><a href="https://termsandconditions.pg.com/pt-br/" target="_blank" rel="noopener" tabindex="24">Termos e Condições</a></li>
+							<li><a href="https://privacypolicy.pg.com/pt-br/#iba" target="_blank" rel="noopener">AdChoices<img class="icone" src="https://youradchoices.com/DAA_style/YAC/icon.png" alt="" /></a></li>
+							<li><a href="https://www.gillette.com.br/pt-br" target="_blank" rel="noopener"><img class="img-fluid" src="/images/Login/Gillette-Rodape.png" alt="Logo Gillette"></a></li>
+						</ul>
+					</nav>
+					<div class="divisor"></div>
+					<p class="descricao-rodape">
+						Iniciativa destinada exclusivamente às equipes dos distribuidores. Complete seu cadastro e acesse o regulamento para conferir as condições de participação, premiação, lista de produtos, estados, distribuidores e atacados participantes. Em caso de dúvidas, entre em contato através do Fale Conosco.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+<script type="text/javascript">
+    if (typeof PGdataLayer == "undefined") {
+        var PGdataLayer = {};
+    }
+    PGdataLayer.GTM = {
+        'SiteCountry': '',
+        'SiteEnvironment': 'Prod',
+        'SiteHost': '',
+        'SiteTechnicalAgency': '',
+        'SiteLocalContainer': '',
+        'SiteStagingContainer': '',
+        'GoogleAnalyticsOptimizeContainerID': '',
+        'GoogleAnalyticsLocal': 'G-0L9VGB7FBW',
+        'GoogleAnalyticsLocalGA4MeasurementID': 'G-0L9VGB7FBW',
+        'GoogleAnalyticsStaging': '',
+        'GoogleAnalyticsSiteSpeedSampleRate': '',
+        'GoogleAnalyticsBrand': '',
+        'GoogleAnalyticsAllowLinker': '',
+        'GoogleAnalyticsLinkerDomains': '',
+        'ConsentOverlay': 'OneTrust',
+        'ConsentOverlayID': 'htmllang/345a4fd6-7287-4974-bd4b-b0179c37f392',
+        'SitePrivacyProtection': 'LGPD',
+        'GoogleReCaptcha': '',
+        'FacebookRemarketingID': '',
+        'FacebookConnectAppID': '',
+        'FacebookConnectLocale': '',
+        'BINPlatform': '',
+        'GoogleAnalyticsDisabled': '',
+        'Lytics': '',
+        'Segment': ''
+    }
+</script>
+
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-N94XXFB');</script>
+
+<style>
+    #btnOneTrust {
+        font-size: 10px;
+    }
+
+    #btnOneTrust, #onetrust-accept-btn-handler {
+        display: block !important;
+        position: fixed;
+        left: auto;
+        top: auto;
+        right: 3px;
+        bottom: 3px;
+        background-color: #162f76;
+        border: 1px solid #ffffff;
+        border-radius: 5px;
+        color: #ffffff;
+        transition: 0.25s;
+    }
+
+        #btnOneTrust:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+            transition: 0.25s;
+        }
+
+        #btnOneTrust:active {
+            background-color: rgba(255, 255, 255, 0.5);
+            transition: 0s;
+        }
+
+    #onetrust-banner-sdk h2,
+    #onetrust-banner-sdk p,
+    #onetrust-banner-sdk button {
+        background-color: #003DA7;
+        color: #FFFFFF;
+    }
+</style>
+
+<input name="btnOneTrust" type="button" id="btnOneTrust" class="btnOneTrust" value="Consentimento de cookies" onclick="Optanon.ToggleInfoDisplay();">
+
+	<script src="/sw.js?v=kfKsgJB0Q2C8iEWvcWQzZiVMYjqat-XOrc8WQ5_s4qE"></script>
+	<script src="https://cdn.roda.inf.br/lib/jQuery/jQuery_3.6.0/jquery-3.6.0.min.js"></script>
+	<script src="https://cdn.roda.inf.br/lib/Bootstrap/Bootstrap_5.1.3/js/bootstrap.js"></script>
+	<script src="https://cdn.roda.inf.br/lib/SweetAlert/SweetAlert_11.4.6/sweetalert2.all.min.js"></script>
+	<script src="https://cdn.roda.inf.br/lib/Inputmask/Inputmask_5.0.7/inputmask.min.js"></script>
+	<script src="https://cdn.roda.inf.br/lib/jQueryValidation/jQueryValidation_1.19.5/jquery.validate.min.js"></script>
+	<script src="https://cdn.roda.inf.br/lib/jQueryValidation/jQueryValidation_1.19.5/additional-methods.min.js"></script>
+	<script src="https://cdn.roda.inf.br/lib/jQueryBlockUI/jQueryBlockUI_2.70.0/jquery.blockUI.min.js"></script>
+	<script src="/js/Utility/Utility_Modulos.js?v=-qulGp6W4GgIDC_GZHDxVq7n__zprbtmjxGyMtaRzUI" type="module"></script>
+	<script src="/js/Utility/Utility.js?v=HvkYXLX2YUxfa8Q4PXUmrsgOiIQNlPFLgiCbQnVP01w"></script>
+	<script src="/js/Login/Index.js?v=rWglWTekwQ9We2PLOzNHeDUdhZsuea-1RloMn2D4Qks"></script>
+
+</body>
+</html>

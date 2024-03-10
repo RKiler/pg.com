@@ -1,0 +1,20 @@
+200 OK
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Sun, 10 Mar 2024 02:20:27 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Content-Security-Policy: upgrade-insecure-requests;               style-src 'self' 'unsafe-inline' *.pricespider.com *.mapbox.com feed.pghub.io pandg.tapad.com;         script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com cdn.cookielaw.org cdn.pricespider.com pghub.io *.pricespider.com cdnjs.cloudflare.com *.mapbox.com feed.pghub.io pandg.tapad.com;         worker-src 'self' blob: feed.pghub.io pandg.tapad.com;         media-src 'self' videos.ctfassets.net feed.pghub.io pandg.tapad.com;         manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com;         font-src 'self' assets.ctfassets.net fonts.gstatic.com data: feed.pghub.io pandg.tapad.com;         frame-ancestors 'none' feed.pghub.io pandg.tapad.com;         frame-src 'self' feed.pghub.io pandg.tapad.com;         img-src 'self' images.ctfassets.net pixel.tapad.com cdn.cookielaw.org *.pricespider.com *.mapbox.com data: feed.pghub.io pandg.tapad.com www.googletagmanager.com;         connect-src 'self' cdn.cookielaw.org *.google-analytics.com *.bazaarvoice.com *.pricespider.com *.mapbox.com feed.pghub.io pandg.tapad.com privacytermsprod.azureedge.net;         base-uri 'none' feed.pghub.io pandg.tapad.com;         default-src 'none' feed.pghub.io pandg.tapad.com;
+X-Azure-Ref: 20240310T022027Z-yb9sqf8b5t60fanpnyswst2sew0000000950000000005kbb
+X-Cache: PRIVATE_NOSTORE
+Content-Length: 53218
+Cache-Control: no-cache, no-store, must-revalidate
+X-Xss-Protection: 1;mode=block
+Set-Cookie: ARRAffinity=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;Secure;Domain=zzzquil.fr ARRAffinitySameSite=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;SameSite=None;Secure;Domain=zzzquil.fr
+X-Frame-Options: DENY
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Fd-Int-Roxy-Purgeid: 66771501
+Accept-Ranges: bytes
+Retry-Count: 0
+Content-Type: text/html
+Last-Modified: Tue, 05 Mar 2024 08:01:28 GMT

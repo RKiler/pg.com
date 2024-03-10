@@ -1,0 +1,14 @@
+200 OK
+Link: <https://www.braun.com.co/>; rel="canonical"
+X-Unbounce-Pageid: ebe73e6e-435c-11ed-9a67-0242ae39aed6
+X-Unbounce-Variant: a
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Content-Location: https://www.braun.com.co/
+Etag: "a:6f501fc4c3914ff38a2ef5023eb392fe"
+Set-Cookie: ubvs=6f501fc4-c391-4ff3-8a2e-f5023eb392fe; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C6f501fc4-c391-4ff3-8a2e-f5023eb392fe%7Cebe73e6e-435c-11ed-9a67-0242ae39aed6%3Aa%3Asingle; Max-Age=259200; Domain=braun.com.co; Path=/; SameSite=Lax ubpv=a%2Cebe73e6e-435c-11ed-9a67-0242ae39aed6; Max-Age=15897600; Path=/; SameSite=Lax
+Date: Sun, 10 Mar 2024 02:23:44 GMT
+Server: cloudflare
+Cf-Ray: 861fd8318a34fa9e-SJC
+X-Unbounce-Visitorid: 6f501fc4-c391-4ff3-8a2e-f5023eb392fe
+Cf-Cache-Status: DYNAMIC

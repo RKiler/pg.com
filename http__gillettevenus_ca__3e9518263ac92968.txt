@@ -1,0 +1,18 @@
+200 OK
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' pghub.io cdn.cookielaw.org *.onetrust.com *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' *.cookielaw.org *.doubleclick.net https://www.google.com https://www.google.hr images.ctfassets.net pixel.tapad.com *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' fonts.gstatic.com feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' pandg.tapad.com *.adsrvr.org *.doubleclick.net *.jebbit.com consumersupport.pg.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com feed.pghub.io ; manifest-src * ;
+X-Azure-Ref: 20240310T022031Z-mdaz7dxx290tb2eqspkqkzr7ec0000000930000000005a92
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=www.gillettevenus.ca ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.gillettevenus.ca
+X-Frame-Options: DENY
+X-Fd-Int-Roxy-Purgeid: 66876918
+Etag: "0bfa79fd56ada1:0"
+Last-Modified: Thu, 29 Feb 2024 06:07:50 GMT
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Content-Length: 106573
+Cache-Control: no-cache, no-store, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Xss-Protection: 1;mode=block
+X-Cache: PRIVATE_NOSTORE
+Date: Sun, 10 Mar 2024 02:20:31 GMT
+Content-Type: text/html

@@ -1,0 +1,15 @@
+200 OK
+X-Content-Type-Options: nosniff
+Age: 117553
+Last-Modified: Fri, 08 Mar 2024 08:45:40 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Vary: Accept-Encoding
+Retry-Count: 0
+Accept-Ranges: bytes
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com *.cookielaw.org www.google-analytics.com *.facebook.net *.doubleclick.net pghub.io *.bazaarvoice.com feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; media-src 'self' *.ctfassets.net feed.pghub.io pandg.tapad.com ; font-src 'self' feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' *.doubleclick.net *.pghub.io pgamaphc.jebbit.com consumersupport.pg.com pandg.tapad.com ; img-src 'self' data: *.ctfassets.net *.tapad.com www.google.com www.google.cz www.google-analytics.com *.cookielaw.org feed.pghub.io ; connect-src 'self' *.cookielaw.org *.google-analytics.com *.googlesyndication.com *.algolia.net *.algolianet.com feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+Content-Type: text/html
+Server: ECAcc (sac/2533)
+Date: Sun, 10 Mar 2024 02:23:52 GMT
+X-Cache: HIT
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block

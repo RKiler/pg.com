@@ -1,0 +1,14 @@
+200 OK
+Last-Modified: Tue, 05 Mar 2024 10:17:42 GMT
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=33f3ca51b54c877ea1260644cd07f20078b4adf1e8620d07188244cb6da2f26f;Path=/;HttpOnly;Secure;Domain=sk-ii.co.th ARRAffinitySameSite=33f3ca51b54c877ea1260644cd07f20078b4adf1e8620d07188244cb6da2f26f;Path=/;HttpOnly;SameSite=None;Secure;Domain=sk-ii.co.th
+Accept-Ranges: bytes
+Cache-Control: no-cache, no-store,must-revalidate
+Etag: "027a65be66eda1:0"
+X-Xss-Protection: 1;mode=block
+Content-Type: text/html
+Retry-Count: 0
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Date: Sun, 10 Mar 2024 02:16:58 GMT

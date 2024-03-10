@@ -1,0 +1,18 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:28:05 GMT
+Etag: "07efa676d58da1:0"
+Last-Modified: Mon, 05 Feb 2024 19:56:28 GMT
+X-Fd-Int-Roxy-Purgeid: 66864743
+Content-Length: 455939
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: img-src 'self' data: images.ctfassets.net *.google-analytics.com *.tapad.com *.googletagmanager.com *.fls.doubleclick.net *.facebook.com *.lytics.io *.akamaihd.net *.amazon-adsystem.com *.moatads.com *.cookielaw.org *.bazaarvoice.com *.amazonaws.com *.youtube.com *.haircode.com *.google.com *.google.ca click2cart.co click2cart.com *.click2cart.com 2cart.net haircodeassetsprod.azureedge.net haircodestorageprod.blob.core.windows.net *.adsrvr.org feed.pghub.io ; font-src 'self' data: *.haircode.com fonts.gstatic.com maxcdn.bootstrapcdn.com feed.pghub.io pandg.tapad.com ; media-src 'self' *.cloudinary.com *.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.lytics.io *.bazaarvoice.com *.amazonaws.com *.haircode.com *.googleapis.com maxcdn.bootstrapcdn.com feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: *.google.com *.google-analytics.com *.googletagmanager.com *.moatads.com *.cookielaw.org *.highdegree.io *.crazyegg.com pghub.io *.facebook.net *.segment.com *.lytics.io *.bazaarvoice.com *.amazonaws.com *.haircode.com click2cart.co click2cart.com *.click2cart.com 2cart.net *.iesnare.com *.adsrvr.org feed.pghub.io pandg.tapad.com ; connect-src 'self' kardia-nonprod.azure-api.net kardia.azure-api.net *.crazyegg.com *.google-analytics.com *.doubleclick.net *.cookielaw.org api.segment.io *.adsrvr.org *.pg.com *.bazaarvoice.com *.smartcommerce.co click2cart.co click2cart.com *.click2cart.com 2cart.net *.haircode.com privacytermsprod.azureedge.net feed.pghub.io pandg.tapad.com ; default-src 'self' *.googletagmanager.com *.fls.doubleclick.net *.tapad.com *.facebook.com *.bazaarvoice.com click2cart.co click2cart.com *.click2cart.com 2cart.net pgconsumersupport.secure.force.com *.youtube.com *.adsrvr.org pg-lex.my.salesforce-sites.com consumersupport.pg.com privacytermsprod.azureedge.net feed.pghub.io ;
+Accept-Ranges: bytes
+Retry-Count: 0
+X-Cache: TCP_REMOTE_HIT
+Content-Type: text/html
+Cache-Control: max-age=31536000,max-age=31536000
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Azure-Ref: 20240310T022805Z-mb2nzfcd952hpah81kc3cp1ta800000009d0000000002e77
+X-Cache-Info: L2_T2

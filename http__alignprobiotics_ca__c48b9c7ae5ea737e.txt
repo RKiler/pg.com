@@ -1,0 +1,16 @@
+200 OK
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+Date: Sun, 10 Mar 2024 02:27:08 GMT
+Retry-Count: 0
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Azure-Ref: 0fRrtZQAAAADDmx76W0HCQ7c546hPXCB8U0pDMjExMDUxMjAxMDM5ADNjMjFlYjVhLWFmMTAtNGI5MS1hYTA2LWI4NDE3NmRlZDI2NA==
+Cache-Control: public, max-age=31536000
+Content-Type: text/html
+Last-Modified: Wed, 14 Feb 2024 02:01:20 GMT
+Etag: "098eeb3e95eda1:0"
+X-Frame-Options: DENY
+X-Cache: TCP_MISS
+X-Azure-Ref-Originshield: 0fRrtZQAAAAB31BEezU1bQKroZkcq73hkU0pDMjExMDUxMjA3MDE3ADNjMjFlYjVhLWFmMTAtNGI5MS1hYTA2LWI4NDE3NmRlZDI2NA==

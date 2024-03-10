@@ -1,0 +1,10 @@
+404 Not Found
+Date: Sun, 10 Mar 2024 02:24:41 GMT
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Etag: "v3ccjeejdr20w"
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Set-Cookie: ARRAffinity=46a784fc070b2a9f1d72b594d549b77c4bf6d8b55b3d7c73578565abc7565585;Path=/;HttpOnly;Secure;Domain=warranty-nonprod.braun.com ARRAffinitySameSite=46a784fc070b2a9f1d72b594d549b77c4bf6d8b55b3d7c73578565abc7565585;Path=/;HttpOnly;SameSite=None;Secure;Domain=warranty-nonprod.braun.com
+Vary: Accept-Encoding
+X-Powered-By: Next.js

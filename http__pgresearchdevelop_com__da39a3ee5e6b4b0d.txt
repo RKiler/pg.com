@@ -1,0 +1,17 @@
+200 OK
+Content-Security-Policy: default-src 'self' *.crazyegg.com feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://api.tiles.mapbox.com https://www.lightboxcdn.com https://api.lightboxcdn.com https://pge.segmanta.com https://www.upsellit.com https://s.pinimg.com https://z.moatads.com https://c.lytics.io https://cdn.segment.com https://js-cdn.dynatrace.com https://www.youtube.com https://pghub.io cdn.cookielaw.org *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.crazyegg.com https://api.tiles.mapbox.com https://s3.lightboxcdn.com https://api.lightboxcdn.com https://www.lightboxcdn.com https://c.lytics.io fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' https://assets.ctfassets.net https://videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' *.crazyegg.com https://cdn.cookielaw.org https://40n23zgkic3y-a.akamaihd.net https://ct.pinterest.com https://submit.lightboxcdn.com https://submitcus.lightboxcdn.com https://s3.lightboxcdn.com https://api.lightboxcdn.com https://www.lightboxcdn.com https://c.lytics.io https://px.moatads.com https://www.google.com i.ytimg.com videos.ctfassets.net images.ctfassets.net pixel.tapad.com *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' https://s3.lightboxcdn.com fonts.gstatic.com feed.pghub.io pandg.tapad.com ; connect-src * *.crazyegg.com ; frame-src 'self' *.crazyegg.com https://videos.ctfassets.net https://pandg.tapad.com https://youtu.be https://www.youtube-nocookie.com https://www.youtube.com *.adsrvr.org *.doubleclick.net *.jebbit.com consumersupport.pg.com servedby.flashtalking.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com feed.pghub.io pandg.tapad.com ; manifest-src * ;
+Last-Modified: Wed, 06 Mar 2024 08:33:32 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: DENY
+Retry-Count: 0
+Accept-Ranges: bytes
+Etag: "096c5f8a06fda1:0"
+Vary: Accept-Encoding
+Date: Sun, 10 Mar 2024 02:23:24 GMT
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: text/html
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=pgresearchdevelop.com ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=pgresearchdevelop.com
+X-Xss-Protection: 1;mode=block
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0nRntZQAAAAAmjIsIdCgvQbUVt/2OncMTU0pDMjExMDUxMjAyMDIxADhkNTBiN2Y0LWJhMjctNDA4Zi05OTU1LTAyY2YxZDcyNDY3OQ==

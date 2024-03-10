@@ -1,0 +1,22 @@
+200 OK
+Set-Cookie: fornax_anonymousId=1b97da63-62d0-41bf-84eb-56ce6e0308e0; Expires=Tue, 10 Mar 2026 02:20:43 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=52ad9004-eef2-4d24-abb0-e6440cc001a3:1710037243; Expires=Sun, 10 Mar 2024 02:50:43 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=99EBDDB92EA7E08BC5B45036D0A2829D9A853738-1710642043608-x%7B%22cur%22%3A%22HKD%22%7D; Expires=Sun, 17 Mar 2024 02:20:43 GMT; Path=/; HttpOnly XSRF-TOKEN=106ec8a6ad75395e554a515dfd78430178a43619f6f93575e9e5545261e6c2ec; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=22d3f5d0-75e9-444c-9940-ed6ccce0a4fc; Expires=Sun, 17 Mar 2024 02:20:43 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Alt-Svc: h3=":443"; ma=86400
+Date: Sun, 10 Mar 2024 02:20:43 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=A6p1CevvcJDxy%2F7A2StLfs5laBZNbP9IQnW6dY%2Bv4b0mI1pxfn675blsxOTeuQLPYFzsBKLdG8W2sjplZNuY5snEQXRc3JVadqncvIG9uOHoJkfo%2FJ5iBcuG42yxXT7QzEJptxXYOKdSb%2B0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Retry-Count: 0
+Vary: Accept-Encoding
+Cache-Control: no-store, no-cache, must-revalidate
+X-Frame-Options: deny
+Server: cloudflare
+X-Content-Type-Options: nosniff
+X-Request-Id: 0bf3031ab33169230d39d831bc3169d8
+Link: <https://www.powr.io/powr.js?external-type=bigcommerce>; rel=preload; as=script <https://cdn11.bigcommerce.com/s-vmm76pk5n1/stencil/7511c400-7705-013c-cc2d-52867ecfc7a5/e/d2213160-0955-013a-8622-4ac77193eb05/css/theme-8a7aa690-7705-013c-888b-463db631561d.css>; rel=preload; as=style
+Pragma: no-cache
+Cf-Cache-Status: DYNAMIC
+Bc-Ray: 1
+Cf-Ray: 861fd3c17a42234f-SJC
+X-Permitted-Cross-Domain-Policies: none

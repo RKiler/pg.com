@@ -1,0 +1,18 @@
+200 OK
+Content-Type: text/html
+Set-Cookie: ARRAffinity=0e40f5af6b151dd645fb0f2563d0ddb921ddef65df55bbc2e6347d26aaa55848;Path=/;HttpOnly;Secure;Domain=www.headandshoulders.com.my ARRAffinitySameSite=0e40f5af6b151dd645fb0f2563d0ddb921ddef65df55bbc2e6347d26aaa55848;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.headandshoulders.com.my
+X-Fd-Int-Roxy-Purgeid: 66709982
+Date: Sun, 10 Mar 2024 02:19:29 GMT
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Content-Length: 58751
+Cache-Control: public, max-age=0, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Azure-Ref: 20240310T021928Z-u7e8y414zh7v56zh8m4kfgcey00000000950000000007237
+Accept-Ranges: bytes
+Etag: "07230dc2066da1:0"
+Last-Modified: Fri, 23 Feb 2024 06:23:48 GMT
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+X-Cache: TCP_MISS

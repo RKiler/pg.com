@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Date: Sun, 10 Mar 2024 02:19:26 GMT
+Retry-Count: 0
+Set-Cookie: AWSALB=J+LjLAjBfRDYiDS3QBnTZOOkvO1nTVmH0lTnFI6Nhhmxq9O8hBVUJWSbnveI17jVGugBufwmhWqctXhBnCNnSWwBVkMgc1yOzl9NToB9cxD8wlXbCbgRo02sRniM; Expires=Sun, 17 Mar 2024 02:19:26 GMT; Path=/ AWSALBCORS=J+LjLAjBfRDYiDS3QBnTZOOkvO1nTVmH0lTnFI6Nhhmxq9O8hBVUJWSbnveI17jVGugBufwmhWqctXhBnCNnSWwBVkMgc1yOzl9NToB9cxD8wlXbCbgRo02sRniM; Expires=Sun, 17 Mar 2024 02:19:26 GMT; Path=/; SameSite=None; Secure PHPSESSID=bapa996j20q58pjse3k1idr842; path=/; secure; HttpOnly
+Server: Apache
+Referrer-Policy: origin
+Pragma: no-cache
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000 preload
+Upgrade: h2,h2c

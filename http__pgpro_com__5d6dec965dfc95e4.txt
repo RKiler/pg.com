@@ -1,0 +1,15 @@
+200 OK
+Accept-Ranges: bytes
+Last-Modified: Wed, 14 Feb 2024 11:35:52 GMT
+Set-Cookie: ARRAffinity=1677abd5686e3fb8ec26e207d367727ba84b7291afcf423565c40da64e00da23;Path=/;HttpOnly;Secure;Domain=pgpro.com ARRAffinitySameSite=1677abd5686e3fb8ec26e207d367727ba84b7291afcf423565c40da64e00da23;Path=/;HttpOnly;SameSite=None;Secure;Domain=pgpro.com
+X-Frame-Options: DENY
+Date: Sun, 10 Mar 2024 02:26:19 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+Content-Type: text/html
+Vary: Accept-Encoding
+Content-Security-Policy: default-src *.ctfassets.net 'self'; style-src *.pricespider.com *.lytics.io *.fonts.net 'self' 'unsafe-inline'; img-src *.tapad.com *.ctfassets.net *.google-analytics.com *.lytics.io *.google.com *.google.co.in 'self' data: https: blob:; script-src *.youtube.com *.youtube-nocookie.com *.qualtrics.com *.moatads.com pghub.io *.google.com *.gstatic.com *.googletagmanager.com *.google-analytics.com *.cookielaw.org *.lytics.io *.pricespider.com *.segment.com *.facebook.net *.doubleclick.net js.adsrvr.org pghub.io *.google.com *.google.co.in data: blob: 'self' 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; font-src 'self' data: blob: 'unsafe-inline'; frame-src *.facebook.com *.pghub.io pgbrandsweb.esecurecare.net *.google.com *.doubleclick.net *.adsrvr.org *.ctfassets.net *.youtube.com *.youtube-nocookie.com *.tapad.com; frame-ancestors 'self' *.facebook.com *.pghub.io pgbrandsweb.esecurecare.net *.google.com *.doubleclick.net *.adsrvr.org *.ctfassets.net *.youtube.com *.youtube-nocookie.com *.tapad.com data: https: blob:
+Retry-Count: 0
+Cache-Control: public, max-age=0, must-revalidate
+Etag: "05cd8f6395fda1:0"

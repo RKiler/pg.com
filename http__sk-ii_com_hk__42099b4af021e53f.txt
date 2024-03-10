@@ -1,0 +1,14 @@
+200 OK
+Cache-Control: no-cache, no-store,must-revalidate
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Last-Modified: Tue, 05 Mar 2024 10:18:44 GMT
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+Date: Sun, 10 Mar 2024 02:18:00 GMT
+Retry-Count: 0
+Etag: "09a9a80e66eda1:0"
+Set-Cookie: ARRAffinity=432b15cd0dc02aa0319dccaa6f12360abe2af01eb575bbadd296a553c4c8485a;Path=/;HttpOnly;Secure;Domain=sk-ii.com.hk ARRAffinitySameSite=432b15cd0dc02aa0319dccaa6f12360abe2af01eb575bbadd296a553c4c8485a;Path=/;HttpOnly;SameSite=None;Secure;Domain=sk-ii.com.hk
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1;mode=block

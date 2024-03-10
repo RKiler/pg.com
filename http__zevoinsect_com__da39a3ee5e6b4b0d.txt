@@ -1,0 +1,22 @@
+200 OK
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: script-src blob: api.ipify.org getshogun-cache-production.s3.amazonaws.com gateway.zscalertwo.net m.addthisedge.com m.addthis.com cdn.ravenjs.com www.dttrpx.com h.online-metrix.net zevoinsect.com zevo-insect.mybigcommerce.com *.bazaarvoice.com s.ytimg.com www.youtube.com *.simpli.fi mpsnare.iesnare.com www.google.com www.gstatic.com script.crazyegg.com ajax.googleapis.com *.ajax.googleapis.com *.adsrvr.org *.klaviyo.com *.google-analytics.com *.betrad.com *.findzevo.com *.zevooffer.com *.googletagmanager.com *.microsoft.com *.bigcommerce.com www.googleadservices.com *.doubleclick.net tagmanager.google.com *.facebook.net *.privy.com *.mapbox.com *.entrust.net *.pricespider.com *.pypestream.com *.getshogun.com z.moatads.com js.agkn.com s7.addthis.com *.cloudfront.net *.cookielaw.org code.jquery.com geolocation.onetrust.com *.tiktok.com *.paypalobjects.com *.paypal.com optanon.blob.core.windows.net pghub.io s.yimg.com aa.agkn.com bat.bing.com *.taboola.com *.analytics.yahoo.com 'self' *.criteo.com *.criteo.net *.jebbit.com *.instagram.com *.pinterest.com *.pinimg.com 'unsafe-inline' 'unsafe-eval';
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=URlMAX8oe2VEE5mWn2%2BYuiDiPah6Ine52QS%2FVXs3PdK6pTsgeDvezyxbkGs3TXCDikc7cOi5Cb94DBIanZzqq34HB5TvR34V2Z%2F1TS5jQ6MLcIH%2Ff2ztqN9sgqTdpnXu"}],"group":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Alt-Svc: h3=":443"; ma=86400
+Date: Sun, 10 Mar 2024 02:27:58 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+X-Request-Id: 32b871b6afaedc6ce6abd4a4b925b21c
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: sameorigin
+Retry-Count: 0
+Server: cloudflare
+Cf-Ray: 861fde61da559429-SJC
+Set-Cookie: fornax_anonymousId=5a0fd845-b481-4c0c-b7f8-ae728937c5f2; Expires=Tue, 10 Mar 2026 02:27:58 GMT; Path=/; Secure athena_short_visit_id=30d6c579-8215-448d-8179-ba85d81512ec:1710037678; Expires=Sun, 10 Mar 2024 02:57:58 GMT; Path=/; Secure; HttpOnly Shopper-Pref=BE9EEBD404E318E709B54FBCDAC3B99CF50DDE55-1710642478775-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:27:58 GMT; Path=/; HttpOnly XSRF-TOKEN=6a6a92cb8d8c8683ce18fd6bb5630d8738411235aad0b5e9476f6e497ca791e0; path=/; Secure SHOP_SESSION_TOKEN=2f4258a4-3b09-44dd-9eed-789cadbae081; Expires=Sun, 17 Mar 2024 02:27:58 GMT; Path=/; Secure; HttpOnly

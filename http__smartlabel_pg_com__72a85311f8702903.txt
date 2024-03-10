@@ -1,0 +1,15 @@
+200 OK
+X-Frame-Options: ALLOW FROM https://smartlabel.pg.com/
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Fri, 09 Feb 2024 10:20:42 GMT
+Pragma: no-cache
+Vary: Accept-Encoding
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Date: Sun, 10 Mar 2024 02:21:20 GMT
+Cache-Control: public,max-age=31536000,no-cache, no-store
+Etag: "0399ca2415bda1:0"
+Set-Cookie: ARRAffinity=a5f65112726a653ef642ee052197e4e84fef97c43a67c927e5ca68c4fbe70a18;Path=/;HttpOnly;Secure;Domain=az-na-smartlabel-prod-webapp.azurewebsites.net ARRAffinitySameSite=a5f65112726a653ef642ee052197e4e84fef97c43a67c927e5ca68c4fbe70a18;Path=/;HttpOnly;SameSite=None;Secure;Domain=az-na-smartlabel-prod-webapp.azurewebsites.net
+X-Content-Type-Options: nosniff

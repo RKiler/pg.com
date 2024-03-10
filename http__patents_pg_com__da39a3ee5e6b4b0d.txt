@@ -1,0 +1,16 @@
+200 OK
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1;mode=block
+Retry-Count: 0
+Accept-Ranges: bytes
+Etag: "0d413ed4671da1:0"
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Date: Sun, 10 Mar 2024 02:19:05 GMT
+Server: Microsoft-IIS/10.0
+Last-Modified: Fri, 08 Mar 2024 10:54:00 GMT
+Set-Cookie: ARRAffinity=74c9eb10b2e9067ce984448fed302dfef7eda81898745ce711a9ae356802811a;Path=/;HttpOnly;Secure;Domain=www.pg.com ARRAffinitySameSite=74c9eb10b2e9067ce984448fed302dfef7eda81898745ce711a9ae356802811a;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.pg.com
+Content-Type: text/html
+Cache-Control: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY

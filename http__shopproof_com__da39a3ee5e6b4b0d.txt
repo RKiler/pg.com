@@ -1,0 +1,32 @@
+200 OK
+X-Sorting-Hat-Shopid: 2608201837
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin, <//shopproof.com/cdn/shop/files/Logo_Pink.png?v=1708988539&width=600>; as="image"; rel="preload"; imagesrcset="//shopproof.com/cdn/shop/files/Logo_Pink.png?v=1708988539&width=120 120w, //shopproof.com/cdn/shop/files/Logo_Pink.png?v=1708988539&width=180 180w, //shopproof.com/cdn/shop/files/Logo_Pink.png?v=1708988539&width=240 240w"; imagesizes="(max-width: 240px) 50vw, 120px"
+Server-Timing: processing;dur=241;desc="gc:19", db;dur=69, render;dur=84, wasm, asn;desc="14061", edge;desc="SJC", country;desc="US", theme;desc="136287977641", pageType;desc="index", servedBy;desc="cp75", requestID;desc="9483119e-299a-483e-8c41-27b8ee4482f4-1710037473" cfRequestDuration;dur=315.999985
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=PW6jhrR6G7TJ4JD6Ui8m90NWYxl4auG76P%2BHUikUwQXsfM9rRHbC%2FMJ6v%2FnkA3vq%2FtrpUZes747smrmQKNWEPDR%2F7awHK7agq%2ByuXuXnfbm6EbmlsXnMg%2B6%2FHflb9LA%3D"}],"group":"cf-nel","max_age":604800}
+Alt-Svc: h3=":443"; ma=86400
+Date: Sun, 10 Mar 2024 02:24:34 GMT
+X-Request-Id: 9483119e-299a-483e-8c41-27b8ee4482f4-1710037473
+X-Sorting-Hat-Podid: 168
+Cf-Cache-Status: DYNAMIC
+X-Storefront-Renderer-Rendered: 1
+Etag: "cacheable:c92580bb570a4a444dfb9f6f9b7be32f"
+X-Shopid: 2608201837
+Powered-By: Shopify
+Set-Cookie: secure_customer_sig=; path=/; expires=Mon, 10 Mar 2025 02:24:34 GMT; secure; HttpOnly; SameSite=Lax localization=US; path=/; expires=Mon, 10 Mar 2025 02:24:34 GMT; SameSite=Lax cart_currency=USD; path=/; expires=Sun, 24 Mar 2024 02:24:34 GMT; SameSite=Lax _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=shopproof.com; path=/; expires=Mon, 11 Mar 2024 02:24:34 GMT; SameSite=Lax _tracking_consent=%7B%22region%22%3A%22USCA%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22reg%22%3A%22CCPA%22%7D; Expires=Mon, 10-Mar-25 02:24:34 GMT; Domain=shopproof.com; Path=/; SameSite=Lax _shopify_y=b767d085-35ff-4c3e-af5d-11aca73a1720; Expires=Mon, 10-Mar-25 02:24:34 GMT; Domain=shopproof.com; Path=/; SameSite=Lax _shopify_s=394ab7e9-4888-41cb-abaa-ca635cffee31; Expires=Sun, 10-Mar-24 02:54:34 GMT; Domain=shopproof.com; Path=/; SameSite=Lax _orig_referrer=http%3A%2F%2Fshopproof.com; Expires=Sun, 24-Mar-24 02:24:34 GMT; Domain=shopproof.com; Path=/; HttpOnly; SameSite=Lax _landing_page=%2F; Expires=Sun, 24-Mar-24 02:24:34 GMT; Domain=shopproof.com; Path=/; HttpOnly; SameSite=Lax
+Retry-Count: 0
+X-Shardid: 168
+Content-Language: en
+Server: cloudflare
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=7889238
+X-Permitted-Cross-Domain-Policies: none
+Cf-Ray: 861fd963aea99e65-SJC
+X-Cache: miss
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+X-Shopify-Stage: production
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Content-Type: text/html; charset=utf-8
+X-Dc: gcp-us-west2,gcp-us-central1,gcp-us-central1
+X-Xss-Protection: 1; mode=block
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff

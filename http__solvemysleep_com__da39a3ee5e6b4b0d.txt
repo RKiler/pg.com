@@ -1,0 +1,17 @@
+200 OK
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Fri, 01 Mar 2024 08:33:52 GMT
+Etag: "098a030b36bda1:0"
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.janraincapture.com https://rpxnow.com https://www.googleadservices.com https://api.tiles.mapbox.com https://cdnjs.cloudflare.com *.cloudfront.net https://www.lightboxcdn.com https://api.lightboxcdn.com https://pge.segmanta.com https://www.upsellit.com https://s.pinimg.com https://z.moatads.com https://c.lytics.io https://cdn.segment.com https://js-cdn.dynatrace.com https://wtbng.pricespider.com https://wtbstream.pricespider.com https://embeddedcloud.pricespider.com https://omni.pricespider.com https://locate.pricespider.com https://wtbevents.pricespider.com https://cdn.pricespider.com https://www.youtube.com https://pghub.io *.cookielaw.org *.onetrust.com *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' https://quilt-cdn.janrain.com https://api.tiles.mapbox.com https://s3.lightboxcdn.com https://api.lightboxcdn.com https://www.lightboxcdn.com https://c.lytics.io https://cdn.pricespider.com fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' https://videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' *.cookielaw.org *.cloudfront.net https://googleads.g.doubleclick.net https://www.google.hr https://insight.adsrvr.org https://40n23zgkic3y-a.akamaihd.net https://ct.pinterest.com https://submit.lightboxcdn.com https://submitcus.lightboxcdn.com https://s3.lightboxcdn.com https://api.lightboxcdn.com https://www.lightboxcdn.com https://c.lytics.io https://cdn.pricespider.com https://wwwassets.pricespider.com https://embeddedcloud.pricespider.com https://px.moatads.com https://www.google.com i.ytimg.com videos.ctfassets.net images.ctfassets.net pixel.tapad.com *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' https://s3.lightboxcdn.com fonts.gstatic.com feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' *.janraincapture.com https://videos.ctfassets.net https://pandg.tapad.com https://www.youtube.com https://www.youtube-nocookie.com *.adsrvr.org *.doubleclick.net *.jebbit.com consumersupport.pg.com servedby.flashtalking.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com feed.pghub.io pandg.tapad.com ; manifest-src * ;
+Accept-Ranges: bytes
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=www.solvemysleep.com ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.solvemysleep.com
+X-Azure-Ref: 0ghjtZQAAAAAFykZijOZ2T7wqXKqH8ib7U0pDMjExMDUxMjAyMDUzADkyYjZhMDMzLWZjMTMtNDFhZS1hMDQ2LWUxMWM2MmQ4OTNlNg==
+Retry-Count: 0
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+X-Cache: CONFIG_NOCACHE
+Date: Sun, 10 Mar 2024 02:18:42 GMT

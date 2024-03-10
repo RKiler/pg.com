@@ -1,0 +1,13 @@
+200 OK
+Server: Kestrel
+Retry-Count: 0
+Vary: Accept-Encoding
+X-Powered-By: Containerized
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src * 'unsafe-inline'; img-src * data:; script-src * 'unsafe-inline'; style-src * 'unsafe-inline'; font-src * data: 'unsafe-inline'; connect-src * data: 'unsafe-inline';
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Type: text/html; charset=utf-8
+X-Ua-Compatible: IE=edge
+Date: Sun, 10 Mar 2024 02:28:19 GMT

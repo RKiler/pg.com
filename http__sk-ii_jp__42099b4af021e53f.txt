@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html
+Retry-Count: 0
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+Date: Sun, 10 Mar 2024 02:21:31 GMT
+Cache-Control: no-cache, no-store,must-revalidate
+Set-Cookie: ARRAffinity=5acf31f84560c38496bc143f72ca168c5507dfa6841f93fbac4908609c42e091;Path=/;HttpOnly;Secure;Domain=www.sk-ii.jp ARRAffinitySameSite=5acf31f84560c38496bc143f72ca168c5507dfa6841f93fbac4908609c42e091;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.sk-ii.jp
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+Etag: "0ae395fe66eda1:0"
+Last-Modified: Tue, 05 Mar 2024 10:17:48 GMT

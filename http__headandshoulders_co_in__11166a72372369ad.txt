@@ -1,0 +1,18 @@
+200 OK
+Retry-Count: 0
+X-Cache: PRIVATE_NOSTORE
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html
+Accept-Ranges: bytes
+Etag: "09b8bfd7868da1:0"
+Vary: Accept-Encoding
+Date: Sun, 10 Mar 2024 02:17:47 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Mon, 26 Feb 2024 05:59:42 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 0ShjtZQAAAABGmmDWoaXfS4jRHLK47E7HU0pDMjExMDUxMjAyMDA5ADRkYjE0NzU0LWNjMTQtNDYyMS04M2RkLTcwNGVjN2U1YTg1MA==
+Set-Cookie: ARRAffinity=1de2da87aeb1cf80f8fb9b2c29418e24ed2e19e36ddbcbd81f34016600c610d5;Path=/;HttpOnly;Secure;Domain=www.headandshoulders.co.in ARRAffinitySameSite=1de2da87aeb1cf80f8fb9b2c29418e24ed2e19e36ddbcbd81f34016600c610d5;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.headandshoulders.co.in
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src * 'self' data: https: blob: ; media-src * 'self' https: ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+X-Azure-Ref-Originshield: 0ShjtZQAAAABcOQg2LRFQTYUY6yIXCe3+U0pDMjExMDUxMjA4MDQ1ADRkYjE0NzU0LWNjMTQtNDYyMS04M2RkLTcwNGVjN2U1YTg1MA==

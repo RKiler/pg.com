@@ -1,0 +1,17 @@
+200 OK
+Vary: Accept-Encoding Origin
+Cache-Control: no-cache,no-store no-cache,no-store
+X-Permitted-Cross-Domain-Policies: master-only
+X-Content-Type-Options: nosniff
+X-Amz-Cf-Id: dB8H_Ka8Ko2nrNWMtsDLVArSbnMIuZjxiEtAEn3_UHF2hhQJFSW2cw==
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 10 Mar 2024 02:20:10 GMT
+Access-Control-Allow-Origin: https://www.pgcareers.com
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000;preload
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: SFO5-P2
+Retry-Count: 0
+Via: 1.1 0c04e836dfe22246a870a0f54a2d4746.cloudfront.net (CloudFront)
+Set-Cookie: PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7IkpTRVNTSU9OSUQiOiJkMDA3NzQ0Mi1kNDllLTQwNTEtOWUzZS04OTE5ZWMwMjM3YjMifSwibmJmIjoxNzEwMDM3MjEwLCJpYXQiOjE3MTAwMzcyMTB9.CrwyGo-aCGcQ34tlxu6XX-e0t4tPCoe-eypTw3XMxxg; Path=/; Secure; HTTPOnly PHPPPE_ACT=d0077442-d49e-4051-9e3e-8919ec0237b3; Path=/; Secure VISITED_LANG=en; Max-Age=31536000; Expires=Mon, 10 Mar 2025 02:20:10 GMT; Path=/; Secure VISITED_COUNTRY=global; Max-Age=31536000; Expires=Mon, 10 Mar 2025 02:20:10 GMT; Path=/; Secure
+X-Frame-Options: SAMEORIGIN

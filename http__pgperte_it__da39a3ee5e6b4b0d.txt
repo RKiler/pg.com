@@ -1,0 +1,22 @@
+200 OK
+Etag: W/"3cf75b2f-2b73-4ebc-a3fa-b23cb032107a-83500"
+Expires: -1
+Set-Cookie: ASP.NET_SessionId=rzc11hfhxrf0tj2zkhnp4qpv; path=/; secure; HttpOnly; SameSite=Lax pgperte#lang=it-IT; path=/; secure SC_ANALYTICS_GLOBAL_COOKIE=371d1f77d02d401183f84d23d48a07bf|False; expires=Wed, 08-Mar-2034 02:26:38 GMT; path=/; secure; HttpOnly
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536001
+X-Gfv-Ssr: 3475966|prd-api-pgperte.pgsitecore.com
+X-Gfv-Cd: 3475966|c1-eu-prd-01-cd2
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Azure-Ref: 20240310T022637Z-n52qtp3pd14v1ez1ax6yh3r2mg00000009fg0000000031q3
+X-Cache: PRIVATE_NOSTORE
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: default-src https: data: blob: 'unsafe-inline' 'unsafe-eval'
+X-Fd-Int-Roxy-Purgeid: 64057407
+Pragma: no-cache
+Request-Context: appId=cid-v1:885099bf-b2a6-436c-a31e-2a27acf8b20f
+Retry-Count: 0
+Cache-Control: no-cache, no-store
+Content-Type: text/html; charset=utf-8
+Permissions-Policy: accelerometer=(), camera=*, geolocation=*, gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Date: Sun, 10 Mar 2024 02:26:38 GMT

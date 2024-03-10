@@ -1,0 +1,14 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:21:22 GMT
+Link: <https://www.braun.com.ar/>; rel="canonical"
+X-Unbounce-Pageid: e753c214-435c-11ed-9a67-0242ae39aed6
+X-Unbounce-Visitorid: c75245c7-51c8-4cef-aab4-02978c53b09c
+Set-Cookie: ubvs=c75245c7-51c8-4cef-aab4-02978c53b09c; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7Cc75245c7-51c8-4cef-aab4-02978c53b09c%7Ce753c214-435c-11ed-9a67-0242ae39aed6%3Aa%3Asingle; Max-Age=259200; Domain=braun.com.ar; Path=/; SameSite=Lax ubpv=a%2Ce753c214-435c-11ed-9a67-0242ae39aed6; Max-Age=15897600; Path=/; SameSite=Lax __cf_bm=ExLooeY1unlN9XsNmo4Jlwctc5FpuEifJ_aXyuxgCeU-1710037282-1.0.1.1-l0JAkM1aQ_Duo1yy1hBRr9.c0RuqV6CFgJjMWPVSgE2E4qNS6AkQTSni7H6U2Lt5ETJbcN_rM.Twc5u4g2VWDw; path=/; expires=Sun, 10-Mar-24 02:51:22 GMT; domain=.www.braun.com.ar; HttpOnly; Secure; SameSite=None
+Content-Location: https://www.braun.com.ar/
+Etag: "a:c75245c751c84cefaab402978c53b09c"
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+Cf-Ray: 861fd4b9bf68fa3a-SJC
+X-Unbounce-Variant: a
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare

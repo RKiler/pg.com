@@ -1,0 +1,18 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+X-Cache-Info: L1_T2
+Accept-Ranges: bytes
+Last-Modified: Fri, 10 Nov 2023 11:16:08 GMT
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+X-Azure-Ref: 20240310T022414Z-10997fbnzx7yp6rzwcn4zzsxf400000009a00000000033hm
+X-Content-Type-Options: nosniff
+Content-Type: text/html
+X-Fd-Int-Roxy-Purgeid: 66779191
+X-Cache: TCP_HIT
+Date: Sun, 10 Mar 2024 02:24:14 GMT
+Cache-Control: max-age=31536000
+Etag: "04c784dc713da1:0"
+Retry-Count: 0
+Content-Length: 70081

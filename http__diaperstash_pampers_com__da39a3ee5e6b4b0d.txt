@@ -1,0 +1,18 @@
+200 OK
+X-Download-Options: noopen
+Date: Sun, 10 Mar 2024 02:25:55 GMT
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: origin-when-cross-origin
+Permissions-Policy: geolocation=(self),camera=(self)
+Content-Type: text/html; charset=utf-8
+Etag: "8dsamtl7ax10ac"
+Set-Cookie: ARRAffinity=e5b2f0c56c8978644a89201c51aa6defaad219d2630c06de29af1b3da2a26205;Path=/;HttpOnly;Secure;Domain=diaperstash.pampers.com ARRAffinitySameSite=e5b2f0c56c8978644a89201c51aa6defaad219d2630c06de29af1b3da2a26205;Path=/;HttpOnly;SameSite=None;Secure;Domain=diaperstash.pampers.com
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Xss-Protection: 1; mode=block
+Cache-Control: s-maxage=31536000, stale-while-revalidate
+Pragma: no-cache
+Content-Security-Policy: default-src 'self' https://* 'unsafe-inline' 'unsafe-eval';script-src 'self'  https://* http://www.googleadservices.com http://widget-cdn.rpxnow.com https://*.cookielaw.org https://*.onetrust.com http://cdn.rpxnow.com http://d29usylhdk1xyu.cloudfront.net 'unsafe-inline' 'unsafe-eval';img-src 'self' https://* http://cdn.rpxnow.com blob: data: * data: ;style-src 'self'  http://cdn.rpxnow.com  https://* 'unsafe-inline';font-src 'self' https://* blob: data: * data:  'unsafe-inline' 'unsafe-eval'; frame-ancestors 'self' https://* https://diaperstash.pampers.com https://*.abtasty.com
+X-Nextjs-Cache: HIT
+Retry-Count: 0

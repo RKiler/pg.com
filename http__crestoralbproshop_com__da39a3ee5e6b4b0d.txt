@@ -1,0 +1,17 @@
+200 OK
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https://*.boldchat.com https://*.abtasty.com https://*.facebook.net https://stg.api.bazaarvoice.com https://*.upc.bazaarvoice.com https://*.qualtrics.com https://*.bazaarvoice.com https://www.googleadservices.com https://*.googletagmanager.com https://ajax.googleapis.com/ajax/libs/jquery/ https://www.google.com https://tagmanager.google.com https://*.crazyegg.com https://xxredda.s3.amazonaws.com https://*.google-analytics.com https://cdn.cookielaw.org *.analytics.google.com https://analytics.google.com www.facebook.com https://stats.g.doubleclick.net https://td.doubleclick.net  https://www.google.pl  crestoralbproshop.azureedge.net; script-src 'self' 'unsafe-inline' 'unsafe-eval' data:  https://*.boldchat.com https://*.abtasty.com https://*.facebook.net https://*.moatads.com https://pghub.io https://gateway.zscalertwo.net https://stg.api.bazaarvoice.com https://*.upc.bazaarvoice.com https://www.googleapis.com https://*.qualtrics.com https://secure.addrexx10.com https://*.bazaarvoice.com https://mpsnare.iesnare.com/ https://*.googletagmanager.com https://www.googleadservices.com https://*.google-analytics.com https://ajax.googleapis.com/ajax/libs/jquery/ https://www.google.com https://tagmanager.google.com https://www.gstatic.com https://ajax.googleapis.com https://xxredda.s3.amazonaws.com https://*.crazyegg.com https://www.youtube.com https://prdapp02.xisecurenet.com https://www.gstatic.com https://cdn.cookielaw.org *.analytics.google.com https://analytics.google.com www.facebook.com https://stats.g.doubleclick.net https://td.doubleclick.net  https://www.google.pl  crestoralbproshop.azureedge.net; frame-src 'self' https://*.boldchat.com/ https://*.pghub.io https://*.paymetric.com https://*.qualtrics.com https://stg.api.bazaarvoice.com https://*.upc.bazaarvoice.com https://*.bazaarvoice.com https://*.pg.com https://www.google.com/ https://www.youtube.com https://cert-xiecomm.paymetric.com https://*.tapad.com *.analytics.google.com https://analytics.google.com www.facebook.com https://stats.g.doubleclick.net https://td.doubleclick.net  https://www.google.pl  crestoralbproshop.azureedge.net; img-src 'self' 'unsafe-inline' 'unsafe-eval' data: https://*.moatads.com https://*.boldchat.com https://crestoralbproshop.com https://*.akamaihd.net https://stg.api.bazaarvoice.com https://*.cookielaw.org https://*.qualtrics.com https://*.upc.bazaarvoice.com https://*.tapad.com https://*.bazaarvoice.com  https://www.googleadservices.com https://*.google-analytics.com/collect https://xxredda.s3.amazonaws.com https://meetanshi.com *.analytics.google.com https://analytics.google.com www.facebook.com https://stats.g.doubleclick.net https://td.doubleclick.net  https://www.google.pl  crestoralbproshop.azureedge.net; worker-src blob:;
+X-Envoy-Upstream-Service-Time: 563
+Date: Sun, 10 Mar 2024 02:20:35 GMT
+Accept-Ranges: bytes
+Server: istio-envoy
+Retry-Count: 0
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+Set-Cookie: PHPSESSID=6tit641hit241alfsednb7rk43; expires=Sun, 10 Mar 2024 02:50:34 GMT; Max-Age=1800; path=/; domain=crestoralbproshop.com; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=31536000 max-age=8995000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=UTF-8

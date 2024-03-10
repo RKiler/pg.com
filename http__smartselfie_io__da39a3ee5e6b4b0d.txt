@@ -1,0 +1,12 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+Content-Length: 499
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Accept-Ranges: bytes
+Last-Modified: Tue, 05 Mar 2024 10:57:00 GMT
+Etag: W/"1f3-18e0e42774f"
+Date: Sun, 10 Mar 2024 02:18:50 GMT
+X-Powered-By: Express
+X-Frame-Options: SAMEORIGIN
+Cache-Control: public, max-age=0
+Retry-Count: 0

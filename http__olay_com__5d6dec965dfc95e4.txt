@@ -1,0 +1,22 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:25:55 GMT
+Set-Cookie: fornax_anonymousId=56f47d4c-05e5-4a1a-98d9-235878242944; Expires=Tue, 10 Mar 2026 02:25:53 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=56dc1941-424f-47e0-8720-91bf1c7900f4:1710037553; Expires=Sun, 10 Mar 2024 02:55:53 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=BBC1BAE3BEBC62A47A1A8D144C126CB496DCA301-1710642354975-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:25:54 GMT; Path=/; HttpOnly XSRF-TOKEN=cb9602b85ad21fdc6be50ee78eaadb4440bc1e21e0155972e3812857fc500437; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=f348ff35-eaa8-4410-9e16-e7eb8c05a303; Expires=Sun, 17 Mar 2024 02:25:54 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Pragma: no-cache
+X-Frame-Options: sameorigin
+Link: <https://cdn11.bigcommerce.com/s-gud7r2x2lu>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-gud7r2x2lu/stencil/a9eb8750-bf1a-013c-5456-22b7a8332f09/e/0a229d80-bdee-013c-6e1b-766d7b5f700a/dist/theme-bundle.head_async.js>; rel=preload; as=script, <https://cdn11.bigcommerce.com/s-gud7r2x2lu/stencil/a9eb8750-bf1a-013c-5456-22b7a8332f09/e/0a229d80-bdee-013c-6e1b-766d7b5f700a/css/theme-833fad90-bf8e-013c-70f9-7acb0084422a.css>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-gud7r2x2lu/stencil/a9eb8750-bf1a-013c-5456-22b7a8332f09/e/0a229d80-bdee-013c-6e1b-766d7b5f700a/dist/theme-bundle.main.js>; rel=preload; as=script
+Server: cloudflare
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Cf-Ray: 861fdb56bbce96e7-SJC
+Cache-Control: no-store, no-cache, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Retry-Count: 0
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2laSnp%2FD2bU3cAyQokubgOU6pyZlYFYjjm6FQeD9FisfMK4BaQvksdyIHD365b82xaWBO5rAMplhI%2BNtwC3ENvRQzpP1EMtW7FErlHlKCF21tD8KKjRYBZ35snpotQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 31a1b0ef3ff2398e11e2c9cda16cc718
+Bc-Ray: 1
+Alt-Svc: h3=":443"; ma=86400

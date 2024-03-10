@@ -1,0 +1,17 @@
+200 OK
+Set-Cookie: Strict ARRAffinity=373b9b5f484f54ac4ee9855156cdcae474be573baafe1b9612b052c9bdded452;Path=/;HttpOnly;Domain=braun-fr-be-nx-pgmodernweb-prod.azurewebsites.net ARRAffinity=ac2e814cc783310a79b957b368ba7cc3f35091aefe7d57080bc288a497cba032;Path=/;HttpOnly;Secure;Domain=braun-fr-be-nx-pgmodernweb-prod.azurewebsites.net ARRAffinitySameSite=ac2e814cc783310a79b957b368ba7cc3f35091aefe7d57080bc288a497cba032;Path=/;HttpOnly;SameSite=None;Secure;Domain=braun-fr-be-nx-pgmodernweb-prod.azurewebsites.net
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+Server: 
+Cache-Control: no-store
+Retry-Count: 0
+X-Xss-Protection: 1;mode=block
+Etag: "02fd1d3171da1:0"
+Last-Modified: Fri, 08 Mar 2024 08:17:26 GMT
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+Content-Security-Policy: style-src 'self' blob: 'unsafe-inline' *.google.com *.crazyegg.com *.googleapis.com *.salesforce-sites.com *.googletagmanager.com *.google-analytics.com *.googleoptimize.com *.googleanalytics.com *.pg.com *.bazaarvoice.com *.force.com *.pricespider.com *.lytics.io *.mapbox.com *.akamaihd.net feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.googleoptimize.com *.crazyegg.com *.googleanalytics.com *.crwdcntrl.net *.googleadservices.com *.pg.com *.salesforce-sites.com *.salesforce.com *.my.salesforce.com *.criteo.com *.adform.net *.outbrain.com *.pypestream.com *.serving-sys.com *.tiktok.com *.youtube.com *.braun.com *.googletagmanager.com *.dynatrace.com dynatrace.com *.ads-twitter.com *.salesforceliveagent.com google.com gstatic.com *.gstatic.com *.google.com *.pypestream.eu *.force.com *.salesfoce.com *.cookielaw.org *.google-analytics.com *.facebook.net *.pricespider.com *.segment.com *.lytics.io *.jebbit.com pghub.io *.doubleclick.net *.crazyegg.com *.googleapis.com *.zeotap.com *.adsrvr.org *.iesnare.com *.ipify.org *.bazaarvoice.com *.moatads.com *.mapbox.com *.akamaihd.net feed.pghub.io pandg.tapad.com ; font-src 'self' *.gstatic.com *.pg.com *.windows.net fonts.gstatic.com maxcdn.bootstrapcdn.com res.cloudinary.com data: feed.pghub.io pandg.tapad.com ; img-src * 'self' data: https: blob: *.google.com *.crazyegg.com *.pricespider.com *.ctfassets.net ; default-src 'self' data: wss: *.twitch.tv www.cashback-silkepil-et-accessoires.fr *.sor-braun.fr *.crazyegg.com *.google.com *.crwdcntrl.net *.youtube-nocookie.com youtube-nocookie.com pg-lex--dev.sandbox.my.salesforce-sites.com *.salesforce-sites.com *.analytics.google.com *.braun-concours-jenifer.fr *.concours-braun.fr *.offre-promotionnelle.fr *.pg.com *.criteo.com *.serving-sys.com *.serving-sys.com *.tiktok.com *.cashback-braun.fr *.cashbackipls2.fr *.cashbackshaverss2.fr *.satisfaitourembourse-braun.fr *.digital-promo.de *.dynatrace.com *.azure-api.net *.braun-ics.com *.braun.com *.braun.de *.youtube.com *.force.com *.doubleclick.net *.cookielaw.org *.googletagmanager.com *.google-analytics.com *.adsrvr.org *.tapad.com *.segment.io *.segment.com *.lytics.io *.crazyegg.com *.googleapis.com *.zeotap.com *.facebook.com *.doubleclick.net *.jebbit.com *.windows.net geolocation-db.com *.onetrust.com *.iesnare.com *.bazaarvoice.com *.moatads.com *.mapbox.com *.pricespider.com *.akamaihd.net *.pg.com *.algolia.net *.contentful.com *.ctfassets.net feed.pghub.io ;
+Date: Sun, 10 Mar 2024 02:18:31 GMT
+Content-Type: text/html
+Strict-Transport-Security: max-age=31536000
+Accept-Ranges: bytes

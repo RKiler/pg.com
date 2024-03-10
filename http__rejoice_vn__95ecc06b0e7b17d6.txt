@@ -1,0 +1,17 @@
+200 OK
+X-Cache: TCP_MISS
+X-Xss-Protection: 1;mode=block
+Cache-Control: public, max-age=0, must-revalidate
+Set-Cookie: ARRAffinity=d72333b0aafa520ce46b00bba3180554765c2a73662caf9d0bc9235aa10907a3;Path=/;HttpOnly;Secure;Domain=www.rejoice.vn ARRAffinitySameSite=d72333b0aafa520ce46b00bba3180554765c2a73662caf9d0bc9235aa10907a3;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.rejoice.vn
+Retry-Count: 0
+Accept-Ranges: bytes
+Last-Modified: Mon, 04 Mar 2024 09:56:54 GMT
+X-Content-Type-Options: nosniff
+X-Azure-Ref: 05BntZQAAAAAYFYZ5avgiTbpmWC2AutFLU0pDMjExMDUxMjAyMDExAGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+Date: Sun, 10 Mar 2024 02:24:36 GMT
+Etag: "0b75e491a6eda1:0"
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: DENY
+X-Azure-Ref-Originshield: 05BntZQAAAADGCNg6a4uxRJwE2tUribGjU0pDMjExMDUxMjA3MDIzAGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+Content-Type: text/html

@@ -1,0 +1,14 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:26:55 GMT
+Etag: "p:2db32a0ab2bc475795e5d8171bf796c0"
+X-Unbounce-Pageid: 6b636786-9eae-4d02-bb57-0d296e8072bd
+Retry-Count: 0
+Content-Location: https://biorenew.herbalessencesla.com/productogranada/
+X-Unbounce-Visitorid: 2db32a0a-b2bc-4757-95e5-d8171bf796c0
+Set-Cookie: ubvs=2db32a0a-b2bc-4757-95e5-d8171bf796c0; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C2db32a0a-b2bc-4757-95e5-d8171bf796c0%7C6b636786-9eae-4d02-bb57-0d296e8072bd%3Ap%3Asingle; Max-Age=259200; Domain=herbalessencesla.com; Path=/; SameSite=Lax ubpv=p%2C6b636786-9eae-4d02-bb57-0d296e8072bd; Max-Age=15897600; Path=/productogranada/; SameSite=Lax
+X-Unbounce-Variant: p
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 861fdcd9eaedce84-SJC
+Content-Type: text/html; charset=utf-8
+Link: <https://biorenew.herbalessencesla.com/productogranada/>; rel="canonical"

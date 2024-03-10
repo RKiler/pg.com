@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1;mode=block
+Last-Modified: Thu, 29 Feb 2024 10:15:08 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+Date: Sun, 10 Mar 2024 02:23:52 GMT
+Accept-Ranges: bytes
+Cache-Control: no-cache, no-store,must-revalidate
+Etag: "0deca2bf86ada1:0"
+Set-Cookie: ARRAffinity=432b15cd0dc02aa0319dccaa6f12360abe2af01eb575bbadd296a553c4c8485a;Path=/;HttpOnly;Secure;Domain=www.sk2.co.kr ARRAffinitySameSite=432b15cd0dc02aa0319dccaa6f12360abe2af01eb575bbadd296a553c4c8485a;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.sk2.co.kr
+Retry-Count: 0

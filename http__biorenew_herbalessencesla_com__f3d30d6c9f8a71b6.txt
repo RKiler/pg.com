@@ -1,0 +1,14 @@
+200 OK
+X-Unbounce-Variant: n
+X-Unbounce-Pageid: 57e478fd-c8cf-442c-a076-e3a336854d33
+Server: cloudflare
+Cf-Ray: 861fda3baf766894-SJC
+Content-Type: text/html; charset=utf-8
+Set-Cookie: ubvs=a467a0d9-a585-414f-8931-bff86210e90d; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7Ca467a0d9-a585-414f-8931-bff86210e90d%7C57e478fd-c8cf-442c-a076-e3a336854d33%3An%3Asingle; Max-Age=259200; Domain=herbalessencesla.com; Path=/; SameSite=Lax ubpv=n%2C57e478fd-c8cf-442c-a076-e3a336854d33; Max-Age=15897600; Path=/producto_coco/; SameSite=Lax
+Cf-Cache-Status: DYNAMIC
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:25:08 GMT
+Content-Location: https://biorenew.herbalessencesla.com/producto_coco/
+Etag: "n:a467a0d9a585414f8931bff86210e90d"
+Link: <https://biorenew.herbalessencesla.com/producto_coco/>; rel="canonical"
+X-Unbounce-Visitorid: a467a0d9-a585-414f-8931-bff86210e90d

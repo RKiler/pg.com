@@ -1,0 +1,14 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:18:12 GMT
+Cache-Control: public, max-age=0, must-revalidate
+Etag: "02fe08c9a6fda1:0"
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html
+Vary: Accept-Encoding
+Content-Security-Policy: default-src 'self' https://videos.ctfassets.net/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Accept-Ranges: bytes
+Last-Modified: Wed, 06 Mar 2024 07:47:34 GMT
+Strict-Transport-Security: max-age=8995000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Retry-Count: 0

@@ -1,0 +1,19 @@
+404 Not Found
+Set-Cookie: ARRAffinity=5a75ed7db19a914047d86babb7e3c523f9f232fdd3df845edcc075a5130daebc;Path=/;HttpOnly;Secure;Domain=www.vigantolettenMax.com ARRAffinitySameSite=5a75ed7db19a914047d86babb7e3c523f9f232fdd3df845edcc075a5130daebc;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.vigantolettenMax.com
+Content-Security-Policy: upgrade-insecure-requests; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: www.googletagmanager.com cdn.cookielaw.org pghub.io; media-src 'self'; font-src 'self' data:; frame-ancestors 'self'; object-src 'none'; frame-src 'self' consumersupport.pg.com feed.pghub.io; img-src 'self' data: images.ctfassets.net pixel.tapad.com cdn.cookielaw.org; connect-src 'self' *.contentful.com cdn.cookielaw.org *.google-analytics.com; default-src 'none'; base-uri 'none'; form-action 'self';
+Cache-Control: no-store, must-revalidate, no-cache
+Pragma: no-cache
+Content-Length: 632678
+Accept-Ranges: bytes
+Content-Type: text/html
+X-Cache: PRIVATE_NOSTORE
+Date: Sun, 10 Mar 2024 02:26:24 GMT
+Retry-Count: 0
+Last-Modified: Thu, 15 Feb 2024 12:06:25 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+X-Azure-Ref-Originshield: 0UBrtZQAAAAALzWqMc0D9T5/rHTLhyWN/U0pDMjExMDUxMjA4MDUzADkyYjZhMDMzLWZjMTMtNDFhZS1hMDQ2LWUxMWM2MmQ4OTNlNg==
+X-Azure-Ref: 0UBrtZQAAAAB6iyEm0JpfQp/+UthqgCjqU0pDMjExMDUxMjAxMDQ5ADkyYjZhMDMzLWZjMTMtNDFhZS1hMDQ2LWUxMWM2MmQ4OTNlNg==

@@ -1,0 +1,14 @@
+200 OK
+X-Content-Type-Options: nosniff
+Cache-Control: nostore,max-age: 0,must-revalidate
+Content: 
+Computer: Web04
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+X-Xss-Protection: 1; mode=block
+Server: InfoTip-Server
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:20:25 GMT
+Content-Type: text/html;charset=utf-8
+Content-Length: 28268
+Set-Cookie: RtsSessionCookie=; secure
+X-Dns-Prefetch-Control: off

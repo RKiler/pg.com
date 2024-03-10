@@ -1,0 +1,15 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 0mhrtZQAAAABTW+eoJe6LRrNtogL1gS8JU0pDMjExMDUxMjAxMDIzAGNlNzAzNTM2LWQ0OWYtNGM1MC05NDllLTAxYzRlNDhjYzc2Mg==
+Cache-Control: no-cache, no-store, must-revalidate
+Retry-Count: 0
+Last-Modified: Mon, 05 Feb 2024 06:25:12 GMT
+Vary: Accept-Encoding
+X-Cache: CONFIG_NOCACHE
+Date: Sun, 10 Mar 2024 02:27:38 GMT
+Accept-Ranges: bytes
+Etag: "054d212fc57da1:0"
+Set-Cookie: ARRAffinity=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;Secure;Domain=www.oral-b.co.in ARRAffinitySameSite=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.oral-b.co.in
+Content-Security-Policy: default-src 'self'; child-src blob:; media-src * 'self' data: https: blob:; style-src 'self' 'unsafe-inline' *.pricespider.com *; img-src * 'self' data: https: blob: *.pricespider.com; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; font-src * data: https:; frame-src *;

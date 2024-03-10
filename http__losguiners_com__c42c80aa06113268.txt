@@ -1,0 +1,14 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Retry-Count: 0
+X-Frame-Options: DENY
+Date: Sun, 10 Mar 2024 02:23:33 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/7.4.33
+Content-Security-Policy: script-src 'self' * 'unsafe-inline';
+Set-Cookie: AWSALB=0NmRskqjFJ7lWhj0cV2SScOuyX4FI2qBtHe+4t2dtc94qqv9nDQa4bv+d7A6zAPQe3PqvxfqGOOHQLQSrbIPnxDyHPQqZ25MyRUp5n+PlGePIbWALWStRZJ9Pml7; Expires=Sun, 17 Mar 2024 02:23:33 GMT; Path=/ AWSALBCORS=0NmRskqjFJ7lWhj0cV2SScOuyX4FI2qBtHe+4t2dtc94qqv9nDQa4bv+d7A6zAPQe3PqvxfqGOOHQLQSrbIPnxDyHPQqZ25MyRUp5n+PlGePIbWALWStRZJ9Pml7; Expires=Sun, 17 Mar 2024 02:23:33 GMT; Path=/; SameSite=None; Secure XSRF-TOKEN=eyJpdiI6IlBOYXBESm1FV1E5ZU55MHNiZGhOZnc9PSIsInZhbHVlIjoiQm1FT1ZrWWJVTVdwSHRiNzJQeGhWZGJLQlhneVdKeTA5RFV1Yng0TGU5M0JPYXc5anF5T2xHdGNPUWc3bGN0L3RFTVg0Y0RQa2xVTnRRSGg1UWRaT1g1dDI2UkdLcFZqdUZnVEJ3Rk5lUDhLOXJMTGZoVS9xZThONTVYK0RpVlgiLCJtYWMiOiJmMTdmNTM5ZDhiOTBkY2QzOWM3NjgzZjU0MmJiMjg5NTMzZmNiMWQ0YTZhODQ2NWFlNjJhODRhMTkyNTVjZjVjIn0%3D; expires=Sun, 10-Mar-2024 04:23:33 GMT; Max-Age=7200; path=/; secure; samesite=lax;HttpOnly;Secure digital_incentive_machine_demo_session=eyJpdiI6IkUweXM2YzV4ZUhUVEN0YXo3V1FpK3c9PSIsInZhbHVlIjoicjQ1U1ZBR0JFSDBQZkdiU2phdmYvZURXeWsvQVdEcWd2am0ycHgySVVUVWxqb0JJcVU5SFZlc1FkN0NWWExJdm9oV0VYbElPUnN5SXJNQ2UxSXMzZGhsWTFPekpsT0VZK3NJdVVQVnRUUVRZaE9uNmpKZ2Nqc2xJcTNLNFFGMTkiLCJtYWMiOiIyYWQzNjY0YWNkMGUyMzc5ZmE4ODdjYjg2NDBjZjljYTZlM2Y0M2RhZWJkZTdmMTM2OTlhZDlkMjVlYjdjMzE0In0%3D; expires=Sun, 10-Mar-2024 04:23:33 GMT; Max-Age=7200; path=/; secure; httponly; samesite=lax;HttpOnly;Secure
+Server: Apache/2.4.54 (Unix)
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Cache-Control: no-cache, no-store
+X-Content-Type-Options: nosniff

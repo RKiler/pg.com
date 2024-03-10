@@ -1,0 +1,10 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:18:40 GMT
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+Vary: Accept-Encoding
+Server: Apache
+X-Xss-Protection: 1;  mode=block
+Link: <https://zukunftmitgemacht.de/wp-json/>; rel="https://api.w.org/" <https://zukunftmitgemacht.de/wp-json/wp/v2/pages/38>; rel="alternate"; type="application/json" <https://zukunftmitgemacht.de/>; rel=shortlink
+Access-Control-Allow-Origin: https://zukunftmitgemacht.de

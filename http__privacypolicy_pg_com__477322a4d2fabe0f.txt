@@ -1,0 +1,18 @@
+200 OK
+Set-Cookie: ARRAffinity=24477403decd00079aed05724ef71c2f3bf7094610d2466c521dbd7541f95135;Path=/;HttpOnly;Secure;Domain=privacypolicy.pg.com ARRAffinitySameSite=24477403decd00079aed05724ef71c2f3bf7094610d2466c521dbd7541f95135;Path=/;HttpOnly;SameSite=None;Secure;Domain=privacypolicy.pg.com
+X-Content-Type-Options: nosniff
+X-Fd-Int-Roxy-Purgeid: 66779191
+Content-Type: text/html
+Last-Modified: Wed, 06 Mar 2024 13:23:08 GMT
+Strict-Transport-Security: max-age=31536000
+X-Cache: PRIVATE_NOSTORE
+Content-Length: 635661
+Etag: "0c6ac6dc96fda1:0"
+Retry-Count: 0
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 20240310T022126Z-u17a2mxfpx7dd9hkpaa0mzcbx400000001ag0000000093b2
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src https://* 'self' data: https: blob: feed.pghub.io pandg.tapad.com ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ; frame-ancestors * 'self' data: https: blob: ;
+Accept-Ranges: bytes
+Date: Sun, 10 Mar 2024 02:21:26 GMT
+Cache-Control: no-cache, no-store, must-revalidate

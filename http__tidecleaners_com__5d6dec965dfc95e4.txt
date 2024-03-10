@@ -1,0 +1,17 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:23:42 GMT
+Cache-Control: max-age=31536000,max-age=31536000
+Access-Control-Expose-Headers: Request-Context
+Set-Cookie: ARRAffinity=18ca2170385e9ca69b3e1866c1fa279c30cdab05efc444d74a3fc80c764f1965;Path=/;HttpOnly;Secure;Domain=tidecleaners.com ARRAffinitySameSite=18ca2170385e9ca69b3e1866c1fa279c30cdab05efc444d74a3fc80c764f1965;Path=/;HttpOnly;SameSite=None;Secure;Domain=tidecleaners.com
+Vary: Accept-Encoding
+Request-Context: appId=cid-v1:35f57e6e-683d-425f-a180-eb85ab01e783
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: *.pg.com *.jebbit.com *.contentful.com *.googletagmanager.com *.google-analytics.com cdn.cookielaw.org *.ctfassets.net connect.facebook.net *.octillion.tv *.adsrvr.org z.moatads.com pghub.io *.tapad.com *.doubleclick.net *.google.com *.pghub.io match.adsrvr.org *.facebook.com *.youtube.com *.gstatic.com *.googleapis.com i.ytimg.com yt3.ggpht.com *.braze.com *.tidelaundry.com cdnjs.cloudflare.com *.algolia.net *.pricespider.com *.replypro.io *.tidecleaners.com stage-braze.tidecleaners.com braze.tidecleaners.com privacytermsprod.azureedge.net
+Content-Type: text/html
+Etag: "0a4a0f1d670da1:0"
+Last-Modified: Thu, 07 Mar 2024 21:32:24 GMT
+Retry-Count: 0
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1;mode=block

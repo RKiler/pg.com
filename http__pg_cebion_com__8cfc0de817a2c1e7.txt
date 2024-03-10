@@ -1,0 +1,14 @@
+200 OK
+Server: cloudflare
+Link: <https://pg.cebion.com/centralamerica-co/>; rel="canonical"
+Date: Sun, 10 Mar 2024 02:18:09 GMT
+Content-Type: text/html; charset=utf-8
+X-Unbounce-Pageid: 45b1b71f-b65b-40eb-86b4-1322061ef77b
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fcfffff959667-SJC
+Retry-Count: 0
+Set-Cookie: ubvs=17d0319b-38be-4b54-86e7-be68719e6bb2; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C17d0319b-38be-4b54-86e7-be68719e6bb2%7C45b1b71f-b65b-40eb-86b4-1322061ef77b%3Aa%3Asingle; Max-Age=259200; Domain=cebion.com; Path=/; SameSite=Lax ubpv=a%2C45b1b71f-b65b-40eb-86b4-1322061ef77b; Max-Age=15897600; Path=/centralamerica-co/; SameSite=Lax
+Content-Location: https://pg.cebion.com/centralamerica-co/
+Etag: "a:17d0319b38be4b5486e7be68719e6bb2"
+X-Unbounce-Variant: a
+X-Unbounce-Visitorid: 17d0319b-38be-4b54-86e7-be68719e6bb2

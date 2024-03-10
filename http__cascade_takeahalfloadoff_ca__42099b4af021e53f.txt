@@ -1,0 +1,14 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:20:59 GMT
+X-Unbounce-Variant: e
+Content-Type: text/html; charset=utf-8
+Content-Location: https://cascade.takeahalfloadoff.ca/en/
+Set-Cookie: ubvs=16b68124-bb60-4eda-ac5c-5c5240770626; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C16b68124-bb60-4eda-ac5c-5c5240770626%7C3300d9bd-7689-4b88-8a7e-67f30c6c7728%3Ae%3Asingle; Max-Age=259200; Domain=takeahalfloadoff.ca; Path=/; SameSite=Lax ubpv=e%2C3300d9bd-7689-4b88-8a7e-67f30c6c7728; Max-Age=15897600; Path=/en/; SameSite=Lax
+Etag: "e:16b68124bb604edaac5c5c5240770626"
+X-Unbounce-Visitorid: 16b68124-bb60-4eda-ac5c-5c5240770626
+Retry-Count: 0
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fd426495d256c-SJC
+Link: <https://cascade.takeahalfloadoff.ca/en/>; rel="canonical"
+X-Unbounce-Pageid: 3300d9bd-7689-4b88-8a7e-67f30c6c7728
+Server: cloudflare

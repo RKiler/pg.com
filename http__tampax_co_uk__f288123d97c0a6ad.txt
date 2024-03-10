@@ -1,0 +1,16 @@
+200 OK
+Retry-Count: 0
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Date: Sun, 10 Mar 2024 02:22:10 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Azure-Ref: 0UhntZQAAAACWtPZHjlEURqOFBhW1LC6AU0pDMjExMDUxMjAxMDQ1ADJmZWYzODViLWNlZjQtNDBmMy1hMTJiLWY1MDEwMGEyZmQ2ZA==
+X-Cache: CONFIG_NOCACHE
+Last-Modified: Thu, 07 Mar 2024 05:59:38 GMT
+Etag: "0c14aa35470da1:0"
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: text/html
+Set-Cookie: ARRAffinity=ff04e7b726e3bc169c12efae9011c9b5cc9663f22dd8a0aa2616e384b3349d41;Path=/;HttpOnly;Secure;Domain=tampax.co.uk ARRAffinitySameSite=ff04e7b726e3bc169c12efae9011c9b5cc9663f22dd8a0aa2616e384b3349d41;Path=/;HttpOnly;SameSite=None;Secure;Domain=tampax.co.uk

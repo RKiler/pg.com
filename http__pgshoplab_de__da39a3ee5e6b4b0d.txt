@@ -1,0 +1,15 @@
+200 OK
+Link: <https://bigcommerce.voucherify.io/scripts/c9eiy1ao0g/storefront.js>; rel=preload; as=script, <https://bigcommerce.voucherify.io/scripts/static/polyfill.js>; rel=preload; as=script <https://cdn11.bigcommerce.com/s-c9eiy1ao0g/stencil/b1a25fa0-33df-0139-3f54-0242ac110009/e/0e2dd940-b12a-013c-cda3-3222b985adef/css/theme-07df4d10-e2a6-013b-e8fd-5ea8141dbbd8.css>; rel=preload; as=style
+Date: Sun, 10 Mar 2024 02:26:44 GMT
+X-Content-Type-Options: nosniff
+Set-Cookie: fornax_anonymousId=4685da94-b9f3-4c77-ba12-9cc0f9289f33; Expires=Tue, 10 Mar 2026 02:26:43 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=d37220d0-34a5-4055-a97b-1a7200bef615:1710037603; Expires=Sun, 10 Mar 2024 02:56:43 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=605A658CE3643910308468B061927ED902836F24-1710642404202-x%7B%22cur%22%3A%22EUR%22%7D; Expires=Sun, 17 Mar 2024 02:26:44 GMT; Path=/; HttpOnly XSRF-TOKEN=9b70aa23fbbb43b1dbf2fdfab2275523f7bdd45c5e152b5b4c11eaf588205214; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=3a53c2e9-494e-4aac-959c-8fac644bdbe4; Expires=Sun, 17 Mar 2024 02:26:44 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=0
+X-Request-Id: 331e5a64c77a3e89ceb3b32580785cbc
+Vary: Accept-Encoding
+X-Permitted-Cross-Domain-Policies: none
+Pragma: no-cache
+Server: openresty
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate

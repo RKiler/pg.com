@@ -1,0 +1,17 @@
+200 OK
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Cache-Control: no-cache, no-store, must-revalidate
+X-Azure-Ref: 0qhrtZQAAAABE6TzKtgsOQ4X1Dyh7L/0WU0pDMjExMDUxMjAxMDIxAGI3M2NkNDQzLThjMWItNDI1Ni1iNzI1LTJhNTNlYmUzMzMxYw==
+Etag: "080bd16c86bda1:0"
+Set-Cookie: ARRAffinity=722a7b7ecf7b68b9875341e7b1d7617057a0cb609da88f579eca40ed368ea8e4;Path=/;HttpOnly;Secure;Domain=tampax.com ARRAffinitySameSite=722a7b7ecf7b68b9875341e7b1d7617057a0cb609da88f579eca40ed368ea8e4;Path=/;HttpOnly;SameSite=None;Secure;Domain=tampax.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Xss-Protection: 1;mode=block
+X-Cache: CONFIG_NOCACHE
+Last-Modified: Fri, 01 Mar 2024 11:03:28 GMT
+Accept-Ranges: bytes
+Retry-Count: 0
+Vary: Accept-Encoding
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Date: Sun, 10 Mar 2024 02:27:53 GMT

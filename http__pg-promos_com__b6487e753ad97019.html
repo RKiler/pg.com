@@ -1,0 +1,72 @@
+<!doctype html><html lang="ro"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><script>if (typeof PGdataLayer == "undefined") {
+      var PGdataLayer = {};
+    }
+    
+    const acceptedCountries = ['se' , 'fi', 'dk', 'no']
+    const acceptedCountryValues = {
+      'se': {
+        ConsentOverlayId: 'htmllang/f131e6e0-25d6-4645-b692-42d971556845',
+        lang: 'sv-SE',
+        langCode: 'SE',
+        },
+      'fi': {
+        ConsentOverlayId:'htmllang/97423f84-7b09-4072-8790-94f08ebe896c',
+        lang: 'fi-FI',
+        langCode: 'FI',
+      },
+      'dk': {
+        ConsentOverlayId:"htmllang/72f29b1e-72c6-4e6e-ba31-fd1b91f06034",
+        lang: 'da-DK',
+        langCode: 'DK',
+      },
+      'no': {
+        ConsentOverlayId:"htmllang/434e2ac1-1129-4b55-a07a-aae24198743e",
+        lang: 'no-NO',
+        langCode: 'NO',
+      }
+    }
+    let queryStringCountry = location.pathname.split('/')[1] ? location.pathname.split('/')[1] : ''
+    if (!acceptedCountries.includes(queryStringCountry)) queryStringCountry = 'se'
+    const ConsentOverlayId = acceptedCountryValues[queryStringCountry].ConsentOverlayId
+    const lang = acceptedCountryValues[queryStringCountry].lang
+    const langCode = acceptedCountryValues[queryStringCountry].langCode
+    document.documentElement.lang = lang
+    PGdataLayer.GTM = {
+      "SiteLocale": lang,
+      "SiteTouchpoint": "47381",
+      "SiteCountry": queryStringCountry.toUpperCase(),
+      "SiteBrand": "",
+      "SiteLanguage": langCode,
+      "SitePlatform": "",
+      "SiteEnvironment": "Production",
+      "SiteHost": "CTL",
+      "SiteTechnicalAgency": "Justsnap",
+      "SiteStatus": "Live",
+      "GoogleAnalyticsGA4MeasurementID": "G-KF0ZN574PX",
+      "GoogleAnalyticsLocal": "UA-15118132-133",
+      "GoogleAnalyticsBrand": "",
+      "GoogleAnalyticsSiteSpeedSampleRate": "high",
+      "GoogleAnalyticsAllowLinker": "true",
+      "GoogleAnalyticsLinkerDomains": "",
+      "GoogleAnalyticsEnableOptimizely": "false",
+      "GoogleAnalyticsConsentRequired": "true",
+      "GoogleAnalyticsOptimizeContainerID": "",
+      "GoogleAnalyticsReportingView": "",
+      "GoogleReCaptcha": "true",
+      // TODO: Add sitelocalcontainer id back
+      "SiteLocalContainer": "",
+      "FacebookRemarketingID": "",
+      "ConsentOverlay": "OneTrust",
+      "ConsentOverlayID": ConsentOverlayId,
+      "SitePrivacyProtection": "GDPR"
+    };
+      PGdataLayer.user = { "id": "", "marketingProgramNbr": acceptedCountryValues[queryStringCountry].marketingProgramNbr, "sourceID": acceptedCountryValues[queryStringCountry].sourceID };
+
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-N94XXFB');</script><link rel="shortcut icon" href="/pg-logo.svg" type="image/x-icon"><link rel="icon" href="/pg-logo.svg" type="image/x-icon"><title>P&G Nordic</title><script defer="defer" src="/js/chunk-vendors.96f1dfe6.js"></script><script defer="defer" src="/js/app.18ca4998.js"></script><link href="/css/chunk-vendors.4c9dc317.css" rel="stylesheet"><link href="/css/app.0e3958db.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but pg-nordic doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"><div></div></div></body></html>

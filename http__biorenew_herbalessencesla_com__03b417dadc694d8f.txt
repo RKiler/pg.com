@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Link: <https://biorenew.herbalessencesla.com/productolavanda/>; rel="canonical"
+X-Unbounce-Pageid: 2fa51ea2-a2d3-4761-bde2-722d500d761b
+Date: Sun, 10 Mar 2024 02:27:03 GMT
+Content-Location: https://biorenew.herbalessencesla.com/productolavanda/
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Etag: "n:e595f33542e34552989fe4911ace76cc"
+X-Unbounce-Visitorid: e595f335-42e3-4552-989f-e4911ace76cc
+Cf-Ray: 861fdd0c48c1ce40-SJC
+Retry-Count: 0
+Set-Cookie: ubvs=e595f335-42e3-4552-989f-e4911ace76cc; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7Ce595f335-42e3-4552-989f-e4911ace76cc%7C2fa51ea2-a2d3-4761-bde2-722d500d761b%3An%3Asingle; Max-Age=259200; Domain=herbalessencesla.com; Path=/; SameSite=Lax ubpv=n%2C2fa51ea2-a2d3-4761-bde2-722d500d761b; Max-Age=15897600; Path=/productolavanda/; SameSite=Lax
+X-Unbounce-Variant: n

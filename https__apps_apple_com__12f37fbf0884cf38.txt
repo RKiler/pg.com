@@ -1,0 +1,23 @@
+200 OK
+Vary: accept-encoding
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Daiquiri-Instance: daiquiri:10001:daiquiri-cluster-bdcb645cd-7n7w4:7987:24RELEASE37:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-pv1-amp-web-apps-preview-prod daiquiri:10001:daiquiri-all-shared-ext-65cf996b99-pqrm9:7987:24RELEASE37:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-pv1-amp-daiquiri-ingress-prod
+Date: Sun, 10 Mar 2024 02:23:01 GMT
+X-Cache-Remote: TCP_MISS from a23-203-167-109.deploy.akamaitechnologies.com (AkamaiGHost/11.4.2.2-54697487) (-)
+Retry-Count: 0
+Content-Type: text/html
+X-Daiquiri-Rate-Limit-Generic: generic-minute-lim:180000;generic-minute-rem:179545;
+X-Daiquiri-Rate-Limit-Ip: ip-minute-lim:250;ip-minute-rem:249;
+Content-Security-Policy: upgrade-insecure-requests ; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; style-src 'self' https://*.apple.com 'unsafe-inline'; font-src 'self' https://*.apple.com; media-src 'self' https://*.apple.com blob:; connect-src 'self' https://*.apple.com https://*.mzstatic.com; script-src 'self' https://*.apple.com 'unsafe-eval' 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ=' blob:; frame-src 'self' https://*.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:;
+X-Frame-Options: DENY
+X-Responding-Instance: amp-web-apps-preview-server:amp-web-apps-preview-server-main-5db49f4db6-5cfc4:9000:2408.5.0
+X-Cache: TCP_MISS from a23-216-148-132.deploy.akamaitechnologies.com (AkamaiGHost/11.4.2.2-54697487) (-)
+Server: daiquiri/3.0.0
+Set-Cookie: geo=AR; domain=.apple.com
+X-Daiquiri-Rate-Limit-Timing-Ip: 0
+X-Apple-Jingle-Correlation-Key: LQPFJZXKN7F75R32GUWMJR26LU
+X-Original-Content-Length: 679384
+X-Xss-Protection: 1; mode=block
+Cache-Control: public, max-age=866
+X-Daiquiri-Rate-Limit-Timing-Generic: 0

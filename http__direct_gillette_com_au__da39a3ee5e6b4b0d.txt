@@ -1,0 +1,14 @@
+200 OK
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Set-Cookie: fornax_anonymousId=93fa20f7-e9a6-465d-a9e3-5169f0a786bf; Expires=Tue, 10 Mar 2026 02:16:51 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=bb8674a3-668b-484b-94d6-8d1cd87d4b64:1710037011; Expires=Sun, 10 Mar 2024 02:46:51 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=FA2E81DFCC6A736F1A8ED3473069635A899C0B89-1710641811446-x%7B%22cur%22%3A%22AUD%22%7D; Expires=Sun, 17 Mar 2024 02:16:51 GMT; Path=/; HttpOnly XSRF-TOKEN=a748dcc862fe768d1a85c0a1224b67ebd3d40d2b2c00d1fa66a13729aec1a8f0; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=a072dbb4-cfb8-45e6-9fa8-c20b5decec65; Expires=Sun, 17 Mar 2024 02:16:51 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Server: openresty
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:16:51 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Link: <https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=PGUv4w>; rel=preload; as=script
+X-Request-Id: 809686781b734d9394e3a2405f4dd502

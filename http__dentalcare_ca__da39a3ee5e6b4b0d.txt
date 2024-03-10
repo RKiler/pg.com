@@ -1,0 +1,22 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:20:48 GMT
+Etag: "5zfarkzu2h2z4t"
+X-Powered-By: ASP.NET
+Retry-Count: 0
+Cache-Control: s-maxage=31536000, stale-while-revalidate
+Strict-Transport-Security: max-age=31536000
+X-Permitted-Cross-Domain-Policies: master-only
+X-Cache: TCP_HIT
+Accept-Ranges: bytes
+Content-Length: 138867
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 20240310T022048Z-10997fbnzx7yp6rzwcn4zzsxf400000009f0000000001vcc
+X-Fd-Int-Roxy-Purgeid: 66762747
+Content-Security-Policy: default-src *.ctfassets.net 'self' blob:; style-src *.lytics.io fonts.googleapis.com 'self' 'unsafe-inline'; img-src *.incentives.gcp.pgcloud.com *.pg-campaigns.com *.lytics.io *.google.com *.google.co.in www.googletagmanager.com res.cloudinary.com *.google-analytics.com images.ctfassets.net *.ctfassets.net pixel.tapad.com *.qualtrics.com *.cookielaw.org *.onetrust.com *.facebook.com *.youtube.com *.c.lytics.io 'self' data: ; media-src videos.ctfassets.net *.ctfassets.net 'self'; script-src nonce-cf8eb9e05d9c6752e9c5092cb764e5dc1c70861fa2390f3fe3a7704e3d84122dfcfe52fcb69eca1a8735450dfbad4682a424e412eb1cfdd4983a85e59ab14208 googleads.g.doubleclick.net *.googleadservices.com *.qualtrics.com *.moatads.com pghub.io *.siteintercept.qualtrics.com *.google.com *.gstatic.com *.googletagmanager.com *.google-analytics.com *.crazyegg.com *.simpli.fi *.adsrvr.org *.cookielaw.org *.onetrust.com *.facebook.net cdn.segment.com https://www.youtube.com https://c.lytics.io 'self' 'unsafe-inline' 'unsafe-eval'; connect-src * https: 'unsafe-inline'; font-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com; frame-src *.doubleclick.net feed.pghub.io *.qualtrics.com *.tapad.com *.facebook.com *.google.com *.youtube.com *.c.lytics.io https://dentalcare.corbusmediasolutions.com *.instagram.com *.adsrvr.org 'self'; worker-src 'self' blob:; upgrade-insecure-requests;
+X-Nextjs-Cache: HIT
+X-Cache-Info: L1_T2
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer

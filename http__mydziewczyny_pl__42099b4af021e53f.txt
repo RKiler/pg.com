@@ -1,0 +1,16 @@
+200 OK
+X-Azure-Ref: 0SRjtZQAAAADPlssmJvcfRb80EJQXu5YRU0pDMjExMDUxMjAxMDUxAGNlNzAzNTM2LWQ0OWYtNGM1MC05NDllLTAxYzRlNDhjYzc2Mg==
+X-Cache: CONFIG_NOCACHE
+Accept-Ranges: bytes
+Etag: "0cec9eae56ada1:0"
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=www.mydziewczyny.pl ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.mydziewczyny.pl
+X-Content-Type-Options: nosniff
+Content-Type: text/html
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+Retry-Count: 0
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Thu, 29 Feb 2024 08:04:28 GMT
+Vary: Accept-Encoding
+Date: Sun, 10 Mar 2024 02:17:45 GMT

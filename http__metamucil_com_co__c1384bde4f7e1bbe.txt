@@ -1,0 +1,14 @@
+200 OK
+Link: <https://www.metamucil.com.co/es-co/>; rel="canonical"
+Cf-Cache-Status: DYNAMIC
+X-Unbounce-Visitorid: 56a9fd6d-9683-4d15-acae-d51f517b275c
+Server: cloudflare
+Cf-Ray: 861fdd7c1d57fb44-SJC
+Content-Type: text/html; charset=utf-8
+Set-Cookie: ubvs=56a9fd6d-9683-4d15-acae-d51f517b275c; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C56a9fd6d-9683-4d15-acae-d51f517b275c%7C05ebc0dc-600c-4fa4-a13a-1ba8b6b4705b%3Aa%3Asingle; Max-Age=259200; Domain=metamucil.com.co; Path=/; SameSite=Lax ubpv=a%2C05ebc0dc-600c-4fa4-a13a-1ba8b6b4705b; Max-Age=15897600; Path=/es-co/; SameSite=Lax __cf_bm=AwCn0c7pI3UHHQqzSKFCRSyU8RknK.yPnZ.sxIykWXY-1710037641-1.0.1.1-TZn2pJRwSVeXGgpN0zz9e8ddUWxMVMnQgyjgVRAjiUxBW_3ZDR4d.5AZbwPubdBDrpryjHjAKiMYeWvTW1.lVw; path=/; expires=Sun, 10-Mar-24 02:57:21 GMT; domain=.www.metamucil.com.co; HttpOnly; Secure; SameSite=None
+Content-Location: https://www.metamucil.com.co/es-co/
+Etag: "a:56a9fd6d96834d15acaed51f517b275c"
+Date: Sun, 10 Mar 2024 02:27:21 GMT
+X-Unbounce-Pageid: 05ebc0dc-600c-4fa4-a13a-1ba8b6b4705b
+X-Unbounce-Variant: a
+Retry-Count: 0

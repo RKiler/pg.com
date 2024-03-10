@@ -1,0 +1,21 @@
+200 OK
+Content-Type: text/html
+Content-Length: 2709084
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com pghub.io www.youtube.com feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; font-src 'self' feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' feed.pghub.io consumersupport.pg.com www.youtube.com pandg.tapad.com ; img-src 'self' data: images.ctfassets.net pixel.tapad.com www.googletagmanager.com www.google-analytics.com *.ytimg.com feed.pghub.io pandg.tapad.com ; connect-src 'self' *.google-analytics.com *.algolia.net *.algolianet.com feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+Date: Sun, 10 Mar 2024 02:16:54 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Xss-Protection: 1;mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Referrer-Policy: strict-origin-when-cross-origin
+X-Fd-Int-Roxy-Purgeid: 66709982
+Etag: "05a513ed6eda1:0"
+Last-Modified: Mon, 04 Mar 2024 08:23:32 GMT
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+X-Azure-Ref: 20240310T021653Z-mdaz7dxx290tb2eqspkqkzr7ec0000000960000000005ate
+X-Cache: PRIVATE_NOSTORE
+Accept-Ranges: bytes
+Retry-Count: 0

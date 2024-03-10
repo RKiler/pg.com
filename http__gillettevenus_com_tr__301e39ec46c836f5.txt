@@ -1,0 +1,17 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:21:34 GMT
+Content-Length: 105277
+Last-Modified: Thu, 15 Feb 2024 12:21:58 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.fonts.net pghub.io cdn.cookielaw.org pixel.mathtag.com *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.bazaarvoice.com fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' *.cookielaw.org images.ctfassets.net pixel.tapad.com *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' assets.ctfassets.net fonts.gstatic.com data: feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' pandg.tapad.com *.adsrvr.org *.doubleclick.net *.jebbit.com *.pghub.io *.bazaarvoice.com pixel.mathtag.com consumersupport.pg.com servedby.flashtalking.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com ; manifest-src * ;
+Accept-Ranges: bytes
+Etag: "037ec91960da1:0"
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 20240310T022133Z-k9w6ur8tqx10h1432vk5dx1a0g00000009b0000000000k5y
+X-Cache: PRIVATE_NOSTORE
+X-Frame-Options: DENY
+X-Fd-Int-Roxy-Purgeid: 66876918
+Content-Type: text/html
+Cache-Control: no-cache, no-store, must-revalidate
+Retry-Count: 0

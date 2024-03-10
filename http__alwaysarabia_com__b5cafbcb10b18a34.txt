@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Azure-Ref: 0XBntZQAAAAAOdnO//zsrS5CAS+riE/hFU0pDMjExMDUxMjAyMDQ1ADA0YmQ1OTBjLWU0N2EtNDExOC05NzM0LWRmNGQ4NTIzYmJmNQ==
+Date: Sun, 10 Mar 2024 02:22:20 GMT
+Accept-Ranges: bytes
+Etag: "0348be786fda1:0"
+X-Cache: TCP_MISS
+Strict-Transport-Security: max-age=31536000
+Retry-Count: 0
+Last-Modified: Wed, 06 Mar 2024 03:45:34 GMT
+X-Powered-By: ASP.NET
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src https://* 'self' data: https: blob: feed.pghub.io pandg.tapad.com ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ; frame-ancestors * 'self' data: https: blob: ;
+X-Azure-Ref-Originshield: 0XBntZQAAAAAb4aT7VzQ6ToWr7iZ99WF5U0pDMjExMDUxMjA3MDM1ADA0YmQ1OTBjLWU0N2EtNDExOC05NzM0LWRmNGQ4NTIzYmJmNQ==

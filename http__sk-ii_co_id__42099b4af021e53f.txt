@@ -1,0 +1,14 @@
+200 OK
+Retry-Count: 0
+Cache-Control: no-cache, no-store,must-revalidate
+Set-Cookie: ARRAffinity=432b15cd0dc02aa0319dccaa6f12360abe2af01eb575bbadd296a553c4c8485a;Path=/;HttpOnly;Secure;Domain=sk-ii.co.id ARRAffinitySameSite=432b15cd0dc02aa0319dccaa6f12360abe2af01eb575bbadd296a553c4c8485a;Path=/;HttpOnly;SameSite=None;Secure;Domain=sk-ii.co.id
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Content-Type-Options: nosniff
+Content-Type: text/html
+Accept-Ranges: bytes
+Etag: "0ca876de66eda1:0"
+X-Xss-Protection: 1;mode=block
+Date: Sun, 10 Mar 2024 02:26:18 GMT
+Last-Modified: Tue, 05 Mar 2024 10:18:12 GMT
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN

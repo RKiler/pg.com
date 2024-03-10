@@ -1,0 +1,8 @@
+405 Not Allowed
+Retry-Count: 0
+X-Amzn-Waf-Action: captcha
+Cache-Control: no-store, max-age=0
+Content-Type: text/html; charset=UTF-8
+Server: awselb/2.0
+Date: Sun, 10 Mar 2024 02:22:39 GMT
+Content-Length: 2491

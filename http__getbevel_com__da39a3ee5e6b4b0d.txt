@@ -1,0 +1,9 @@
+200 OK
+Set-Cookie: auth.strategy=; Path=/ __visit=73e91ee0-18ea-48c0-9f22-bc78018c85ff; Domain=getbevel.com; Path=/; Expires=Sun, 10 Mar 2024 02:51:52 GMT; HttpOnly; Secure; SameSite=Lax __session=f4350467f9be4bb5ab1b69295b00ba0f; Domain=getbevel.com; Path=/; Expires=Mon, 10 Mar 2025 02:21:52 GMT; HttpOnly; Secure ARRAffinity=ec6efb3e281dc7ca3607e564cc46abd9073c2a31f69ff19ee2b523c9667d1836; Domain=getbevel.com ARRAffinitySameSite=ec6efb3e281dc7ca3607e564cc46abd9073c2a31f69ff19ee2b523c9667d1836; Domain=getbevel.com
+Vary: Accept-Encoding
+Server: cloudflare
+Date: Sun, 10 Mar 2024 02:21:53 GMT
+Content-Type: text/html; charset=utf-8
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fd5724db59866-SJC
+Retry-Count: 0

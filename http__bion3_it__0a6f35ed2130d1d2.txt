@@ -1,0 +1,17 @@
+200 OK
+Referrer-Policy: no-referrer-when-downgrade
+Content-Type: text/html
+Etag: "0ad9e63b14fda1:0"
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Date: Sun, 10 Mar 2024 02:26:46 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000
+Last-Modified: Thu, 25 Jan 2024 17:10:26 GMT
+Content-Security-Policy: worker-src 'self' blob: feed.pghub.io pandg.tapad.com ; upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com *.cookielaw.org *.adsrvr.org pghub.io *.google.com www.gstatic.com feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; font-src 'self' data: feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' *.flashtalking.com *.pghub.io *.adsrvr.org consumersupport.pg.com pandg.tapad.com ; img-src 'self' data: *.ctfassets.net *.tapad.com *.cookielaw.org feed.pghub.io ; default-src 'none' feed.pghub.io pandg.tapad.com ; connect-src 'self' *.cookielaw.org *.google-analytics.com *.contentful.com feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ;
+Retry-Count: 0
+Set-Cookie: ARRAffinity=373b9b5f484f54ac4ee9855156cdcae474be573baafe1b9612b052c9bdded452;Path=/;HttpOnly;Domain=www.bion3.it ARRAffinity=37c12e0013397d1d8561ab748ac61eef7c11ae1b37b45dd389803fef29c547d8;Path=/;HttpOnly;Secure;Domain=www.bion3.it ARRAffinitySameSite=37c12e0013397d1d8561ab748ac61eef7c11ae1b37b45dd389803fef29c547d8;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.bion3.it
+X-Xss-Protection: 1;mode=block
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()

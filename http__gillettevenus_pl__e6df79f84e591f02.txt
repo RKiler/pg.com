@@ -1,0 +1,16 @@
+200 OK
+Content-Type: text/html
+Accept-Ranges: bytes
+X-Azure-Ref: 0ORrtZQAAAABpxyrCJjqiSKdLzjWE+SgLU0pDMjExMDUxMjAxMDM3AGNjM2MzODhlLTBkMTQtNDk2Yi04ZTdhLWJjZGZlNGYxY2JmOQ==
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' pghub.io *.googleadservices.com cdn.cookielaw.org *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.bazaarvoice.com fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' *.cookielaw.org www.google.com images.ctfassets.net pixel.tapad.com *.doubleclick.net *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' assets.ctfassets.net fonts.gstatic.com data: feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' *.adsrvr.org *.doubleclick.net *.jebbit.com *.pghub.io *.bazaarvoice.com consumersupport.pg.com servedby.flashtalking.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com pandg.tapad.com ; manifest-src * ;
+Date: Sun, 10 Mar 2024 02:26:02 GMT
+Retry-Count: 0
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Wed, 06 Mar 2024 09:06:14 GMT
+Etag: "07378aa56fda1:0"
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Cache: CONFIG_NOCACHE
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block

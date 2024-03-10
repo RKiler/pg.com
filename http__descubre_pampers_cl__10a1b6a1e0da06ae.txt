@@ -1,0 +1,14 @@
+200 OK
+Etag: "l:ad5debf080c4489786e98dba5c3b5cc3"
+Link: <https://descubre.pampers.cl/tipspiel/>; rel="canonical"
+Content-Type: text/html; charset=utf-8
+Content-Location: https://descubre.pampers.cl/tipspiel/
+Retry-Count: 0
+X-Unbounce-Pageid: 4f8b22e6-55e2-4eaf-ac35-d77afa13e242
+X-Unbounce-Visitorid: ad5debf0-80c4-4897-86e9-8dba5c3b5cc3
+Date: Sun, 10 Mar 2024 02:27:43 GMT
+X-Unbounce-Variant: l
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 861fde01992e6800-SJC
+Set-Cookie: ubvs=ad5debf0-80c4-4897-86e9-8dba5c3b5cc3; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7Cad5debf0-80c4-4897-86e9-8dba5c3b5cc3%7C4f8b22e6-55e2-4eaf-ac35-d77afa13e242%3Al%3Aweighted; Max-Age=259200; Domain=pampers.cl; Path=/; SameSite=Lax ubpv=l%2C4f8b22e6-55e2-4eaf-ac35-d77afa13e242; Max-Age=15897600; Path=/tipspiel/; SameSite=Lax

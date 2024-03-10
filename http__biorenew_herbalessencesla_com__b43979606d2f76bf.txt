@@ -1,0 +1,14 @@
+200 OK
+Content-Location: https://biorenew.herbalessencesla.com/productomandarina/
+Link: <https://biorenew.herbalessencesla.com/productomandarina/>; rel="canonical"
+X-Unbounce-Pageid: 6886a1fe-4d6d-4a6a-bec1-df609beddf24
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+Set-Cookie: ubvs=429c8cf3-f2e5-4465-a5a6-ab875445834b; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C429c8cf3-f2e5-4465-a5a6-ab875445834b%7C6886a1fe-4d6d-4a6a-bec1-df609beddf24%3An%3Asingle; Max-Age=259200; Domain=herbalessencesla.com; Path=/; SameSite=Lax ubpv=n%2C6886a1fe-4d6d-4a6a-bec1-df609beddf24; Max-Age=15897600; Path=/productomandarina/; SameSite=Lax
+X-Unbounce-Variant: n
+Cf-Ray: 861fdaf99dec67ac-SJC
+Date: Sun, 10 Mar 2024 02:25:39 GMT
+X-Unbounce-Visitorid: 429c8cf3-f2e5-4465-a5a6-ab875445834b
+Etag: "n:429c8cf3f2e54465a5a6ab875445834b"

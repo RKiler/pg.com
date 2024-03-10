@@ -1,0 +1,23 @@
+200 OK
+X-Frame-Options: sameorigin
+Cf-Ray: 861fddafea4615e1-SJC
+Alt-Svc: h3=":443"; ma=86400
+Set-Cookie: fornax_anonymousId=57ee1814-9e4b-4c47-8c4f-4b70d4cc06cf; Expires=Tue, 10 Mar 2026 02:27:30 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=84a5ea2f-a6af-4c92-9942-30ffcdff886c:1710037650; Expires=Sun, 10 Mar 2024 02:57:30 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=E23835ADA541FD0F051A958243B9F5C08F7AA1E2-1710642450338-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:27:30 GMT; Path=/; HttpOnly XSRF-TOKEN=23a9f473f513e486f885881abb6eb2deef2df3788a3b8732fa4f9c4a43b1a9b9; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=7d80d391-dd4b-4824-874f-78886c4b8ed7; Expires=Sun, 17 Mar 2024 02:27:30 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: script-src *.fontawesome.com *.highdegree.io *.mapbox.com *.chablivoy.com *.pirolane.com api.ipify.org *.pricespider.com pghub.io ct.pinterest.com s.pinimg.com *.tiktok.com unpkg.com js.braintreegateway.com www.googleadservices.com lightboxapi.azurewebsites.net *.lightboxcdn.com *.adsrvr.org *.ubembed.com s.ytimg.com www.youtube.com platform-api.sharethis.com cdn.cookielaw.org code.jquery.com geolocation.onetrust.com optanon.blob.core.windows.net *.paypalobjects.com *.gstatic.com *.paypal.com *.bazaarvoice.com *.iesnare.com *.ajax.googleapis.com *.google-analytics.com *.googletagmanager.com *.google.com *.bigcommerce.com *.facebook.net *.entrust.net *.getshogun.com *.agkn.com *.addthis.com *.addthisedge.com *.jquery.com *.ravenjs.com *.online-metrix.net *.amazonaws.com *.cloudflare.com *.growsumo.com *.newrelic.com *.nr-data.net *.crazyegg.com *.moatads.com *.cloudfront.net sc-static.net googleads.g.doubleclick.net *.googleapis.com *.tapad.app cdn.segment.com 'self' 'unsafe-eval' 'unsafe-inline'; worker-src blob:
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2BopsxtQQhhX9xt3kzaUc7o61h8H%2BUHNwtfSjt2OtUQXi7tDbX15DU4vVeAFCi7WSChE9vDsxlJa8ShpP%2B0IkNNKfGZ6cbl2Z%2BMDvVWuU6m91e1M3n9m%2BMKXy6Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:27:30 GMT
+Content-Type: text/html; charset=UTF-8
+X-Permitted-Cross-Domain-Policies: none
+Cache-Control: no-store, no-cache, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Vary: Accept-Encoding
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+X-Content-Type-Options: nosniff
+Link: <https://analytics.getshogun.com/collector.js>; rel=preload; as=script <https://cdn11.bigcommerce.com/s-bwb1icvor9>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/css?family=Montserrat:700,500&display=block>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-bwb1icvor9/stencil/1bd458f0-6682-013c-ba2d-52867ecfc7a5/e/286777f0-b6c8-013c-428b-363e86274252/css/theme-73ea1c20-6682-013c-f2c4-56f3459d9788.css>; rel=preload; as=style
+X-Request-Id: b57b4f0b281bd92b93d36780057b8c93

@@ -1,0 +1,20 @@
+200 OK
+Retry-Count: 0
+Grace: none
+Date: Sun, 10 Mar 2024 02:27:11 GMT
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=8995000; includeSubDomains
+X-Magento-Cache-Debug: HIT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
+Pragma: no-cache
+Expires: -1
+Server: istio-envoy
+Login-Required: true
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https://www.googletagmanager.com https://www.google-analytics.com https://ajax.googleapis.com/ajax/libs/jquery/ https://optanon.blob.core.windows.net https://*.optanon.blob.core.windows.net https://*.onetrust.com https://*.jquery.com https://*.doubleclick.net/ https://js-agent.newrelic.com https://*.cookielaw.org https://bam.nr-data.net https://www.google.com https://tagmanager.google.com customer-online-media2.azureedge.net customer-online-media-dr.azureedge.net prodeuropecdn.azureedge.net prodeuropecdn2.azureedge.net customer-online-media2.azureedge.net ; script-src 'self' 'unsafe-inline' 'unsafe-eval' data: https://www.googletagmanager.com https://www.googleadservices.com https://www.google-analytics.com https://ajax.googleapis.com/ajax/libs/jquery/ https://optanon.blob.core.windows.net https://*.optanon.blob.core.windows.net https://*.onetrust.com https://*.jquery.com https://*.doubleclick.net/ https://js-agent.newrelic.com https://*.cookielaw.org https://bam.nr-data.net https://www.google.com https://www.gstatic.com https://tagmanager.google.com prodeuropecdn.azureedge.net prodeuropecdn2.azureedge.net customer-online-media2.azureedge.net; frame-src 'self' https://*.pg.com https://www.google.com/; img-src 'self' 'unsafe-inline' 'unsafe-eval' data: customer-online-media2.azureedge.net customer-online-media-dr.azureedge.net https://www.googleadservices.com widgets.magentocommerce.com https://cdn.cookielaw.org/ https://www.google-analytics.com/collect prodeuropecdn.azureedge.net prodeuropecdn2.azureedge.net customer-online-media2.azureedge.net
+X-Envoy-Upstream-Service-Time: 1
+Accept-Ranges: bytes
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+X-Robots-Tag: noindex

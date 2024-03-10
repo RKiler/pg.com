@@ -1,0 +1,23 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: fornax_anonymousId=d33535a8-6f4f-4e9f-a3d3-0b98ca2dcd33; Expires=Tue, 10 Mar 2026 02:17:59 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=4649c691-c9b4-443d-87ae-29965192946d:1710037079; Expires=Sun, 10 Mar 2024 02:47:59 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=DCE8AD6AB07D2092A8C6EA58CF76BBECB917C82E-1710641879512-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:17:59 GMT; Path=/; HttpOnly XSRF-TOKEN=e29e83f0a605fceb44cbd0b9f90c6f59967daa1a848e0d5ae8860d8de9bfc773; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=237a00fe-7bc4-471c-acc5-3edef8e14dbe; Expires=Sun, 17 Mar 2024 02:17:59 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Link: <https://apps.bazaarvoice.com/deployments/bodewellskin-en_us/main_site/production/en_US/bv.js>; rel=preload; as=script <https://cdn11.bigcommerce.com/s-lvmmrxu2iz>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-lvmmrxu2iz/stencil/2cb29900-8b84-013c-1b9f-4e6ddaee6ca2/e/1b654580-493b-013b-767c-5677768142a7/css/theme-403cde30-8b84-013c-f2d8-6eb067c2ce43.css>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-lvmmrxu2iz/stencil/2cb29900-8b84-013c-1b9f-4e6ddaee6ca2/e/1b654580-493b-013b-767c-5677768142a7/dist/theme-bundle.main.js>; rel=preload; as=script
+Cache-Control: no-store, no-cache, must-revalidate
+X-Request-Id: 2660fb76ff3deb27c3692ec47a681d6b
+Content-Security-Policy: frame-ancestors 'self'; script-src *.bigcommerce.com https://pghub.io/js/pandg-sdk.js *.pgconsumersupport.secure.force.com *.pg-lex--c.na137.content.force.com *.mathtag.com *.tapad.com *.klaviyo.com *.rechargeadapter.com *.twitter.com *.ads-twitter.com *.t.co *.pinterest.com *.analytics.bodewellskin.com *.dynatrace.com *.azurewebsites.net cdn.jsdelivr.net cdnjs.cloudflare.com *.google-analytics.com *.googleapis.com *.gstatic.com *.facebook.net *.facebook.com *.google.com *.googlesyndication.com *.jquery.com *.crazyegg.com *.adsrvr.org sc-static.net *.pinimg.com *.googleadservices.com *.braintreegateway.com *.doubleclick.net *.googletagmanager.com *.moatads.com *.paypalobjects.com *.paypal.com *.adsrvr.org *.attn.tv *.youtube.com *.linkedin.com *.cloudfront.net *.bazaarvoice.com *.iesnare.com *.shareasale-analytics.com cdn.cookielaw.org *.tapjoy.go2cloud.org *.polyfill.io geolocation.onetrust.com *.tapad.app *.tiktok.com *.analytics.tiktok.com *.mapbox.com optanon.blob.core.windows.net b-code.liadm.com blob: 'self' 'unsafe-eval' 'unsafe-inline'
+Server: cloudflare
+X-Permitted-Cross-Domain-Policies: none
+Pragma: no-cache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fcfc05edf15c6-SJC
+Retry-Count: 0
+X-Frame-Options: deny
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=NQcaZ67FQwr3z%2BXzXkpmu37HOZ7yRKfQvDd365gcLBy4txE%2FoSjK3Qf6fHf6I4XU8C0Wq%2BEVWNm%2BaqTHTx9lt6Txa1oHcry392oBIebIMIhf4YtJmWu3Xyop2buJbrpbXtI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Date: Sun, 10 Mar 2024 02:17:59 GMT
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=86400

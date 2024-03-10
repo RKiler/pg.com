@@ -1,0 +1,18 @@
+200 OK
+X-Azure-Ref: 0CxrtZQAAAACg1u31/rL/SLu94jZmphlSU0pDMjExMDUxMjAxMDM1AGI3M2NkNDQzLThjMWItNDI1Ni1iNzI1LTJhNTNlYmUzMzMxYw==
+Last-Modified: Thu, 07 Mar 2024 11:09:22 GMT
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref-Originshield: 0CxrtZQAAAAA+baJiizZDTJPhs21NVAbDU0pDMjExMDUxMjA3MDQ5AGI3M2NkNDQzLThjMWItNDI1Ni1iNzI1LTJhNTNlYmUzMzMxYw==
+Date: Sun, 10 Mar 2024 02:25:16 GMT
+Retry-Count: 0
+Etag: "01d38e87f70da1:0"
+Set-Cookie: ARRAffinity=5ae01a13e4e18b5d7abdbc0de2ec99a6efba0e606dc336e3cc0d96d6c62820e6;Path=/;HttpOnly;Secure;Domain=www.whisper.jp ARRAffinitySameSite=5ae01a13e4e18b5d7abdbc0de2ec99a6efba0e606dc336e3cc0d96d6c62820e6;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.whisper.jp
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: text/html
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Cache: PRIVATE_NOSTORE

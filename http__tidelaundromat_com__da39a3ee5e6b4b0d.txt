@@ -1,0 +1,14 @@
+200 OK
+Link: <https://www.tidelaundromat.com/>; rel="canonical"
+X-Unbounce-Pageid: c6245571-f69b-40ad-8470-bb5ef1c781e5
+X-Unbounce-Variant: h
+Cf-Ray: 861fdbd17fb6169a-SJC
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:26:13 GMT
+Content-Type: text/html; charset=utf-8
+Content-Location: https://www.tidelaundromat.com/
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: ubvs=9f675468-1062-4097-b681-25ae2aadfc51; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C9f675468-1062-4097-b681-25ae2aadfc51%7Cc6245571-f69b-40ad-8470-bb5ef1c781e5%3Ah%3Asingle; Max-Age=259200; Domain=tidelaundromat.com; Path=/; SameSite=Lax ubpv=h%2Cc6245571-f69b-40ad-8470-bb5ef1c781e5; Max-Age=15897600; Path=/; SameSite=Lax
+X-Unbounce-Visitorid: 9f675468-1062-4097-b681-25ae2aadfc51
+Server: cloudflare
+Etag: "h:9f67546810624097b68125ae2aadfc51"

@@ -1,0 +1,15 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: Next.js
+X-Content-Type-Options: nosniff
+Set-Cookie: ARRAffinity=3b465a6a7ecf1050cba96e08bdd73408f917882519717f0e1456eda9f6b61aee;Path=/;HttpOnly;Secure;Domain=www.info-pg.com
+X-Frame-Options: DENY
+X-Fd-Int-Roxy-Purgeid: 66844049
+Date: Sun, 10 Mar 2024 02:22:40 GMT
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+X-Xss-Protection: 1;mode=block
+X-Cache: PRIVATE_NOSTORE
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Azure-Ref: 20240310T022240Z-p8975m1gg17e786524f53we7ew00000009c0000000000mr5

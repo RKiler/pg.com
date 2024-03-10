@@ -1,0 +1,14 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:21:12 GMT
+Content-Type: text/html
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Last-Modified: Fri, 08 Mar 2024 10:41:30 GMT
+X-Frame-Options: DENY
+Retry-Count: 0
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://api.tiles.mapbox.com https://wtbng.pricespider.com https://wtbstream.pricespider.com https://embeddedcloud.pricespider.com https://omni.pricespider.com https://locate.pricespider.com https://wtbevents.pricespider.com https://cdn.pricespider.com rpxnow.com cdn.segment.com *.janraincapture.com *.doubleclick.net *.googleadservices.com s.pinimg.com *.cloudfront.net pghub.io *.cookielaw.org *.onetrust.com *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' https://api.tiles.mapbox.com https://cdn.pricespider.com quilt-cdn.janrain.com *.bazaarvoice.com fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' *.cookielaw.org https://cdn.pricespider.com https://wwwassets.pricespider.com https://embeddedcloud.pricespider.com pixel.tapad.com https://www.google.com *.doubleclick.net ct.pinterest.com *.cloudfront.net images.ctfassets.net *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' fonts.gstatic.com data: feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' https://pandg.tapad.com feed.pghub.io *.adsrvr.org *.doubleclick.net *.jebbit.com *.bazaarvoice.com *.janraincapture.com consumersupport.pg.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com pandg.tapad.com ; manifest-src * ;
+Cache-Control: no-cache, no-store, must-revalidate
+Etag: "0e9a2e4571da1:0"
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block

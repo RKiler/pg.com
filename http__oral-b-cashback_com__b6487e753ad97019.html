@@ -1,0 +1,81 @@
+<!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link href=/assets/css/googleapiMontserrat.css rel=stylesheet><link href=/assets/css/plusJakarta.css rel=stylesheet><link rel=icon type=image/png href=/OralB_Favicon-32.png><title>Oral-B Cashback</title><script>if (typeof PGdataLayer == "undefined") {
+        var PGdataLayer = {};
+      }
+      
+      const acceptedCountries = ['se' , 'fi', 'dk', 'no']
+      const acceptedCountryValues = {
+        'se': {
+          ConsentOverlayId: 'htmllang/9137cc64-e5c3-4a44-9990-0f98aa6a238f',
+          lang: 'sv-SE',
+          langCode: 'SE',
+          marketingProgramNbr: '410',
+          sourceID: '14297'
+          },
+        'fi': {
+          ConsentOverlayId:'htmllang/201f0fb1-fa8e-4559-b34e-0ce577bce0ff',
+          lang: 'fi-FI',
+          langCode: 'FI',
+          marketingProgramNbr: '517',
+          sourceID: '14300'
+        },
+        'dk': {
+          ConsentOverlayId:"htmllang/7a25c18d-c56f-46fc-adb2-afed3f5934cf",
+          lang: 'da-DK',
+          langCode: 'DK',
+          marketingProgramNbr: '516',
+          sourceID: '14298'
+        },
+        'no': {
+          ConsentOverlayId:"htmllang/6709d8bd-1087-45a0-bf09-30622b2937ec",
+          lang: 'no-NO',
+          langCode: 'NO',
+          marketingProgramNbr: '515',
+          sourceID: '14299'
+        }
+      }
+      let queryStringCountry = location.pathname.split('/')[1] ? location.pathname.split('/')[1] : ''
+      if (!acceptedCountries.includes(queryStringCountry)) queryStringCountry = 'se'
+      const ConsentOverlayId = acceptedCountryValues[queryStringCountry].ConsentOverlayId
+      const lang = acceptedCountryValues[queryStringCountry].lang
+      const langCode = acceptedCountryValues[queryStringCountry].langCode
+      document.documentElement.lang = lang
+
+      PGdataLayer.GTM = {
+        "SiteLocale": lang,
+        "SiteTouchpoint": "47381",
+        "SiteCountry": queryStringCountry.toUpperCase(),
+        "SiteBrand": "",
+        "SiteLanguage": langCode,
+        "SitePlatform": "",
+        "SiteEnvironment": "Production",
+        "SiteHost": "CTL",
+        "SiteTechnicalAgency": "Justsnap",
+        "SiteStatus": "Live",
+        "GoogleAnalyticsGA4MeasurementID": "G-0QR5FYNK4Y",
+        "GoogleAnalyticsLocal": "UA-4666365-125",
+        "GoogleAnalyticsBrand": "",
+        "GoogleAnalyticsSiteSpeedSampleRate": "high",
+        "GoogleAnalyticsAllowLinker": "true",
+        "GoogleAnalyticsLinkerDomains": "",
+        "GoogleAnalyticsEnableOptimizely": "false",
+        "GoogleAnalyticsConsentRequired": "true",
+        "GoogleAnalyticsOptimizeContainerID": "",
+        "GoogleAnalyticsReportingView": "",
+        "GoogleReCaptcha": "true",
+        // TODO: Add sitelocalcontainer id back
+        "SiteLocalContainer": "",
+        "FacebookRemarketingID": "",
+        "ConsentOverlay": "OneTrust",
+        "ConsentOverlayID": ConsentOverlayId,
+        "SitePrivacyProtection": "GDPR"
+      };
+      PGdataLayer.user = { "id": "", "marketingProgramNbr": acceptedCountryValues[queryStringCountry].marketingProgramNbr, "sourceID": acceptedCountryValues[queryStringCountry].sourceID };
+
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+          'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-N94XXFB');</script><link href=/css/chunk-3fb7f4c6.9b37eb27.css rel=prefetch><link href=/css/chunk-519d8136.2a8d5996.css rel=prefetch><link href=/css/chunk-744de8d0.045f6221.css rel=prefetch><link href=/css/chunk-76efa5e9.93f0935b.css rel=prefetch><link href=/css/chunk-7acc8235.8976e798.css rel=prefetch><link href=/css/chunk-7b14ead8.4fe3d524.css rel=prefetch><link href=/css/chunk-8d6066a8.87ae94eb.css rel=prefetch><link href=/css/chunk-f62fc7c4.d63c8506.css rel=prefetch><link href=/js/chunk-2d0a400d.aa4d94f8.js rel=prefetch><link href=/js/chunk-2d0a442b.5b6f1453.js rel=prefetch><link href=/js/chunk-2d0aa94a.d61d4693.js rel=prefetch><link href=/js/chunk-2d0aada7.a9927f21.js rel=prefetch><link href=/js/chunk-2d0ab2d7.215e11ee.js rel=prefetch><link href=/js/chunk-2d0b2b06.133cd419.js rel=prefetch><link href=/js/chunk-2d0b39ec.c0af2982.js rel=prefetch><link href=/js/chunk-2d0b3ddc.efb1d8af.js rel=prefetch><link href=/js/chunk-2d0b596a.e5663afa.js rel=prefetch><link href=/js/chunk-2d0b610d.01d59e93.js rel=prefetch><link href=/js/chunk-2d0b9418.66f85af9.js rel=prefetch><link href=/js/chunk-2d0c1208.8c8e2b01.js rel=prefetch><link href=/js/chunk-2d0c4d9c.efacbb06.js rel=prefetch><link href=/js/chunk-2d0c514a.6882b523.js rel=prefetch><link href=/js/chunk-2d0c5611.0c076805.js rel=prefetch><link href=/js/chunk-2d0c8868.b7d442fb.js rel=prefetch><link href=/js/chunk-2d0c94dc.bd49ad5e.js rel=prefetch><link href=/js/chunk-2d0cbea6.c8107263.js rel=prefetch><link href=/js/chunk-2d0cf165.02754599.js rel=prefetch><link href=/js/chunk-2d0cfaf4.38f42a9f.js rel=prefetch><link href=/js/chunk-2d0d3e49.14eb0370.js rel=prefetch><link href=/js/chunk-2d0d66d8.0d40a7cf.js rel=prefetch><link href=/js/chunk-2d0d72d8.53e5a7df.js rel=prefetch><link href=/js/chunk-2d0d83e9.1ed0b8de.js rel=prefetch><link href=/js/chunk-2d0da981.2f40e503.js rel=prefetch><link href=/js/chunk-2d0dd420.75423bf6.js rel=prefetch><link href=/js/chunk-2d0e1bd2.2d3f9d0c.js rel=prefetch><link href=/js/chunk-2d0e4576.195416d4.js rel=prefetch><link href=/js/chunk-2d0e5b39.b254960b.js rel=prefetch><link href=/js/chunk-2d0e5d7e.abd55719.js rel=prefetch><link href=/js/chunk-2d0e6372.f569bb2e.js rel=prefetch><link href=/js/chunk-2d0e6c63.52004d93.js rel=prefetch><link href=/js/chunk-2d0e9b27.d6456e5d.js rel=prefetch><link href=/js/chunk-2d0f066a.9b07af81.js rel=prefetch><link href=/js/chunk-2d2082a7.0b3185f6.js rel=prefetch><link href=/js/chunk-2d2082ab.286ce93a.js rel=prefetch><link href=/js/chunk-2d208c89.724d45f8.js rel=prefetch><link href=/js/chunk-2d20952e.e1380060.js rel=prefetch><link href=/js/chunk-2d20fa6c.d92bb6cb.js rel=prefetch><link href=/js/chunk-2d2133a5.6fb9bb36.js rel=prefetch><link href=/js/chunk-2d2136fb.2374b4a1.js rel=prefetch><link href=/js/chunk-2d216214.566dc78d.js rel=prefetch><link href=/js/chunk-2d216fa1.04b728d1.js rel=prefetch><link href=/js/chunk-2d21a786.d99d5990.js rel=prefetch><link href=/js/chunk-2d21b2c8.8c0bc30d.js rel=prefetch><link href=/js/chunk-2d21da31.4450b923.js rel=prefetch><link href=/js/chunk-2d21ecfd.b6b690e7.js rel=prefetch><link href=/js/chunk-2d225131.48f947e6.js rel=prefetch><link href=/js/chunk-2d2254b4.a542bfc0.js rel=prefetch><link href=/js/chunk-2d2257bb.57105721.js rel=prefetch><link href=/js/chunk-2d225fd6.0d67dd67.js rel=prefetch><link href=/js/chunk-2d22633b.c5637094.js rel=prefetch><link href=/js/chunk-2d228c53.3a2c1b32.js rel=prefetch><link href=/js/chunk-2d229413.fa1e75a8.js rel=prefetch><link href=/js/chunk-2d22ca85.77a3d0ef.js rel=prefetch><link href=/js/chunk-2d2300b8.af7e32e8.js rel=prefetch><link href=/js/chunk-2d230865.2d32ebab.js rel=prefetch><link href=/js/chunk-2d230a86.687cde6c.js rel=prefetch><link href=/js/chunk-2d237d7c.ce3c98d0.js rel=prefetch><link href=/js/chunk-2d237ea2.ccb6865f.js rel=prefetch><link href=/js/chunk-2d238429.95beceb5.js rel=prefetch><link href=/js/chunk-3fb7f4c6.e43711f7.js rel=prefetch><link href=/js/chunk-519d8136.215ea39b.js rel=prefetch><link href=/js/chunk-5e78fa94.88c37054.js rel=prefetch><link href=/js/chunk-744de8d0.9250976d.js rel=prefetch><link href=/js/chunk-76efa5e9.f865f91a.js rel=prefetch><link href=/js/chunk-7acc8235.11a44a40.js rel=prefetch><link href=/js/chunk-7b14ead8.2f5809e3.js rel=prefetch><link href=/js/chunk-8d6066a8.9d7e2c44.js rel=prefetch><link href=/js/chunk-f62fc7c4.516411d4.js rel=prefetch><link href=/css/app.3c8057c0.css rel=preload as=style><link href=/css/chunk-vendors.0d801526.css rel=preload as=style><link href=/js/app.cc79c933.js rel=preload as=script><link href=/js/chunk-vendors.a986fec4.js rel=preload as=script><link href=/css/chunk-vendors.0d801526.css rel=stylesheet><link href=/css/app.3c8057c0.css rel=stylesheet></head><body><noscript><strong>We're sorry but js-template doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app><div></div></div><script src=/js/chunk-vendors.a986fec4.js></script><script src=/js/app.cc79c933.js></script></body></html>

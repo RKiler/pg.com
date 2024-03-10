@@ -1,0 +1,17 @@
+200 OK
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Set-Cookie: ARRAffinity=74c9eb10b2e9067ce984448fed302dfef7eda81898745ce711a9ae356802811a;Path=/;HttpOnly;Secure;Domain=www.charmin.com ARRAffinitySameSite=74c9eb10b2e9067ce984448fed302dfef7eda81898745ce711a9ae356802811a;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.charmin.com
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+X-Frame-Options: DENY
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: text/html
+Etag: "02ed4b1d26ada1:0"
+X-Xss-Protection: 1;mode=block
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0zxntZQAAAAAT7i4i1y6SQJcJOvoQLh4aU0pDMjExMDUxMjAxMDMzADJlYTBhM2UzLTk2OTktNDhiOC1iMmI5LWUzZGUyMzZkMzBhZA==
+Date: Sun, 10 Mar 2024 02:24:15 GMT
+Last-Modified: Thu, 29 Feb 2024 05:46:52 GMT
+Accept-Ranges: bytes

@@ -1,0 +1,14 @@
+200 OK
+Link: <https://cepilloselectricos.oralb-latam.com/battery_pe/>; rel="canonical"
+X-Unbounce-Variant: a
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fd5262cf89670-SJC
+X-Unbounce-Visitorid: fbd7cd65-bb6d-431d-a8e4-2f404f0b2e46
+Server: cloudflare
+Content-Type: text/html; charset=utf-8
+Etag: "a:fbd7cd65bb6d431da8e42f404f0b2e46"
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:21:40 GMT
+Content-Location: https://cepilloselectricos.oralb-latam.com/battery_pe/
+Set-Cookie: ubvs=fbd7cd65-bb6d-431d-a8e4-2f404f0b2e46; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7Cfbd7cd65-bb6d-431d-a8e4-2f404f0b2e46%7C8681b97d-b8b0-4a81-8e12-49f8d22e4513%3Aa%3Asingle; Max-Age=259200; Domain=oralb-latam.com; Path=/; SameSite=Lax ubpv=a%2C8681b97d-b8b0-4a81-8e12-49f8d22e4513; Max-Age=15897600; Path=/battery_pe/; SameSite=Lax
+X-Unbounce-Pageid: 8681b97d-b8b0-4a81-8e12-49f8d22e4513

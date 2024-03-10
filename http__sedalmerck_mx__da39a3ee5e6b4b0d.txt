@@ -1,0 +1,14 @@
+200 OK
+Etag: "c:7fb8d795b6e042219aff52d5cd0d78bf"
+X-Unbounce-Pageid: 817ce003-9022-4eff-969f-bcd5e6222821
+X-Unbounce-Visitorid: 7fb8d795-b6e0-4221-9aff-52d5cd0d78bf
+Cf-Ray: 861fdd11dd73270a-SJC
+Retry-Count: 0
+Set-Cookie: ubvs=7fb8d795-b6e0-4221-9aff-52d5cd0d78bf; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C7fb8d795-b6e0-4221-9aff-52d5cd0d78bf%7C817ce003-9022-4eff-969f-bcd5e6222821%3Ac%3Asingle; Max-Age=259200; Domain=sedalmerck.mx; Path=/; SameSite=Lax ubpv=c%2C817ce003-9022-4eff-969f-bcd5e6222821; Max-Age=15897600; Path=/; SameSite=Lax __cf_bm=KNMhF5TyL9Vi7XWoDWwTok5FzkTvzVkv0h9iDy6Q1EI-1710037624-1.0.1.1-RWjFjew_yo4t.Tisi2JF4uuJFjRgF9zSOcJRdVy_bRG0NTvfx9FgqgKtO1b_8Tp0mc_872dbzwH.V8EQhzCKuA; path=/; expires=Sun, 10-Mar-24 02:57:04 GMT; domain=.www.sedalmerck.mx; HttpOnly; Secure; SameSite=None
+Cf-Cache-Status: DYNAMIC
+Link: <https://www.sedalmerck.mx/>; rel="canonical"
+Content-Type: text/html; charset=utf-8
+Server: cloudflare
+Date: Sun, 10 Mar 2024 02:27:04 GMT
+Content-Location: https://www.sedalmerck.mx/
+X-Unbounce-Variant: c

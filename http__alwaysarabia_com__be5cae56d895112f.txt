@@ -1,0 +1,14 @@
+200 OK
+X-Cache: TCP_MISS
+Date: Sun, 10 Mar 2024 02:24:53 GMT
+Last-Modified: Wed, 06 Mar 2024 03:45:34 GMT
+X-Powered-By: ASP.NET
+X-Azure-Ref: 20240310T022452Z-2z28d94vut3vm1r71rpqes7bt8000000093g0000000098k8
+X-Fd-Int-Roxy-Purgeid: 66689928
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src https://* 'self' data: https: blob: feed.pghub.io pandg.tapad.com ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ; frame-ancestors * 'self' data: https: blob: ;
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 109722
+Retry-Count: 0
+Etag: "0348be786fda1:0"
+Strict-Transport-Security: max-age=31536000

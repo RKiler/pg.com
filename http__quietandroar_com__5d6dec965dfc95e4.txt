@@ -1,0 +1,15 @@
+200 OK
+Vary: Accept-Encoding
+Content-Type: text/html
+Accept-Ranges: bytes
+Cache-Control: max-age=31536000,max-age=31536000
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: img-src 'self' data: images.ctfassets.net *.google-analytics.com *.tapad.com *.googletagmanager.com *.fls.doubleclick.net *.facebook.com *.lytics.io *.akamaihd.net *.amazon-adsystem.com *.moatads.com *.cookielaw.org *.bazaarvoice.com *.amazonaws.com *.youtube.com *.haircode.com *.google.com *.google.ca click2cart.co click2cart.com *.click2cart.com 2cart.net haircodeassetsprod.azureedge.net *.adsrvr.org images-haircode-com-prod.azureedge.net feed.pghub.io ; font-src 'self' data: *.haircode.com fonts.gstatic.com maxcdn.bootstrapcdn.com feed.pghub.io pandg.tapad.com ; media-src 'self' *.cloudinary.com *.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.lytics.io *.bazaarvoice.com *.amazonaws.com *.haircode.com *.googleapis.com maxcdn.bootstrapcdn.com feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-eval' 'unsafe-inline' blob: *.google.com *.google-analytics.com *.googletagmanager.com *.moatads.com *.cookielaw.org *.highdegree.io *.crazyegg.com pghub.io *.facebook.net *.segment.com *.lytics.io *.bazaarvoice.com *.amazonaws.com *.haircode.com click2cart.co click2cart.com *.click2cart.com 2cart.net *.iesnare.com *.adsrvr.org api.ipify.org feed.pghub.io pandg.tapad.com ; connect-src 'self' https://privacytermsprod.azureedge.net kardia-nonprod.azure-api.net kardia.azure-api.net *.crazyegg.com *.google-analytics.com *.doubleclick.net *.cookielaw.org api.segment.io *.adsrvr.org *.pg.com *.bazaarvoice.com *.smartcommerce.co click2cart.co click2cart.com *.click2cart.com 2cart.net *.haircode.com *.onetrust.com feed.pghub.io pandg.tapad.com ; default-src 'self' *.googletagmanager.com *.fls.doubleclick.net *.tapad.com *.facebook.com *.bazaarvoice.com click2cart.co click2cart.com *.click2cart.com 2cart.net pgconsumersupport.secure.force.com *.youtube.com *.adsrvr.org pg-lex.my.salesforce-sites.com consumersupport.pg.com cdn.pricespider.com embeddedcloud.pricespider.com omni.pricespider.com wtbng.pricespider.com wtbstream.pricespider.com * feed.pghub.io ;
+Date: Sun, 10 Mar 2024 02:28:00 GMT
+Set-Cookie: ARRAffinity=432b15cd0dc02aa0319dccaa6f12360abe2af01eb575bbadd296a553c4c8485a;Path=/;HttpOnly;Secure;Domain=quietandroar.com
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Frame-Options: SAMEORIGIN
+Retry-Count: 0
+Etag: "0d1b8363f5bda1:0"
+Last-Modified: Fri, 09 Feb 2024 10:03:22 GMT
+X-Content-Type-Options: nosniff

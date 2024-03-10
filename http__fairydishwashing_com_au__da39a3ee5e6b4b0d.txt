@@ -1,0 +1,16 @@
+200 OK
+Vary: Accept-Encoding
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+Date: Sun, 10 Mar 2024 02:18:13 GMT
+Etag: "0d8cb3fd93eda1:0"
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Content-Type: text/html
+X-Cache: TCP_REMOTE_HIT
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref-Originshield: 0ZRjtZQAAAAALOBAOPLnuSL2ppHRb84mCU0pDMjExMDUxMjA4MDM5AGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+Last-Modified: Thu, 04 Jan 2024 06:42:56 GMT
+X-Frame-Options: DENY
+X-Azure-Ref: 0ZRjtZQAAAABE1yKDfP6pQplPqHtiErj8U0pDMjExMDUxMjAxMDUzAGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==

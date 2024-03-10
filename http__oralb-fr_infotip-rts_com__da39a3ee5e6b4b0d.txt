@@ -1,0 +1,14 @@
+200 OK
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+Content: 
+Content-Type: text/html;charset=utf-8
+Content-Length: 26010
+Set-Cookie: RtsSessionCookie=; secure
+X-Dns-Prefetch-Control: off
+Computer: Web03
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+X-Content-Type-Options: nosniff
+Server: InfoTip-Server
+Date: Sun, 10 Mar 2024 02:18:17 GMT
+Cache-Control: nostore,max-age: 0,must-revalidate

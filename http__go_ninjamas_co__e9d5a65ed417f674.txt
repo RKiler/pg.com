@@ -1,0 +1,18 @@
+200 OK
+Set-Cookie: ARRAffinity=d1a69c456817ff62a99f121141639c23620d284205c29a7ca9241d827a641f76;Path=/;HttpOnly;Secure;Domain=go.ninjamas.co
+Vary: Accept-Encoding
+X-Download-Options: noopen
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Etag: "f1fekrkxdh2o5"
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+Request-Context: appId=cid-v1:
+X-Dns-Prefetch-Control: off
+Expect-Ct: max-age=0
+Referrer-Policy: no-referrer
+Date: Sun, 10 Mar 2024 02:27:27 GMT
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Content-Security-Policy: default-src 'self' https://* http://js.agkn.com http://d.agkn.com http://www.google-analytics.com http://cdn.pricespider.com http://wtbng.pricespider.com http://usw.wtbng.pricespider.com http://use.wtbng.pricespider.com http://euw.wtbng.pricespider.com 'unsafe-inline' 'unsafe-eval';script-src 'self' https://* https://* http://js.agkn.com http://d.agkn.com http://www.google-analytics.com  http://cdn.pricespider.com http://locate.pricespider.com http://wtbevents.pricespider.com http://www.googleadservices.com https://cdn.pricespider.com 'unsafe-inline'  'unsafe-eval';img-src 'self' https://*  http://js.agkn.com http://d.agkn.com http://www.google-analytics.com http://cdn.pricespider.com http://embeddedcloud.pricespider.com http://wwwassets.pricespider.com data:;style-src 'self' https://*  http://js.agkn.com http://d.agkn.com http://www.google-analytics.com http://cdn.pricespider.com 'unsafe-inline';frame-ancestors 'self' https://* https://dev-go.pampers.com https://dev-go.luvsdiapers.com https://dev-go.ninjamas.co  https://stg-go.luvsdiapers.com https://stg-go.pampers.com https://stg-go.ninjamas.co https://go.pampers.com https://go.luvsdiapers.com https://go.ninjamas.co ;block-all-mixed-content;base-uri 'self';font-src 'self' https: data:;form-action 'self';object-src 'none';script-src-attr 'none';upgrade-insecure-requests

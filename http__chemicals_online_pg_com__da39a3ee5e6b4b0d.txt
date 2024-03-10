@@ -1,0 +1,20 @@
+200 OK
+Pragma: no-cache
+Server: istio-envoy
+Content-Type: text/html; charset=UTF-8
+Grace: none
+X-Frame-Options: SAMEORIGIN
+Expires: -1
+X-Robots-Tag: noindex
+Login-Required: true
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https://www.googletagmanager.com https://www.google-analytics.com https://ajax.googleapis.com/ajax/libs/jquery/ https://optanon.blob.core.windows.net https://*.optanon.blob.core.windows.net https://*.onetrust.com https://*.jquery.com https://*.doubleclick.net/ https://js-agent.newrelic.com https://*.cookielaw.org https://bam.nr-data.net https://www.google.com https://tagmanager.google.com customer-online-media2.azureedge.net customer-online-media-dr.azureedge.net prodpgccdn.azureedge.net api.ipify.org prodpgccdn2.azureedge.net customer-online-media2.azureedge.net ; script-src 'self' 'unsafe-inline' 'unsafe-eval' data: https://www.googletagmanager.com https://www.googleadservices.com https://www.google-analytics.com https://ajax.googleapis.com/ajax/libs/jquery/ https://optanon.blob.core.windows.net https://*.optanon.blob.core.windows.net https://*.onetrust.com https://*.jquery.com https://*.doubleclick.net/ https://js-agent.newrelic.com https://*.cookielaw.org https://bam.nr-data.net https://www.google.com https://www.gstatic.com https://tagmanager.google.com prodpgccdn.azureedge.net api.ipify.org prodpgccdn2.azureedge.net customer-online-media2.azureedge.net; frame-src 'self' https://*.pg.com https://www.google.com/; img-src 'self' 'unsafe-inline' 'unsafe-eval' data: customer-online-media2.azureedge.net customer-online-media-dr.azureedge.net https://www.googleadservices.com widgets.magentocommerce.com https://cdn.cookielaw.org/ https://www.google-analytics.com/collect prodpgccdn.azureedge.net api.ipify.org prodpgccdn2.azureedge.net customer-online-media2.azureedge.net
+X-Envoy-Upstream-Service-Time: 1
+Accept-Ranges: bytes
+X-Magento-Cache-Debug: HIT
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+Date: Sun, 10 Mar 2024 02:21:50 GMT
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=8995000; includeSubDomains
+Retry-Count: 0

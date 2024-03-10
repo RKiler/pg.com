@@ -1,0 +1,17 @@
+200 OK
+X-Cache: TCP_MISS
+X-Frame-Options: DENY
+Retry-Count: 0
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Azure-Ref-Originshield: 04xjtZQAAAAAPnKnp0ZauRp/DDrgvHwt5U0pDMjExMDUxMjA4MDQ1AGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+Date: Sun, 10 Mar 2024 02:20:20 GMT
+Accept-Ranges: bytes
+Etag: "0a124f7c06eda1:0"
+Set-Cookie: ARRAffinity=1de2da87aeb1cf80f8fb9b2c29418e24ed2e19e36ddbcbd81f34016600c610d5;Path=/;HttpOnly;Secure;Domain=www.headandshoulders.ph ARRAffinitySameSite=1de2da87aeb1cf80f8fb9b2c29418e24ed2e19e36ddbcbd81f34016600c610d5;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.headandshoulders.ph
+X-Xss-Protection: 1;mode=block
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: text/html
+Last-Modified: Tue, 05 Mar 2024 05:50:02 GMT
+X-Azure-Ref: 04xjtZQAAAABJ2Di11BzDTJVUD1rXAQRkU0pDMjExMDUxMjAxMDExAGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+Strict-Transport-Security: max-age=31536000; includeSubdomains

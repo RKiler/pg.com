@@ -1,0 +1,17 @@
+200 OK
+X-Xss-Protection: 1;mode=block
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Date: Sun, 10 Mar 2024 02:27:07 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: www.googletagmanager.com cdn.cookielaw.org www.google-analytics.com *.pricespider.com pghub.io *.bazaarvoice.com feed.pghub.io pandg.tapad.com ; font-src 'self' data: feed.pghub.io pandg.tapad.com ; frame-src 'self' feed.pghub.io consumersupport.pg.com pandg.tapad.com ; media-src 'self' data: videos.ctfassets.net feed.pghub.io pandg.tapad.com ; img-src 'self' data: images.ctfassets.net pixel.tapad.com www.google-analytics.com cdn.cookielaw.org *.bazaarvoice.com feed.pghub.io pandg.tapad.com ; connect-src 'self' cdn.cookielaw.org *.google-analytics.com geolocation.onetrust.com feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Retry-Count: 0
+Etag: "03843e52471da1:0"
+Set-Cookie: ARRAffinity=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;Secure;Domain=seven-seas.co.uk ARRAffinitySameSite=8937d6d9195b95556011246d3e1dc6d7ea257d7e79b10769150a240ffa8f0494;Path=/;HttpOnly;SameSite=None;Secure;Domain=seven-seas.co.uk
+Vary: Accept-Encoding
+Cache-Control: max-age=31536000
+Accept-Ranges: bytes
+Last-Modified: Fri, 08 Mar 2024 06:50:24 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Content-Type: text/html

@@ -1,0 +1,13 @@
+200 OK
+Server: nginx
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://s.pinimg.com/ https://pghub.io/ https://connect.facebook.net/ https://cdn.segment.com/ https://api.segment.io/ https://c.lytics.io/ https://www.gstatic.com/ https://js.adsrvr.org/ https://www.google-analytics.com/ https://www.google.com/ https://cdn.cookielaw.org/ https://www.googletagmanager.com/ https://cdnjs.cloudflare.com; media-src 'self' blob: data: blob: https://jolt-assets.s3.eu-central-1.amazonaws.com; font-src 'self' data: https://fonts.gstatic.com https://fonts.googleapis.com/; frame-src 'self' https://docs.google.com/ https://pandg.tapad.com/ https://insight.adsrvr.org/; object-src 'none'; style-src 'self' 'unsafe-inline' https://c.lytics.io/ https://fonts.googleapis.com/; connect-src 'self' https://docs.google.com/ https://mediaid.pg.com/ https://ct.pinterest.com/ https://stats.g.doubleclick.net/ https://api.segment.io/ https://receipt.justsnap.eu https://template-v2.justsnap.eu/ https://template-v3.justsnap.eu/ https://service-manager.jsnp.io/ https://www.google-analytics.com/ https://match.adsrvr.org/ https://cdn.cookielaw.org/; img-src 'self' data: blob: https://www.facebook.com/ https://www.google.com/ https://www.google.com.tr/ https://ct.pinterest.com/ https://match.adsrvr.org/ https://s.amazon-adsystem.com/ https://c.lytics.io/ https://pixel.tapad.com/ https://www.google-analytics.com/ https://jolt-assets.s3.eu-central-1.amazonaws.com https://lh7-us.googleusercontent.com/ https://cdn.cookielaw.org/
+Content-Type: text/html
+Etag: W/"65dc4d47-1c1a"
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Date: Sun, 10 Mar 2024 02:20:56 GMT
+Last-Modified: Mon, 26 Feb 2024 08:35:19 GMT
+X-Content-Type-Options: nosniff

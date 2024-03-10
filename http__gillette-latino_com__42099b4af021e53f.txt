@@ -1,0 +1,17 @@
+200 OK
+Content-Type: text/html
+Etag: "0c846a8ca6ada1:0"
+Set-Cookie: ARRAffinity=619f09957c32de59b5088c218078151258f6aee0cd5c7a86d05f1702ff4dba85;Path=/;HttpOnly;Secure;Domain=www.gillette-latino.com ARRAffinitySameSite=619f09957c32de59b5088c218078151258f6aee0cd5c7a86d05f1702ff4dba85;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.gillette-latino.com
+Strict-Transport-Security: max-age=8995000; includeSubDomains; preload
+Content-Security-Policy: default-src 'self' https://videos.ctfassets.net/ feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+X-Azure-Ref: 0yRjtZQAAAACEkLPJQfQzT7js9YUflWuGU0pDMjExMDUxMjAxMDE5ADFkMmE3ODllLWJhODQtNGJmZi1hNjM0LTc4ZmNjNDQ0Y2IyNw==
+Cache-Control: no-cache, no-store, must-revalidate
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Last-Modified: Thu, 29 Feb 2024 04:49:20 GMT
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+X-Cache: CONFIG_NOCACHE
+Retry-Count: 0
+Accept-Ranges: bytes
+Date: Sun, 10 Mar 2024 02:19:53 GMT

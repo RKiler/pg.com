@@ -1,0 +1,16 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: text/html
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Azure-Ref: 0qBjtZQAAAABhzR9RiXnHRasqfUZYWphRU0pDMjExMDUxMjAxMDI5ADkyYjZhMDMzLWZjMTMtNDFhZS1hMDQ2LWUxMWM2MmQ4OTNlNg==
+Retry-Count: 0
+Last-Modified: Tue, 27 Feb 2024 13:28:46 GMT
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; manifest-src 'self' feed.pghub.io pandg.tapad.com ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+X-Xss-Protection: 1;mode=block
+X-Cache: CONFIG_NOCACHE
+Date: Sun, 10 Mar 2024 02:19:20 GMT
+Set-Cookie: ARRAffinity=e939a948e0a0e7a43aad2b71916290a218f316793bcfc54015a7592e915d08a7;Path=/;HttpOnly;Secure;Domain=www.oldspice.com.mx ARRAffinitySameSite=e939a948e0a0e7a43aad2b71916290a218f316793bcfc54015a7592e915d08a7;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.oldspice.com.mx
+Strict-Transport-Security: max-age=8995000; includeSubdomains; preload
+X-Frame-Options: DENY

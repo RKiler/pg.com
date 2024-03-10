@@ -1,0 +1,18 @@
+200 OK
+Etag: "035918e7e32da1:0"
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: default-src 'self' https://mw-ar-recom-prod.pgapi.io/ *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src https://* 'self' data: https: blob: feed.pghub.io pandg.tapad.com ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ; frame-ancestors * 'self' data: https: blob: ;
+X-Azure-Ref: 20240310T022630Z-ab0s24u5ux35dfpvq0au3g1e6400000007z0000000007xcs
+X-Cache: TCP_HIT
+Last-Modified: Tue, 19 Dec 2023 13:23:30 GMT
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+X-Fd-Int-Roxy-Purgeid: 66779191
+Content-Type: text/html
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+Cache-Control: max-age=31536000
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:26:30 GMT
+Content-Length: 173915
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes

@@ -1,0 +1,20 @@
+200 OK
+Pragma: no-cache
+Content-Type: text/html
+X-Frame-Options: DENY
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com *.cookielaw.org www.google-analytics.com pghub.io feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; font-src 'self' feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' *.pghub.io consumersupport.pg.com pandg.tapad.com ; img-src 'self' data: *.ctfassets.net *.tapad.com www.google-analytics.com www.googletagmanager.com *.cookielaw.org feed.pghub.io ; connect-src 'self' *.cookielaw.org *.algolia.net *.algolianet.com *.google-analytics.com feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+X-Cache: CONFIG_NOCACHE
+X-Azure-Ref: 0hRjtZQAAAADZsuXjyVbuTaHuNntoAXUWU0pDMjExMDUxMjAxMDExAGNjM2MzODhlLTBkMTQtNDk2Yi04ZTdhLWJjZGZlNGYxY2JmOQ==
+Date: Sun, 10 Mar 2024 02:18:46 GMT
+Last-Modified: Tue, 05 Mar 2024 16:10:50 GMT
+X-Xss-Protection: 1;mode=block
+X-Permitted-Cross-Domain-Policies: none
+Cache-Control: no-cache, no-store, must-revalidate
+Set-Cookie: ARRAffinity=2812c5c67be4f8f7d1c83601f8f825c241a5bebfd05acb5ea3949f35ddecacdc;Path=/;HttpOnly;Secure;Domain=origprod.slowmag.co.za ARRAffinitySameSite=2812c5c67be4f8f7d1c83601f8f825c241a5bebfd05acb5ea3949f35ddecacdc;Path=/;HttpOnly;SameSite=None;Secure;Domain=origprod.slowmag.co.za
+Strict-Transport-Security: max-age=15724800; includeSubdomains
+X-Content-Type-Options: nosniff
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Retry-Count: 0
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Referrer-Policy: strict-origin-when-cross-origin

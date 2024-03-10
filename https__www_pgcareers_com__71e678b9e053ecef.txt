@@ -1,0 +1,17 @@
+200 OK
+Set-Cookie: PLAY_SESSION=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7IkpTRVNTSU9OSUQiOiJlNDZkYTQzYi0zNTllLTQ3NWYtOTY4NS1hNThlNmU4ZjE4NWEifSwibmJmIjoxNzEwMDM3NjgxLCJpYXQiOjE3MTAwMzc2ODF9.2RvhECZw-GQKW4I2QRmCkhCAch4cmiBjgVRBaRp7jek; Path=/; Secure; HTTPOnly PHPPPE_ACT=e46da43b-359e-475f-9685-a58e6e8f185a; Path=/; Secure VISITED_LANG=ja; Max-Age=31536000; Expires=Mon, 10 Mar 2025 02:28:01 GMT; Path=/; Secure VISITED_COUNTRY=jp; Max-Age=31536000; Expires=Mon, 10 Mar 2025 02:28:01 GMT; Path=/; Secure
+Cache-Control: no-cache,no-store no-cache,no-store
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Id: tAlzF8J1pmxZA37hCkRcOFkh_nMQ8bHYKZLmVhPLkF7kwp3f-191WQ==
+Access-Control-Allow-Origin: https://www.pgcareers.com
+X-Permitted-Cross-Domain-Policies: master-only
+Via: 1.1 4a628119373a320de50f1e6bc0e5f87a.cloudfront.net (CloudFront)
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+X-Amz-Cf-Pop: SFO5-P2
+X-Content-Type-Options: nosniff
+Date: Sun, 10 Mar 2024 02:28:01 GMT
+Vary: Accept-Encoding Origin
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000;preload

@@ -1,0 +1,12 @@
+200 OK
+Content-Type: text/html
+Retry-Count: 0
+Server: Microsoft-IIS/10.0
+Accept-Ranges: bytes
+Etag: "80595dc54b4bd91:0"
+Vary: Accept-Encoding
+Date: Sun, 10 Mar 2024 02:28:35 GMT
+X-Powered-By: ASP.NET
+Last-Modified: Tue, 28 Feb 2023 08:07:59 GMT
+Set-Cookie: ARRAffinity=6c7b3c182695d57371250271b7b33ca8f4a453455cf09270a620dd61da6b23c5;Path=/;HttpOnly;Secure;Domain=pgregdoc-front-app.azurewebsites.net
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload

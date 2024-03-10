@@ -1,0 +1,16 @@
+200 OK
+X-Cache: TCP_MISS
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: DENY
+X-Azure-Ref-Originshield: 0pBjtZQAAAAAJ90kLaVciTakmzonlzkvlU0pDMjExMDUxMjA3MDQ3ADNjMjFlYjVhLWFmMTAtNGI5MS1hYTA2LWI4NDE3NmRlZDI2NA==
+Retry-Count: 0
+Last-Modified: Wed, 31 Jan 2024 14:05:34 GMT
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' data:            https://*.cookielaw.org/           https://*.onetrust.com/           https://www.pgsciencebehind.com/           https://fonts.gstatic.com/           https://www.googletagmanager.com/           https://www.google-analytics.com/           https://pixel.tapad.com/           https://pandg.tapad.com/           https://*.ctfassets.net/           https://assets.ctfassets.net/           https://googleads.g.doubleclick.net/           https://www.google.co.in/           https://6cqdhzcpee-dsn.algolia.net/           https://6cqdhzcpee-1.algolianet.com/           https://6cqdhzcpee-2.algolianet.com/           https://6cqdhzcpee-3.algolianet.com/           https://connect.facebook.net/           https://images.ctfassets.net/           https://*.pghub.io/           https://player.vimeo.com/;           style-src 'self' 'unsafe-inline'           https://www.pgsciencebehind.com/           https://fonts.gstatic.com/           https://www.googletagmanager.com/           https://www.google-analytics.com/           https://*.ctfassets.net/           https://assets.ctfassets.net/           https://googleads.g.doubleclick.net/           https://www.google.co.in/           https://6cqdhzcpee-dsn.algolia.net/           https://6cqdhzcpee-1.algolianet.com/           https://6cqdhzcpee-2.algolianet.com/           https://6cqdhzcpee-3.algolianet.com/           https://connect.facebook.net/           https://images.ctfassets.net/;           script-src 'unsafe-inline' 'unsafe-eval' 'self'           https://*.cookielaw.org/           https://*.onetrust.com/           https://www.pgsciencebehind.com/           https://fonts.gstatic.com/           https://www.googletagmanager.com/           https://www.google-analytics.com/           https://*.ctfassets.net/           https://assets.ctfassets.net/           https://googleads.g.doubleclick.net/           https://www.google.co.in/           https://6cqdhzcpee-dsn.algolia.net/           https://6cqdhzcpee-1.algolianet.com/           https://6cqdhzcpee-2.algolianet.com/           https://6cqdhzcpee-3.algolianet.com/           https://connect.facebook.net/           https://pghub.io/           https://*.pghub.io/           https://images.ctfassets.net/;
+Date: Sun, 10 Mar 2024 02:19:15 GMT
+Vary: Accept-Encoding
+Etag: "04bc08e4e54da1:0"
+Content-Type: text/html
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 0pBjtZQAAAACM6SBe4zgHSLs4bZM6+rrnU0pDMjExMDUxMjAxMDI5ADNjMjFlYjVhLWFmMTAtNGI5MS1hYTA2LWI4NDE3NmRlZDI2NA==

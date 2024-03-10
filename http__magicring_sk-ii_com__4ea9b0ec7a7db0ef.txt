@@ -1,0 +1,12 @@
+200 OK
+Content-Length: 1767
+Accept-Ranges: bytes
+Etag: W/"6e7-17a50a80872"
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Powered-By: Express
+Date: Sun, 10 Mar 2024 02:22:47 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, max-age=0
+Last-Modified: Mon, 28 Jun 2021 03:27:07 GMT
+Set-Cookie: ARRAffinity=21c181d9971bcb7fdd21b0b3b4ad087a88e536f0da15b7fd07c397316f2f5dbe;Path=/;HttpOnly;Secure;Domain=magicring.sk-ii.com ARRAffinitySameSite=21c181d9971bcb7fdd21b0b3b4ad087a88e536f0da15b7fd07c397316f2f5dbe;Path=/;HttpOnly;SameSite=None;Secure;Domain=magicring.sk-ii.com
+Retry-Count: 0

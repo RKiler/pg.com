@@ -1,0 +1,21 @@
+200 OK
+Cf-Ray: 861fdc0a18357ae0-SJC
+Retry-Count: 0
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Link: <https://cdn11.bigcommerce.com/s-2iyksq8i1g>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-2iyksq8i1g/stencil/401bae00-9748-013c-855d-1a02be00cd1c/e/faf615a0-630c-0138-2182-0242ac11000b/css/theme-53d54670-9748-013c-5179-729009bb0ba2.css>; rel=preload; as=style
+Bc-Ray: 1
+Server: cloudflare
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Pragma: no-cache
+Alt-Svc: h3=":443"; ma=86400
+Date: Sun, 10 Mar 2024 02:26:22 GMT
+X-Permitted-Cross-Domain-Policies: none
+Cache-Control: no-store, no-cache, must-revalidate
+Cf-Cache-Status: DYNAMIC
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Set-Cookie: fornax_anonymousId=c58170e5-c6af-427a-a3d2-3dcf27f924aa; Expires=Tue, 10 Mar 2026 02:26:22 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=b0736ab4-60cf-41a0-a715-c0b3fc84d93e:1710037582; Expires=Sun, 10 Mar 2024 02:56:22 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=7FDD8844109FA74E1CEAE62A06B838C244CAE99D-1710642382794-x%7B%22cur%22%3A%22CAD%22%7D; Expires=Sun, 17 Mar 2024 02:26:22 GMT; Path=/; HttpOnly XSRF-TOKEN=7fdba7d009ce668ee8c7ab94d9b0604df61653b8b748a0ba13041afb725c9399; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=82b41d41-e02a-4b3d-8666-523dcee6fc97; Expires=Sun, 17 Mar 2024 02:26:22 GMT; Path=/; Secure; HttpOnly; SameSite=None
+X-Request-Id: 0823a4fffeb028169ed927477c0b7225
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Te56C6kBTgVUzID2OimikUKHcejSi0wOzruE5SsWIgxbR%2BV%2BQN2r%2B6MheTrr8u7VKVvrdTg2EuTaXR27xK4rBT%2F1%2FIGwNTR9TArKxc6v1QVPr9tKENO7V2n3Z9SB"}],"group":"cf-nel","max_age":604800}

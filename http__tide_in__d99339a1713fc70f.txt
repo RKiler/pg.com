@@ -1,0 +1,20 @@
+200 OK
+Content-Type: text/html
+Content-Length: 155515
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+X-Fd-Int-Roxy-Purgeid: 66771501
+Last-Modified: Sun, 17 Sep 2023 07:49:20 GMT
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:28:31 GMT
+Etag: "0406b773be9d91:0"
+Strict-Transport-Security: max-age=15724800; includeSubdomains
+Referrer-Policy: strict-origin-when-cross-origin
+X-Cache: PRIVATE_NOSTORE
+X-Permitted-Cross-Domain-Policies: none
+X-Azure-Ref: 20240310T022830Z-u7e8y414zh7v56zh8m4kfgcey00000000990000000007zzb
+Accept-Ranges: bytes
+Set-Cookie: ARRAffinity=f5169372e1c2d2e18c2828d96560dd7d67393cbe64bc3f51a0249440b2cf1f7d;Path=/;HttpOnly;Secure;Domain=www.tide.in ARRAffinitySameSite=f5169372e1c2d2e18c2828d96560dd7d67393cbe64bc3f51a0249440b2cf1f7d;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.tide.in
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()

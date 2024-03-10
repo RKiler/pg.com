@@ -1,0 +1,19 @@
+200 OK
+X-Xss-Protection: 1;mode=block
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+X-Azure-Ref-Originshield: 00hrtZQAAAAAyCT2Cu20BSZD4xkhmlR5lU0pDMjExMDUxMjA4MDM3ADRhNTJkMjA3LTJiOTgtNDQxNi1iOGZlLTljYjFmOWZkMjZmNA==
+Last-Modified: Tue, 05 Mar 2024 10:15:18 GMT
+Etag: "07fd15e66eda1:0"
+Vary: Accept-Encoding
+X-Cache: TCP_MISS
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Date: Sun, 10 Mar 2024 02:28:34 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Retry-Count: 0
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com *.cookielaw.org *.doubleclick.net pghub.io feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; font-src 'self' feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' consumersupport.pg.com *.doubleclick.net *.pghub.io pandg.tapad.com ; img-src 'self' data: *.ctfassets.net *.cookielaw.org *.tapad.com www.google.com www.google.cz www.googletagmanager.com feed.pghub.io ; connect-src 'self' *.cookielaw.org *.googlesyndication.com *.google-analytics.com feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+X-Azure-Ref: 00hrtZQAAAADaxb9Dw0mfSLKv2QvQkbLWU0pDMjExMDUxMjAyMDE5ADRhNTJkMjA3LTJiOTgtNDQxNi1iOGZlLTljYjFmOWZkMjZmNA==
+Cache-Control: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade

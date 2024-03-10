@@ -1,0 +1,17 @@
+200 OK
+Etag: "07c5b28a65da1:0"
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref-Originshield: 0PxjtZQAAAABF0TxMTgrvQb7j0fKMKdUvU0pDMjExMDUxMjA3MDQ1AGM1ODdmMWZmLTA5MTYtNDVkNi1hMWYzLTBmZjdlOTRiY2ZmNw==
+Date: Sun, 10 Mar 2024 02:17:35 GMT
+Content-Type: text/html
+Retry-Count: 0
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self' *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: *.pricespider.com https: blob: ; script-src * data: blob: *.pricespider.com 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+X-Azure-Ref: 0PxjtZQAAAADXSQeGu55fTq0nwLOkSBQGU0pDMjExMDUxMjAyMDM1AGM1ODdmMWZmLTA5MTYtNDVkNi1hMWYzLTBmZjdlOTRiY2ZmNw==
+Last-Modified: Thu, 22 Feb 2024 12:28:54 GMT
+X-Cache: TCP_MISS
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Cache-Control: max-age=0
+Accept-Ranges: bytes

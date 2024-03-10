@@ -1,0 +1,16 @@
+200 OK
+X-Permitted-Cross-Domain-Policies: none
+Content-Type: text/html
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' *.lytics.io feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; media-src 'self' data: videos.ctfassets.net feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: www.googletagmanager.com cdn.cookielaw.org cdn.segment.com script.crazyegg.com pghub.io *.lytics.io feed.pghub.io pandg.tapad.com ; font-src 'self' data: feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' feed.pghub.io pandg.tapad.com ; img-src 'self' data: images.ctfassets.net pixel.tapad.com *.lytics.io cdn.cookielaw.org feed.pghub.io pandg.tapad.com ; connect-src 'self' cdn.cookielaw.org match.adsrvr.org *.crazyegg.com cdn.segment.com api.segment.io *.google-analytics.com feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15724800; includeSubdomains
+Cache-Control: max-age=31536000
+X-Xss-Protection: 1;mode=block
+Last-Modified: Thu, 15 Feb 2024 08:39:44 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:23:08 GMT
+Accept-Ranges: bytes

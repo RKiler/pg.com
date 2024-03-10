@@ -1,0 +1,32 @@
+200 OK
+X-Sorting-Hat-Shopid: 10437322
+X-Cache: miss
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+X-Request-Id: 4d221aab-73dc-40f5-9ef7-948d74d5baf7-1710037027
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Etag: "cacheable:2b8abde409eb539221814562f476a522"
+X-Shopid: 10437322
+Powered-By: Shopify
+X-Dc: gcp-us-west2,gcp-us-central1,gcp-us-central1
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=7889238
+X-Shardid: 69
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MxFu8%2BoCVKekE4hWw%2BYhuKlhxx836HpWP1goVzxRqmEp1vCYLAiRG2PLaPutIOO44w8T7fNzjh9Ih1zxCJkXwZchr3mEuz5gsx0OBT6HbPduahCX6Vsr6p69tOou"}],"group":"cf-nel","max_age":604800}
+X-Sorting-Hat-Podid: 69
+Date: Sun, 10 Mar 2024 02:17:08 GMT
+X-Storefront-Renderer-Rendered: 1
+Set-Cookie: secure_customer_sig=; path=/; expires=Mon, 10 Mar 2025 02:17:08 GMT; secure; HttpOnly; SameSite=Lax localization=US; path=/; expires=Mon, 10 Mar 2025 02:17:08 GMT; SameSite=Lax cart_currency=USD; path=/; expires=Sun, 24 Mar 2024 02:17:08 GMT; SameSite=Lax _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=theouai.com; path=/; expires=Mon, 11 Mar 2024 02:17:08 GMT; SameSite=Lax _tracking_consent=%7B%22reg%22%3A%22CCPA%22%2C%22region%22%3A%22USCA%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%7D; Expires=Mon, 10-Mar-25 02:17:08 GMT; Domain=theouai.com; Path=/; SameSite=Lax _shopify_y=117707f1-3b7c-405d-b8c8-875e476b010f; Expires=Mon, 10-Mar-25 02:17:08 GMT; Domain=theouai.com; Path=/; SameSite=Lax _shopify_s=25438318-391c-4f67-bbf3-73cdc9300b33; Expires=Sun, 10-Mar-24 02:47:08 GMT; Domain=theouai.com; Path=/; SameSite=Lax _orig_referrer=http%3A%2F%2Ftheouai.com; Expires=Sun, 24-Mar-24 02:17:08 GMT; Domain=theouai.com; Path=/; HttpOnly; SameSite=Lax _landing_page=%2F; Expires=Sun, 24-Mar-24 02:17:08 GMT; Domain=theouai.com; Path=/; HttpOnly; SameSite=Lax
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+Alt-Svc: h3=":443"; ma=86400
+Retry-Count: 0
+Content-Language: en
+Server-Timing: processing;dur=695;desc="gc:33", db;dur=302, parse;dur=5, render;dur=385, asn;desc="14061", edge;desc="SJC", country;desc="US", theme;desc="127439503430", pageType;desc="index", servedBy;desc="zrgn", requestID;desc="4d221aab-73dc-40f5-9ef7-948d74d5baf7-1710037027" cfRequestDuration;dur=769.999981
+X-Shopify-Stage: production
+Cf-Ray: 861fce7f3a56965b-SJC

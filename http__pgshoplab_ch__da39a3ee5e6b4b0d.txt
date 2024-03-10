@@ -1,0 +1,16 @@
+200 OK
+X-Content-Type-Options: nosniff
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Strict-Transport-Security: max-age=0
+X-Request-Id: 158b07fd76cc154d6e001f0818ff7fc2
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+Link: <https://cdn11.bigcommerce.com/s-yiomp4zd07/stencil/ba891910-2cb7-0139-5091-0242ac110008/e/86f4acb0-b12a-013c-ae47-5219de8bb861/css/theme-b8614eb0-6727-013a-01c9-0acddea08718.css>; rel=preload; as=style
+Server: openresty
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Set-Cookie: fornax_anonymousId=98a9b87d-d4ea-45a4-b8fb-01ce3afd1104; Expires=Tue, 10 Mar 2026 02:24:45 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=7e229f44-92fa-408f-a3fe-0d04245b977f:1710037485; Expires=Sun, 10 Mar 2024 02:54:45 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=5663357200C111D61350BED13AF0B46AABBD791E-1710642285688-x%7B%22cur%22%3A%22CHF%22%7D; Expires=Sun, 17 Mar 2024 02:24:45 GMT; Path=/; HttpOnly XSRF-TOKEN=86fa0ada006b1b30daab54f5a5e39ef975ada237b6800395cfc082cf743e05c0; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=bc7b3d51-1bc7-4261-a86d-7f2c89d8eed3; Expires=Sun, 17 Mar 2024 02:24:45 GMT; Path=/; Secure; HttpOnly; SameSite=None
+X-Frame-Options: deny
+Date: Sun, 10 Mar 2024 02:24:45 GMT
+Vary: Accept-Encoding
+X-Permitted-Cross-Domain-Policies: none

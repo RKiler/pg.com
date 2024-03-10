@@ -1,0 +1,16 @@
+200 OK
+X-Powered-By: WP Engine
+Cache-Control: max-age=600, must-revalidate
+X-Cache-Group: normal
+Cf-Cache-Status: DYNAMIC
+Retry-Count: 0
+X-Cache: HIT: 1
+Server: cloudflare
+Cf-Ray: 861fcfd9d98367a4-SJC
+Date: Sun, 10 Mar 2024 02:18:03 GMT
+Link: <https://www.myofferpg.com/wp-json/>; rel="https://api.w.org/" <https://www.myofferpg.com/wp-json/wp/v2/pages/4>; rel="alternate"; type="application/json" <https://www.myofferpg.com/>; rel=shortlink
+Alt-Svc: h3=":443"; ma=86400
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding,Cookie
+X-Cacheable: SHORT
+Strict-Transport-Security: max-age=31536000; includeSubDomains

@@ -1,0 +1,23 @@
+200 OK
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=p1uDs8KVMHM6ixVRPcCSNS4eXnlTbLZio9HB318hxh2Xw1MrI9hm%2Fk9kw9pMSHPG3rXsc%2BoB3UK6hahNhSIOrFGcNjVGYcrADAqCCoQhh1oVXeTj%2BaCQHh1Iyw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Date: Sun, 10 Mar 2024 02:25:16 GMT
+X-Content-Type-Options: nosniff
+Content-Security-Policy: script-src *.cloudflare.com *.cookielaw.org *.segment.com *.ipify.org *.moatads.com *.sharethis.com *.platform-api.sharethis.com *.paypalobjects.com *.ajax.googleapis.com *.google-analytics.com *.googletagmanager.com *.googleadservices.com *.google.com *.crazyegg.com *.bigcommerce.com *.facebook.net *.googleapis.com *.jquery.com *.adsrvr.org *.braintreegateway.com *.youtube.com *.entrust.net *.pinimg.com *.ads-twitter.com *.twitter.com *.googleapis.com *.cloudfront.net *.privy.com *.amazonaws.com *.addrexx10.com *.iesnare.com *.bazaarvoice.com *.dynatrace.com  *.tp88trk.com *.paypal.com *.pepperjam.com *.rpxnow.com *.lightboxcdn.com *.azurewebsites.net *.mikmak.tv https://sc-static.net/scevent.min.js https://www.terracycle.com/en-US/sdk.js https://unpkg.com/aos@next/dist/aos.js https://js.agkn.com/prod/v0/tag.js https://aa.agkn.com/adscores/ https://googleads.g.doubleclick.net/ https://www.gstatic.com/recaptcha/ https://cdn.polyfill.io/v3/polyfill.min.js https://b-code.liadm.com/a-05m4.min.js https://www.tp88trk.com/scripts/sdk/everflow.js https://www.paypalobjects.com/api/checkout.min.js https://cdn-stg.tapad.app/js/pandg-sdk.js https://pghub.io/js/pandg-sdk.js https://rpxnow.com/js/lib/gleem-us/engage.js 'self' 'unsafe-eval' 'unsafe-inline'
+X-Request-Id: d5bd1568be1e9addf8ec4a717c722370
+Alt-Svc: h3=":443"; ma=86400
+Retry-Count: 0
+Vary: Accept-Encoding
+Set-Cookie: fornax_anonymousId=590d42ef-8a43-49d4-97ae-e61c9dcf0fc6; Expires=Tue, 10 Mar 2026 02:25:16 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=2a4b29b4-64cb-4285-8aa1-2471d2c81f0e:1710037516; Expires=Sun, 10 Mar 2024 02:55:16 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=67D75C6156D3E93E6AE2AAF4E42B92027A45B4CB-1710642316852-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:25:16 GMT; Path=/; HttpOnly XSRF-TOKEN=7027771b68e17abc6a22c0c69b89df925f97f3457bbbf90d782d1504700d6783; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=9ebbd969-b8dc-4137-aa6a-c7bd577cce7f; Expires=Sun, 17 Mar 2024 02:25:16 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Link: <https://cdn11.bigcommerce.com/s-vjww933qqj>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-vjww933qqj/stencil/0d2bbb80-6bf7-013c-c0c5-52867ecfc7a5/e/cdc69720-fd9a-013b-bdb4-1a314549d494/css/theme-2122d8c0-6bf7-013c-ea5f-56be0a34a4b3.css>; rel=preload; as=style
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 861fda6db88317ee-SJC
+Content-Type: text/html; charset=UTF-8
+X-Permitted-Cross-Domain-Policies: none
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+X-Frame-Options: sameorigin

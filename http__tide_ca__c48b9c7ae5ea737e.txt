@@ -1,0 +1,19 @@
+200 OK
+Accept-Ranges: bytes
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+Strict-Transport-Security: max-age=15724800; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Azure-Ref: 20240310T022214Z-mdaz7dxx290tb2eqspkqkzr7ec000000097g00000000566z
+X-Cache: TCP_MISS
+Date: Sun, 10 Mar 2024 02:22:15 GMT
+Content-Length: 178035
+Content-Type: text/html
+Last-Modified: Tue, 05 Mar 2024 15:16:06 GMT
+X-Xss-Protection: 1;mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: upgrade-insecure-requests  ; worker-src 'self' blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' cdn.pricespider.com *.mapbox.com blob: feed.pghub.io pandg.tapad.com ; media-src 'self' *.iesnare.com data: feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com *.cookielaw.org *.bazaarvoice.com *.pricespider.com pghub.io try.abtasty.com cdnjs.cloudflare.com *.mapbox.com *.iesnare.com feed.pghub.io pandg.tapad.com ; font-src 'self' data: feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' feed.pghub.io consumersupport.pg.com www.youtube.com pandg.tapad.com ; img-src 'self' data: images.ctfassets.net *.cookielaw.org www.google-analytics.com pixel.tapad.com *.ytimg.com *.pricespider.com *.bazaarvoice.com feed.pghub.io pandg.tapad.com ; connect-src 'self' *.cookielaw.org *.google-analytics.com *.pricespider.com *.algolia.net *.algolianet.com *.mapbox.com geolocation-db.com *.bazaarvoice.com wss: feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+X-Fd-Int-Roxy-Purgeid: 66844049
+Retry-Count: 0
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+Cache-Control: max-age=31536000

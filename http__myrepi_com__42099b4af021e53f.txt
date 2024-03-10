@@ -1,0 +1,18 @@
+200 OK
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=1de2da87aeb1cf80f8fb9b2c29418e24ed2e19e36ddbcbd81f34016600c610d5;Path=/;HttpOnly;Secure;Domain=www.myrepi.com ARRAffinitySameSite=1de2da87aeb1cf80f8fb9b2c29418e24ed2e19e36ddbcbd81f34016600c610d5;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.myrepi.com
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 0kxjtZQAAAADp/nncQPhaRJsf7MWbigORU0pDMjExMDUxMjAyMDI5ADNjMjFlYjVhLWFmMTAtNGI5MS1hYTA2LWI4NDE3NmRlZDI2NA==
+Content-Type: text/html
+Last-Modified: Fri, 08 Mar 2024 13:47:56 GMT
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Date: Sun, 10 Mar 2024 02:19:00 GMT
+Retry-Count: 0
+Cache-Control: max-age=0
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src * 'self' data: https: blob: ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ; frame-ancestors * 'self' data: https: blob: ;
+X-Azure-Ref-Originshield: 0kxjtZQAAAACVrQ02uZJaSJV+IKqt9gM5U0pDMjExMDUxMjA3MDE3ADNjMjFlYjVhLWFmMTAtNGI5MS1hYTA2LWI4NDE3NmRlZDI2NA==
+Etag: "0e6b395f71da1:0"
+X-Cache: TCP_MISS

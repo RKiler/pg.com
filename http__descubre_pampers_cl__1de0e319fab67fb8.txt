@@ -1,0 +1,14 @@
+200 OK
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Date: Sun, 10 Mar 2024 02:17:02 GMT
+X-Unbounce-Visitorid: 5947e7cd-6bf9-430d-8ad9-7f20277e8e79
+Retry-Count: 0
+Link: <https://descubre.pampers.cl/lactancia/>; rel="canonical"
+X-Unbounce-Pageid: f9b71861-85d1-4bf8-b375-20e4f6e500ff
+Content-Location: https://descubre.pampers.cl/lactancia/
+Etag: "n:5947e7cd6bf9430d8ad97f20277e8e79"
+X-Unbounce-Variant: n
+Cf-Ray: 861fce613e2a645c-SJC
+Content-Type: text/html; charset=utf-8
+Set-Cookie: ubvs=5947e7cd-6bf9-430d-8ad9-7f20277e8e79; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C5947e7cd-6bf9-430d-8ad9-7f20277e8e79%7Cf9b71861-85d1-4bf8-b375-20e4f6e500ff%3An%3Asingle; Max-Age=259200; Domain=pampers.cl; Path=/; SameSite=Lax ubpv=n%2Cf9b71861-85d1-4bf8-b375-20e4f6e500ff; Max-Age=15897600; Path=/lactancia/; SameSite=Lax

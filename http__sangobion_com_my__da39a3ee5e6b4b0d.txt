@@ -1,0 +1,19 @@
+200 OK
+Retry-Count: 0
+Last-Modified: Tue, 05 Mar 2024 16:10:36 GMT
+Permissions-Policy: accelerometer=(), camera=(self), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+X-Azure-Ref: 0fhrtZQAAAADj8w0hWwfcQanqceUJZun5U0pDMjExMDUxMjAxMDQ1AGE2YzM5OTNjLTVhNmMtNGFhYi1hMjRkLTkxMTA4ODllOTIzOQ==
+Date: Sun, 10 Mar 2024 02:27:09 GMT
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: www.googletagmanager.com cdn.cookielaw.org www.google-analytics.com pghub.io feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net feed.pghub.io pandg.tapad.com ; manifest-src 'self' login.windows.net feed.pghub.io pandg.tapad.com ; font-src 'self' data: feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' feed.pghub.io consumersupport.pg.com pgamaanemiameter.jebbit.com pandg.tapad.com ; img-src 'self' data: images.ctfassets.net cdn.cookielaw.org pixel.tapad.com www.google-analytics.com feed.pghub.io pandg.tapad.com ; connect-src 'self' cdn.cookielaw.org *.google-analytics.com www.google-analytics.com *.algolia.net *.algolianet.com feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Set-Cookie: ARRAffinity=352c79ea8996277dc997f6581834cb9cbe7478570edb7a7a3951f136602193a6;Path=/;HttpOnly;Secure;Domain=sangobion.com.my ARRAffinitySameSite=352c79ea8996277dc997f6581834cb9cbe7478570edb7a7a3951f136602193a6;Path=/;HttpOnly;SameSite=None;Secure;Domain=sangobion.com.my
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1;mode=block
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: text/html
+X-Cache: CONFIG_NOCACHE

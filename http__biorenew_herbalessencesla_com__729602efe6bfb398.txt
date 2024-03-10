@@ -1,0 +1,14 @@
+200 OK
+Server: cloudflare
+Cf-Ray: 861fd5e3394b2523-SJC
+Content-Type: text/html; charset=utf-8
+Set-Cookie: ubvs=060e9aa8-cd86-40fb-b426-8d2d50782712; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C060e9aa8-cd86-40fb-b426-8d2d50782712%7Ced974754-abce-41b8-ae56-eaf1e3b3701a%3An%3Asingle; Max-Age=259200; Domain=herbalessencesla.com; Path=/; SameSite=Lax ubpv=n%2Ced974754-abce-41b8-ae56-eaf1e3b3701a; Max-Age=15897600; Path=/productoteverde/; SameSite=Lax
+Link: <https://biorenew.herbalessencesla.com/productoteverde/>; rel="canonical"
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:22:10 GMT
+Etag: "n:060e9aa8cd8640fbb4268d2d50782712"
+X-Unbounce-Pageid: ed974754-abce-41b8-ae56-eaf1e3b3701a
+Cf-Cache-Status: DYNAMIC
+Content-Location: https://biorenew.herbalessencesla.com/productoteverde/
+X-Unbounce-Variant: n
+X-Unbounce-Visitorid: 060e9aa8-cd86-40fb-b426-8d2d50782712

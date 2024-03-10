@@ -1,0 +1,18 @@
+200 OK
+Retry-Count: 0
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Thu, 29 Feb 2024 06:29:32 GMT
+X-Cache: PRIVATE_NOSTORE
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 278064
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://sc-static.net https://analytics.tiktok.com https://tr.snapchat.com https://pghub.io cdn.cookielaw.org *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' https://tr.snapchat.com https://cdn.cookielaw.org images.ctfassets.net pixel.tapad.com *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' fonts.gstatic.com feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' https://tr.snapchat.com https://pandg.tapad.com *.adsrvr.org *.doubleclick.net *.jebbit.com consumersupport.pg.com servedby.flashtalking.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com feed.pghub.io pandg.tapad.com ; manifest-src * ;
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 20240310T021923Z-75rma5cee94xf5qh27f8zun4d400000002a0000000001z1f
+X-Fd-Int-Roxy-Purgeid: 66876918
+Etag: "02eb5a7d86ada1:0"
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Date: Sun, 10 Mar 2024 02:19:24 GMT
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=gillettevenus-se-en.azurewebsites.net
+Strict-Transport-Security: max-age=31536000; includeSubdomains

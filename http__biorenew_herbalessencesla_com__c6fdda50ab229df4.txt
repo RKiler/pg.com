@@ -1,0 +1,14 @@
+200 OK
+Etag: "q:ab3b774c3129402c964de06b48687ecf"
+Link: <https://biorenew.herbalessencesla.com/producto_manuka/>; rel="canonical"
+X-Unbounce-Visitorid: ab3b774c-3129-402c-964d-e06b48687ecf
+Content-Location: https://biorenew.herbalessencesla.com/producto_manuka/
+X-Unbounce-Pageid: 9e1bb6cf-73e0-4801-8544-1b5abbabc75d
+X-Unbounce-Variant: q
+Server: cloudflare
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:25:52 GMT
+Content-Type: text/html; charset=utf-8
+Cf-Cache-Status: DYNAMIC
+Set-Cookie: ubvs=ab3b774c-3129-402c-964d-e06b48687ecf; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7Cab3b774c-3129-402c-964d-e06b48687ecf%7C9e1bb6cf-73e0-4801-8544-1b5abbabc75d%3Aq%3Asingle; Max-Age=259200; Domain=herbalessencesla.com; Path=/; SameSite=Lax ubpv=q%2C9e1bb6cf-73e0-4801-8544-1b5abbabc75d; Max-Age=15897600; Path=/producto_manuka/; SameSite=Lax
+Cf-Ray: 861fdb4faa947ab2-SJC

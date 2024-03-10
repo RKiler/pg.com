@@ -1,0 +1,18 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Accept-Ranges: bytes
+Retry-Count: 0
+Last-Modified: Mon, 04 Mar 2024 06:12:18 GMT
+X-Xss-Protection: 1;mode=block
+X-Fd-Int-Roxy-Purgeid: 66856764
+Content-Type: text/html
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=pgsginnovation.com ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=pgsginnovation.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Content-Type-Options: nosniff
+X-Azure-Ref: 20240310T022821Z-7tgnwvsda531p1us2tkr0buye800000001rg00000000300w
+X-Cache: PRIVATE_NOSTORE
+Date: Sun, 10 Mar 2024 02:28:21 GMT
+Etag: "04dce9fa6dda1:0"
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://c.lytics.io https://cdn.segment.com https://js-cdn.dynatrace.com https://www.youtube.com https://pghub.io *.cookielaw.org *.onetrust.com *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' c.lytics.io fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' *.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' *.cookielaw.org https://c.lytics.io https://www.google.com i.ytimg.com *.ctfassets.net pixel.tapad.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' fonts.gstatic.com feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' *.ctfassets.net https://pandg.tapad.com https://www.youtube.com *.adsrvr.org *.doubleclick.net *.jebbit.com consumersupport.pg.com ct.pinterest.com www.facebook.com feed.pghub.io pandg.tapad.com ; manifest-src * ;

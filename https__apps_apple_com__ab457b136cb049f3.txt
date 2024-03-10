@@ -1,0 +1,23 @@
+200 OK
+X-Daiquiri-Rate-Limit-Timing-Generic: 0
+X-Original-Content-Length: 654215
+Cache-Control: public, max-age=889
+X-Cache-Remote: TCP_MISS from a23-223-247-94.deploy.akamaitechnologies.com (AkamaiGHost/11.4.2.2-54697487) (-)
+Retry-Count: 0
+Server: daiquiri/3.0.0
+Content-Type: text/html
+X-Daiquiri-Rate-Limit-Ip: ip-minute-lim:250;ip-minute-rem:249;
+X-Responding-Instance: amp-web-apps-preview-server:amp-web-apps-preview-server-main-5db49f4db6-sh777:9000:2408.5.0
+X-Daiquiri-Rate-Limit-Timing-Ip: 0
+Content-Security-Policy: upgrade-insecure-requests ; default-src 'none'; img-src 'self' https://*.apple.com https://*.mzstatic.com data:; style-src 'self' https://*.apple.com 'unsafe-inline'; font-src 'self' https://*.apple.com; media-src 'self' https://*.apple.com blob:; connect-src 'self' https://*.apple.com https://*.mzstatic.com; script-src 'self' https://*.apple.com 'unsafe-eval' 'sha256-4ywTGAe4rEpoHt8XkjbkdOWklMJ/1Py/x6b3/aGbtSQ=' blob:; frame-src 'self' https://*.apple.com itmss: itms-appss: itms-bookss: itms-itunesus: itms-messagess: itms-podcasts: itms-watchs: macappstores: musics: apple-musics: podcasts: videos:;
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Sun, 10 Mar 2024 02:25:58 GMT
+X-Cache: TCP_MISS from a23-216-148-138.deploy.akamaitechnologies.com (AkamaiGHost/11.4.2.2-54697487) (-)
+Set-Cookie: geo=reserved; domain=.apple.com
+X-Daiquiri-Rate-Limit-Generic: generic-minute-lim:180000;generic-minute-rem:146166;
+Vary: accept-encoding
+X-Apple-Jingle-Correlation-Key: TXOPPK2GNSDYZKAGRR6KFSV4AY
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Daiquiri-Instance: daiquiri:10001:daiquiri-cluster-bdcb645cd-rhrlq:7987:24RELEASE37:daiquiri-amp-kubernetes-shared-cluster-ak8s-prod-pv1-amp-web-apps-preview-prod daiquiri:10001:daiquiri-all-shared-ext-65cf996b99-jcf6w:7987:24RELEASE37:daiquiri-amp-kubernetes-shared-ext-ak8s-prod-pv1-amp-daiquiri-ingress-prod

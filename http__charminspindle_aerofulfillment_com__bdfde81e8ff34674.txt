@@ -1,0 +1,16 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/7.4.19
+Strict-Transport-Security: max-age=8995000
+Content-Security-Policy: script-src *.agkn.com https://cdn-stg.tapad.app https://c.betrad.com https://optout.betrad.com https://www.googletagmanager.com/gtm.js *.betrad.com *.gstatic.com *.cloudflare.com *.cookielaw.org *.moatads.com *.outbrain.com *.sharethis.com *.googleapi.com *.ajax.googleapis.com *.google-analytics.com *.googletagmanager.com *.bigcommerce.com *.facebook.net *.googleapis.com *.jquery.com *.adsrvr.org *.pinimg.com *.google.com *.googleapis.com *.cloudfront.net *.zscalertwo.net *.iesnare.com *.bazaarvoice.com *.tynt.com *.impactradius-event.com 'self' 'unsafe-eval' 'unsafe-inline'
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+Pragma: no-cache
+Date: Sun, 10 Mar 2024 02:28:08 GMT
+Content-Length: 14935
+Cache-Control: no-store, must-revalidate, max-age=0
+Server: 
+Set-Cookie: PHPSESSID=ea23g0p61stfgqm4l1kijh5gnq; path=/; secure; HttpOnly
+X-Content-Type-Options: nosniff
+Expires: Sat, 26 Jul 1997 05:00:00 GMT
+X-Frame-Options: deny

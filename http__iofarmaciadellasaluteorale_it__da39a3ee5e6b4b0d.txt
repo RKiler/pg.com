@@ -1,0 +1,20 @@
+200 OK
+Access-Control-Allow-Headers: origin
+Link: <https://www.iofarmaciadellasaluteorale.it/wp-json/>; rel="https://api.w.org/", <https://www.iofarmaciadellasaluteorale.it/wp-json/wp/v2/pages/143>; rel="alternate"; type="application/json", <https://www.iofarmaciadellasaluteorale.it/>; rel=shortlink
+Retry-Count: 0
+Access-Control-Allow-Methods: POST,GET,OPTIONS
+Referrer-Policy: no-referrer-when-downgrade
+Set-Cookie: PHPSESSID=4bc36e10fb32d1840c4a5534987924a6; path=/; secure; HttpOnly
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 10 Mar 2024 02:22:28 GMT
+Server: Apache
+X-Powered-By: PHP/7.4.33
+Access-Control-Allow-Credentials: true
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Upgrade: h2,h2c
+Vary: Accept-Encoding,User-Agent
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Access-Control-Allow-Origin: https://www.iofarmaciadellasaluteorale.it/
+P3p: CP="CAO PSA OUR"

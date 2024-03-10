@@ -1,0 +1,23 @@
+200 OK
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Bc-Ray: 1
+Server: cloudflare
+Date: Sun, 10 Mar 2024 02:19:23 GMT
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+X-Request-Id: 9e8aa5f2495f724e3aa4b07e1efca707
+X-Frame-Options: sameorigin
+Cf-Cache-Status: DYNAMIC
+Alt-Svc: h3=":443"; ma=86400
+Retry-Count: 0
+X-Permitted-Cross-Domain-Policies: none
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Security-Policy: script-src 'self' 'unsafe-eval' 'unsafe-inline' https://pghub.io/js/pandg-sdk.js *.abtasty.com *.paypal.com *.cookielaw.org *.moatads.com *.outbrain.com *.sharethis.com *.platform-api.sharethis.com *.ajax.googleapis.com *.google-analytics.com *.googletagmanager.com *.bigcommerce.com *.facebook.net *.getshogun.com *.googleapis.com *.jquery.com *.adsrvr.org *.zdassets.com *.zopim.com *.braintreegateway.com *.stripe.com *.youtube.com *.entrust.net *.pinimg.com *.google.com  *.ads-twitter.com *.twitter.com *.googleapis.com *.cloudfront.net *.privy.com *.amazonaws.com *.addrexx10.com *.zscalertwo.net *.iesnare.com *.bazaarvoice.com *.tynt.com *.dynatrace.com https://sc-static.net/scevent.min.js *.impactradius-event.com *.crazyegg.com *.gstatic.com *.lightboxcdn.com *.ipify.org *.segment.com
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Cf-Ray: 861fd1c9ed25945e-SJC
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Set-Cookie: fornax_anonymousId=782b64ae-67c0-4c0d-aa4a-5c9ae2edfbff; Expires=Tue, 10 Mar 2026 02:19:22 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=c583b8ff-4a80-4210-85f8-e4bed2454edf:1710037162; Expires=Sun, 10 Mar 2024 02:49:22 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=3CD6FA7EED4556816E33EAF14A6666FAA2F3AAD1-1710641963038-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:19:23 GMT; Path=/; HttpOnly XSRF-TOKEN=cb2ec56c2d5fb8d7b5eec11ebddd0fd7d4a568660817af8f4a76be12ccf72524; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=2940c02e-5267-46a1-9428-db47f6eb7e95; Expires=Sun, 17 Mar 2024 02:19:23 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Pragma: no-cache
+Link: <https://cdn11.bigcommerce.com/s-fuc2jccsxu>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-fuc2jccsxu/stencil/2b09cc50-02bd-013c-7c4f-46a5d7f544e7/e/480edc20-b3c4-013c-880d-06b4f66f27ee/css/theme-b6854ac0-9e83-013c-c195-326c1a2d33cc.css>; rel=preload; as=style
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3%2Fz1tWJfJbW8Vi%2F4XcI9YnwONmCNWuSWq1a1utn3QRJbU8zSNCmeVORxDoajio%2BfwskCgwhJJL3MLVB6SfnnucOUi1y61WMAR2tW%2BVFTHeRQoTBzV05F%2BhAgs3QqRiz0gRcGQV044Q%3D%3D"}],"group":"cf-nel","max_age":604800}

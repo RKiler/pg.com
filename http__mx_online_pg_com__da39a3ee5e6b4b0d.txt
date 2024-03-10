@@ -1,0 +1,20 @@
+200 OK
+Login-Required: true
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: https://www.googletagmanager.com https://www.google-analytics.com https://ajax.googleapis.com/ajax/libs/jquery/ https://optanon.blob.core.windows.net https://*.optanon.blob.core.windows.net https://*.onetrust.com https://*.jquery.com https://*.doubleclick.net/ https://js-agent.newrelic.com https://*.cookielaw.org https://bam.nr-data.net https://www.google.com https://tagmanager.google.com customer-online-media2.azureedge.net customer-online-media-dr.azureedge.net prodlacdn.azureedge.net prodlacdn2.azureedge.net customer-online-media2.azureedge.net ; script-src 'self' 'unsafe-inline' 'unsafe-eval' data: https://www.googletagmanager.com https://www.googleadservices.com https://www.google-analytics.com https://ajax.googleapis.com/ajax/libs/jquery/ https://optanon.blob.core.windows.net https://*.optanon.blob.core.windows.net https://*.onetrust.com https://*.jquery.com https://*.doubleclick.net/ https://js-agent.newrelic.com https://*.cookielaw.org https://bam.nr-data.net https://www.google.com https://www.gstatic.com https://tagmanager.google.com prodlacdn.azureedge.net prodlacdn2.azureedge.net customer-online-media2.azureedge.net; frame-src 'self' https://*.pg.com https://www.google.com/; img-src 'self' 'unsafe-inline' 'unsafe-eval' data: customer-online-media2.azureedge.net customer-online-media-dr.azureedge.net https://www.googleadservices.com widgets.magentocommerce.com https://cdn.cookielaw.org/ https://www.google-analytics.com/collect prodlacdn.azureedge.net prodlacdn2.azureedge.net customer-online-media2.azureedge.net
+Server: istio-envoy
+Retry-Count: 0
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Envoy-Upstream-Service-Time: 1
+Grace: none
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+X-Robots-Tag: noindex
+Date: Sun, 10 Mar 2024 02:25:57 GMT
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=8995000; includeSubDomains
+X-Magento-Cache-Debug: HIT
+Expires: -1
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes

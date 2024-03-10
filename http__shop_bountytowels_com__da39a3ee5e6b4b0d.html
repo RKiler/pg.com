@@ -1,0 +1,2432 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
+        <title>Shop Bounty</title>
+        <link rel="dns-prefetch preconnect" href="https://cdn11.bigcommerce.com/s-fuc2jccsxu" crossorigin><link rel="dns-prefetch preconnect" href="https://fonts.googleapis.com/" crossorigin><link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com/" crossorigin>
+        <meta name="description" content="Shop Bounty"><link rel='canonical' href='https://shop.bountytowels.com/' /><meta name='platform' content='bigcommerce.stencil' />
+        
+         
+
+        <link href="https://cdn11.bigcommerce.com/s-fuc2jccsxu/product_images/bounty_logo_favicon.png?t=1561661949" rel="shortcut icon">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+        <meta name="ft-name" content="Covent Garden">
+        <meta name="ft-version" content="2.3.2">
+        <meta name="ft-edition" content="Calm">
+        <script type="text/javascript">
+
+    if (typeof window.PGdataLayer == "undefined") {
+        var PGdataLayer = {};
+        PGdataLayer.user = {};
+    }
+    if (typeof window.dataLayer === "undefined") {
+        window.dataLayer = [];
+    }
+    window.eCaasUrl = "https://ecaas-services-stage.azure-api.net";
+    if ("fuc2jccsxu" == "") {
+        window.eCaasUrl = "https://ecaas-services.azure-api.net";
+    }
+
+    if (typeof PGdataLayer == "undefined") {
+        var PGdataLayer = {};
+    }
+    if (typeof UserInfo == "undefined") {
+        var UserInfo = {};
+        PGdataLayer.user = {};
+    }
+    var loginStatus = localStorage.getItem("loginstate");
+    var registerStatus = localStorage.getItem("registerstate");
+    fetch('/graphql', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOjEsImNvcnMiOlsiaHR0cHM6Ly9zaG9wLmJvdW50eXRvd2Vscy5jb20iXSwiZWF0IjoxNzEwMTU0MTk1LCJpYXQiOjE3MDk5ODEzOTUsImlzcyI6IkJDIiwic2lkIjo5OTk2NDQ5NjksInN1YiI6IkJDIiwic3ViX3R5cGUiOjAsInRva2VuX3R5cGUiOjF9.d4ozZz93dH_CRmpXeYsrCnPhvFY1Sd3WM_PFzLpPdb9_8qvOAAhh4lKiN86OnvdsFQ5df8FCzFNPyiR8hjnyZw' },
+        body: JSON.stringify({ query: 'query { customer { entityId email firstName lastName attributes { uuid: attribute(entityId:1) { value }, janrainuuid: attribute(entityId:4) { value }, sourceId: attribute(entityId:2) { value },birthYear: attribute(entityId:6) { value },birthMonth: attribute(entityId:5) { value },zipCode: attribute(entityId:7) { value }, marketingId: attribute(entityId:3) { value }}}}' }),
+    })
+        .then(function (res) {
+            return res.json();
+        })
+        .then(function (res) {
+            UserInfo = res;
+            if (res.data.customer != null) {
+                PGdataLayer.user.marketingProgramNbr = res.data.customer.attributes.marketingId.value;
+                PGdataLayer.user.ecommID = res.data.customer.entityId.toString();
+                PGdataLayer.user.id = res.data.customer.attributes.uuid.value;
+                PGdataLayer.user.sourceID = res.data.customer.attributes.sourceId.value;
+                PGdataLayer.user.email = res.data.customer.email;
+                PGdataLayer.user.firstname = res.data.customer.firstName;
+                PGdataLayer.user.lastName = res.data.customer.lastName;
+            }
+            else {
+                PGdataLayer.user.sourceID = "14728";
+                PGdataLayer.user.marketingProgramNbr = "520";
+                PGdataLayer.user.ecommID = "0";
+                PGdataLayer.user.id = "";
+                PGdataLayer.user.email = "";
+                PGdataLayer.user.firstname = "";
+                PGdataLayer.user.lastName = "";
+            }
+        });
+    if ((loginStatus === 'true') || (registerStatus === 'true') || loginStatus === 'false') {
+        if (loginStatus === 'true') {
+            if (typeof window.dataLayer === "undefined") {
+                window.dataLayer = [];
+            }
+            window.dataLayer.push({
+                'event': 'customEvent',
+                'GAeventCategory': 'event_crm_action',
+                'GAeventAction': 'event_profile_login_complete',
+                'GAeventLabel': 'Log_In',
+                'GAeventValue': 0,
+                'GAeventNonInteraction': false
+            });
+            window.localStorage.removeItem('loginstate')
+        }
+        else if (registerStatus === 'true') {
+            if (window.dataLayer === undefined) {
+                window.dataLayer = [];
+            }
+            window.dataLayer.push({
+                'event': 'customEvent',
+                'GAeventCategory': 'event_crm_action',
+                'GAeventAction': 'event_profile_register_complete',
+                'GAeventLabel': 'Register',
+                'GAeventValue': 0,
+                'GAeventNonInteraction': false
+            });
+            window.localStorage.removeItem('registerstate')
+        }
+        else if (loginStatus === 'false') {
+            if (typeof window.dataLayer === "undefined") {
+                window.dataLayer = [];
+            }
+            window.dataLayer.push({
+                'event': 'customEvent',
+                'GAeventCategory': 'event_crm_action',
+                'GAeventAction': 'event_profile_logout',
+                'GAeventLabel': 'Log_Out',
+                'GAeventValue': 0,
+                'GAeventNonInteraction': false
+            });
+            window.localStorage.removeItem('loginstate')
+        }
+    }
+</script>        <script>
+            // Change document class from no-js to js so we can detect this in css
+            document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+        </script>
+
+        <link data-stencil-stylesheet href="https://cdn11.bigcommerce.com/s-fuc2jccsxu/stencil/2b09cc50-02bd-013c-7c4f-46a5d7f544e7/e/480edc20-b3c4-013c-880d-06b4f66f27ee/css/theme-b6854ac0-9e83-013c-c195-326c1a2d33cc.css" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+        <style type="text/css" media="screen, print">
+        @font-face {
+            
+            font-family: "Work Sans";
+            src: url("https://cdn11.bigcommerce.com/s-fuc2jccsxu/content/WorkSans-VariableFont_wght.ttf");
+        
+        }
+        
+        </style>
+
+        <!-- Start Tracking Code for analytics_googleanalytics -->
+
+<!-- BEGIN PGdataLayer --> 
+<script type="text/javascript"> 
+    if(typeof PGdataLayer == "undefined"){ 
+        var PGdataLayer = {};
+    } 
+
+    PGdataLayer.GTM ={ 
+        'SiteCountry': 'US',
+        'SiteCurrency':'USD',
+        'SiteEnvironment': 'Prod',
+        'SiteHost': 'BigCommerce',
+        'SiteTechnicalAgency': 'FamilyCareGrowthworks',
+        'SiteLocalContainer': 'GTM-TNL4KVV',
+        'SiteStagingContainer': '',
+        'GoogleAnalyticsOptimizeContainerID': '',
+        'GoogleAnalyticsLocal': 'UA-110787568-47',
+        'GoogleAnalyticsGA4MeasurementID': 'G-6YLH5F9YXX',
+        'GoogleAnalyticsStaging': '',
+        'GoogleAnalyticsSiteSpeedSampleRate': '',
+        'GoogleAnalyticsBrand': '',
+        'GoogleAnalyticsAllowLinker': '',
+        'GoogleAnalyticsLinkerDomains': '',
+        'GoogleAnalyticsEETransOnEvent': 'true',
+        'ConsentOverlay': 'OneTrust',
+        'ConsentOverlayID': 'c8bbb49f-245d-4937-9ffc-cb79f22ff23d',
+        'SitePrivacyProtection': 'CCPA',
+        'SiteGDPR': 'false',
+        'GoogleReCaptcha': 'false',
+        'FacebookRemarketingID': '',
+        'FacebookConnectAppID': '',
+        'FacebookConnectLocale': '',
+        'BINPlatform': '',
+        'GoogleAnalyticsDisabled': '' ,
+        'NeustarDisabled': 'true',
+       'Segment':'ggeOhko7FmX732tYPGJuNtLpBlSKCh2W',
+       'ABTPlatform': 'ABTasty', 
+       'ABTastyID':'10e960ffe6d1e7d904e8b731fc8b1708'
+    } 
+</script> 
+<!-- END PGdataLayer --> 
+
+  
+
+<!-- BEGIN Global GTM --> 
+
+<!-- Google Tag Manager --> 
+
+<script>
+//function loadGTMScript(){
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N94XXFB');
+
+//}
+
+//window.setTimeout(loadGTMScript, 0);
+</script>
+
+<!—End Google Tag Manager -> 
+
+<!-- END Global GTM --> 
+
+ 
+
+<!-- BC Purchase --> 
+
+<script type="text/javascript"> 
+/*
+window.dataLayer = window.dataLayer||[]; 
+
+function trackBCecommerce() { 
+
+    this._addTrans = addTrans; 
+
+    this._addItem = addItems; 
+
+    this._trackTrans = trackTrans; 
+
+} 
+
+var transaction = {}; 
+
+transaction.transactionProducts = []; 
+
+function addTrans(orderID, store, total, tax, shipping, city, state, country) { 
+
+    transaction.transactionId = orderID; 
+
+    transaction.transactionAffiliation = store; 
+
+    transaction.transactionTotal = total; 
+
+    transaction.transactionTax = tax; 
+
+    transaction.transactionShipping = shipping; 
+
+} 
+
+function addItems(orderID, sku, product, variation, price, quantity) { 
+
+    transaction.transactionProducts.push({ 
+
+        'id': orderID, 
+
+        'sku': sku, 
+
+        'name': product, 
+
+        'category': variation, 
+
+        'price': price, 
+
+        'quantity': quantity 
+
+    }); 
+
+} 
+
+function trackTrans() { 
+
+    transaction.event = 'BCtransactionComplete'; 
+
+    dataLayer.push(transaction); 
+
+} 
+
+var pageTracker = new trackBCecommerce(); 
+*/
+</script> 
+
+<!-- End BC Purchase --> 
+
+<!-- End Tracking Code for analytics_googleanalytics -->
+
+<!-- Start Tracking Code for analytics_visualwebsiteoptimizer -->
+
+<style>
+/*Hide*/
+.acc-hide{
+height: 1px;
+ width: 1px;
+ position: absolute;
+ overflow: hidden;
+}
+
+.acc-hide:focus, .acc-hide:active {
+position: absolute;
+    color: #005585;
+    background-color:#ffffff;
+    width: 250px;
+height:auto;
+    overflow:auto;
+    padding:5px;
+    border:4px solid yellow;
+    text-align:center;
+    font-size:1.2em;
+    z-index:999;
+}
+
+.checkoutHeader-logo{
+width:200px;
+}
+
+.header-logo.header-logo--left {
+    margin: 0 0 0 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    Margin-bottom: 0px;
+}
+
+.countPill{
+background-color: #E02D00 !important;
+color: #ffffff !important;
+}
+
+.button{
+/* height: auto; */
+border-radius: 5px !important;
+}
+
+.button--primary {
+    background-color: #028845;
+    border-color: #028845;
+    border-width: 1px !important;
+    color: #fff;
+    border-radius: 5px !important;
+}
+.button--primary:hover {
+    backgroun-color: #006838;
+}
+
+.cart-item-label{
+color:#333333
+}
+
+.navPages-action {
+    color: #333;
+    font-weight: 600;
+    text-align: center;
+    text-transform: none;
+}
+
+.product .card{
+	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.chat-container{
+                position: fixed;
+                bottom: 30px;
+                right: 20px;
+            }
+.chat-container a{
+	text-decoration: none;
+    letter-spacing: .6;
+    font-size: 1.07143rem;
+    color: #fff;
+    box-shadow: none;
+    background-color: #028845!important;
+    fill: #fff!important;
+    font-weight: 700;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 1.22857rem 1.87143rem;
+    border-color: #028845;
+    border-style: solid;
+    border-top-width: 1px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-radius: 5px;
+    line-height: 0;
+}
+.navUser-item:nth-child(1), .navPages-quickSearch {
+                display:none;
+            }
+
+.form-input .form-input--incrementTotal{
+	border-color #ffffff;
+
+}
+.form-input--incrementTotal {
+	padding: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.form-increment{
+	width: 120px;
+}
+.productView-options .form-input[type=number] {
+    width: 120px;
+}
+.productView-title{
+		font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 38.4px */
+text-transform: capitalize;
+	}
+	.price .price--withoutTax{
+		color: #028845;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%;
+	}
+	.price-now-label {
+		color: #028845;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%;
+	}
+	
+	.price .price--non-sale{
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 28.8px */
+text-decoration-line: strikethrough;
+	}
+	
+	.price-section .price-section--withoutTax .non-sale-price--withoutTax {
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 28.8px */
+text-decoration-line: strikethrough;
+	}
+	
+	.productView-description {
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 120%; /* 21.6px */
+	}
+	
+	.page-heading{
+		font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 28.8px */
+text-transform: capitalize;
+	}
+/* end */
+</style>
+
+<!-- End Tracking Code for analytics_visualwebsiteoptimizer -->
+
+
+<script type="text/javascript" src="https://checkout-sdk.bigcommerce.com/v1/loader.js" defer></script>
+<script type="text/javascript">
+(function () {
+    var xmlHttp = new XMLHttpRequest();
+
+    xmlHttp.open('POST', 'https://bes.gcp.data.bigcommerce.com/nobot');
+    xmlHttp.setRequestHeader('Content-Type', 'application/json');
+    xmlHttp.send('{"store_id":"999644969","timezone_offset":"-5","timestamp":"2024-03-10T02:19:22.82121700Z","visit_id":"c583b8ff-4a80-4210-85f8-e4bed2454edf","channel_id":1}');
+})();
+</script>
+<script type="text/javascript">
+var BCData = {"csrf_token":"cb2ec56c2d5fb8d7b5eec11ebddd0fd7d4a568660817af8f4a76be12ccf72524"};
+</script>
+<script>
+// If Customer Logged In //
+// END If Customer Logged In //
+  
+// Ajax Cart View //
+var _rs_ajax = {};
+_rs_ajax.updateCart = function(){
+};
+// End Ajax Cart View //
+window.addEventListener('DOMContentLoaded', function () {
+
+  /*** FUNCTION FOR ADD TO CART EVENT ***/
+  var element = document.getElementById('form-action-addToCart');
+  if (typeof (element) != 'undefined' && element != null) {
+    window.frames.document.getElementById('form-action-addToCart').addEventListener("click", function () {
+        _rs_ajax.updateCart();
+    })
+  }
+});
+// On Product Page //
+// End On Product Page //
+
+// Search //
+// End Search //
+  
+/////////////////////////////////////////////////////////////////
+//SHA1 hash encode//
+function SHA1(msg) {
+ function rotate_left(n,s) {
+ var t4 = ( n<<s ) | (n>>>(32-s));
+ return t4;
+ };
+ function lsb_hex(val) {
+ var str='';
+ var i;
+ var vh;
+ var vl;
+ for( i=0; i<=6; i+=2 ) {
+ vh = (val>>>(i*4+4))&0x0f;
+ vl = (val>>>(i*4))&0x0f;
+ str += vh.toString(16) + vl.toString(16);
+ }
+ return str;
+ };
+ function cvt_hex(val) {
+ var str='';
+ var i;
+ var v;
+ for( i=7; i>=0; i-- ) {
+ v = (val>>>(i*4))&0x0f;
+ str += v.toString(16);
+ }
+ return str;
+ };
+ function Utf8Encode(string) {
+ string = string.replace(/\r\n/g,'\n');
+ var utftext = '';
+ for (var n = 0; n < string.length; n++) {
+ var c = string.charCodeAt(n);
+ if (c < 128) {
+ utftext += String.fromCharCode(c);
+ }
+ else if((c > 127) && (c < 2048)) {
+ utftext += String.fromCharCode((c >> 6) | 192);
+ utftext += String.fromCharCode((c & 63) | 128);
+ }
+ else {
+ utftext += String.fromCharCode((c >> 12) | 224);
+ utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+ utftext += String.fromCharCode((c & 63) | 128);
+ }
+ }
+ return utftext;
+ };
+ var blockstart;
+ var i, j;
+ var W = new Array(80);
+ var H0 = 0x67452301;
+ var H1 = 0xEFCDAB89;
+ var H2 = 0x98BADCFE;
+ var H3 = 0x10325476;
+ var H4 = 0xC3D2E1F0;
+ var A, B, C, D, E;
+ var temp;
+ msg = Utf8Encode(msg);
+ var msg_len = msg.length;
+ var word_array = new Array();
+ for( i=0; i<msg_len-3; i+=4 ) {
+ j = msg.charCodeAt(i)<<24 | msg.charCodeAt(i+1)<<16 |
+ msg.charCodeAt(i+2)<<8 | msg.charCodeAt(i+3);
+ word_array.push( j );
+ }
+ switch( msg_len % 4 ) {
+ case 0:
+ i = 0x080000000;
+ break;
+ case 1:
+ i = msg.charCodeAt(msg_len-1)<<24 | 0x0800000;
+ break;
+ case 2:
+ i = msg.charCodeAt(msg_len-2)<<24 | msg.charCodeAt(msg_len-1)<<16 | 0x08000;
+ break;
+ case 3:
+ i = msg.charCodeAt(msg_len-3)<<24 | msg.charCodeAt(msg_len-2)<<16 | msg.charCodeAt(msg_len-1)<<8 | 0x80;
+ break;
+ }
+ word_array.push( i );
+ while( (word_array.length % 16) != 14 ) word_array.push( 0 );
+ word_array.push( msg_len>>>29 );
+ word_array.push( (msg_len<<3)&0x0ffffffff );
+ for ( blockstart=0; blockstart<word_array.length; blockstart+=16 ) {
+ for( i=0; i<16; i++ ) W[i] = word_array[blockstart+i];
+ for( i=16; i<=79; i++ ) W[i] = rotate_left(W[i-3] ^ W[i-8] ^ W[i-14] ^ W[i-16], 1);
+ A = H0;
+ B = H1;
+ C = H2;
+ D = H3;
+ E = H4;
+ for( i= 0; i<=19; i++ ) {
+ temp = (rotate_left(A,5) + ((B&C) | (~B&D)) + E + W[i] + 0x5A827999) & 0x0ffffffff;
+ E = D;
+ D = C;
+ C = rotate_left(B,30);
+ B = A;
+ A = temp;
+ }
+ for( i=20; i<=39; i++ ) {
+ temp = (rotate_left(A,5) + (B ^ C ^ D) + E + W[i] + 0x6ED9EBA1) & 0x0ffffffff;
+ E = D;
+ D = C;
+ C = rotate_left(B,30);
+ B = A;
+ A = temp;
+ }
+ for( i=40; i<=59; i++ ) {
+ temp = (rotate_left(A,5) + ((B&C) | (B&D) | (C&D)) + E + W[i] + 0x8F1BBCDC) & 0x0ffffffff;
+ E = D;
+ D = C;
+ C = rotate_left(B,30);
+ B = A;
+ A = temp;
+ }
+ for( i=60; i<=79; i++ ) {
+ temp = (rotate_left(A,5) + (B ^ C ^ D) + E + W[i] + 0xCA62C1D6) & 0x0ffffffff;
+ E = D;
+ D = C;
+ C = rotate_left(B,30);
+ B = A;
+ A = temp;
+ }
+ H0 = (H0 + A) & 0x0ffffffff;
+ H1 = (H1 + B) & 0x0ffffffff;
+ H2 = (H2 + C) & 0x0ffffffff;
+ H3 = (H3 + D) & 0x0ffffffff;
+ H4 = (H4 + E) & 0x0ffffffff;
+ }
+ var temp = cvt_hex(H0) + cvt_hex(H1) + cvt_hex(H2) + cvt_hex(H3) + cvt_hex(H4);
+
+ return temp.toLowerCase();
+}
+//End SHA1 hash encode//
+////////////////////////////////////////////////////////////////////
+</script><script>
+var popupFlag = '';
+  window.PGdataLayer.user = {
+    'ecommId': '0'
+  }
+
+// Run if on cart
+if (window.location.href.indexOf("cart.php") > -1) {
+    
+window.PGdataLayer.event = [{
+    'category': 'event_bin_action',
+    'action': 'event_view_cart',
+    'label': "",
+    'value': 0,
+    'noninteraction': 1
+  }];
+    
+  fetch('/api/storefront/cart?includes=consignments.availableShippingOptions', {
+      credentials: 'include'
+    })
+    .then(function(response) {
+      return response.json();
+    }).then(function(cartJson) {
+      return cartJson[0].id;
+    }).catch(function(error) {
+      console.log(error);
+    }).then(function(cartId) {
+      fetch('/api/storefront/checkouts/' + cartId, {
+        credentials: 'include'
+      }).then(function(response) {
+        return response.json();
+      }).then(function(checkoutJson) {
+        var productLoopString = "[";
+        var productLoopCOString = "[";
+        for (i = 0; i < checkoutJson.cart.lineItems.physicalItems.length; i++) {
+          sku = checkoutJson.cart.lineItems.physicalItems[i].sku;
+          name = checkoutJson.cart.lineItems.physicalItems[i].name;
+          price = checkoutJson.cart.lineItems.physicalItems[i].extendedListPrice;
+          quantity = checkoutJson.cart.lineItems.physicalItems[i].quantity;
+          productLoopString = productLoopString + '{' + '"sku": ' + '"' + sku + '"' + ',' + '"name": ' + '"' + name + '"' + ',' + '"price": ' + '"' + price + '"' + ',' + '"quantity": ' + '"' + quantity + '"' + '}';
+          if (i < (checkoutJson.cart.lineItems.physicalItems.length - 1)) {
+            productLoopString = productLoopString + ",";
+          }
+          productLoopCOString = productLoopCOString + sku;
+          if (i < (checkoutJson.cart.lineItems.physicalItems.length - 1)) {
+            productLoopCOString = productLoopCOString + ",";
+          }
+        }
+        productLoopString = productLoopString + "]";
+        productLoopCOString = productLoopCOString + "]";
+        var productLoopStringJSON = JSON.parse(productLoopString);
+        // Adding attributes to DOM object
+        $('#cobutton1').attr('data-action-detail', productLoopCOString);
+        $('#cobutton1').addClass('event_checkout_now');
+        $('#cobutton2').attr('data-action-detail', productLoopCOString);
+        $('#cobutton2').addClass('event_checkout_now');
+        window.PGdataLayer.ecomm = {
+          'products': productLoopStringJSON
+        };
+
+      }).catch(function(error) {
+        console.log(error);
+      })
+    })
+}
+
+// Ajax Cart View //
+var _rs_ajax = {};
+_rs_ajax.updateCart = function(){
+};
+// End Ajax Cart View //
+
+window.addEventListener('DOMContentLoaded', function () {
+
+  /*** FUNCTION FOR ADD TO CART EVENT ***/
+  var element = document.getElementById('form-action-addToCart');
+  if (typeof (element) != 'undefined' && element != null) {
+    window.frames.document.getElementById('form-action-addToCart').addEventListener("click", function () {
+        _rs_ajax.updateCart();
+    })
+  }
+});
+
+</script><script src="https://shop.bountytowels.com/content/jquery.min.js"></script>
+        
+
+        
+        
+        
+        
+        
+        
+        
+        <!-- snippet location htmlhead -->
+
+    </head>
+    <body class="">
+        <!-- Skip -->
+        <a href="#main" class="acc-hide">Skip to main content</a>
+        <!-- End Skip -->
+        <!-- snippet location header -->
+        <svg data-src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/stencil/2b09cc50-02bd-013c-7c4f-46a5d7f544e7/e/480edc20-b3c4-013c-880d-06b4f66f27ee/img/icon-sprite.svg" class="icons-svg-sprite"></svg>
+
+
+        <div data-content-region="above_header--globel"></div>
+<div data-content-region="above_header"></div>
+<header class="header  " role="banner">
+    <a href="#" class="mobileMenu-toggle" data-mobile-menu-toggle="menu" aria-label="Main menu">
+        <span class="mobileMenu-toggleIcon">Toggle menu</span>
+    </a>
+    <div class="header-top position--left ">
+        <!-- -->
+
+        <div class="header-logo header-logo--left sticky ">
+            <a href="https://shop.bountytowels.com/" data-topbar data-options="sticky_on: large">
+                <span class="header-logo-text with-image">
+                    <img class="header-logo-image" src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/125x125/bty_lgo_1654531008__31237.original.png" alt="Shop Bounty" title="Shop Bounty">
+                </span>
+</a>
+        </div>
+
+        <nav class="navUser left">
+</nav>
+<nav class="navUser right sticky" aria-label="Cart and Account Navigation">
+    <ul class="navUser-section navUser-section--alt">
+        <li class="navUser-item navUser-item--search" style="visibility:hidden">
+            <a class="navUser-action navUser-action--quickSearch" href="#" data-search="quickSearch" aria-controls="quickSearch" aria-expanded="false"><i class="icon" aria-hidden="true"><svg alt="Search"><use xlink:href="#icon-search" /></svg></i><span class="acc-hide">Search</span></a>
+            <div class="dropdown dropdown--quickSearch" id="quickSearch" aria-hidden="true" tabindex="-1" data-prevent-quick-search-close>
+               <div class="container">
+    <!-- snippet location forms_search -->
+    <form class="form" action="/search.php">
+        <fieldset class="form-fieldset">
+            <div class="form-field">
+                <label class="is-srOnly" for="search_query">Search</label>
+                <input class="form-input" data-search-quick name="search_query" id="search_query" data-error-message="Search field cannot be empty." placeholder="Search the store" autocomplete="off">
+            </div>
+        </fieldset>
+    </form>
+    <a class="modal-close" aria-label="Close" data-drop-down-close role="button">
+        <span aria-hidden="true">&#215;</span>
+    </a>
+</div>
+<div class="resultsContainer" id="qsResults">
+    <section class="quickSearchResults" data-bind="html: results"></section>
+</div>
+            </div>
+        </li>
+        <li class="navUser-item navUser-item--account">
+                    <a class="navUser-action event_profile_login" href="/login.php"><i class="icon" aria-hidden="true"><svg alt="Account Login"><use xlink:href="#icon-account" /></svg></i><span class="acc-hide">Account Login</span></a>
+        </li>
+        <li class="navUser-item navUser-item--cart">
+            <a
+                class="navUser-action"
+                data-cart-preview
+                data-dropdown="cart-preview-dropdown"
+                data-options="align:right"
+                href="/cart.php">
+                <span class="navUser-item-cartLabel"><i class="icon" aria-hidden="true"><svg alt="Cart"><use xlink:href="#icon-cart" /></svg></i></span> <span class="countPill cart-quantity"></span>
+                <span class="acc-hide"> Items in your shopping cart. Click to go to the shopping cart.</span>
+            </a>
+
+            <div class="dropdown-menu" id="cart-preview-dropdown" data-dropdown-content aria-hidden="true"></div>
+        </li>
+    </ul>
+</nav>
+    </div>
+
+    <div data-content-region="header_above_navigation"></div>
+        <div class="navPages-container sticky" id="menu" data-menu tabindex="-1">
+            <!-- Comment -->
+            <nav class="navPages top-bar" data-topbar role="navigation" data-options="sticky_on: large;" aria-label="Main Navigation">
+    <div class="navPages-quickSearch">
+        <!-- snippet location forms_search -->
+<!--<form class="form"  action="/search.php">
+    <fieldset class="form-fieldset">
+        <div class="form-field">
+            <label class="form-label is-srOnly" for="search_query_adv">Search Keyword:</label>
+            <div class="form-prefixPostfix wrap">
+                <input class="form-input" id="search_query_adv" name="search_query_adv" value="">
+                <input class="button button--primary form-prefixPostfix-button--postfix" type="submit" value="Search">
+            </div>
+        </div>
+    </fieldset>
+</form>-->
+    </div>
+    <ul class="navPages-list navPages-list-depth-max simple">
+                        <li class="navPages-item">
+                                <a class="navPages-action navPages-action-depth-max has-subMenu is-root" href="https://shop.bountytowels.com/forever-roll/" data-collapsible="navPages-30">
+        Forever Roll <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down" /></svg></i>
+    </a>
+    <div class="navPage-subMenu navPage-subMenu-horizontal" id="navPages-30" aria-hidden="true" tabindex="-1">
+    <ul class="navPage-subMenu-list">
+        <li class="navPage-subMenu-item-parent">
+            <a class="navPage-subMenu-action navPages-action navPages-action-depth-max" href="https://shop.bountytowels.com/forever-roll/">All Forever Roll</a>
+        </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://shop.bountytowels.com/forever-roll/forever-roll-starter-kits/">Forever Roll Starter Kits</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://shop.bountytowels.com/forever-roll/forever-roll-refills/">Forever Roll Refills</a>
+            </li>
+            <li class="navPage-subMenu-item-child">
+                        <a class="navPage-subMenu-action navPages-action" href="https://shop.bountytowels.com/forever-roll/forever-roll-holders/">Forever Roll Holders</a>
+            </li>
+    </ul>
+</div>
+                        </li>
+                        <li class="navPages-item">
+                                <a class="navPages-action" href="https://shop.bountytowels.com/all-products/">ALL PRODUCTS</a>
+                        </li>
+                        <li class="navPages-item">
+                                <a class="navPages-action" href="https://shop.bountytowels.com/regular-rolls/">Regular Rolls</a>
+                        </li>
+                 <li class="navPages-item navPages-content-page">
+                         <a class="navPages-action" href="https://shop.bountytowels.com/guarantee/">Guarantee</a>
+                 </li>
+                 <li class="navPages-item navPages-content-page">
+                         <a class="navPages-action" href="https://shop.bountytowels.com/contact-us">Contact Us</a>
+                 </li>
+    </ul>
+    <ul class="navPages-list navPages-list--user">
+            <li class="navPages-item">
+                <a class="navPages-action" href="/login.php">Sign in</a>
+                    or <a class="navPages-action" href="/login.php?action=create_account">Register</a>
+            </li>
+    </ul>
+</nav>
+        </div>
+</header>
+<div data-content-region="below_header--global"><div data-layout-id="c98780e9-8773-4ba5-8a6f-6d72dd32157a"><div data-sub-layout-container="7a4712bd-797b-4dbf-a15e-e59dd7f3733d" data-layout-name="Layout">
+  <style data-container-styling="7a4712bd-797b-4dbf-a15e-e59dd7f3733d">
+    [data-sub-layout-container="7a4712bd-797b-4dbf-a15e-e59dd7f3733d"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      background-color: rgba(2, 136, 69, 1);
+      position: relative;
+    }
+    [data-sub-layout-container="7a4712bd-797b-4dbf-a15e-e59dd7f3733d"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: -2;
+      content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="19511b2d-37e3-42df-af4a-3394fe25033f">
+    <style data-column-styling="19511b2d-37e3-42df-af4a-3394fe25033f">
+      [data-sub-layout="19511b2d-37e3-42df-af4a-3394fe25033f"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 100%;
+        max-width: 100%;
+        z-index: 0;
+        justify-content: center;
+        padding-top: 10px;
+        padding-right: 10.5px;
+        padding-bottom: 10px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="19511b2d-37e3-42df-af4a-3394fe25033f"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="19511b2d-37e3-42df-af4a-3394fe25033f"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8" data-placement-id="ec8f7faf-0e95-4996-bc19-e7c26d67cc9b" data-placement-status="ACTIVE"><style>
+    .sd-simple-text-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8 {
+      padding-top: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+
+    }
+
+    .sd-simple-text-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8 * {
+      margin: 0;
+      padding: 0;
+
+        color: rgba(255,255,255,1);
+        font-family: inherit;
+        font-weight: 500;
+        font-size: 14px;
+        min-height: 14px;
+
+    }
+
+    .sd-simple-text-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8 {
+        text-align: center;
+    }
+
+    #sd-simple-text-editable-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8 {
+      min-width: 14px;
+      line-height: 1.5;
+      display: inline-block;
+    }
+
+    #sd-simple-text-editable-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8[data-edit-mode="true"]:hover,
+    #sd-simple-text-editable-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8[data-edit-mode="true"]:active,
+    #sd-simple-text-editable-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8[data-edit-mode="true"]:focus {
+      outline: 1px dashed #3C64F4;
+    }
+
+    #sd-simple-text-editable-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8 strong,
+    #sd-simple-text-editable-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8 strong * {
+      font-weight: bold;
+    }
+</style>
+
+<div class="sd-simple-text-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8 ">
+  <div id="sd-simple-text-editable-9d3965ee-2f5b-48b5-98ab-dd4e5cf95bd8" data-edit-mode>
+    <p>Thank you for your interest in Bounty. &#xA0;We love it too!<br>We are out of stock of all Bounty Forever Roll products.<br>We apologize for the inconvenience.</p>
+  </div>
+</div>
+
+</div>
+  </div>
+</div></div></div>
+<div data-content-region="below_header"></div>
+        <div class="body " data-currency-code="USD" id="main" role="main">
+        <!-- snippet location home_content -->
+    <div data-content-region="home_below_hero_top"><div data-layout-id="6a4d2b52-dd80-4519-94d1-f31ded91ebbb"><div data-sub-layout-container="545c7262-bdab-49c4-a1e9-28fd93fb40a7" data-layout-name="Layout">
+  <style data-container-styling="545c7262-bdab-49c4-a1e9-28fd93fb40a7">
+    [data-sub-layout-container="545c7262-bdab-49c4-a1e9-28fd93fb40a7"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      position: relative;
+    }
+    [data-sub-layout-container="545c7262-bdab-49c4-a1e9-28fd93fb40a7"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: auto;
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="2e18a255-2ae9-4bf0-a7b4-dd4307111d6c">
+    <style data-column-styling="2e18a255-2ae9-4bf0-a7b4-dd4307111d6c">
+      [data-sub-layout="2e18a255-2ae9-4bf0-a7b4-dd4307111d6c"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 100%;
+        max-width: 100%;
+        z-index: 0;
+        justify-content: center;
+        position: relative;
+      }
+      [data-sub-layout="2e18a255-2ae9-4bf0-a7b4-dd4307111d6c"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="2e18a255-2ae9-4bf0-a7b4-dd4307111d6c"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="ac3824aa-b7bc-42f5-abef-7c59da667c59" data-placement-id="deed3b93-7c74-46a9-9b2d-46933eea45e8" data-placement-status="ACTIVE"><style>
+* {
+  box-sizing: border-box;
+}
+  
+.hero-title{
+  font-size: 72px;
+  font-weight: bolder;
+  color: #0C6E35;
+  line-height: .8em;
+  letter-spacing: -.05em;
+  margin-top: 20px;
+  }
+  
+  .hero-subtext{
+  font-size: 32px;
+  font-weight: bolder;
+  color: #0C6E35;
+  line-height: 1em;
+	text-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 5px #fff, 0 0 5px #fff;
+	  text-align: center;
+	  padding-top: 10px;
+	  margin-bottom: 10px;
+  }
+	
+	  .hero-subtext-m{
+  font-size: 32px;
+  font-weight: bolder;
+  color: #0C6E35;
+  line-height: 1em;
+	text-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 5px #fff, 0 0 5px #fff;
+		  text-align: center;
+
+  }
+	.prod-button-container-hero{
+      padding-top: 30px;
+	  margin-bottom: 10px;
+      text-align: center;
+      width: 100%;
+      
+}
+	  .prod-button-hero{
+    margin-left: 20px;
+    padding-top: 15px;
+    padding-left: 55px;
+    padding-bottom: 15px;
+    padding-right: 55px;
+  	border-radius: 5px;
+    max-width: 210px;
+    background-color: #15662c;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+	text-align: center;
+  }
+  .prod-button-hero:hover{
+    background-color: #006838;
+    color: #ffffff;
+  }
+	
+	.hero-column-right-m{
+		margin-left: auto;
+	margin-right: auto;
+	}
+  
+  .hero-smalltext{
+  font-size: 18px;
+    font-weight: bolder;
+  color: #028845;
+  text-align: center;
+  }
+	
+	.hero-smalltext-m{
+  font-size: 18px;
+      font-weight: bolder;
+  color: #028845;
+	  text-align: center;
+  }
+  
+  .hero-img{
+    width: 275px;
+    display: block;
+    padding-top: 5%;
+  	margin-left: auto;
+			margin-right: auto;
+  }
+	
+	 .hero-img-m{
+    width: 175px;
+    display: block;
+    padding-top: 2%;
+		 margin-left: auto;
+	  margin-right: auto;
+  }
+	
+	.hero-row{
+	background-image: url("https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/bty-hm-hero-frvrrll.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+	}
+	.hero-row-m{
+	background-image: url("https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/bty-hm-hero-frvrrll-m.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+		display: none;
+	}
+
+/* Create two equal columns that floats next to each other */
+ .hero-column-left {
+  float: left;
+  width: 40%;
+  height: 100%;
+  padding: 5px;
+}
+	 .hero-column-left-m {
+  width: 60%;
+  height: 100%;
+  margin-left: auto;
+		 margin-right: auto;
+}
+  
+  .hero-column-right {
+  float: left;
+  width: 60%;
+  height: 100%;
+}
+
+.hero-row {
+  max-width: 1400px;
+  margin: auto;
+  height:100%
+}
+	
+/* Clear floats after the columns */
+.hero-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+	@media screen and (max-width: 930px) {
+		.hero-img{
+			width: 200px;
+		}
+		
+		.hero-subtext{
+			font-size: 30px;
+		}
+	}
+	
+	@media screen and (max-width: 670px) {
+		.hero-img{
+			width: 150px;
+			margin-left: 2%;
+		}
+		
+		.hero-subtext{
+			font-size: 20px;
+			margin-left: 4%;
+			text-align: left;
+		}
+		.hero-smalltext{
+			margin-left: 4%;
+			text-align: left;
+		}
+			.prod-button-container-hero{
+      text-align: left;
+}
+	}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+	.hero-row-m{
+		display:block;
+	}
+	
+	.hero-row{
+		display: none;
+	}
+			.hero-subtext{
+			font-size: 20px;
+			margin-left: 4%;
+			text-align: left;
+		}
+	.hero-subtext{
+			font-size: 20px;
+			margin-left: 4%;
+			text-align: left;
+		}
+	.hero-subtext-m{
+			font-size: 20px;
+			text-align: center;
+      margin-top:260px;
+		}
+		.hero-smalltext{
+			margin-left: 4%;
+			text-align: center;
+		}
+	.hero-smalltext-m{
+			margin-left: 4%;
+			text-align: center;
+		}
+			.prod-button-container-hero{
+      text-align: center;
+}
+  .prod-button-hero{
+    margin-left: 0px;
+  }
+  
+}
+</style>
+<div class="hero-row">
+  <div class="hero-column-left">
+    <img class="hero-img" alt="Bounty Forever Roll" src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/320w/image-manager/asset-8-12.png">
+	  <div class="prod-button-container-hero">
+      <a href="/bounty-forever-roll/" class="prod-button-hero">SHOP NOW</a>
+    </div>
+	  <p class="hero-subtext">Go Weeks Before<br>
+Changing Your Roll</p>
+	   <p class="hero-smalltext">*based on average US HH</p>
+  </div>
+  <div class="hero-column-right">
+  </div>
+</div>
+
+
+<div class="hero-row-m">
+  <div class="hero-column-left-m">
+    <img class="hero-img-m" alt="Bounty Forever Roll" src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/320w/image-manager/asset-8-12.png">
+	  <div class="prod-button-container-hero">
+      <a href="/bounty-forever-roll/" class="prod-button-hero">SHOP NOW</a>
+    </div>
+  </div>
+  <div class="hero-column-right-m">
+	  <p class="hero-subtext-m">Go Weeks Before<br>
+Changing Your Roll</p>
+	  <p class="hero-smalltext-m">*based on average US HH</p>
+	  <p>&#xA0;</p>
+  </div>
+</div>
+</div>
+  </div>
+</div></div></div>
+
+    <div class="container">
+        
+
+<div class="main full">
+    <div data-content-region="home_below_featured_categories"></div>
+
+    <div data-content-region="home_below_new_products"></div>
+
+
+
+    <div data-content-region="home_below_featured_products"></div>
+
+
+
+    <div data-content-region="home_below_top_sellers"><div data-layout-id="eeadceef-cf18-4e12-bc52-ad93f5ac8f89"><div data-sub-layout-container="752f4a77-880f-440f-ab66-ed917acdc975" data-layout-name="Layout">
+  <style data-container-styling="752f4a77-880f-440f-ab66-ed917acdc975">
+    [data-sub-layout-container="752f4a77-880f-440f-ab66-ed917acdc975"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      position: relative;
+    }
+    [data-sub-layout-container="752f4a77-880f-440f-ab66-ed917acdc975"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: auto;
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="ee93c101-541f-44a8-be2e-f7cd1034042c">
+    <style data-column-styling="ee93c101-541f-44a8-be2e-f7cd1034042c">
+      [data-sub-layout="ee93c101-541f-44a8-be2e-f7cd1034042c"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 100%;
+        max-width: 100%;
+        z-index: 0;
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="ee93c101-541f-44a8-be2e-f7cd1034042c"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="ee93c101-541f-44a8-be2e-f7cd1034042c"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="95fbc1b1-1c9a-4dff-a082-17b4be130d40" data-placement-id="167e9e9e-e18b-44ab-98f6-5bcccef19f07" data-placement-status="ACTIVE"><h2 style="
+  text-align: center;
+  font-size: 24px;
+  text-transform: none;
+  font-style: bold;
+">
+Products You&#x2019;ll Love
+</h2>
+</div>
+  </div>
+</div>
+<div data-sub-layout-container="d4ef3bda-61ec-4bc6-bbfc-ea1efd79b5d3" data-layout-name="Layout">
+  <style data-container-styling="d4ef3bda-61ec-4bc6-bbfc-ea1efd79b5d3">
+    [data-sub-layout-container="d4ef3bda-61ec-4bc6-bbfc-ea1efd79b5d3"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      position: relative;
+    }
+    [data-sub-layout-container="d4ef3bda-61ec-4bc6-bbfc-ea1efd79b5d3"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: auto;
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="7cb78edc-3e44-41b0-b3d5-1e6357c6678e">
+    <style data-column-styling="7cb78edc-3e44-41b0-b3d5-1e6357c6678e">
+      [data-sub-layout="7cb78edc-3e44-41b0-b3d5-1e6357c6678e"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 50%;
+        max-width: 50%;
+        z-index: 0;
+        justify-content: center;
+        padding-top: 20px;
+        padding-right: 25px;
+        padding-left: 25px;
+        position: relative;
+      }
+      [data-sub-layout="7cb78edc-3e44-41b0-b3d5-1e6357c6678e"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="7cb78edc-3e44-41b0-b3d5-1e6357c6678e"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="6771fe45-a1ad-4417-bdb0-a2dbce100f22" data-placement-id="4810cddd-6ba1-4b3f-8db4-6daad2f5c782" data-placement-status="ACTIVE"><style>
+	.prdct_crd{
+		box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);		
+	}
+  .prd_img{
+
+  }
+	.prdct_crd_text{
+		padding-left: 50px;	
+		padding-top: 20px;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: 18.8px; /* 28.8px */
+		text-transform: capitalize;
+		color: #028845;
+	}
+	.prdct_crd_sub_text{
+		padding-left: 50px;	
+		font-size: 18px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 10px; /* 28.8px */
+		color: #313131;
+	}
+	hr.prdct_crd_hr{
+		margin-left:50px;
+		margin-right:50px;
+        border-top: 1px solid #757575;
+	}
+	.price{
+		padding-left: 50px;
+	}
+	.prdct_crd_old_price{
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 100%; /* 21.6px */
+		text-decoration: line-through;
+		color: #313131;
+	}
+	.prdct_crd_price{
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 700;
+		line-height: 100%; /* 28.8px */
+		color: #028845;
+	}
+	.prod-button-container{
+      padding-top: 5px;
+	  margin-bottom: 5px;
+      text-align: left;
+      width: 100%;
+      
+}
+  .prod-button{
+    margin-left: 50px;
+    padding-top: 18px;
+    padding-left: 65px;
+    padding-bottom: 18px;
+    padding-right: 65px;
+  	border-radius: 5px;
+    max-width: 210px;
+    background-color: #15662c;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+	text-align: left;
+  }
+  .prod-button:hover{
+    background-color: #006838;
+    color: #ffffff;
+  }
+
+  @media screen and (max-width: 600px) {
+  .prdct_crd_text{
+		padding-left: 25px;	
+  }
+    .prdct_crd_sub_text{
+		padding-left: 25px;	
+    }
+    hr.prdct_crd_hr{
+		margin-left:25px;
+    }
+    .price{
+		padding-left: 25px;
+	}
+    .prod-button{
+    margin-left: 25px;
+    }
+  }
+</style>
+
+<div class="prdct_crd">
+<img class="prd_img" src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/23-08-10-bty-fr-sk1.jpg" alt="2 Rolls with Stainless Steel Roll Holder on kitchen counter. Arrives in a cardboard box with roll holder disassembled.">
+	<h3><p class="prdct_crd_text">2-Roll Starter Kit</p>
+      </h3>
+	<p class="prdct_crd_sub_text">Bounty Forever Roll</p>
+	<hr class="prdct_crd_hr">
+	<!-- BV -->
+    <div data-bv-show="inline_rating" data-bv-product-id="42" style="padding-top: 0px; padding-bottom: 0px; padding-left: 40px;"></div>
+	<!-- BV -->
+	<hr class="prdct_crd_hr">
+	<p class="price"><span class="prdct_crd_old_price">Was: $38.98,</span><br><span class="prdct_crd_price">Now: $24.99</span></p>
+
+<div class="prod-button-container">
+      <a href="/bounty-forever-roll-starter-kit-2-roll/" class="prod-button">BUY NOW</a>
+    </div>
+	<p></p>
+	<p>&#xA0;</p>
+</div>
+</div>
+  </div>
+  <div data-sub-layout="f5e829a5-13b6-469f-b1e2-6f6d48216d4b">
+    <style data-column-styling="f5e829a5-13b6-469f-b1e2-6f6d48216d4b">
+      [data-sub-layout="f5e829a5-13b6-469f-b1e2-6f6d48216d4b"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 50%;
+        max-width: 50%;
+        z-index: 0;
+        justify-content: center;
+        padding-top: 20px;
+        padding-right: 25px;
+        padding-left: 25px;
+        position: relative;
+      }
+      [data-sub-layout="f5e829a5-13b6-469f-b1e2-6f6d48216d4b"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="f5e829a5-13b6-469f-b1e2-6f6d48216d4b"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="deaab651-882d-4f06-848e-c956b647ef53" data-placement-id="2dd96f1b-a15d-4856-8094-4f5293ec88e7" data-placement-status="ACTIVE"><div class="prdct_crd">
+<img class="prd_img" src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/23-08-10-bty-fr-2rr1.jpg" alt="2 Rolls on kitchen counter. Arrives in a cardboard box with no plastic wrap.">
+	<h3><p class="prdct_crd_text">2-Roll Refill</p></h3>
+	<p class="prdct_crd_sub_text">Bounty Forever Roll</p>
+	<hr class="prdct_crd_hr">
+	<!-- BV -->
+    <div data-bv-show="inline_rating" data-bv-product-id="42" style="padding-top: 0px; padding-bottom: 0px; padding-left: 40px;"></div>
+	<!-- BV -->
+	<hr class="prdct_crd_hr">
+	<p class="price"><span class="prdct_crd_price">$18.99</span></p>
+  <br>
+
+<div class="prod-button-container">
+      <a href="/bounty-forever-roll-2-rolls/" class="prod-button">BUY NOW</a>
+    </div>
+	<p></p>
+	<p>&#xA0;</p>
+</div>
+</div>
+  </div>
+</div>
+<div data-sub-layout-container="c4f3458e-69ec-4fcc-9a50-a204e1e52661" data-layout-name="Layout">
+  <style data-container-styling="c4f3458e-69ec-4fcc-9a50-a204e1e52661">
+    [data-sub-layout-container="c4f3458e-69ec-4fcc-9a50-a204e1e52661"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      background-color: rgba(191, 222, 186, 1);
+      margin-top: 35px;
+      margin-bottom: 75px;
+      position: relative;
+    }
+    [data-sub-layout-container="c4f3458e-69ec-4fcc-9a50-a204e1e52661"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: -2;
+      content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="6ac25eb2-8d37-4ea5-8d8d-b4e57c630033">
+    <style data-column-styling="6ac25eb2-8d37-4ea5-8d8d-b4e57c630033">
+      [data-sub-layout="6ac25eb2-8d37-4ea5-8d8d-b4e57c630033"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 33.33333333333333%;
+        max-width: 33.33333333333333%;
+        z-index: 0;
+        justify-content: flex-end;
+        padding-top: 50px;
+        padding-right: 10.5px;
+        padding-bottom: 30px;
+        padding-left: 10.5px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        position: relative;
+      }
+      [data-sub-layout="6ac25eb2-8d37-4ea5-8d8d-b4e57c630033"]:after {
+        background-position: center top;
+        background-size: contain;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="6ac25eb2-8d37-4ea5-8d8d-b4e57c630033"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="7625a5f7-b135-486f-bcf2-4bc77d4026c7" data-placement-id="57b4a054-e6af-4a05-898f-a665a2f80ca8" data-placement-status="ACTIVE"><style>
+    #sd-image-7625a5f7-b135-486f-bcf2-4bc77d4026c7 {
+        display: flex;
+        align-items: center;
+        background: url('https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/bty-truck.png?t=1690310834') no-repeat;
+        opacity: calc(100 / 100);
+
+
+            background-size: contain;
+
+            height: 115px;
+
+        background-position:
+                center
+                center
+;
+
+
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 30px;
+        margin-left: 0px;
+    }
+
+    #sd-image-7625a5f7-b135-486f-bcf2-4bc77d4026c7 * {
+        margin: 0px;
+    }
+
+    #sd-image-7625a5f7-b135-486f-bcf2-4bc77d4026c7 img {
+        width: auto;
+        opacity: 0;
+
+            height: 100%;
+    }
+
+    @media only screen and (max-width: 700px) {
+        #sd-image-7625a5f7-b135-486f-bcf2-4bc77d4026c7 {
+        }
+    }
+</style>
+
+<div>
+    
+    <div id="sd-image-7625a5f7-b135-486f-bcf2-4bc77d4026c7" data-edit-mode>
+        <img src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/bty-truck.png?t=1690310834" alt="Bounty Truck Icon">
+    </div>
+    
+</div>
+
+
+</div><div data-widget-id="8404d2fb-9a16-438b-8a29-1b9a5dd9f775" data-placement-id="d6edcad1-ba68-43e2-8d58-aede29554337" data-placement-status="ACTIVE">	<style>
+		.diamond-header{
+			font-size: 24px;
+			font-weight: bold;
+			text-align: center;
+			color: #15662C;
+			line-height: 1em;
+            margin-top: 0px;
+		}
+		.diamond-text{
+			font-size: 14px;
+			text-align: center;
+			color: #333333;
+			line-height: 1em;
+			margin-top: -10px;
+			
+		}
+	</style>
+		<h3><p class="diamond-header">
+		FREE SHIPPING
+		</p>
+  </h3>
+</div>
+  </div>
+  <div data-sub-layout="6e418392-999a-48a7-af7b-ab13be18eee1">
+    <style data-column-styling="6e418392-999a-48a7-af7b-ab13be18eee1">
+      [data-sub-layout="6e418392-999a-48a7-af7b-ab13be18eee1"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 33.33333333333333%;
+        max-width: 33.33333333333333%;
+        z-index: 0;
+        justify-content: flex-end;
+        padding-top: 50px;
+        padding-right: 10.5px;
+        padding-bottom: 30px;
+        padding-left: 10.5px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        position: relative;
+      }
+      [data-sub-layout="6e418392-999a-48a7-af7b-ab13be18eee1"]:after {
+        background-position: center top;
+        background-size: contain;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="6e418392-999a-48a7-af7b-ab13be18eee1"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="a0614246-8956-4988-ab8f-b7dcfe4ee805" data-placement-id="02680d0c-d431-4bdc-9bf2-3293d5f61e06" data-placement-status="ACTIVE"><style>
+    #sd-image-a0614246-8956-4988-ab8f-b7dcfe4ee805 {
+        display: flex;
+        align-items: center;
+        background: url('https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/bty-sm-bty-logo.png?t=1690310896') no-repeat;
+        opacity: calc(100 / 100);
+
+
+            background-size: contain;
+
+            height: 137px;
+
+        background-position:
+                center
+                center
+;
+
+
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 30px;
+        margin-left: 0px;
+    }
+
+    #sd-image-a0614246-8956-4988-ab8f-b7dcfe4ee805 * {
+        margin: 0px;
+    }
+
+    #sd-image-a0614246-8956-4988-ab8f-b7dcfe4ee805 img {
+        width: auto;
+        opacity: 0;
+
+            height: 100%;
+    }
+
+    @media only screen and (max-width: 700px) {
+        #sd-image-a0614246-8956-4988-ab8f-b7dcfe4ee805 {
+        }
+    }
+</style>
+
+<div>
+    
+    <div id="sd-image-a0614246-8956-4988-ab8f-b7dcfe4ee805" data-edit-mode>
+        <img src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/bty-sm-bty-logo.png?t=1690310896" alt="Bounty Logo">
+    </div>
+    
+</div>
+
+
+</div><div data-widget-id="6f8d15fd-d727-4984-97ce-d23d99da1af6" data-placement-id="7d4bc5bc-0566-4af4-a16d-ad04c087e83b" data-placement-status="ACTIVE">
+		<h3><p class="diamond-header">
+		AVAILABLE ONLINE ONLY
+		</p>
+  </h3>
+</div>
+  </div>
+  <div data-sub-layout="b90019a8-874a-4810-a8d7-0abf25b47c9e">
+    <style data-column-styling="b90019a8-874a-4810-a8d7-0abf25b47c9e">
+      [data-sub-layout="b90019a8-874a-4810-a8d7-0abf25b47c9e"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 33.33333333333333%;
+        max-width: 33.33333333333333%;
+        z-index: 0;
+        justify-content: flex-end;
+        padding-top: 50px;
+        padding-right: 10.5px;
+        padding-bottom: 30px;
+        padding-left: 10.5px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        position: relative;
+      }
+      [data-sub-layout="b90019a8-874a-4810-a8d7-0abf25b47c9e"]:after {
+        background-position: center top;
+        background-size: contain;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="b90019a8-874a-4810-a8d7-0abf25b47c9e"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="45878492-7a2f-43b0-9c9d-a1fccd4955eb" data-placement-id="20b3a43e-2faf-442d-b96e-31bf857bb237" data-placement-status="ACTIVE"><style>
+    #sd-image-45878492-7a2f-43b0-9c9d-a1fccd4955eb {
+        display: flex;
+        align-items: center;
+        background: url('https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/bty-money.png?t=1690310910') no-repeat;
+        opacity: calc(100 / 100);
+
+
+            background-size: contain;
+
+            height: 120px;
+
+        background-position:
+                center
+                center
+;
+
+
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 30px;
+        margin-left: 0px;
+    }
+
+    #sd-image-45878492-7a2f-43b0-9c9d-a1fccd4955eb * {
+        margin: 0px;
+    }
+
+    #sd-image-45878492-7a2f-43b0-9c9d-a1fccd4955eb img {
+        width: auto;
+        opacity: 0;
+
+            height: 100%;
+    }
+
+    @media only screen and (max-width: 700px) {
+        #sd-image-45878492-7a2f-43b0-9c9d-a1fccd4955eb {
+        }
+    }
+</style>
+
+<div>
+    
+    <div id="sd-image-45878492-7a2f-43b0-9c9d-a1fccd4955eb" data-edit-mode>
+        <img src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/original/image-manager/bty-money.png?t=1690310910" alt="Money Icon">
+    </div>
+    
+</div>
+
+
+</div><div data-widget-id="8de1f6dc-f54e-40d4-ad05-d58cf1449ee8" data-placement-id="d22419a7-f1c9-49cc-86c6-b629de672db8" data-placement-status="ACTIVE">
+		<h3><p class="diamond-header">
+		MONEY BACK GUARANTEE
+		</p>
+  </h3>
+</div>
+  </div>
+</div></div></div>
+
+    <div data-content-region="home_below_featured_articles"></div>
+
+    <div data-content-region="home_below_instagram_feed"></div>
+    <!-- TEMP -->
+    <!--
+    <style>
+    .hero_background_Temp {
+    background-image: url(https://cdn11.bigcommerce.com/s-fuc2jccsxu/product_images/uploaded_images/bty-growthworks-mainimage.jpg);
+    background-size: cover;
+    background-position: left bottom;
+	max-width: 1350px;
+    width: 100%;
+    height: 400px;
+	margin:auto;
+    }
+    /*media queries */
+    @media only screen and (max-width: 920px) {
+        .hero_background_Temp {
+            height: 350px;
+            
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        .hero_background_Temp {
+            height: 200px;
+        }
+    }
+    </style>
+    <div class="hero_background_Temp">
+    </div>
+    -->
+    <!-- /TEMP -->
+</div>
+
+    </div>
+    <div id="modal" class="modal" data-reveal data-prevent-quick-search-close>
+    <a href="#" class="modal-close" aria-label="Close" role="button">
+        <span aria-hidden="true">&#215;</span>
+    </a>
+    <div class="modal-content"></div>
+    <div class="loadingOverlay"></div>
+</div>
+</div>
+            <div data-content-region="above_footer"></div>
+<div data-content-region="above_footer--global"><div data-layout-id="7b50f89d-db94-4616-8818-2a67312f5791"><div data-sub-layout-container="ac0aa971-a5f2-43e2-992b-161bf7c3ec46" data-layout-name="Layout">
+  <style data-container-styling="ac0aa971-a5f2-43e2-992b-161bf7c3ec46">
+    [data-sub-layout-container="ac0aa971-a5f2-43e2-992b-161bf7c3ec46"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      margin-top: 70px;
+      position: relative;
+    }
+    [data-sub-layout-container="ac0aa971-a5f2-43e2-992b-161bf7c3ec46"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: auto;
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="b79fc4d9-1698-4d01-a3cd-43bbc80e7e14">
+    <style data-column-styling="b79fc4d9-1698-4d01-a3cd-43bbc80e7e14">
+      [data-sub-layout="b79fc4d9-1698-4d01-a3cd-43bbc80e7e14"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 50%;
+        max-width: 50%;
+        z-index: 0;
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="b79fc4d9-1698-4d01-a3cd-43bbc80e7e14"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="b79fc4d9-1698-4d01-a3cd-43bbc80e7e14"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+  </div>
+  <div data-sub-layout="21a54c6a-251f-4e29-973a-8d31824352ab">
+    <style data-column-styling="21a54c6a-251f-4e29-973a-8d31824352ab">
+      [data-sub-layout="21a54c6a-251f-4e29-973a-8d31824352ab"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 50%;
+        max-width: 50%;
+        z-index: 0;
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="21a54c6a-251f-4e29-973a-8d31824352ab"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto;
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="21a54c6a-251f-4e29-973a-8d31824352ab"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+  </div>
+</div>
+<div data-sub-layout-container="ec23f105-6484-483d-b1e1-9c7f2fed7df4" data-layout-name="Layout">
+  <style data-container-styling="ec23f105-6484-483d-b1e1-9c7f2fed7df4">
+    [data-sub-layout-container="ec23f105-6484-483d-b1e1-9c7f2fed7df4"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      position: relative;
+    }
+    [data-sub-layout-container="ec23f105-6484-483d-b1e1-9c7f2fed7df4"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: auto;
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="c090bb5f-0017-462a-af9f-c0c5c766bad3">
+    <style data-column-styling="c090bb5f-0017-462a-af9f-c0c5c766bad3">
+      [data-sub-layout="c090bb5f-0017-462a-af9f-c0c5c766bad3"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 100%;
+        max-width: 100%;
+        z-index: 0;
+        background-color: rgba(12, 110, 53, 1);
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="c090bb5f-0017-462a-af9f-c0c5c766bad3"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: -1;
+        content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="c090bb5f-0017-462a-af9f-c0c5c766bad3"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="4887a8fa-f28c-4911-8feb-0ebb4e6ae317" data-placement-id="9415418e-bcd0-45f3-989f-0c7a1b411260" data-placement-status="ACTIVE"><style>
+    #sd-image-4887a8fa-f28c-4911-8feb-0ebb4e6ae317 {
+        display: flex;
+        align-items: center;
+        background: url('https://cdn11.bigcommerce.com/s-fuc2jccsxu/product_images/uploaded_images/bountylogo.png') no-repeat;
+        opacity: calc(100 / 100);
+
+
+            background-size: contain;
+
+            height: auto;
+
+        background-position:
+                center
+                center
+;
+
+
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+
+        margin-top: -30px;
+        margin-right: 0px;
+        margin-bottom: -30px;
+        margin-left: 0px;
+    }
+
+    #sd-image-4887a8fa-f28c-4911-8feb-0ebb4e6ae317 * {
+        margin: 0px;
+    }
+
+    #sd-image-4887a8fa-f28c-4911-8feb-0ebb4e6ae317 img {
+        width: auto;
+        opacity: 0;
+
+            height: auto;
+    }
+
+    @media only screen and (max-width: 700px) {
+        #sd-image-4887a8fa-f28c-4911-8feb-0ebb4e6ae317 {
+        }
+    }
+</style>
+
+<div>
+    
+    <div id="sd-image-4887a8fa-f28c-4911-8feb-0ebb4e6ae317" data-edit-mode>
+        <img src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/product_images/uploaded_images/bountylogo.png" alt="Bounty Bottom Logo">
+    </div>
+    
+</div>
+
+
+</div>
+  </div>
+</div></div></div>
+<footer class="footer" role="contentinfo">
+    <div class="container">
+        <section class="footer-info">
+            <article class="footer-info-col footer-info-col" data-section-type="footer-webPages" data-aos="fade-up" data-aos-offset="20" data-aos-duration="300" data-aos-delay="100"
+>
+                <span class="footer-info-heading">Navigate</span>
+                <ul class="footer-info-list">
+                        <li>
+                            <a href="https://shop.bountytowels.com/guarantee/">Guarantee</a>
+                        </li>
+                        <li>
+                            <a href="https://shop.bountytowels.com/contact-us">Contact Us</a>
+                        </li>
+                    <li>
+                        <a href="/sitemap.php">Sitemap</a>
+                    </li>
+                                        <!-- Extra -->
+                    <li>
+                        <a href="/store-policy/">Store Policy</a>
+                    </li>
+                    <li>
+                        <a href="https://privacypolicy.pg.com/en/#statePrivacyNotice" target="_blank" rel="noopener">Privacy</a>
+                    </li>
+                    <li>
+                        <a href="https://privacypolicy.pg.com/CHD-en" target="_blank" rel="noopener">Consumer Health Data Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="https://www.pg.com/en_US/terms_conditions/index.shtml" target="_blank" rel="noopener">Terms &amp; Conditions</a>
+                    </li>
+                    <li>
+                        <a href="https://preferencecenter.pg.com/" target="_blank">Your Privacy Choices </a><img src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/images/stencil/320w/image-manager/privacyoptions29x14.png?t=1670255862" width="29" height="14" alt="Privacy Choices Logo">	
+                    </li>
+                    <li>
+                        <a href="javascript:void(0)" onclick="Optanon.ToggleInfoDisplay();" >Do Not Sell or Share My Personal Information / Opt-Out of Targeted Advertising</a>	
+                    </li>
+                    <li style="padding-top:20px;">
+
+                        <a href="https://www.bbb.org/cincinnati/business-reviews/manufacturers-and-producers/the-procter-gamble-company-in-cincinnati-oh-3036/" target="_blank" rel="noopener" style="border-bottom:0px;"><img src="https://cdn8.bigcommerce.com/s-qkxtundogd/product_images/uploaded_images/bbb-logo-small-200x200.png" alt="Better Business Bureau"class="js-image-tile" style="width:100px;" id="1c8ecbc1c2_image"></a>
+
+                    </li>
+                    <!-- End Extra -->
+                </ul>
+            </article>
+
+            <!--
+            <article class="footer-info-col footer-info-col--small" data-section-type="footer-categories" data-aos="fade-up" data-aos-offset="20" data-aos-duration="300" data-aos-delay="200"
+>
+                <span class="footer-info-heading">Categories</span>
+                <ul class="footer-info-list">
+                        <li>
+                            <a href="https://shop.bountytowels.com/forever-roll/">Forever Roll</a>
+                        </li>
+                        <li>
+                            <a href="https://shop.bountytowels.com/all-products/">ALL PRODUCTS</a>
+                        </li>
+                        <li>
+                            <a href="https://shop.bountytowels.com/regular-rolls/">Regular Rolls</a>
+                        </li>
+                </ul>
+            </article>
+            -->
+
+
+            <article class="footer-info-col footer-info-col--large" data-section-type="newsletterSubscription" data-aos="fade-up" data-aos-offset="20" data-aos-duration="300" data-aos-delay="400"
+>
+                            <div class="footer-payment-icons">
+                <span>
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-visa"></use>
+                    </svg>
+                </span>
+                <span>
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-mastercard"></use>
+                    </svg>
+                </span>
+                <span class="payment-icon-square">
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-american-express-alt"></use>
+                    </svg>
+                </span>
+                <span>
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-diners"></use>
+                    </svg>
+                </span>
+                <span>
+                    <svg aria-hidden="true">
+                        <use xlink:href="#icon-payments-discover"></use>
+                    </svg>
+                </span>
+        </div>
+            </article>
+        </section>
+        <div class="footer-copyright">
+            <address>Procter &amp; Gamble</address>
+        </div>
+            <div class="footer-copyright">
+                <p class="powered-by">&copy; 2024 Shop Bounty </p>
+            </div>
+    </div>
+    <!-- Chat Link -->
+    <div class="chat-container" id="chat-container">
+        <a href="/contact-us">
+            <span>Help</span></a>
+    </div>
+    <!-- END Chat Link -->
+</footer>
+<div data-content-region="below_footer--global"></div>
+<div data-content-region="below_footer"></div>
+
+        <script>window.__webpack_public_path__ = "https://cdn11.bigcommerce.com/s-fuc2jccsxu/stencil/2b09cc50-02bd-013c-7c4f-46a5d7f544e7/e/480edc20-b3c4-013c-880d-06b4f66f27ee/dist/";</script>
+        <script src="https://cdn11.bigcommerce.com/s-fuc2jccsxu/stencil/2b09cc50-02bd-013c-7c4f-46a5d7f544e7/e/480edc20-b3c4-013c-880d-06b4f66f27ee/dist/theme-bundle.main.js"></script>
+
+        <script>
+            // Exported in app.js
+            window.stencilBootstrap("default", "{\"enableSwatches\":true,\"enableSizes\":false,\"enableImageHoverSwitcher\":false,\"themeSettings\":{\"optimizedCheckout-formChecklist-color\":\"#373737\",\"rename_warranty_field\":\"\",\"e\":\"Calm\",\"account_info_background_color_green\":\"#D3E49C\",\"homepage_new_products_column_count\":4,\"navPages-sticky-backgroundColor\":\"#ffffff\",\"card--alternate-color--hover\":\"#ffffff\",\"hide_featured_category_names\":false,\"fontSize-root\":16,\"show_accept_amex\":true,\"optimizedCheckout-buttonPrimary-borderColorDisabled\":\"transparent\",\"homepage_top_products_count\":0,\"navPages-sticky-color-hover\":\"#373737\",\"grid_swatch_option_size\":\"10x10\",\"cart_icon\":\"cart\",\"paymentbuttons-paypal-size\":\"small\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#000000\",\"show_subcategories_as_grid\":true,\"brandpage_products_per_page\":24,\"color-secondaryDarker\":\"#dadada\",\"optimizedCheckout-colorFocus\":\"#306303\",\"show_articles_on_homepage\":false,\"color-textBase--active\":\"#000000\",\"card_button_style\":\"square\",\"stagehosturl\":\"bounty-sandbox.mybigcommerce.com\",\"social_icon_placement_bottom\":false,\"show_powered_by\":false,\"global_banner_link_1\":\"\",\"create_user_account_url\":\"/login.php?action=create_account&from=checkout\",\"navUser-color\":\"#333333\",\"show_wishlist_on_grid\":false,\"fontSize-h4\":20,\"checkRadio-borderColor\":\"#CCCCCC\",\"color-primaryDarker\":\"#000000\",\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"brand_size\":\"300x300\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#dadada\",\"color-textLink--hover\":\"#028845\",\"optimizedCheckout-buttonSecondary-backgroundColorHover\":\"#ffffff\",\"global_banner_icon_3\":\"\",\"svg_logo\":\"\",\"logo_size\":\"125x125\",\"newsletter_popup_title\":\"\",\"optimizedCheckout-formField-backgroundColor\":\"#ffffff\",\"newsletter_popup_reappear_after\":3,\"pdp-sale-price-label\":\"Now:\",\"footer-backgroundColor\":\"#FFFFFF\",\"hero_width\":\"contain\",\"navPages-color\":\"#000000\",\"productpage_reviews_count\":0,\"optimizedCheckout-step-borderColor\":\"#dddddd\",\"optimizedCheckout-headingPrimary-font\":\"Google_Montserrat_400\",\"percentage_saving_backgroundColor\":\"#a0be71\",\"replace_utility_menu_with_icons\":true,\"show_accept_paypal\":false,\"paymentbuttons-paypal-label\":\"checkout\",\"logo-font\":\"Google_Montserrat_700\",\"custom_checkout_css\":true,\"show_wishlist_in_navigation\":false,\"optimizedCheckout-discountBanner-textColor\":\"#373737\",\"optimizedCheckout-backgroundImage-size\":\"1000x400\",\"pdp-retail-price-label\":\"MSRP:\",\"show_percentage_saving\":false,\"paymentbuttons-paypal-shape\":\"pill\",\"global_banner_backgroundColor\":\"#208831\",\"navPages-subMenu-background-color-hover\":\"#fafafa\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Montserrat_400\",\"carousel-dot-color\":\"#dadada\",\"button--disabled-backgroundColor\":\"#dadada\",\"hide_category_image_on_categories\":true,\"global_banner_message_3\":\"\",\"blockquote-cite-font-color\":\"#999999\",\"show_homepage_featured_categories\":false,\"n\":\"Covent Garden\",\"twitter_screen_name\":\"\",\"optimizedCheckout-formField-shadowColor\":\"#e5e5e5\",\"categorypage_products_per_page\":24,\"show_blog_card_summary\":true,\"max_page_width\":\"1400\",\"container-fill-base\":\"#ffffff\",\"homepage_featured_products_column_count\":4,\"color-textLink--active\":\"#1440E1\",\"footer-buttonTextColor\":\"#ffffff\",\"show_powered_by_braintree\":false,\"enable_circular_swatches\":true,\"footer-iconColorHover\":\"#333333\",\"optimizedCheckout-loadingToaster-backgroundColor\":\"#373737\",\"color-textHeading\":\"#333333\",\"show_accept_discover\":true,\"paymentbuttons-paypal-layout\":\"horizontal\",\"show_phone_number_in_header\":false,\"button--default-color\":\"#1440E1\",\"localhosturl\":\"localhost\",\"pace-progress-backgroundColor\":\"#333333\",\"footer-linkColorHover\":\"#333333\",\"optimizedCheckout-formField-errorColor\":\"#cc4749\",\"spinner-borderColor-dark\":\"#333333\",\"restrict_to_login\":false,\"input-font-color\":\"#333333\",\"carousel-title-color\":\"#000000\",\"show_custom_product_labels\":false,\"select-bg-color\":\"#ffffff\",\"show_selected_option_on_label\":true,\"show_accept_mastercard\":true,\"newsletter_popup_close_color\":\"#373737\",\"footer-inputBackgroundColor\":\"#ffffff\",\"color_text_product_sale_badges\":\"#ffffff\",\"enable_instagram_feed\":false,\"enable_simple_header\":false,\"newsletter_popup_image\":\"\",\"optimizedCheckout-link-font\":\"Google_Montserrat_400\",\"homepage_show_carousel_arrows\":false,\"global_banner_link_2\":\"\",\"home_featured_products_carousel\":true,\"carousel-arrow-bgColor\":\"#c6d8aa\",\"color_hover_product_sale_badges\":\"#000000\",\"show_accept_giropay\":false,\"card--alternate-borderColor\":\"#ffffff\",\"homepage_new_products_count\":0,\"button--disabled-color\":\"#ffffff\",\"mobile_navigation_background_color\":\"#dadada\",\"color-primaryDark\":\"#1a1a1a\",\"show_payment_methods_in_cart\":true,\"twitter_posts_count\":6,\"color-grey\":\"#999999\",\"simple-footer-newsletter-textColor\":\"#333333\",\"body-font\":\"Google_Work+Sans_500\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"transparent\",\"navPages-subMenu-backgroundColor\":\"#FFFFFF\",\"store_hash_stage\":\"6bfc4nvhoi\",\"optimizedCheckout-step-textColor\":\"#373737\",\"button--primary-backgroundColor\":\"#028845\",\"custom_store_css\":true,\"checkRadio-color\":\"#333333\",\"optimizedCheckout-link-color\":\"#000000\",\"card-figcaption-button-background\":\"#ffffff\",\"icon-color-hover\":\"#575757\",\"button--default-borderColor\":\"#4496F6\",\"optimizedCheckout-headingSecondary-font\":\"Google_Montserrat_400\",\"subcategories_grid_column_count\":3,\"headings-font\":\"Google_Work+Sans_700\",\"label-backgroundColor\":\"#a0be71\",\"button--primary-backgroundColorHover\":\"#006838\",\"optimizedCheckout-formField-borderColor\":\"#dadada\",\"newsletter_popup_delay\":15000,\"show_product_dimensions\":false,\"source_ID\":\"14728\",\"pdp-non-sale-price-label\":\"Was:\",\"button--disabled-borderColor\":\"transparent\",\"label-color\":\"#ffffff\",\"optimizedCheckout-headingSecondary-color\":\"#373737\",\"select-arrow-color\":\"#333333\",\"logo_fontSize\":14,\"alert-backgroundColor\":\"#ffffff\",\"optimizedCheckout-logo-size\":\"250x100\",\"hero_align\":\"center\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"show_accept_ideal\":false,\"prodhosturl\":\"shop.bountytowels.com\",\"card-title-color\":\"#333333\",\"global_banner_icon_2\":\"\",\"product_list_display_mode\":\"grid\",\"optimizedCheckout-link-hoverColor\":\"#373737\",\"alternative_card_panels\":false,\"fontSize-h5\":16,\"selling_fast_tag_text_color\":\"#ffffff\",\"enable_elfsight_instagram_feed\":false,\"product_size\":\"800x800\",\"paymentbuttons-paypal-color\":\"gold\",\"homepage_show_carousel\":false,\"show_accept_wechat_pay\":false,\"optimizedCheckout-body-backgroundColor\":\"#ffffff\",\"carousel-arrow-borderColor\":\"#c6d8aa\",\"hide_category_view_all\":false,\"button--default-borderColorActive\":\"#4496F6\",\"header-backgroundColor\":\"#ffffff\",\"show_accept_jcb\":false,\"color-greyDarkest\":\"#000000\",\"price_ranges\":false,\"productpage_videos_count\":8,\"color-greyDark\":\"#696969\",\"footer-buttonColorActive\":\"#b3cb8d\",\"twitter_display_type\":\"\",\"paymentbuttons-paypal-tagline\":true,\"home_new_products_carousel\":true,\"color_badge_product_sale_badges\":\"#007dc6\",\"eCaas_production_url\":\"https://ecaas-services.azure-api.net\",\"optimizedCheckout-buttonSecondary-borderColorHover\":\"#90ab65\",\"optimizedCheckout-discountBanner-iconColor\":\"#373737\",\"show_sizes_on_grid\":false,\"alternative_card_panel_text\":\"#000000\",\"global_banner_message_2\":\"\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#a0be71\",\"optimizedCheckout-loadingToaster-textColor\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorDisabled\":\"#ffffff\",\"optimizedCheckout-formField-placeholderColor\":\"#696969\",\"navUser-color-hover\":\"#333333\",\"icon-ratingFull\":\"#a0be71\",\"footer-inputBorderColor\":\"#333333\",\"twitter_collection_id\":\"\",\"color-textBase--hover\":\"#028845\",\"show_accept_mcsc\":false,\"show_powered_by_square\":false,\"color-errorLight\":\"#ffdddd\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"show_selling_fast_tags\":false,\"social_icon_placement_top\":false,\"instagram_posts_count\":4,\"blog_size\":\"800x800\",\"hide_navigation_featured_categories\":true,\"newsletter_popup_backgroundColor\":\"#ffffff\",\"shop_by_price_visibility\":false,\"optimizedCheckout-buttonSecondary-colorActive\":\"#b3cb8d\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"show_designed_by\":false,\"color-warningLight\":\"#fffdea\",\"show_product_weight\":false,\"button--default-colorActive\":\"#1440E1\",\"show_accept_alipay\":false,\"color-info\":\"#f1a500\",\"marketing_prog_number\":\"520\",\"featured_category_columns\":4,\"custom_product_label_text_color\":\"#ffffff\",\"optimizedCheckout-formChecklist-backgroundColorSelected\":\"#f5f5f5\",\"custom_product_label_backgroundColor\":\"#a0be71\",\"show_product_quick_view\":false,\"button--default-borderColorHover\":\"#4496F6\",\"card--alternate-backgroundColor\":\"#ffffff\",\"carousel-type\":\"standard\",\"show_stock_level_on_grid\":false,\"hide_content_navigation\":false,\"sale_tag_backgroundColor\":\"#a0be71\",\"pdp-price-label\":\"\",\"show_copyright_footer\":true,\"swatch_option_size\":\"20x20\",\"optimizedCheckout-orderSummary-borderColor\":\"#dadada\",\"navPages-backgroundColor\":\"#FFFFFF\",\"optimizedCheckout-show-logo\":\"none\",\"show_accept_sepa\":false,\"carousel-description-color\":\"#000000\",\"blog_listing_size\":\"420x420\",\"show_accept_diners\":true,\"gradient_text\":\"#ffffff\",\"optimizedCheckout-formChecklist-backgroundColor\":\"#ffffff\",\"fontSize-h2\":26,\"optimizedCheckout-step-backgroundColor\":\"#dadada\",\"selling_fast_tag_backgroundColor\":\"#a0be71\",\"optimizedCheckout-headingPrimary-color\":\"#000000\",\"color-textBase\":\"#333333\",\"show_accept_elo\":false,\"color-warning\":\"#f1a500\",\"v\":\"2.3.2\",\"productgallery_size\":\"500x500\",\"enable_editorial_mode\":false,\"show_accept_vp\":false,\"alert-color\":\"#000000\",\"card-figcaption-button-color\":\"#666666\",\"searchpage_products_per_page\":24,\"color-textSecondary--active\":\"#333333\",\"optimizedCheckout-formField-inputControlColor\":\"#a0be71\",\"optimizedCheckout-contentPrimary-color\":\"#000000\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Montserrat_400\",\"storeName-color\":\"#333333\",\"optimizedCheckout-backgroundImage\":\"\",\"form-label-font-color\":\"#333333\",\"enable_custom_fonts\":false,\"shop_by_brand_show_footer\":false,\"eCaas_base_stage_url\":\"https://ecaas-services-stage.azure-api.net\",\"global_banner_icon_1\":\"\",\"show_accept_bancontact\":false,\"color-greyLightest\":\"#e5e5e5\",\"optimizedCheckout-header-backgroundColor\":\"#ffffff\",\"optimizedCheckout-buttonSecondary-backgroundColorActive\":\"#ffffff\",\"color-textLink\":\"#1440E1\",\"enable_animations\":true,\"color-greyLighter\":\"#dadada\",\"create_user_account\":\"Create an account\",\"show_accept_paysafe\":false,\"show_powered_by_skrill\":false,\"productpage_related_products_count\":2,\"color-secondaryDark\":\"#e5e5e5\",\"fontSize-h6\":16,\"paymentbuttons-paypal-fundingicons\":false,\"carousel-arrow-color\":\"#ffffff\",\"sale_tag_text_color\":\"#ffffff\",\"productpage_similar_by_views_count\":0,\"footer-buttonTextColorHover\":\"#ffffff\",\"enable_simple_footer\":false,\"simple-footer-newsletter-backgroundColor\":\"#ffffff\",\"loadingOverlay-backgroundColor\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"show_newsletter_popup\":false,\"newsletter_popup_intro\":\"\",\"footer-iconColor\":\"#333333\",\"input-bg-color\":\"#ffffff\",\"navPages-subMenu-separatorColor\":\"#666666\",\"navPages-color-hover\":\"#757575\",\"show_accept_hipercard\":false,\"color-infoLight\":\"#fffdea\",\"product_sale_badges\":\"none\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"navUser-dropdown-borderColor\":\"#666666\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#ffffff\",\"hide_product_count_on_category\":false,\"enable_embedded_twitter_feed\":false,\"optimizedCheckout-formChecklist-borderColor\":\"#dadada\",\"fontSize-h1\":28,\"homepage_featured_products_count\":0,\"breadcrumbs_on_mobile\":\"show\",\"color-greyMedium\":\"#757575\",\"color-greyLight\":\"#999999\",\"optimizedCheckout-logo\":\"\",\"gradient_finish\":\"#5961f9\",\"footer-headingColor\":\"#333333\",\"icon-ratingEmpty\":\"#c6d8aa\",\"show_product_details_tabs\":false,\"icon-color\":\"#333333\",\"store_hash_prod\":\"fuc2jccsxu\",\"enable_infinite_scrolling\":false,\"overlay-backgroundColor\":\"#333333\",\"input-border-color-active\":\"#028845\",\"container-fill-dark\":\"#e5e5e5\",\"add_to_cart_mode\":\"dropdown\",\"button--primary-color\":\"#FFFFFF\",\"footer-linkColorActive\":\"#333333\",\"footer-buttonTextColorActive\":\"#ffffff\",\"color-successLight\":\"#d5ffd8\",\"enable_gradients\":false,\"show_accept_google_pay\":false,\"conversion_optimization_mode\":true,\"show_powered_by_stripe\":false,\"optimizedCheckout-buttonPrimary-backgroundColorDisabled\":\"#dadada\",\"show_blog_card_author\":true,\"optimizedCheckout-buttonPrimary-borderColorHover\":\"#D9E021\",\"instagram_access_token\":\"\",\"color-greyDarker\":\"#333333\",\"show_product_quantity_box\":true,\"color-success\":\"#008a06\",\"size_label\":\"Size\",\"zoom_size\":\"1280x1280\",\"color-white\":\"#ffffff\",\"productview_thumb_size\":\"50x50\",\"fontSize-h3\":22,\"spinner-borderColor-light\":\"#ffffff\",\"geotrust_ssl_common_name\":\"\",\"global_banner_message_1\":\"Only Sold Here. Free Shipping on Forever Roll!\",\"optimizedCheckout-header-borderColor\":\"#dddddd\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#ffffff\",\"navPages-subMenu-color\":\"#333333\",\"show_swatches_on_grid\":true,\"carousel-dot-color-active\":\"#a0be71\",\"global_banner_link_3\":\"\",\"input-border-color\":\"#666666\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#306303\",\"color-secondary\":\"#ffffff\",\"instagram_columns_count\":4,\"featured_category_name\":\"Featured Categories\",\"carousel-bgColor\":\"#ffffff\",\"global_banner_foregroundColor\":\"#FFFFFF\",\"button--primary-backgroundColorActive\":\"#006838\",\"color-textSecondary--hover\":\"#028845\",\"footer-buttonColorHover\":\"#90ab65\",\"footer-linkColor\":\"#333333\",\"simple-footer-keylineColor\":\"#666666\",\"show_accept_amazon_pay\":false,\"color-whitesBase\":\"#dadada\",\"body-bg\":\"#ffffff\",\"shop_by_brand_show_navigation\":false,\"optimizedCheckout-contentSecondary-font\":\"Google_Montserrat_400\",\"navUser-dropdown-backgroundColor\":\"#FFFFFF\",\"color-primary\":\"#333333\",\"show_availability_on_grid\":false,\"developer_store_css\":true,\"dropdown--quickSearch-backgroundColor\":\"#e5e5e5\",\"optimizedCheckout-contentPrimary-font\":\"Google_Montserrat_400\",\"homepage_top_products_column_count\":4,\"enable_sticky_navigation\":true,\"footer-buttonColor\":\"#a0be71\",\"supported_card_type_icons\":[\"american_express\",\"diners\",\"discover\",\"mastercard\",\"visa\"],\"navigation_design\":\"simple\",\"optimizedCheckout-formField-textColor\":\"#000000\",\"color-black\":\"#000000\",\"optimizedCheckout-buttonSecondary-colorHover\":\"#90ab65\",\"show_accept_klarna\":false,\"show_sale_tags\":false,\"button--primary-colorActive\":\"#ffffff\",\"percentage_saving_text_color\":\"#ffffff\",\"homepage_stretch_carousel_images\":false,\"optimizedCheckout-contentSecondary-color\":\"#757575\",\"navPages-subMenu-color-hover\":\"#373737\",\"card-title-color-hover\":\"#373737\",\"applePay-button\":\"black\",\"thumb_size\":\"100x100\",\"navUser-indicator-backgroundColor\":\"#AD0000\",\"secondary-font\":\"Google_Work+Sans_500\",\"newsletter_popup_text_color\":\"#000000\",\"show_custom_fields_on_grid\":false,\"optimizedCheckout-header-textColor\":\"#000000\",\"show_accept_cb\":false,\"optimizedCheckout-show-backgroundImage\":false,\"color-primaryLight\":\"#999999\",\"show_powered_by_sage\":false,\"optimizedCheckout-buttonPrimary-borderColor\":\"#D9E021\",\"show_accept_unionpay\":false,\"optimizedCheckout-buttonSecondary-borderColorActive\":\"#b3cb8d\",\"show_upc_on_product\":false,\"show_accept_visa\":true,\"carousel-dot-bgColor\":\"#c6d8aa\",\"optimizedCheckout-form-textColor\":\"#000000\",\"home_top_products_carousel\":true,\"logo-position\":\"left\",\"enclose_category_menu\":false,\"hide_logo_on_sticky_navigation\":false,\"homepage_blog_posts_column_count\":4,\"optimizedCheckout-buttonSecondary-color\":\"#90ab65\",\"show_global_banner\":false,\"geotrust_ssl_seal_size\":\"M\",\"button--icon-svg-color\":\"#028845\",\"gradient_start\":\"#ee9ae5\",\"alert-color-alt\":\"#ffffff\",\"hide_featured_category_title\":true,\"developer_checkout_css\":true,\"elfsight_instagram_app_code\":\"\",\"button--default-colorHover\":\"#4496F6\",\"checkRadio-backgroundColor\":\"#ffffff\",\"navPages-sticky-color\":\"#333333\",\"show_accept_apple_pay\":false,\"show_payment_methods\":true,\"input-disabled-bg\":\"#e5e5e5\",\"footer-textColor\":\"#333333\",\"enclosed_category_menu_name\":\"Shop Online\",\"show_accept_vbv\":false,\"alternative_card_panel_bg\":\"#e2e2e2\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#306303\",\"dropdown--wishList-backgroundColor\":\"#e5e5e5\",\"container-border-global-color-base\":\"#666666\",\"button--primary-colorHover\":\"#ffffff\",\"color-error\":\"#cc4749\",\"homepage_blog_posts_count\":4,\"enable_image_hover_switcher\":false,\"color-textSecondary\":\"#333333\",\"mobile_navigation_link_color\":\"#333333\",\"gallery_size\":\"300x300\",\"show_product_description_below\":false,\"productthumb_size\":\"100x100\"},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":[],\"urls\":{\"home\":\"https://shop.bountytowels.com/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\"},\"brands\":\"https://shop.bountytowels.com/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":[]},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}},\"secureBaseUrl\":\"https://shop.bountytowels.com\",\"template\":\"pages/home\",\"enableAnimations\":true,\"authorization\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOjEsImNvcnMiOlsiaHR0cHM6Ly9zaG9wLmJvdW50eXRvd2Vscy5jb20iXSwiZWF0IjoxNzEwMTU0MTk1LCJpYXQiOjE3MDk5ODEzOTUsImlzcyI6IkJDIiwic2lkIjo5OTk2NDQ5NjksInN1YiI6IkJDIiwic3ViX3R5cGUiOjAsInRva2VuX3R5cGUiOjF9.d4ozZz93dH_CRmpXeYsrCnPhvFY1Sd3WM_PFzLpPdb9_8qvOAAhh4lKiN86OnvdsFQ5df8FCzFNPyiR8hjnyZw\"}").load();
+        </script>
+
+        <script type="text/javascript" src="https://cdn11.bigcommerce.com/shared/js/csrf-protection-header-95f3d9ac8c049e3ed132c83a168cf1d6a8ed0237.js"></script>
+<script type="text/javascript" src="https://cdn11.bigcommerce.com/r-085bab36838b625dfbf920ac42a6ca73b864802f/javascript/visitor_stencil.js"></script>
+<script>
+    //$("a:contains('Paper Towels')").hide();
+    $("a.navPages-action:contains('ALL PRODUCTS')").hide();
+    if((location.pathname=="/bounty-forever-roll/")||(location.pathname=="/bounty-forever-roll-2-roll-refill/")||(location.pathname=="/bounty-forever-roll-4-roll-refill/")||(location.pathname=="/bounty-forever-roll-starter-kit-2-roll/")||(location.pathname=="/bounty-forever-roll-roll-holder/")||(location.pathname=="/forever-roll/forever-roll-starter-kits/")||(location.pathname=="/forever-roll/forever-roll-refills/")||(location.pathname=="/forever-roll/forever-roll-holders/")||(location.pathname=="/all-products/")){
+        $("a.navPages-action:contains('Swipes')").hide();
+    };
+    if((location.pathname=="/hand-towels/")||(location.pathname=="/bounty-hand-towel/")){
+        $("a.navUser-action").hide();
+    };
+</script><script>
+    /*
+function addressSet(){
+fetch('/api/storefront/checkouts/', {credentials: 'include'})
+.then(res => res.json())
+.then(data => localStorage.setItem("shippingAddress2", (JSON.stringify(data.consignments[0].shippingAddress))));
+}
+wwPage = window.location.href;
+restrictState = ['AK','VI','GU','AS','PR','MH','MP','FM','PW','HI'];
+restrictState2 = ['AK','VI','GU','AS','PR','MH','MP','FM','PW','HI'];
+restrictState3 = ['ALASKA','VIRGIN ISLANDS','GUAM','AMERICAN SOMOA','PUERTO RICO','MARSHALL ISLANDS','NORTHERN MARIANA ISLANDS','FEDERATED STATES OF MICRONESIA','PALAU','HAWAII'];
+var limitCountries = false,
+limitCountriesBilling = false,
+setDefaultCountry = false,
+bothBillingShipping = false,
+hideUseSuggestions = true,
+numberOfChars = 35,
+autocompleteName = false,
+cityStateLimited = false, 
+detectForeignCharacters = true,
+cssTweak = true,
+showAutocompleteFooter = !1, 
+autocompleteAddressInt = !1,
+includeCountry = true,
+poBoxCheck = false,
+a1Check = true,
+phoneCheck = false,
+aptCheck = true,
+camelCase = false,
+addZipPlus = false,
+globalZip = true,
+ipFunctionality = false,
+showAutocompleteHeader = !1, 
+geoInitialComplete = !1,
+customFields = false,
+strictA1 = true,
+strictZip = true,
+validateAddressLine2 = true,
+countryWillBeSet = 'united states',
+countriesShipping = 'United States|Canada|Select a country',	
+countriesBilling = 'United States|Canada|Select a country',
+zipDoubleCheck = false,
+restrictStateEnabled = false,
+phoneCheckAdded = false
+postEntryCheck = false;
+function loadaddrexx() {
+	var _cc_url = "xxredda.s3.amazonaws.com/bcinstall/xxerdda2021.js";
+	var _cc_s = document.createElement('script');
+	_cc_s.type = 'text/javascript';
+	_cc_s.src = (("http:" === document.location.protocol) ? "http:" : "https:") + "//" + _cc_url;
+	document.getElementsByTagName("head")[0].appendChild(_cc_s);
+}
+if ((wwPage.indexOf("billing_address") >= 0 || wwPage.indexOf("create_account") >= 0 || wwPage.indexOf("shipping_address") >= 0 || wwPage.indexOf("checkout") >= 0) && wwPage.indexOf("confirmation") == -1 ){
+if(wwPage.indexOf("create_account") >= 0){
+	setTimeout(function() {
+		loadaddrexx();
+	}, 2000);
+} else {
+		loadaddrexx();
+}
+}
+*/
+
+function addressSet(){
+fetch('/api/storefront/checkouts/', {credentials: 'include'})
+.then(res => res.json())
+.then(data => localStorage.setItem("shippingAddress2", (JSON.stringify(data.consignments[0].shippingAddress))));
+};
+var btra = '1';
+brtra1 = '2';
+wwPage = window.location.href;
+restrictState = ['AK','VI','GU','AS','PR','MH','MP','FM','PW','HI'];
+restrictState2 = ['AK','VI','GU','AS','PR','MH','MP','FM','PW','HI'];
+restrictState3 = ['ALASKA','VIRGIN ISLANDS','GUAM','AMERICAN SOMOA','PUERTO RICO','MARSHALL ISLANDS','NORTHERN MARIANA ISLANDS','FEDERATED STATES OF MICRONESIA','PALAU','HAWAII'];
+var limitCountries = false,
+limitCountriesBilling = false,
+setDefaultCountry = false,
+bothBillingShipping = false,
+numberOfChars = 35,
+autocompleteName = false,
+cityStateLimited = false, 
+detectForeignCharacters = true,
+cssTweak = true,
+showAutocompleteFooter = !1, 
+autocompleteAddressInt = !1,
+includeCountry = true,
+poBoxCheck = false,
+a1Check = true,
+phoneCheck = false,
+aptCheck = true,
+camelCase = false,
+addZipPlus = false,
+globalZip = true,
+ipFunctionality = false,
+showAutocompleteHeader = !1, 
+geoInitialComplete = !1,
+customFields = false,
+strictA1 = true,
+strictZip = true,
+validateAddressLine2 = true,
+countryWillBeSet = 'united states',
+countriesShipping = 'United States|Canada|Select a country',	
+countriesBilling = 'United States|Canada|Select a country',
+zipDoubleCheck = false,
+restrictStateEnabled = false,
+phoneCheckAdded = false
+postEntryCheck = false;
+function loadaddrexx() {
+	var _cc_url = "xxredda.s3.amazonaws.com/bcinstall/xxerdda2021Dev.js";
+	var _cc_s = document.createElement('script');
+	_cc_s.type = 'text/javascript';
+	_cc_s.src = (("http:" === document.location.protocol) ? "http:" : "https:") + "//" + _cc_url;
+	document.getElementsByTagName("head")[0].appendChild(_cc_s);
+}
+if ((wwPage.indexOf("billing_address") >= 0 || wwPage.indexOf("create_account") >= 0 || wwPage.indexOf("shipping_address") >= 0 || wwPage.indexOf("checkout") >= 0) && wwPage.indexOf("confirmation") == -1 ){
+if(wwPage.indexOf("create_account") >= 0){
+	setTimeout(function() {
+		loadaddrexx();
+	}, 2000);
+} else {
+		loadaddrexx();
+}
+}
+</script><script>
+	var wait = setTimeout(changeVisible, 1000);
+    function changeVisible() {
+        var menuTag = document.getElementById('menu');
+        if(menuTag){
+            menuTag.removeAttribute('aria-hidden');
+            menuTag.removeAttribute('tabindex');
+        } else {
+        }
+    }
+</script>
+<script>
+    function cartCheck() {
+       var cartDialog = document.getElementById('cart-preview-dropdown');
+        if (window.getComputedStyle(cartDialog).display !== "none"){
+           var addToCartWin = document.getElementById('cartdialog');
+           addToCartWin.focus();
+            setTimeout(cartCheck, 4000);
+        } else{
+            setTimeout(cartCheck, 500);
+        };
+    }
+    cartCheck();
+</script>
+        <!-- snippet location footer -->
+    </body>
+</html>

@@ -1,0 +1,19 @@
+200 OK
+Content-Type: text/html
+Date: Sun, 10 Mar 2024 02:19:22 GMT
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Accept-Ranges: bytes
+Referrer-Policy: strict-origin-when-cross-origin
+Server: ECAcc (sac/2533)
+Vary: Accept-Encoding
+X-Xss-Protection: 1;mode=block
+Retry-Count: 0
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Content-Security-Policy: upgrade-insecure-requests  ; style-src 'self' 'unsafe-inline' *.pricespider.com *.mapbox.com feed.pghub.io pandg.tapad.com ; media-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: *.cookielaw.org *.facebook.net *.pricespider.com *.segment.com pghub.io *.doubleclick.net *.crazyegg.com *.zeotap.com *.adsrvr.org *.mapbox.com cdnjs.cloudflare.com *.googleapis.com *.googletagmanager.com *.google-analytics.com feed.pghub.io pandg.tapad.com ; font-src 'self' data: cdn.pricespider.com feed.pghub.io pandg.tapad.com ; frame-ancestors 'none' feed.pghub.io pandg.tapad.com ; frame-src 'self' *.pghub.io *.adsrvr.org *.facebook.com *.tapad.com *.doubleclick.net *.pg.com ; img-src 'self' data: images.ctfassets.net *.tapad.com *.google-analytics.com *.google.com *.google.cz *.facebook.com *.cookielaw.org *.googleapis.com *.pricespider.com *.googletagmanager.com feed.pghub.io ; connect-src 'self' *.cookielaw.org *.adsrvr.org *.segment.io *.segment.com *.crazyegg.com *.zeotap.com *.facebook.com *.doubleclick.net *.mapbox.com *.pricespider.com www.googletagmanager.com *.googleapis.com *.google-analytics.com *.googlesyndication.com *.algolia.net feed.pghub.io pandg.tapad.com ; base-uri 'none' feed.pghub.io pandg.tapad.com ; default-src 'none' feed.pghub.io pandg.tapad.com ;
+Etag: "0e318388470da1:0"
+Last-Modified: Thu, 07 Mar 2024 11:40:14 GMT
+Strict-Transport-Security: max-age=15724800; includeSubdomains
+X-Cache: HIT
+Age: 191350
+Cache-Control: max-age=31536000

@@ -1,0 +1,14 @@
+200 OK
+Set-Cookie: ubvs=b5a079d8-7f76-406e-a8b3-2791ee6b39b3; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7Cb5a079d8-7f76-406e-a8b3-2791ee6b39b3%7Cd0161d83-f7b1-43fa-88f1-34c63eb13e23%3Ap%3Asingle; Max-Age=259200; Domain=herbalessencesla.com; Path=/; SameSite=Lax ubpv=p%2Cd0161d83-f7b1-43fa-88f1-34c63eb13e23; Max-Age=15897600; Path=/ingrediente_coconut/; SameSite=Lax
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:25:21 GMT
+Content-Type: text/html; charset=utf-8
+Content-Location: https://biorenew.herbalessencesla.com/ingrediente_coconut/
+X-Unbounce-Pageid: d0161d83-f7b1-43fa-88f1-34c63eb13e23
+X-Unbounce-Variant: p
+Etag: "p:b5a079d87f76406ea8b32791ee6b39b3"
+X-Unbounce-Visitorid: b5a079d8-7f76-406e-a8b3-2791ee6b39b3
+Cf-Ray: 861fda8d9c9b5c1f-SJC
+Link: <https://biorenew.herbalessencesla.com/ingrediente_coconut/>; rel="canonical"

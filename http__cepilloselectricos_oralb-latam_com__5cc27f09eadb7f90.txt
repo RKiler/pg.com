@@ -1,0 +1,14 @@
+200 OK
+X-Unbounce-Pageid: 6100d285-df2f-4638-9f1e-a6420ce14e51
+Server: cloudflare
+X-Unbounce-Variant: a
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:27:51 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: ubvs=2d317802-9a13-4e68-949d-974ec0b0de23; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C2d317802-9a13-4e68-949d-974ec0b0de23%7C6100d285-df2f-4638-9f1e-a6420ce14e51%3Aa%3Asingle; Max-Age=259200; Domain=oralb-latam.com; Path=/; SameSite=Lax ubpv=a%2C6100d285-df2f-4638-9f1e-a6420ce14e51; Max-Age=15897600; Path=/portafolio_chile_salcobrand/; SameSite=Lax
+Content-Location: https://cepilloselectricos.oralb-latam.com/portafolio_chile_salcobrand/
+Etag: "a:2d3178029a134e68949d974ec0b0de23"
+X-Unbounce-Visitorid: 2d317802-9a13-4e68-949d-974ec0b0de23
+Cf-Cache-Status: DYNAMIC
+Link: <https://cepilloselectricos.oralb-latam.com/portafolio_chile_salcobrand/>; rel="canonical"
+Cf-Ray: 861fde325d999464-SJC

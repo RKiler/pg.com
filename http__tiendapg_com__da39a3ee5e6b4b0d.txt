@@ -1,0 +1,22 @@
+200 OK
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: 45f66d882d9ea99f72bd440de1c90eb0
+Content-Security-Policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' http: https:; img-src * data:; style-src * 'unsafe-inline'; object-src 'none'; worker-src * blob: data:
+Alt-Svc: h3=":443"; ma=86400
+Date: Sun, 10 Mar 2024 02:19:35 GMT
+Set-Cookie: fornax_anonymousId=15097c5c-a69c-41bb-a696-ca9c5532cdf7; Expires=Tue, 10 Mar 2026 02:19:35 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=fe07bfe2-dc28-49a2-95a3-ae501241b7c2:1710037175; Expires=Sun, 10 Mar 2024 02:49:35 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=74CD0D506E0F81CA5AAD980E44858738AF23AF59-1710641975909-x%7B%22cur%22%3A%22COP%22%7D; Expires=Sun, 17 Mar 2024 02:19:35 GMT; Path=/; HttpOnly XSRF-TOKEN=a64c9db0e1b4571a6e44fe98d8bdf3e25749ab7a00e1d3b2bba76acdb44badec; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=23cecd82-eeb3-4bf1-9ccb-0904d403147d; Expires=Sun, 17 Mar 2024 02:19:35 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Pragma: no-cache
+Bc-Ray: 1
+Server: cloudflare
+Link: <https://cdn11.bigcommerce.com/s-putijhq5fu>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/css?family=Yantramanav:300,400,500,700%7CSource+Serif+Pro:600,400,700,500,300%7CJosefin+Sans:400,300,500,700,600%7CMontserrat:700%7CDM+Serif+Display:400%7CAbril+Fatface:400&display=swap>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-putijhq5fu/stencil/54dde5b0-6235-013c-d904-1e351524a519/e/8e40b080-7fe5-013c-d766-0a3eede8020b/css/theme-2409e6c0-6a28-013c-2fc5-2aee00577d63.css>; rel=preload; as=style
+Cf-Cache-Status: DYNAMIC
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Cf-Ray: 861fd217bbb324ee-SJC
+Cache-Control: no-store, no-cache, must-revalidate
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=I%2B%2Fceu%2FzQT2jcL6cnepwbVIB0naeLbxmW1GOuN7iAbzWDBKnklyw%2Bf%2B%2F6DABmWbsPMCprkDEkryh%2FIa0atyfmgD5ugYMpOmI08A5tR3TTgfmEqvReQuEgnklbmJOEw%3D%3D"}],"group":"cf-nel","max_age":604800}

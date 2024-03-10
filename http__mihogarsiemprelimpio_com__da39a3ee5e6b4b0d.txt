@@ -1,0 +1,15 @@
+200 OK
+Date: Sun, 10 Mar 2024 02:26:31 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=mihogarsiemprelimpio.com ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=mihogarsiemprelimpio.com
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.cloudflare.com https://js-cdn.dynatrace.com https://www.youtube.com https://wtbng.pricespider.com https://wtbstream.pricespider.com https://embeddedcloud.pricespider.com https://omni.pricespider.com https://locate.pricespider.com https://api.tiles.mapbox.com https://wtbevents.pricespider.com https://cdn.pricespider.com https://z.moatads.com rpxnow.com cdn.segment.com *.janraincapture.com *.doubleclick.net *.googleadservices.com s.pinimg.com *.cloudfront.net pghub.io cdn.cookielaw.org *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' https://cdn.pricespider.com https://api.tiles.mapbox.com quilt-cdn.janrain.com *.bazaarvoice.com fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' https://adservice.google.com https://cdn.pricespider.com https://wwwassets.pricespider.com https://embeddedcloud.pricespider.com https://40n23zgkic3y-a.akamaihd.net https://px.moatads.com https://www.google.com i.ytimg.com pixel.tapad.com *.doubleclick.net ct.pinterest.com *.cloudfront.net videos.ctfassets.net images.ctfassets.net *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' fonts.gstatic.com data: feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' https://videos.ctfassets.net https://pandg.tapad.com https://www.youtube.com feed.pghub.io *.adsrvr.org *.doubleclick.net *.jebbit.com *.bazaarvoice.com *.janraincapture.com consumersupport.pg.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com pandg.tapad.com ; manifest-src * ;
+Retry-Count: 0
+Last-Modified: Fri, 01 Mar 2024 10:12:52 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Xss-Protection: 1;mode=block
+Accept-Ranges: bytes
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Content-Type: text/html
+Etag: "0aa245c16bda1:0"

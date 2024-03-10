@@ -1,0 +1,18 @@
+200 OK
+Content-Security-Policy: script-src 'self' 'unsafe-eval' 'unsafe-inline' https://sso.enviedeplus.be https://sso.zininmeer.be https://sso.proximaati.com https://sso.enviedeplus.com https://sso.desiderimagazine.it https://sso.lekkerinhetleven.nl https://sso.supersavvyme.co.uk https://procter-gamble.eu.janrainsso.com https://d1v9u0bgi1uimx.cloudfront.net https://tagmanager.google.com https://www.googletagmanager.com https://www.google-analytics.com https://c.betrad.com https://c.evidon.com https://pge.segmanta.com https://stats.trndsphere.com https://www.youtube.com https://s.ytimg.com https://d22xmn10vbouk4.cloudfront.net https://dnn506yrbagrg.cloudfront.net https://*.adoric-om.com https://s3.amazonaws.com/adoric-static/ https://js.agkn.com https://secure-ds.serving-sys.com/SemiCachedScripts/ https://bs.serving-sys.com/Serving https://connect.facebook.net https://www.instagram.com https://cdn.cookielaw.org https://geolocation.onetrust.com https://apps.storystream.ai https://code.jquery.com https://optanon.blob.core.windows.net; style-src 'self' 'unsafe-inline' http://d7c4jjeuqag9w.cloudfront.net https://tagmanager.google.com https://fonts.googleapis.com https://fast.fonts.net https://s3.amazonaws.com/adoric-static/ https://cdn.cookielaw.org;
+Via: 1.1 f1f1587942b30c5e9c37a190f21c30ba.cloudfront.net (CloudFront)
+Content-Type: text/html; charset=UTF-8
+Expires: Sun, 10 Mar 2024 02:21:29 GMT
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Amz-Cf-Pop: SFO53-P1
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:21:29 GMT
+Set-Cookie: AWSALB=j8AzSZ/sOuv/FYkR9L1/7fvL5F2+kzGzMquAVXRf1HZ7/nV/mJ/oh4S8uqU/lmYY347rvYdmP6xB2FbMJD1jI7F3B9d4WaukebohF75+gOzhGw/pDSpfBbODQpTA; Expires=Sun, 17 Mar 2024 02:21:28 GMT; Path=/ AWSALBCORS=j8AzSZ/sOuv/FYkR9L1/7fvL5F2+kzGzMquAVXRf1HZ7/nV/mJ/oh4S8uqU/lmYY347rvYdmP6xB2FbMJD1jI7F3B9d4WaukebohF75+gOzhGw/pDSpfBbODQpTA; Expires=Sun, 17 Mar 2024 02:21:28 GMT; Path=/; SameSite=None; Secure
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Amz-Cf-Id: M97nlWdGVIEl_EikU1Sv2oWceHsHGKo4eZ9jH_GJJfziv0HPm8PdXw==
+Cache-Control: no-cache, no-store
+X-Cache: Miss from cloudfront

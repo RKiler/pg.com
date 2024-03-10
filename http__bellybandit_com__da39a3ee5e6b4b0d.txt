@@ -1,0 +1,32 @@
+200 OK
+X-Frame-Options: DENY
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Link: <https://cdn.shopify.com>; rel="preconnect", <https://cdn.shopify.com>; rel="preconnect"; crossorigin
+X-Sorting-Hat-Shopid: 16080129
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=86400
+Content-Language: en
+Server-Timing: processing;dur=23, db;dur=10, asn;desc="14061", edge;desc="SJC", country;desc="US", theme;desc="134742737090", pageType;desc="index", servedBy;desc="2q2j", requestID;desc="c5fa52c1-f520-43e4-bdf1-791b5e4872e9-1710037625" cfRequestDuration;dur=100.999832
+X-Download-Options: noopen
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ksiAztsJxQRqE0d6tEmDa7xTDszeM1MWZI4tDPZqYVs41Kq9Vi6zCLmRc%2FAAX3ArAJtgxfxEOv7a%2FdjrAhjMujWFG73Ox51L3KpR1e4SC5YiMgN6stL1OJjXqAJlKwmvMg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Date: Sun, 10 Mar 2024 02:27:05 GMT
+X-Cache: hit, server
+Strict-Transport-Security: max-age=7889238
+X-Shopify-Stage: production
+X-Xss-Protection: 1; mode=block
+Set-Cookie: secure_customer_sig=; path=/; expires=Mon, 10 Mar 2025 02:27:05 GMT; secure; HttpOnly; SameSite=Lax localization=US; path=/; expires=Mon, 10 Mar 2025 02:27:05 GMT cart_currency=USD; path=/; expires=Sun, 24 Mar 2024 02:27:05 GMT _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D; domain=bellybandit.com; path=/; expires=Mon, 11 Mar 2024 02:27:05 GMT; SameSite=Lax _tracking_consent=%7B%22region%22%3A%22USCA%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%2C%22m%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22reg%22%3A%22CCPA%22%7D; Expires=Mon, 10-Mar-25 02:27:05 GMT; Domain=bellybandit.com; Path=/; SameSite=Lax _shopify_y=bf9044f2-8b85-4e8d-a343-9a86af08fbee; Expires=Mon, 10-Mar-25 02:27:05 GMT; Domain=bellybandit.com; Path=/; SameSite=Lax _shopify_s=8e1b5ff1-2932-487d-983e-4b33075c40e5; Expires=Sun, 10-Mar-24 02:57:05 GMT; Domain=bellybandit.com; Path=/; SameSite=Lax _orig_referrer=http%3A%2F%2Fbellybandit.com; Expires=Sun, 24-Mar-24 02:27:05 GMT; Domain=bellybandit.com; Path=/; HttpOnly; SameSite=Lax _landing_page=%2F; Expires=Sun, 24-Mar-24 02:27:05 GMT; Domain=bellybandit.com; Path=/; HttpOnly; SameSite=Lax
+X-Storefront-Renderer-Rendered: 1
+Etag: "cacheable:5e56dd5bd0de084fba40bb51d7f5e5ef"
+X-Shopid: 16080129
+Powered-By: Shopify
+X-Permitted-Cross-Domain-Policies: none
+Retry-Count: 0
+X-Sorting-Hat-Podid: 193
+X-Shardid: 193
+X-Request-Id: c5fa52c1-f520-43e4-bdf1-791b5e4872e9-1710037625
+Cf-Ray: 861fdd183b48642e-SJC
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'none'; upgrade-insecure-requests;
+X-Dc: gcp-us-west2,gcp-us-central1,gcp-us-central1
+Content-Type: text/html; charset=utf-8

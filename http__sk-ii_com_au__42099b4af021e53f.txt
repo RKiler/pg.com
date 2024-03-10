@@ -1,0 +1,14 @@
+200 OK
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cache-Control: no-cache, no-store,must-revalidate
+Retry-Count: 0
+Accept-Ranges: bytes
+Set-Cookie: ARRAffinity=33f3ca51b54c877ea1260644cd07f20078b4adf1e8620d07188244cb6da2f26f;Path=/;HttpOnly;Secure;Domain=www.sk-ii.com.au ARRAffinitySameSite=33f3ca51b54c877ea1260644cd07f20078b4adf1e8620d07188244cb6da2f26f;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.sk-ii.com.au
+Date: Sun, 10 Mar 2024 02:22:13 GMT
+Etag: "0d8ae74e66eda1:0"
+Last-Modified: Tue, 05 Mar 2024 10:18:24 GMT
+Content-Type: text/html
+Strict-Transport-Security: max-age=8995000; includeSubdomains
+X-Xss-Protection: 1;mode=block

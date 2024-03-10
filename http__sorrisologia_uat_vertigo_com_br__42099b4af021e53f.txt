@@ -1,0 +1,14 @@
+200 OK
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Retry-Count: 0
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Pragma: no-cache
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Date: Sun, 10 Mar 2024 02:17:02 GMT
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=4C168077F837D78D116EDA29D8177866; Path=/; Secure; HttpOnly COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Mon, 10 Mar 2025 02:17:02 GMT; Path=/; Secure; HttpOnly GUEST_LANGUAGE_ID=pt_BR; Max-Age=31536000; Expires=Mon, 10 Mar 2025 02:17:02 GMT; Path=/; Secure; HttpOnly SERVER_ID=03944c10edc28e1e; path=/; HttpOnly; Secure
+Cache-Control: private, no-cache, no-store, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Via: 1.1 google

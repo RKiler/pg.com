@@ -1,0 +1,17 @@
+200 OK
+Content-Type: text/html
+Accept-Ranges: bytes
+Etag: "0d461326970da1:0"
+Set-Cookie: ARRAffinity=d72333b0aafa520ce46b00bba3180554765c2a73662caf9d0bc9235aa10907a3;Path=/;HttpOnly;Secure;Domain=www.rejoice.my ARRAffinitySameSite=d72333b0aafa520ce46b00bba3180554765c2a73662caf9d0bc9235aa10907a3;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.rejoice.my
+Cache-Control: public, max-age=0, must-revalidate
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref-Originshield: 0IxntZQAAAACqGe4+DT+6Ra1Atk0pyfKdU0pDMjExMDUxMjA4MDIzADRkYjE0NzU0LWNjMTQtNDYyMS04M2RkLTcwNGVjN2U1YTg1MA==
+X-Azure-Ref: 0IxntZQAAAAA+vq8FnOJvR7+h5KbydmZ9U0pDMjExMDUxMjAxMDM3ADRkYjE0NzU0LWNjMTQtNDYyMS04M2RkLTcwNGVjN2U1YTg1MA==
+Vary: Accept-Encoding
+Last-Modified: Thu, 07 Mar 2024 08:26:48 GMT
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:21:24 GMT
+X-Cache: TCP_MISS
+Strict-Transport-Security: max-age=31536000; includeSubdomains

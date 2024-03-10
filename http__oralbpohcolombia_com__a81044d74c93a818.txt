@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+X-Unbounce-Pageid: ec6b5be7-d486-4c50-8123-8af1e13399a5
+X-Unbounce-Visitorid: 171c24c9-6618-4589-9560-cc0e658c1517
+Set-Cookie: ubvs=171c24c9-6618-4589-9560-cc0e658c1517; Max-Age=15552000; Path=/; SameSite=Lax ubvt=v2%7C171c24c9-6618-4589-9560-cc0e658c1517%7Cec6b5be7-d486-4c50-8123-8af1e13399a5%3Aa%3Asingle; Max-Age=259200; Domain=oralbpohcolombia.com; Path=/; SameSite=Lax ubpv=a%2Cec6b5be7-d486-4c50-8123-8af1e13399a5; Max-Age=15897600; Path=/autorizacion-tratamiento-datos-personales/; SameSite=Lax
+Etag: "a:171c24c9661845899560cc0e658c1517"
+X-Unbounce-Variant: a
+Server: cloudflare
+Date: Sun, 10 Mar 2024 02:26:51 GMT
+Content-Location: https://www.oralbpohcolombia.com/autorizacion-tratamiento-datos-personales/
+Retry-Count: 0
+Cf-Cache-Status: DYNAMIC
+Link: <https://www.oralbpohcolombia.com/autorizacion-tratamiento-datos-personales/>; rel="canonical"
+Cf-Ray: 861fdcc16a411588-SJC

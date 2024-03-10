@@ -1,0 +1,22 @@
+200 OK
+Expires: -1
+X-Gfv-Ssr: 3475966|prd-api-formeonline.pgsitecore.com
+X-Azure-Ref: 20240310T022535Z-mb2nzfcd952hpah81kc3cp1ta800000009d0000000002avp
+X-Cache: PRIVATE_NOSTORE
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Set-Cookie: ASP.NET_SessionId=a525rv24jqtrq1hj4dcjlmyv; path=/; secure; HttpOnly; SameSite=Lax formeonline#lang=de-DE; path=/; secure SC_ANALYTICS_GLOBAL_COOKIE=023bb782b7964062ad3bb3093f7a59a7|False; expires=Wed, 08-Mar-2034 02:25:36 GMT; path=/; secure; HttpOnly
+Request-Context: appId=cid-v1:885099bf-b2a6-436c-a31e-2a27acf8b20f
+Date: Sun, 10 Mar 2024 02:25:36 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536001
+X-Gfv-Cd: 3475966|c1-eu-prd-01-cd3
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src https: data: blob: 'unsafe-inline' 'unsafe-eval'
+X-Fd-Int-Roxy-Purgeid: 64057407
+Etag: W/"5d31fb55-40be-4978-becd-96a89f738690-91434"
+Cache-Control: no-store, no-cache
+Vary: Accept-Encoding
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: accelerometer=(), camera=*, geolocation=*, gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()

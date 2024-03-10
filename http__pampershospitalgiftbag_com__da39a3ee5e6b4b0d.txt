@@ -1,0 +1,15 @@
+200 OK
+Cache-Control: no-cache, no-store
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+Feature-Policy: vibrate 'self'
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+Pragma: no-cache
+Set-Cookie: Admin-Key=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/ .AspNetCore.Antiforgery.9fXoN5jHCXs=CfDJ8HfiRBdbjFJLirgQrKmQWTK_jymcYxYat8QSQzpCB4kOnmV0rmQDruEoUnZ9y3oWduPrQfuSzwnmrni2XJH6_MM5yrMcmMFB5NWwkcdT-Ni_O5-zYko4dQROCf5f2enF63F0Rcf408qrBf2wb7_qEVs; path=/; secure; samesite=strict; httponly .AspNetCore.Mvc.CookieTempDataProvider=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/; samesite=lax; httponly ARRAffinity=36c1f67f56e94520a7fc2a8c64c64d24f3d68a98940e7f63578774151d0c83a8;Path=/;HttpOnly;Secure;Domain=pampershospitalportal.azurewebsites.net ARRAffinitySameSite=36c1f67f56e94520a7fc2a8c64c64d24f3d68a98940e7f63578774151d0c83a8;Path=/;HttpOnly;SameSite=None;Secure;Domain=pampershospitalportal.azurewebsites.net
+X-Content-Type-Options: nosniff
+X-Powered-By: ASP.NET
+Date: Sun, 10 Mar 2024 02:20:38 GMT
+X-Frame-Options: DENY
+Referrer-Policy: no-referrer-when-downgrade

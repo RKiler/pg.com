@@ -1,0 +1,18 @@
+200 OK
+Retry-Count: 0
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: default-src * data: gap: content: https://ssl.gstatic.com; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'
+Content-Type: text/html; charset=utf-8
+Server: 
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Content-Length: 10228
+Pragma: no-cache
+Set-Cookie: ASP.NET_SessionId=xvqayzlakb24dnyyzgh05vd3; path=/; secure; HttpOnly; SameSite=Lax ASP.NET_SessionId=xvqayzlakb24dnyyzgh05vd3; path=/; secure; HttpOnly; SameSite=Lax __AntiXsrfToken=4779d6e4d1f941939b4383e79d667874; path=/; secure; HttpOnly
+X-Content-Type-Options: 'nosniff
+Date: Sun, 10 Mar 2024 02:17:13 GMT
+Cache-Control: private,no-cache, no-store, must-revalidate, pre-check=0, post-check=0, max-age=0, s-maxage=0
+Expires: 0
+X-Xss-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none

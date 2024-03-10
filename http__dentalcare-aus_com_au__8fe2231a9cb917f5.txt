@@ -1,0 +1,20 @@
+200 OK
+Cache-Control: s-maxage=31536000, stale-while-revalidate
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: default-src *.ctfassets.net 'self'  blob:; style-src fonts.googleapis.com 'self' 'unsafe-inline'; img-src www.googletagmanager.com *.google-analytics.com images.ctfassets.net *.ctfassets.net pixel.tapad.com *.qualtrics.com *.cookielaw.org *.facebook.com 'self' data: ; media-src videos.ctfassets.net *.ctfassets.net 'self'; script-src nonce-611f3c5df70870d99c52f1da4d76fc9529e226565fe890b788f95127c577aa84c846f69ad2079dc56120e7d1f58009589c9a77b2ade9392f8358537ea4bb2100 *.youtube.com *.qualtrics.com *.moatads.com pghub.io *.siteintercept.qualtrics.com *.google.com *.gstatic.com *.googletagmanager.com *.google-analytics.com *.crazyegg.com *.simpli.fi *.adsrvr.org *.cookielaw.org *.facebook.net 'self' 'unsafe-inline' 'unsafe-eval'; connect-src * https: 'unsafe-inline'; font-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com; frame-src feed.pghub.io *.qualtrics.com *.tapad.com *.facebook.com *.google.com *.youtube.com *.youtube-nocookie.com https://dentalcare.corbusmediasolutions.com *.adsrvr.org 'self'; worker-src 'self' blob:; upgrade-insecure-requests;
+X-Nextjs-Cache: HIT
+Etag: "89y0t6ks7s27gr"
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: master-only
+Content-Length: 102994
+X-Cache: TCP_REMOTE_HIT
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref-Originshield: 0whntZQAAAAAJ1Iy4mMqfSpd+mWjX6JUPU0pDMjExMDUxMjA4MDM1ADAzMDI4M2I1LTg4MTctNDJiMS04MzhmLTY4YTM2MjJhYTc4ZA==
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+X-Powered-By: ASP.NET
+X-Azure-Ref: 0whntZQAAAABuYSWyaKRfS69enmnGfxrfU0pDMjExMDUxMjAyMDUxADAzMDI4M2I1LTg4MTctNDJiMS04MzhmLTY4YTM2MjJhYTc4ZA==
+Date: Sun, 10 Mar 2024 02:24:01 GMT

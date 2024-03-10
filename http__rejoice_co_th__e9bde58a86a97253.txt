@@ -1,0 +1,14 @@
+200 OK
+Accept-Ranges: bytes
+Etag: "0fcea789f6fda1:0"
+Last-Modified: Wed, 06 Mar 2024 08:22:48 GMT
+Set-Cookie: ARRAffinity=d72333b0aafa520ce46b00bba3180554765c2a73662caf9d0bc9235aa10907a3;Path=/;HttpOnly;Secure;Domain=rejoice.co.th ARRAffinitySameSite=d72333b0aafa520ce46b00bba3180554765c2a73662caf9d0bc9235aa10907a3;Path=/;HttpOnly;SameSite=None;Secure;Domain=rejoice.co.th
+X-Xss-Protection: 1;mode=block
+Date: Sun, 10 Mar 2024 02:19:19 GMT
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+Content-Type: text/html
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Frame-Options: DENY
+Cache-Control: public, max-age=0, must-revalidate

@@ -1,0 +1,18 @@
+200 OK
+X-Cache: TCP_MISS
+X-Content-Type-Options: nosniff
+Last-Modified: Wed, 06 Mar 2024 09:36:44 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Azure-Ref: 0zBjtZQAAAAAcJEGU/SCdQZghl9fIBVt0U0pDMjExMDUxMjAyMDA5AGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: text/html
+Accept-Ranges: bytes
+Date: Sun, 10 Mar 2024 02:19:57 GMT
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src * 'self' data: https: blob: ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+X-Azure-Ref-Originshield: 0zBjtZQAAAADkBIjkQbpuR5MGWcv/6CGFU0pDMjExMDUxMjA3MDE5AGQ3NjRkNzJjLWRlMDEtNDQ5YS1hNmI5LWEwMWE2MGVmMzEzMw==
+Retry-Count: 0
+Etag: "0defacca96fda1:0"
+Set-Cookie: ARRAffinity=d72333b0aafa520ce46b00bba3180554765c2a73662caf9d0bc9235aa10907a3;Path=/;HttpOnly;Secure;Domain=www.pantene.com.my ARRAffinitySameSite=d72333b0aafa520ce46b00bba3180554765c2a73662caf9d0bc9235aa10907a3;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.pantene.com.my
+X-Frame-Options: DENY

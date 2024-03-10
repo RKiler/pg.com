@@ -1,0 +1,10 @@
+404 Not Found
+Retry-Count: 0
+Etag: "dy7htpukjz1y5"
+Set-Cookie: ARRAffinity=31456cbc9ecaa72889ee692760e7c93a45cca51e48b72417b8e31a27117077ea;Path=/;HttpOnly;Secure;Domain=warranty.braun.com ARRAffinitySameSite=31456cbc9ecaa72889ee692760e7c93a45cca51e48b72417b8e31a27117077ea;Path=/;HttpOnly;SameSite=None;Secure;Domain=warranty.braun.com
+X-Powered-By: Next.js
+Date: Sun, 10 Mar 2024 02:16:50 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Cache-Control: no-store, must-revalidate, no-cache, max-age=0

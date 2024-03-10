@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html class="notloginhtml" xml:lang="de-DE" lang="de-DE">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="csrf-token" content="LSspouyua1CkEl8dOGBi1Usg72j3HreeUZZIGveB"/>
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+    <title>    Anmeldung
+        - P&amp;G TradeNet</title>
+     <link rel="shortcut icon" type="image/x-icon"
+          href="https://www.pg-tradenet.de/customizing/icon_favicon.ico?1708677260">
+    <link rel="stylesheet" href=https://www.pg-tradenet.de/assets/css/app.css>
+
+    <link href="https://www.pg-tradenet.de/assets/css/bootstrap5/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://www.pg-tradenet.de/assets/css/mainApp.min.css" rel="stylesheet">
+    <link href="https://www.pg-tradenet.de/assets/css/select2.min.css" rel="stylesheet">
+
+
+<style>
+/* roboto-100 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-100.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-100.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-300 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-300.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-300.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-300italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-300italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-300italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-100italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-100italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-100italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-500 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-500italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-700italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-900 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-900.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-900.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-900italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  src: local(''),
+       url('/assets/fonts-google/roboto-v30-latin-900italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts-google/roboto-v30-latin-900italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+</style>
+    <style>
+
+
+    #appBody {
+        color: #414141;
+    }
+
+    /*
+    ##############
+    ## Dashboard
+    ##############
+    */
+
+    .dashboard .card {
+        color: #414141;
+    }
+
+    /*
+    ##############
+    ## Header
+    ##############
+    */
+    #appBody header {
+        background-color: #073DAF;
+        color: #FFFFFF    !important;
+    }
+    .forgot-password:hover {
+        color: #073DAF;
+    }
+
+    #appBody .navigation {
+        border-bottom: #073DAF;
+    }
+    #appBody .error-page h1{
+        color: #073DAF;
+    }
+
+    #appBody .btn-primary {
+        background: #073DAF;
+        border: 1px solid#073DAF;
+        color: #FFFFFF;
+    }
+
+    #appBody .btn-primary:hover {
+        background: #198AF0;
+        border: 1px solid#198AF0;
+        color: #FFFFFF;
+    }
+
+
+
+
+
+    #appBody .btn-light {
+        background: #E6EBF6;
+        border: 1px solid#E6EBF6;
+        color: #073DAF;
+    }
+
+    #appBody .btn-light:hover {
+        background: #DBE2F6;
+        border: 1px solid#DBE2F6;
+        color: #1F46AF;
+    }
+
+    /*#appBody .btn-light{*/
+    /*    color: #073DAF;*/
+    /*    background: #073DA51A;*/
+    /*}*/
+
+    #appBody .product-detail .versioning a{
+        color: #073DAF;
+    }
+
+    .bg-primary {
+        background-color: #073DAF    !important;
+    }
+
+
+    /*
+    ##############
+    ## General
+    ##############
+    */
+    #appBody .text-primary {
+        color: #073DAF  !important;
+    }
+
+    /*
+    ##############
+    ## Product Detail
+    ##############
+    */
+
+    #appBody .nav-pills .nav-link.active {
+        border-bottom-color: #073DAF;
+    }
+
+
+    /*
+    ##############
+    ## Footer
+    ##############
+    */
+
+    #appBody footer {
+        background-color: #FFFFFF    !important;
+        color: #707070    !important;
+    }
+
+
+    .navigation .active,
+    .searchbox #searchbox-button,
+    .searchbox .search-menu .active {
+        border-color: #073DAF;
+    }
+    .navigation .active,
+    .searchbox #searchbox-button,
+    .searchbox .search-menu .active {
+        border-color: #073DAF;
+    }
+
+    .searchbox #advance-searchbox,
+    .searchbox #advanced-search {
+        border-left: 1px solid #073DAF !important;
+        border-right: 1px solid #073DAF !important;
+        border-bottom: 1px solid #073DAF !important;
+    }
+
+
+    #body-wrapper .pagination > li > a, #body-wrapper .pagination > li > span {
+        color: #003DAF     !important;
+    }
+
+    .ctm_login_text, .login-header .sign-up-url {
+        color: #4B4B4B;
+    }
+
+    #body-wrapper .color-primary {
+        color: #003DAF     !important;
+    }
+
+    #body-wrapper .color-success {
+        color: #FF880A     !important;
+    }
+
+    #body-wrapper .color-info {
+        color: #4B4B4B     !important;
+    }
+
+    #body-wrapper .color-warning {
+        color: #F0AD4E     !important;
+    }
+
+    #body-wrapper .color-danger {
+        color: #D9534F     !important;
+    }
+
+    .marketing_sorting_highlight {
+        background-color: #003DAF;
+    }
+
+    #body-wrapper .pagination > .active > a,
+    #body-wrapper .pagination > .active > a:focus,
+    #body-wrapper .pagination > .active > a:hover,
+    #body-wrapper .pagination > .active > span,
+    #body-wrapper .pagination > .active > span:focus,
+    #body-wrapper .pagination > .active > span:hover {
+        background-color: #003DAF     !important;
+        border-color: #003DAF     !important;
+        color: #fff !important;
+    }
+
+    #body-wrapper .btn-info:hover, .btn-info:active,
+    #body-wrapper .btn-back a span:first-child, .show-hide-arrow,
+    #search-wrapper .show-advance-search,
+    #show-hide-arrow-hierarchy,
+    #body-wrapper span.select2-selection::after,
+    #body-wrapper .navsub-header-menu .nav > li > a:focus, .navsub-header-menu .nav > li > a:hover,
+    #body-wrapper .navbar-inverse .navbar-nav > .open > a,
+    #body-wrapper .navbar-inverse .navbar-nav > .open > a:focus,
+    #body-wrapper .navbar-inverse .navbar-nav > .open > a:hover,
+    #marketing .panel-title .show-hide-arrow-marketing {
+        color: #003DAF     !important;
+    }
+
+    #body-wrapper .btn-primary,
+    #body-wrapper .cs-color-primary,
+    #body-wrapper #filter-wrapper .line-filter,
+    #body-wrapper #filter-wrapper .filter-toggle,
+    #body-wrapper .archived input.labelauty:checked + label,
+    #body-wrapper .btn-info.btn-send-link,
+    #grid-view-wrapper .item .hover-overlay .download-one, #grid-view-wrapper .item .hover-overlay .add-one-to-cart,
+    .modal-content .modal-footer .btn-success, .modal-content .modal-footer .btn-default,
+    .select2-container--default .select2-results__option--highlighted[aria-selected],
+    #product-edit-form .boolean-group label.active,
+    #body-wrapper .btn-success.fileinput-button,
+    #body-wrapper .saved-items .selected,
+    #body-wrapper .saved-items .selected,
+    #body-wrapper .saved-items,
+    #siteLogin .modal-body .close-login {
+        background-color: #003DAF     !important;
+    }
+
+    /* Select 2 */
+    .select2-container--default .select2-selection--multiple .select2-selection__choice {
+        background-color: #003DAF     !important;
+        color: #fff;
+    }
+
+    .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+        color: #fff;
+    }
+
+    /* Add file in upload page button*/
+    #body-wrapper .fileupload-buttonbar .btn-success.fileinput-button:hover {
+        color: #FFFFFF     !important;
+        background-color: #003DAF     !important;
+    }
+
+    #body-wrapper .btn-primary:hover,
+    #body-wrapper .btn-primary:active {
+        color: #FFFFFF     !important;
+    }
+
+    #body-wrapper #filter-options .btn-primary:hover {
+        color: #fff !important;
+    }
+
+    #body-wrapper .btn-send-link.btn-info:hover, .btn-send-link.btn-info:active,
+    #grid-view-wrapper .item .hover-overlay .download-one:hover, #grid-view-wrapper .item .hover-overlay .add-one-to-cart:hover {
+        color: #FFFFFF     !important;
+    }
+
+    #body-wrapper .cs-color-primary:hover,
+    #body-wrapper .cs-color-primary:active {
+        background-color: #003DAF     !important;
+        color: #FFFFFF     !important;
+    }
+
+    #body-wrapper .btn-primary:hover, #body-wrapper .btn-primary:active,
+    #grid-view-wrapper .item .hover-overlay .download-one:hover,
+    #grid-view-wrapper .item .hover-overlay .add-one-to-cart:hover {
+        color: #FFFFFF     !important;
+    }
+
+    .navsub-header-menu .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+        color: #ffffff !important;
+        background-color: #073DAF     !important;
+    }
+
+    .auto-list > li > a:hover {
+        color: #ffffff !important;
+        background-color: #FFFFFF     !important;
+    }
+
+    .auto-list .selected {
+        background-color: #FFFFFF     !important;
+    }
+
+    .auto-list .selected a {
+        color: #ffffff !important;
+    }
+
+    #body-wrapper #list-products-container div.item-wrapper .item a:hover,
+    #body-wrapper input[type=radio].radio-select + label.css-radio-label::after,
+    #body-wrapper .btn-success, #body-wrapper .cs-color-success {
+        background-color: #FF880A     !important;
+    }
+
+    #body-wrapper .product-page {
+        background-color: #E0E0E0     !important;
+        color: #4B4B4B     !important;
+    }
+
+    /*
+    Table Sorter Colors
+    */
+    #list-view-wrapper .tablesorter-default th, #list-view-wrapper .tablesorter-default thead td {
+        background-color: #D1D1D1     !important;
+        color: #4B4B4B     !important;
+    }
+
+    #list-view-wrapper tr.checked-product {
+        background-color: #D1D1D1     !important;
+    }
+
+    #body-wrapper .btn-success:hover, .btn-success:active,
+    #body-wrapper .cs-color-success:hover, .cs-color-success:active {
+        background-color: #FFA609     !important;
+    }
+
+    #body-wrapper #btn-download-all {
+        background-color: #FF880A     !important;
+    }
+
+    #body-wrapper #btn-download-all:hover, #btn-download-all:active {
+        background-color: #FFA609     !important;
+        color: #fff !important;
+    }
+
+    #body-wrapper .btn-warning {
+        background-color: #F0AD4E     !important;
+    }
+
+    #body-wrapper .btn-warning:hover, .btn-warning:active {
+        background-color: #EC971F     !important;
+    }
+
+    #body-wrapper .btn-danger,
+    #body-wrapper .btn-send-link.btn-primary,
+        /*#body-wrapper .modal-dialog .btn-primary*/
+    {
+        background-color: #D9534F     !important;
+    }
+
+    #body-wrapper .btn-send-link.btn-primary:hover, .btn-send-link.btn-primary:active,
+        /*#body-wrapper .modal-dialog .btn-primary:hover*/
+    {
+        background-color: #C9302C     !important;
+        color: #fff !important;
+    }
+
+    #body-wrapper .btn-danger:hover {
+        background-color: #C9302C     !important;
+    }
+
+    #body-wrapper .navbar-inverse .navbar-nav > li.logout > a:hover {
+        color: #C9302C     !important;
+    }
+
+    #body-wrapper input[type=checkbox].css-checkbox + label.css-label::before {
+        border-color: #003DAF;
+        color: #003DAF;
+    }
+
+    /*-----START Register, Login, Forgot Password, Confirmation Pages-----*/
+    body.notlogin,
+    #siteLogin .modal-content {
+        background-color: #FFFFFF;
+    }
+
+    body#body-wrapper.notlogin .footer {
+        background-color: #003DAF     !important;
+    }
+
+    body#body-wrapper.notlogin .footer .container .copyright {
+        color: #FFFFFF     !important;
+    }
+
+    body#body-wrapper.notlogin .footer .container .footer_link a {
+        color: #FFFFFF     !important;
+    }
+
+    body#body-wrapper.notlogin .footer .container .footer_link a:hover,
+    body#body-wrapper.notlogin .footer .container .footer_link a:focus {
+        color: #FFFFFF     !important;
+    }
+
+    #body-wrapper.notlogin .form-header,
+    #body-wrapper .user-login .form-header {
+        color: #003DAF     !important;
+    }
+
+    #body-wrapper.notlogin #user_registration,
+    #body-wrapper.notlogin #user_registration footer,
+    #body-wrapper.notlogin .sky-form fieldset {
+        background-color: #EDEDED     !important;
+    }
+
+    #body-wrapper.notlogin .login-form,
+    #body-wrapper .user-login .login-form,
+    form.user_registration {
+        border-color: #003DAF;
+        color: #4B4B4B     !important;
+        background-color: #EDEDED     !important;
+    }
+
+    .user_wrap .profile-edit-left,
+    .sky-form footer,
+    .sky-form fieldset + fieldset {
+        border-color: #003DAF;
+    }
+
+    #body-wrapper.notlogin .login-form hr,
+    #body-wrapper .user-login .login-form hr {
+        border-color: #003DAF     !important;
+    }
+
+    #body-wrapper .login-form .login-header, #filter-wrapper span.total, .login-header .sign-up-url {
+        color: #444444     !important;
+    }
+
+    #body-wrapper a.login-link-color {
+        color: #7F7F7F     !important;
+    }
+
+    #body-wrapper a.login-link-color:hover {
+        color: #7F7F7F     !important;
+    }
+
+    /* No Hover Color if displayed Within the Form - in This Case Hover == Background */
+    #body-wrapper.notlogin .sky-form a.login-link-color:hover {
+        color: #7F7F7F     !important;
+        text-decoration: underline;
+    }
+
+    #body-wrapper .login-form input[type=checkbox].css-checkbox + label.css-label::before,
+    #body-wrapper .user_registration input[type=checkbox].css-checkbox + label.css-label::before {
+        border-color: #003DAF;
+        color: #003DAF;
+        border: 2px solid;
+    }
+
+    #body-wrapper.notlogin label.css-label:hover:before,
+    #body-wrapper.notlogin label.css-label:focus:before,
+    #body-wrapper .user-login label.css-label:hover:before,
+    #body-wrapper .user-login label.css-label:focus:before {
+        background-color: #FFA609;
+    }
+
+    #body-wrapper.notlogin .login-form .css-label,
+    #body-wrapper .user-login .login-form .css-label,
+    #body-wrapper.notlogin .user_registration .css-label {
+        color: #7F7F7F     !important;
+    }
+
+    #body-wrapper.notlogin .login-form .css-label:hover,
+    #body-wrapper.notlogin .login-form .css-label:focus,
+    #body-wrapper .user-login .login-form .css-label:hover,
+    #body-wrapper .user-login .login-form .css-label:focus,
+    #body-wrapper.notlogin .user_registration .css-label:hover,
+    #body-wrapper.notlogin .user_registration .css-label:focus {
+        color: #7F7F7F     !important;
+    }
+
+    /* FIXME */
+    #body-wrapper.notlogin header {
+        background: none !important;
+    }
+
+    #body-wrapper.notlogin #logo-top {
+        display: none !important;
+    }
+
+    #body-wrapper.notlogin .search {
+        background-color: #FF880A     !important;
+    }
+
+    #body-wrapper.notlogin .search .header-logo {
+        display: none !important;
+    }
+
+    #body-wrapper.notlogin #siteLogin .modal-body .close-login {
+        background-color: #FF880A     !important;
+    }
+
+    #body-wrapper.notlogin .navbar-inverse .navbar-nav > .open > a,
+    #body-wrapper.notlogin .navsub-header-menu .nav > li > a:hover {
+        color: #FF880A     !important;
+    }
+
+    #body-wrapper.notlogin .dropdown-menu > li > a:hover {
+        background-color: #EDEDED     !important;
+    }
+
+    #body-wrapper.notlogin .btn-primary {
+        background-color: #FF880A     !important;
+        color: #FFFFFF     !important;
+    }
+
+    #body-wrapper.notlogin .btn-primary:hover {
+        background-color: #FFA609     !important;
+        color: #FFFFFF     !important;
+    }
+
+    #body-wrapper.notlogin .login-form input[type=checkbox].css-checkbox + label.css-label::before,
+    #body-wrapper.notlogin .user_registration input[type=checkbox].css-checkbox + label.css-label::before {
+        border-color: #FF880A     !important;
+        color: #FF880A     !important;
+        background: #FFFFFF     !important;
+    }
+
+    #body-wrapper.notlogin .user_registration input[type=checkbox].css-checkbox + label.css-label:hover::before {
+        border-color: #FFA609     !important;
+        color: #FFA609     !important;
+        background: #FFFFFF     !important;
+    }
+
+    #body-wrapper.notlogin .user_wrap .headline {
+        background-color: #FF880A     !important;
+    }
+
+    /* No Hover Color if displayed Within the Form - in This Case Hover == Background */
+    #body-wrapper.notlogin .user_registration.sky-form .css-label:hover {
+        color: #7F7F7F     !important;
+
+    }
+
+    /*-----END Register, Login, Forgot Password, Confirmation Pages-----*/
+    #body-wrapper .alert-success {
+        color: #80BB01     !important;
+    }
+
+    #body-wrapper .alert-danger, #body-wrapper.alert-warning {
+        color: #A94442     !important;
+    }
+
+    #body-wrapper .alert-info {
+        color: #4B4B4B     !important;
+    }
+
+    #body-wrapper .search-btn-icon {
+        background-color: #FF880A     !important;
+    }
+
+    #body-wrapper .search-btn-icon:hover {
+        background-color: #FFA609     !important;
+    }
+
+    #body-wrapper .cs-inverted-link, .search_nav .data_cart .text {
+        color: #FFFFFF     !important;
+    }
+
+    /* Data cart*/
+    #body-wrapper .search_nav .data_cart .num {
+        border-color: #FFFFFF     !important;
+        color: #FFFFFF     !important;
+        background-color: #FFFFFF     !important;
+    }
+
+    /* END Data cart*/
+    #body-wrapper .cs-inverted-link:hover, .search_nav .data_cart:hover .text {
+        color: #FF880A     !important;
+    }
+
+    #body-wrapper .search_nav .data_cart:hover .num {
+        color: #FF880A     !important;
+        border-color: #FF880A     !important;
+    }
+
+    #body-wrapper a .back-prev-title,
+    .title-wrapper .title a,
+    #body-wrapper #product-detail-wrapper .nav-tabs > li > a,
+    .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
+        color: #444444     !important;
+    }
+
+    #body-wrapper #product-detail-wrapper .nav-tabs > li > a:hover,
+    #body-wrapper .nav-tabs > li > a:hover,
+    #component-table tbody tr td a:hover {
+        color: #FF880A     !important;
+    }
+
+    #body-wrapper .search, .cs-bgcolor-blue, #data_cart_index .cart-number, .header-error {
+        background-color: #FFFFFF     !important;
+    }
+
+    #body-wrapper #product-detail-wrapper .title-gray-block,
+    #body-wrapper .modal-header {
+        background-color: #FFFFFF     !important;
+        color: #FFFFFF     !important;
+    }
+
+    #body-wrapper .product-detail-title h2 {
+        color: #FFFFFF     !important;
+    }
+
+    #product-title {
+        color: #FFFFFF     !important;
+        border-color: #FFFFFF     !important;
+    }
+
+    .user_wrap .headline {
+        background-color: #FFFFFF     !important;
+    }
+
+    .form-check-input:checked {
+        background-color: #073DAF !important;
+        border-color: #073DAF !important;
+    }
+
+
+    #body-wrapper #intercom-container .intercom-launcher-button, .footer-error {
+        background-color: #707070     !important;
+    }
+
+    #error-page span.glyphicons {
+        color: #707070     !important;
+    }
+
+    #body-wrapper #list-view-wrapper tr.item-wrapper.border-checked-product.is-added {
+        border-top-color: #003DAF     !important;
+        border-color: #003DAF     !important;
+    }
+
+    #body-wrapper #list-view-wrapper tr.checked-product td.first-child, #grid-view-wrapper .item .hover-overlay .backdrop, .saved-search-table .item.selected td {
+        background-color: #003DAF     !important;
+    }
+
+    #body-wrapper #grid-view-wrapper .is-added, #grid-view-wrapper .checked-product {
+        border-color: #003DAF     !important;
+    }
+
+    #body-wrapper #filter-load-save-modal input,
+    #body-wrapper #filter-load-save-modal textarea,
+    #body-wrapper .saved-items,
+    #body-wrapper .blue-border {
+        border-color: #003DAF     !important;
+    }
+
+    #intercom-container .intercom-launcher-button,
+    .marketing-story-chose-type,
+    .marketing-story-group {
+        border-color: #003DAF     !important;
+    }
+
+    .cus4ntSkin table.mceLayout tr.mceFirst td {
+        border-top-color: #003DAF     !important;
+    }
+
+    .cus4ntSkin .mceIframeContainer {
+        border-bottom-color: #003DAF     !important;
+    }
+
+    .cus4ntSkin table.mceLayout {
+        border-left-color: #003DAF     !important;
+        border-right-color: #003DAF     !important;
+    }
+
+    .cus4ntSkin table.mceLayout tr.mceLast td {
+        border-color: #003DAF     !important;
+    }
+
+    #product-detail-wrapper .streaming-progress-bar {
+        background-color: #FFFFFF     !important;
+    }
+
+    #hierachie-table thead tr th, #component-table thead tr th {
+        color: #444444     !important;
+    }
+
+    #hierachie-table tbody tr td:first-child, #hierachie-table tbody tr td:first-child a, span.expandable-arrow-hierarchy, span.empty-expandable {
+        color: #4B4B4B     !important;
+    }
+
+    @media (max-width: 992px) {
+        #body-wrapper .btn-success:hover, .btn-success:active,
+        #body-wrapper .cs-color-success:hover, .cs-color-success:active {
+            background-color: #FF880A     !important;
+        }
+
+        #body-wrapper .cs-color-primary:hover,
+        #body-wrapper .cs-color-primary:active {
+            background-color: #003DAF     !important;
+            color: #fff !important;
+        }
+
+    }
+
+            @media (max-width: 768px) {
+        header {
+            background: url('https://www.pg-tradenet.de/customizing/header_mobile.png') top center no-repeat;
+        }
+    }
+    
+</style>
+    
+        
+    <script>
+/*
+  document.addEventListener("DOMContentLoaded", function(){
+    if ( location.href.search(/\/user\/login/) != -1 ) {
+      let elem = document.querySelector ( '.login-header' );
+      let eltWarning = document.createElement("div");
+      eltWarning.innerHTML = "Am 03.08. zwischen 12:00 - 14:00 Uhr wird das P&G TradeNet aufgrund von planmäßigen Wartungsarbeiten für ca. 15 Minuten nicht zur Verfügung stehen.";
+      eltWarning.setAttribute( 'class', 'mt-2 alert alert-warning' );
+      elem.parentNode.insertBefore( eltWarning, elem.nextSibling);
+    }
+  });
+*/
+</script>
+
+<script type="text/javascript">
+ if(typeof PGdataLayer == "undefined"){
+        var PGdataLayer = {};
+ }
+ PGdataLayer.GTM = {
+  "SiteEnvironment":"Prod",
+  "SiteHost":"AWS",
+  "SiteTechnicalAgency":"dietz",
+  "GoogleAnalyticsLocal":"REPLACE WITH SETTING",
+  "GoogleAnalyticsConsentRequired":"true",
+  "ConsentOverlay":"OneTrust",
+  "ConsentOverlayID":"htmllang/58739608-47d6-4730-8343-6cfd4c602326",
+  "AdChoices":"false",
+  "AdChoicesID":"REPLACE WITH SETTING",
+  "EvidonOverlay":"false",
+  "SitePrivacyProtection":"GDPR",
+  "EvidonOverlayID":"REPLACE WITH SETTING",
+  "GoogleAnalyticsDisabled":""
+}
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MWHNMTR');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body class="d-flex flex-column h-100" id="appBody">
+
+<main class="container-fluid m-vh-94-5">
+    <div id="progressbar">
+        <div id="progress"></div>
+    </div>
+    <div class="row px-3  align-items-center">
+        <div class="justify-content-center px-0 mx-0 row" style="margin-top: 10%;min-width: 350px">
+            <div class="col-4 mt-5 bg-white py-5 px-5" style="min-width: 350px">
+                    <div>
+        <div class="text-center m-3">
+
+    <img src="https://www.pg-tradenet.de/customizing/banner.png"
+         alt="Logo"
+         height="50">
+</div>
+        <div class="col mx-5 text-center">
+
+            <p>Für Rückfragen oder Unterstützung bei der Registrierung sind wir für Sie erreichbar.</p>
+
+            <p>Mo-Fr von 9:00 – 16:00 Uhr telefonisch unter <a href="tel:+4961194573998" style="white-space: nowrap; color: #FF880A">+49 (0) 611-94573998</a> oder per Mail an <a href="mailto:service@pg-tradenet.com" style="white-space: nowrap; color: #FF880A">service@pg-tradenet.com</a>.</p>
+            
+        </div>
+
+        <div class="login-header">
+            <!-- will be used to show any messages -->
+        </div>
+        <a class="btn btn-primary col-12" id="login-button-pingid"
+                href="https://fedauth.pg.com/as/authorization.oauth2?response_type=code&scope=openid%20email%20profile&redirect_uri=https://www.pg-tradenet.de/auth/callback/pingid&pfidpadapterid=Oauth&client_id=PGTradeNet">
+            P&amp;G Mitarbeiter Login
+        </a>
+        <a class="btn  btn-primary col-12 mt-2" id="login-button">
+            Kunden Login
+        </a>
+                    <a href="https://www.pg-tradenet.de/user/register" class="btn color-primary col-12  mt-2"
+               id="login-register-button">
+                Registrieren
+            </a>
+            </div>
+    <div class="tab-content" id="pills-tabContent">
+        <div class="tab-pane fade" id="login-tab" role="tabpanel" aria-labelledby="pills-home-tab">
+    <a href="#" class="color-primary" id="login-button-back">
+        <span class="bi-arrow-left" style="font-size: 2.2rem;"> </span>
+    </a>
+
+    <form class="user_login" id="user_login" name="user_login" role="form" method="POST" action="">
+        <input type="hidden" name="_token" value="LSspouyua1CkEl8dOGBi1Usg72j3HreeUZZIGveB">
+        <input type="hidden" name="return_url" value="/"/>
+        <div class=" my-3">
+            <h4 class="color-primary">Kunden Login</h4>
+        </div>
+        <div class="mb-3">
+            <label for="formFile" class="form-label">Benutzername</label>
+            <input required type="text" class="form-control  form-control-lg" name="username"
+                   value=""
+                   placeholder="Benutzername">
+        </div>
+        <div class="mb-3">
+            <label for="formFile" class="form-label">Passwort</label>
+            <input required autocomplete="off" type="password" class="form-control form-control-lg" name="password"
+                   placeholder="Passwort">
+        </div>
+
+        <div class="mb-3">
+            <div class="col-lg-12 col-md-12">
+                <button type="submit" class="btn btn-lg btn-primary col-12">Anmelden</button>
+            </div>
+        </div>
+        <div class="text-center mt-3">
+            <a class="forgot-password"
+               href="https://www.pg-tradenet.de/user/resetpassword">Passwort vergessen?</a>
+        </div>
+    </form>
+</div>    </div>
+
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-4 py-2">
+
+                <language lang_short="en" lang="english" redirect="https://www.pg-tradenet.de/user/login"></language>
+                <div class="text-end font-size-12">
+                                            <a class="language login-link-color lang-track"
+                           onclick="return LANGUAGE.changeLang('en','https://www.pg-tradenet.de/user/login');"
+                           href="javascript:;">English</a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</main>
+<!-- Modal Login -->
+<!-- End Modal Login -->
+<footer class="footer py-3 px-4 ">
+    <div class="row">
+        <div class="col">
+            <span class="copyright">© 2024 Procter &amp; Gamble powered by dynamicPIM®</span>
+        </div>
+        <div class="col  text-end">
+                                                <a class="footer-link-track text-primary" rel="noopener" target="_blank" href="https://www.pg-tradenet.de/page/policy"
+                       title='Datenschutz'>
+                        Datenschutz |
+                    </a>
+                                    <a class="footer-link-track text-primary" rel="noopener" target="_blank" href="https://www.pg-tradenet.de/page/pg-nutzungsbedingungen"
+                       title='Geschäftsbedingungen'>
+                        Geschäftsbedingungen |
+                    </a>
+                                    <a class="footer-link-track text-primary" rel="noopener" target="_blank" href="https://www.pg-tradenet.de/page/unternehmen"
+                       title='Unternehmen'>
+                        Unternehmen |
+                    </a>
+                                    <a class="footer-link-track text-primary" rel="noopener" target="_blank" href="https://www.pg-tradenet.de/page/impressum"
+                       title='Impressum'>
+                        Impressum |
+                    </a>
+                                    <a class="footer-link-track text-primary" rel="noopener" target="_blank" href="https://www.pg-tradenet.de/page/pg-tradenet-nutzungsbedingungen"
+                       title='P&amp;G TradeNet Nutzungsbedingungen	'>
+                        P&amp;G TradeNet Nutzungsbedingungen	 |
+                    </a>
+                                    <a class="footer-link-track text-primary" rel="noopener" target="_blank" href="https://www.pg-tradenet.de/page/kontakt-pg"
+                       title='Kontakt zu P&amp;G'>
+                        Kontakt zu P&amp;G |
+                    </a>
+                                    <a class="footer-link-track text-primary" rel="noopener" target="_blank" href="https://www.pg-tradenet.de/page/kontakt"
+                       title='Kontakt'>
+                        Kontakt |
+                    </a>
+                                    <a class="footer-link-track text-primary" rel="noopener" target="_blank" href="https://www.pg-tradenet.de/page/preferencecenter"
+                       title='Meine Daten'>
+                        Meine Daten |
+                    </a>
+                            
+                    </div>
+    </div>
+</footer>
+
+
+
+<script src="/assets/js/vue/vue.js?id=00e9bb3af86fde5f253d"></script>
+<script src="https://www.pg-tradenet.de/assets/js/lang.js"></script>
+
+<script>
+    localStorage.removeItem('tmp');
+    localStorage.removeItem('timeBeforeUpdate');
+</script>
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MWHNMTR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- OneTrust Cookies Consent Notice (Staging, pg-tradenet.de/user/login, en-US) start -->
+<script type="text/javascript">
+  $(function() {
+   $('footer').append('<div style="position: fixed;bottom: 5%;right: 2%;"><a href="javascript:void(0)" onclick="Optanon.ToggleInfoDisplay();" class="dc-cookie-consent btn btn-primary" aria-label="Cookie Consent">Meine Cookie-Auswahl</a></div>');
+  });
+</script>
+<!-- OneTrust Cookies Consent Notice (Staging, pg-tradenet.de/user/login, en-US) end -->
+<script>
+/*
+$( '<div class="alert alert-warning mt-3">Es gibt zur Zeit Probleme mit der Anmeldung über PingID. Wir arbeiten an der Behebung.</div>' ).insertAfter( $( "#login-button" ) );
+*/
+</script>
+
+
+<script>
+
+
+    function showLoginTab() {
+        $('#login-tab').toggle(300);
+        $('#login-button').toggle(300);
+        $('#login-button-pingid').toggle(300);
+        $('#login-register-button').toggle(300);
+    }
+
+    $('#login-button').click(function (event) {
+        $('#login-tab').toggle(300);
+        $('#login-button').toggle(300);
+        $('#login-button-pingid').toggle(300);
+        $('#login-register-button').toggle(300);
+    });
+    $('#login-button-back').click(function (event) {
+        $('#login-tab').toggle(300);
+        $('#login-button').toggle(300);
+        $('#login-button-pingid').toggle(300);
+        $('#login-register-button').toggle(300);
+
+    });
+
+    </script>
+</body>
+</html>

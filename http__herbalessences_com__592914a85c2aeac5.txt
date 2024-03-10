@@ -1,0 +1,15 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Thu, 29 Feb 2024 09:37:02 GMT
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.youtube.com https://wtbng.pricespider.com https://wtbstream.pricespider.com https://embeddedcloud.pricespider.com https://omni.pricespider.com https://locate.pricespider.com https://wtbevents.pricespider.com https://cdn.pricespider.com https://c.lytics.io https://api.ipify.org https://cdn.segment.com https://z.moatads.com https://s3.us-west-2.amazonaws.com https://ss.click2cart.com https://click2cart.com api.tiles.mapbox.com pghub.io *.cookielaw.org *.onetrust.com *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.bazaarvoice.com https://s3-us-west-2.amazonaws.com https://cdn.pricespider.com https://c.lytics.io https://maxcdn.bootstrapcdn.com api.tiles.mapbox.com fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' assets.ctfassets.net videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' *.cookielaw.org https://ad.doubleclick.net https://d.agkn.com https://cdn.pricespider.com https://wwwassets.pricespider.com https://embeddedcloud.pricespider.com https://www.google.com https://s.amazon-adsystem.com https://click2cart.com https://click2cart.co https://s3.us-west-2.amazonaws.com https://40n23zgkic3y-a.akamaihd.net https://px.moatads.com https://c.lytics.io i.ytimg.com images.ctfassets.net pixel.tapad.com *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' https://maxcdn.bootstrapcdn.com fonts.gstatic.com feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' https://pandg.tapad.com https://click2cart.com https://click2cart.co https://www.youtube-nocookie.com www.youtube.com feed.pghub.io *.adsrvr.org *.doubleclick.net *.jebbit.com consumersupport.pg.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com pandg.tapad.com ; frame-ancestors https://app.contentful.com feed.pghub.io pandg.tapad.com ; manifest-src * ;
+Content-Type: text/html
+Accept-Ranges: bytes
+Date: Sun, 10 Mar 2024 02:24:09 GMT
+Etag: "0f33ad9f26ada1:0"
+X-Frame-Options: DENY
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=herbalessences.com ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=herbalessences.com
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff

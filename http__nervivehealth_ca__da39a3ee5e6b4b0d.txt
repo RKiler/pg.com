@@ -1,0 +1,18 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+X-Azure-Ref: 20240310T021941Z-2z28d94vut3vm1r71rpqes7bt8000000097g000000007qp7
+Content-Type: text/html
+Cache-Control: max-age=0
+X-Cache: TCP_MISS
+Last-Modified: Thu, 22 Feb 2024 12:28:54 GMT
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:19:41 GMT
+Content-Length: 133818
+Etag: "07c5b28a65da1:0"
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self' *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: *.pricespider.com https: blob: ; script-src * data: blob: *.pricespider.com 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+X-Xss-Protection: 1;mode=block
+X-Fd-Int-Roxy-Purgeid: 66773962
+Accept-Ranges: bytes
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding
+X-Content-Type-Options: nosniff

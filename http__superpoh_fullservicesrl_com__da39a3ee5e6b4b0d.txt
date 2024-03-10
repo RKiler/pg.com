@@ -1,0 +1,17 @@
+200 OK
+Referrer-Policy: strict-origin
+Date: Sun, 10 Mar 2024 02:17:15 GMT
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+X-Content-Type-Options: 'nosniff
+Content-Security-Policy: default-src * data: gap: content: https://ssl.gstatic.com; style-src * 'unsafe-inline'; script-src * 'unsafe-inline' 'unsafe-eval'
+Cache-Control: private,no-cache, no-store, must-revalidate, pre-check=0, post-check=0, max-age=0, s-maxage=0
+Server: 
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Retry-Count: 0
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+Content-Length: 7973
+Expires: 0
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,12 @@
+200 OK
+Retry-Count: 0
+X-Iinfo: 18-50954729-50954732 NNYN CT(136 276 0) RT(1710037542580 5) q(0 0 5 0) r(6 8) U12
+Cache-Control: private
+Customallowcache: True
+X-Frame-Options: SAMEORIGIN
+Date: Sun, 10 Mar 2024 02:25:43 GMT
+X-Cdn: Imperva
+Content-Type: text/html
+Vary: User-Agent
+Set-Cookie: CurrentCustomerLamberts2=customer%5Fid=PWBPREVQQ4LSNNSK17U33RNWU12JT13T&last%5Fmodified=10%2F03%2F2024+02%3A25%3A43&lookup=0&member=&need%5Flookup=True&referrer=https%3A%2F%2Flambertshealthcare%2Eco%2Euk%2F&state=CUSTOMER%5FANONYMOUS; path=/;HttpOnly;Secure;SameSite=lax;Domain=.www.lambertshealthcare.co.uk;expires=Tue, 09 Apr 2024 00:00:00 GMT; session=date%5Fcreated=10%2F03%2F2024+02%3A25%3A43&first%5Fvisited%5Freferer%5Fid=HTTPS%3A%2F%2FLAMBERTSHEALTHCARE%2ECO%2EUK&id=BRS1022039624106KOPYVGTDUYYVUUBW&referer%5Fid=HTTPS%3A%2F%2FLAMBERTSHEALTHCARE%2ECO%2EUK&searchparamvalue=; path=/;HttpOnly;Secure;SameSite=lax;Domain=.www.lambertshealthcare.co.uk; session%5Fsrc=src=; expires=Mon, 08-Apr-2024 23:00:00 GMT; domain=www.lambertshealthcare.co.uk; path=/; secure media%5Fcode=NB; expires=Sun, 10-Mar-2024 03:25:42 GMT; domain=www.lambertshealthcare.co.uk; path=/; secure visid_incap_866446=/kK6hd0/Qyin6POu9mHMjSYa7WUAAAAAQUIPAAAAAABr8PLYwhwT6rylmIXIYwCW; expires=Sun, 09 Mar 2025 06:26:34 GMT; HttpOnly; path=/; Domain=.lambertshealthcare.co.uk; Secure; SameSite=None nlbi_866446=prU/ChgLZkW9NFxG0VHvXgAAAACk7FI4o+riitTqW3Rhudwl; path=/; Domain=.lambertshealthcare.co.uk; Secure; SameSite=None incap_ses_1831_866446=0j6VPwmX9AO9etk10QRpGSca7WUAAAAADFY5NuHXqYP4dgG1DbScqw==; path=/; Domain=.lambertshealthcare.co.uk; Secure; SameSite=None
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload

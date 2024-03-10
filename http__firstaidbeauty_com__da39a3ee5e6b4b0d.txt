@@ -1,0 +1,23 @@
+200 OK
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: deny
+Content-Type: text/html; charset=UTF-8
+Link: <https://apps.bazaarvoice.com/deployments/firstaidbeauty/main_site/production/en_US/bv.js>; rel=preload; as=script, <https://analytics.getshogun.com/collector.js>; rel=preload; as=script <https://cdn11.bigcommerce.com/s-65cfp7jfhx>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.googleapis.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://fonts.gstatic.com/>; rel=preconnect; as=font; crossorigin=anonymous, <https://cdn11.bigcommerce.com/s-65cfp7jfhx/stencil/33ee0740-b790-013c-2601-02284b5dbffa/e/fb47c090-a354-013c-6acf-2e51ac1e6c59/dist/theme-bundle.head_async.js>; rel=preload; as=script, <https://fonts.googleapis.com/css?family=Montserrat:700,500,400%7CKarla:400&display=block>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-65cfp7jfhx/stencil/33ee0740-b790-013c-2601-02284b5dbffa/e/fb47c090-a354-013c-6acf-2e51ac1e6c59/dist/theme-bundle.font.js>; rel=preload; as=script, <https://cdn11.bigcommerce.com/s-65cfp7jfhx/stencil/33ee0740-b790-013c-2601-02284b5dbffa/e/fb47c090-a354-013c-6acf-2e51ac1e6c59/css/theme-7e6c82f0-bd2a-013c-e5b5-76945f462152.css>; rel=preload; as=style, <https://cdn11.bigcommerce.com/s-65cfp7jfhx/stencil/33ee0740-b790-013c-2601-02284b5dbffa/e/fb47c090-a354-013c-6acf-2e51ac1e6c59/dist/theme-bundle.main.js>; rel=preload; as=script
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Cf-Cache-Status: DYNAMIC
+Bc-Ray: 1
+Vary: Accept-Encoding
+Set-Cookie: fornax_anonymousId=376cc403-2062-41a7-bcdb-a8e2a2f299ea; Expires=Tue, 10 Mar 2026 02:21:41 GMT; Path=/; Secure; SameSite=None athena_short_visit_id=7a79644b-92c7-4df0-9dfa-4cb20451edfb:1710037301; Expires=Sun, 10 Mar 2024 02:51:41 GMT; Path=/; Secure; HttpOnly; SameSite=None Shopper-Pref=414F1B94B45FD10FCFD053CD9AA6159FEDFA115F-1710642101735-x%7B%22cur%22%3A%22USD%22%7D; Expires=Sun, 17 Mar 2024 02:21:41 GMT; Path=/; HttpOnly XSRF-TOKEN=6debf2561cee7e753c7f76d5b4c92dd59c02a2663a5df24c4a34de60e7d1071d; path=/; Secure; SameSite=none SHOP_SESSION_TOKEN=3e6d1e91-bc68-49e0-ac25-3c748b957ef6; Expires=Sun, 17 Mar 2024 02:21:41 GMT; Path=/; Secure; HttpOnly; SameSite=None
+Alt-Svc: h3=":443"; ma=86400
+Server: cloudflare
+Cf-Ray: 861fd52cfc14aaaf-SJC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=A8VW5PsSZmLNpV65RUmASlngGgcuZxRFXx7zotFbGIhdUeb297kyz3Gobj4huqdjdfdkI9f9u24TrAjRDF0vpkUv1hy2ncLjXlrJZg1pQyz5AzIJ1H8p9wCBsbwuEP7%2BTx4Rsvp8apE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Cache-Control: no-store, no-cache, must-revalidate
+Content-Security-Policy: script-src *.bigcommerce.com *.dynatrace.com *.azurewebsites.net cdn.jsdelivr.net cdnjs.cloudflare.com *.google-analytics.com *.googleapis.com *.facebook.com *.facebook.net *.google.com *.googlesyndication.com *.attn.tv *.adobe.com *.crazyegg.com *.jquery.com *.doubleclick.net *.fonts.net *.googleadservices.com *.googletagmanager.com *.gorgias.chat *.xg4ken.com *.klaviyo.com *.lytics.io *.mathtag.com *.moatads.com *.cookielaw.org *.pinimg.com *.segment.com *.serving-sys.com *.sc-static.net *.tapad.com *.adsrvr.org *.tiktok.com *.afterpay.com *.bazaarvoice.com *.youtube.com *.adnxs.com *.rubiconproject.com *.yahoo.com *.bidswitch.net *.casalemedia.com *.pubmatic.com *.googleadservices.com *.braintreegateway.com *.sandbox.braintree-api.com *.gstatic.com *.cloudfront.net *.segment.com *.pgsitecore.com *.pghub.io *.online-metrix.net *.amazonaws.com *.moatads.com *.paypalobjects.com *.paypal.com *.yotpo.com *.rechargeadapter.com *.highdegree.io *.getshogun.com *.myshlf.us *.postie.com sc-static.net *.snapchat.com *.iesnare.com *.payments-amazon.com *.kaptcha.com tr.snapchat.com *.addrexx10.com *.pg.com pghub.io https://tr.snapchat.com *.tp88trk.com *.sensor.highdegree.io *.mczbf.com *.reddit.com *.pinterest.com *.redditstatic.com 'self' 'unsafe-eval' 'unsafe-inline' blob: ; object-src 'none'; frame-ancestors 'self';
+X-Request-Id: 28ddf820c5d423b81806fcbf8a407b4b
+Retry-Count: 0
+Date: Sun, 10 Mar 2024 02:21:41 GMT
+X-Permitted-Cross-Domain-Policies: none

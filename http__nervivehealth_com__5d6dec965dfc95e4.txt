@@ -1,0 +1,17 @@
+200 OK
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Last-Modified: Mon, 12 Feb 2024 23:00:40 GMT
+Strict-Transport-Security: max-age=31536000
+X-Azure-Ref-Originshield: 0IULqZQAAAADbdSJiP/5TSqjkEfrxJd2SU0pDMjExMDUxMjA3MDUxAGM1ODdmMWZmLTA5MTYtNDVkNi1hMWYzLTBmZjdlOTRiY2ZmNw==
+Date: Sun, 10 Mar 2024 02:22:03 GMT
+Retry-Count: 0
+Cache-Control: max-age=31536000
+Accept-Ranges: bytes
+X-Cache: TCP_HIT
+X-Xss-Protection: 1;mode=block
+X-Azure-Ref: 0TBntZQAAAABzEC716EpsTKXXU5FAcuy5U0pDMjExMDUxMjAxMDI5AGM1ODdmMWZmLTA5MTYtNDVkNi1hMWYzLTBmZjdlOTRiY2ZmNw==
+Etag: "01c604c75eda1:0"
+Content-Security-Policy: default-src 'self' *.cookielaw.org *.onetrust.com feed.pghub.io pandg.tapad.com ; media-src https://videos.ctfassets.net feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com * ; img-src * 'self' data: https: blob: *.pricespider.com ; script-src * data: *.pricespider.com blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;

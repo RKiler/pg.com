@@ -1,0 +1,15 @@
+200 OK
+Retry-Count: 0
+Set-Cookie: ARRAffinity=8f4a3dfe35e9ff6486b620f5d8ee627c53a7074fb89a4a5a47b2d777babc5ef6;Path=/;HttpOnly;Secure;Domain=campaign.pampers.jp ARRAffinitySameSite=8f4a3dfe35e9ff6486b620f5d8ee627c53a7074fb89a4a5a47b2d777babc5ef6;Path=/;HttpOnly;SameSite=None;Secure;Domain=campaign.pampers.jp
+Date: Sun, 10 Mar 2024 02:28:25 GMT
+Accept-Ranges: bytes
+Last-Modified: Tue, 21 Nov 2023 11:32:31 GMT
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html
+Cache-Control: public,max-age=31536000,no-cache, no-store
+Etag: "8071ed696e1cda1:0"
+Pragma: no-cache
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff

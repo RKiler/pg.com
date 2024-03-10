@@ -1,0 +1,17 @@
+200 OK
+Cache-Control: max-age=31536000
+Etag: "028d6ac5870da1:0"
+X-Cache: CONFIG_NOCACHE
+Date: Sun, 10 Mar 2024 02:22:37 GMT
+Content-Type: text/html
+Set-Cookie: ARRAffinity=722a7b7ecf7b68b9875341e7b1d7617057a0cb609da88f579eca40ed368ea8e4;Path=/;HttpOnly;Secure;Domain=www.pantenela.com ARRAffinitySameSite=722a7b7ecf7b68b9875341e7b1d7617057a0cb609da88f579eca40ed368ea8e4;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.pantenela.com
+Strict-Transport-Security: max-age=8995000; includeSubdomains; preload
+X-Xss-Protection: 1;mode=block
+Accept-Ranges: bytes
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' * ; img-src * 'self' data: https: blob: ; media-src * 'self' https: ; script-src * data: blob: 'unsafe-inline' 'unsafe-eval' ; connect-src * data: blob: 'unsafe-inline' ; font-src * data: blob: 'unsafe-inline' ; frame-src * ;
+X-Azure-Ref: 20240310T022236Z-yb9sqf8b5t60fanpnyswst2sew0000000960000000004wf4
+Retry-Count: 0
+Last-Modified: Thu, 07 Mar 2024 06:28:32 GMT
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY

@@ -1,0 +1,17 @@
+200 OK
+Content-Type: text/html
+Retry-Count: 0
+Last-Modified: Thu, 07 Mar 2024 10:11:34 GMT
+Set-Cookie: ARRAffinity=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;Secure;Domain=herbalessences-th.com ARRAffinitySameSite=95ccd6b5613208bb856eeaeb4ccbf5865f45c915cc74182a8ab0bc584f9d916f;Path=/;HttpOnly;SameSite=None;Secure;Domain=herbalessences-th.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+X-Azure-Ref: 05RjtZQAAAAASJ1pgtWbwT5+o9Z6g9Mf0U0pDMjExMDUxMjAyMDQ5AGM0YTA1ZWFjLWE3MzAtNGI4Ny04Y2E5LTE5OGUwZWZlMTIxNQ==
+Date: Sun, 10 Mar 2024 02:20:21 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Etag: "04f21d57770da1:0"
+X-Frame-Options: DENY
+X-Xss-Protection: 1;mode=block
+Content-Security-Policy: default-src 'self' feed.pghub.io pandg.tapad.com ; script-src 'self' 'unsafe-inline' 'unsafe-eval' locate.pricespider.com api.tiles.mapbox.com pghub.io *.pricespider.com cdn.pricespider.com wtbevents.pricespider.com cdn.cookielaw.org *.iesnare.com connect.facebook.net *.crazyegg.com *.adsrvr.org *.bazaarvoice.com *.google-analytics.com *.googletagmanager.com blob: feed.pghub.io pandg.tapad.com ; style-src 'self' 'unsafe-inline' *.pricespider.com cdn.pricespider.com api.tiles.mapbox.com fonts.googleapis.com feed.pghub.io pandg.tapad.com ; media-src 'self' videos.ctfassets.net *.iesnare.com data: feed.pghub.io pandg.tapad.com ; img-src 'self' *.pricespider.com cdn.pricespider.com wwwassets.pricespider.com embeddedcloud.pricespider.com i.ytimg.com images.ctfassets.net pixel.tapad.com *.bazaarvoice.com *.google-analytics.com www.facebook.com *.googletagmanager.com data: feed.pghub.io pandg.tapad.com ; font-src 'self' fonts.gstatic.com feed.pghub.io pandg.tapad.com ; connect-src * ; frame-src 'self' www.youtube.com feed.pghub.io *.adsrvr.org *.doubleclick.net pandg.tapad.com *.jebbit.com consumersupport.pg.com pg-lex.my.salesforce-sites.com ct.pinterest.com www.facebook.com ; manifest-src * ;
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Cache: CONFIG_NOCACHE
